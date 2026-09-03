@@ -1,12 +1,6 @@
 {
-  "generation_id": "page-data-f96461c97b36-20260903T123311Z",
-  "incremental": {
-    "base_content_commit": "71493a9fb0184ece80b0c04548235896de5e244b",
-    "base_generation_id": "page-data-ec24fcf4539f-20260903T113652Z",
-    "carried_payload_count": 1460,
-    "removed_payload_count": 0,
-    "rendered_payload_count": 204534
-  },
+  "generation_id": "page-data-8881baebe6a3-20260903T152331Z",
+  "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
     "preview": {
@@ -38,10 +32,10 @@
   },
   "partial": null,
   "payload_count": 205994,
-  "predecessor": "71493a9fb0184ece80b0c04548235896de5e244b",
+  "predecessor": "2ca48b68c2446d48361162956b5b86941340b68c",
   "production_year_additions": [],
-  "repo_commit": "f96461c97b36f0a532cf3ad5efd5d5babd5b06c5",
-  "repo_dirty": true,
+  "repo_commit": "8881baebe6a39823222e121827f36248e83a71ff",
+  "repo_dirty": false,
   "restored_from": null,
   "route_counts": {
     "preview": {
