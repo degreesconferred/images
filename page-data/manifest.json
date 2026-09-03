@@ -1,18 +1,48 @@
 {
-  "generation_id": "page-data-3b43e0a39afd-20260903T001830Z",
+  "generation_id": "page-data-109115211c37-20260903T012754Z",
+  "generator_digest": "976264f82361fc3514ad3b44b18b253eb373173709fadcdfc053452d0f1465bd",
+  "incremental": null,
   "kind": "rolling_site_page_data",
+  "nav": {
+    "preview": {
+      "awards": 1199,
+      "before_chicago": 14,
+      "classes": 131,
+      "convocations": 649,
+      "exercises": 49,
+      "imprints": 4,
+      "locations": 27,
+      "people": 183825,
+      "processions": 617,
+      "schools": 21,
+      "speakers": 403
+    },
+    "production": {
+      "awards": 3,
+      "before_chicago": 14,
+      "classes": 2,
+      "convocations": 8,
+      "exercises": 17,
+      "imprints": 4,
+      "locations": 4,
+      "people": 208,
+      "processions": 7,
+      "schools": 3,
+      "speakers": 10
+    }
+  },
   "partial": null,
-  "payload_count": 197282,
-  "predecessor": "73fcabfd987210774f47cf90c576c7906cdb517e",
+  "payload_count": 197584,
+  "predecessor": "7ced3f0856fdd6e6aa789a1b212943b9a73a2fca",
   "production_year_additions": [],
-  "repo_commit": "3b43e0a39afdac455975463a5a08f4b7edf6c5be",
+  "repo_commit": "109115211c374646411227ea2cf744d084fe9dff",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
-      "award": 1196,
-      "class": 3151,
-      "person": 192693
+      "award": 1199,
+      "class": 3162,
+      "person": 192981
     },
     "production": {
       "award": 3,
