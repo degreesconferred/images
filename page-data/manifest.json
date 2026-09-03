@@ -1,18 +1,23 @@
 {
-  "generation_id": "page-data-109115211c37-20260903T012754Z",
-  "generator_digest": "976264f82361fc3514ad3b44b18b253eb373173709fadcdfc053452d0f1465bd",
-  "incremental": null,
+  "generation_id": "page-data-ca7c5e587b67-20260903T044838Z",
+  "incremental": {
+    "base_content_commit": "9f1bf5299a47c314f446e70c22a9465515cb4e7c",
+    "base_generation_id": "page-data-109115211c37-20260903T012754Z",
+    "carried_payload_count": 157373,
+    "removed_payload_count": 828,
+    "rendered_payload_count": 49630
+  },
   "kind": "rolling_site_page_data",
   "nav": {
     "preview": {
-      "awards": 1199,
+      "awards": 970,
       "before_chicago": 14,
       "classes": 131,
       "convocations": 649,
       "exercises": 49,
       "imprints": 4,
       "locations": 27,
-      "people": 183825,
+      "people": 191348,
       "processions": 617,
       "schools": 21,
       "speakers": 403
@@ -25,29 +30,31 @@
       "exercises": 17,
       "imprints": 4,
       "locations": 4,
-      "people": 208,
+      "people": 213,
       "processions": 7,
       "schools": 3,
       "speakers": 10
     }
   },
   "partial": null,
-  "payload_count": 197584,
-  "predecessor": "7ced3f0856fdd6e6aa789a1b212943b9a73a2fca",
+  "payload_count": 207003,
+  "predecessor": "9f1bf5299a47c314f446e70c22a9465515cb4e7c",
   "production_year_additions": [],
-  "repo_commit": "109115211c374646411227ea2cf744d084fe9dff",
+  "repo_commit": "ca7c5e587b675eec160183e0c92dd329d95550ab",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
-      "award": 1199,
-      "class": 3162,
-      "person": 192981
+      "award": 970,
+      "class": 3164,
+      "page": 2057,
+      "person": 200490
     },
     "production": {
       "award": 3,
       "class": 31,
-      "person": 208
+      "page": 75,
+      "person": 213
     }
   },
   "schema_version": 1,
