@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-b2b34e279b03-20260904T010926Z",
+  "generation_id": "page-data-b2b34e279b03-20260904T012316Z",
   "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
@@ -32,9 +32,21 @@
       "speakers": 10
     }
   },
-  "partial": null,
-  "payload_count": 223339,
-  "predecessor": "91f9e1330e8bd02671f3c5ebaebf348ed7245e0a",
+  "partial": {
+    "carried_payload_count": 219103,
+    "only_years": [
+      2004
+    ],
+    "rendered_payload_count": 4265,
+    "rendered_years_by_scope": {
+      "preview": [
+        2004
+      ],
+      "production": []
+    }
+  },
+  "payload_count": 223368,
+  "predecessor": "835c72a8ad0c1316b40aed355fc8f7158e5bd855",
   "production_year_additions": [],
   "repo_commit": "b2b34e279b034d57ca338c689993a8ed8da73cfb",
   "repo_dirty": true,
@@ -44,7 +56,7 @@
       "award": 4604,
       "class": 3257,
       "page": 2143,
-      "person": 212993
+      "person": 213022
     },
     "production": {
       "award": 6,
