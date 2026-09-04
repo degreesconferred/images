@@ -1,17 +1,18 @@
 {
-  "generation_id": "page-data-4ba3f2b17af1-20260903T171618Z",
+  "generation_id": "page-data-b2b34e279b03-20260904T010926Z",
   "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
     "preview": {
-      "awards": 970,
+      "awards": 1151,
       "before_chicago": 14,
       "classes": 131,
       "convocations": 649,
+      "degrees": 85,
       "exercises": 49,
       "imprints": 4,
       "locations": 27,
-      "people": 190393,
+      "people": 203590,
       "processions": 617,
       "schools": 21,
       "speakers": 403
@@ -21,6 +22,7 @@
       "before_chicago": 14,
       "classes": 2,
       "convocations": 8,
+      "degrees": 15,
       "exercises": 17,
       "imprints": 4,
       "locations": 4,
@@ -31,23 +33,23 @@
     }
   },
   "partial": null,
-  "payload_count": 205994,
-  "predecessor": "fb72bb8912ce10fa5b93ca840eb6d351ad20d8f3",
+  "payload_count": 223339,
+  "predecessor": "91f9e1330e8bd02671f3c5ebaebf348ed7245e0a",
   "production_year_additions": [],
-  "repo_commit": "4ba3f2b17af1b60a508a054874ddeb8ff5ab3121",
+  "repo_commit": "b2b34e279b034d57ca338c689993a8ed8da73cfb",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
-      "award": 970,
-      "class": 3180,
-      "page": 2057,
-      "person": 199465
+      "award": 4604,
+      "class": 3257,
+      "page": 2143,
+      "person": 212993
     },
     "production": {
-      "award": 3,
-      "class": 31,
-      "page": 75,
+      "award": 6,
+      "class": 32,
+      "page": 91,
       "person": 213
     }
   },
