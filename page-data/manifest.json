@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-1a52b9ca6384-20260904T032000Z",
+  "generation_id": "page-data-3d9bef2f2bed-20260904T155542Z",
   "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
@@ -33,30 +33,28 @@
     }
   },
   "partial": {
-    "carried_payload_count": 214426,
+    "carried_payload_count": 219103,
     "only_years": [
-      2004,
-      2012
+      2004
     ],
-    "rendered_payload_count": 8959,
+    "rendered_payload_count": 4281,
     "rendered_years_by_scope": {
       "preview": [
-        2004,
-        2012
+        2004
       ],
       "production": []
     }
   },
-  "payload_count": 223385,
-  "predecessor": "4458bac54f8af9be23ac8f21642102123903faf0",
+  "payload_count": 223384,
+  "predecessor": "bdb821bc752ee7c8756a96ff71e6246d966a0529",
   "production_year_additions": [],
-  "repo_commit": "1a52b9ca638458269378c526ddea2c990544acef",
+  "repo_commit": "3d9bef2f2bed8017cf1e373200d3b4e6b2a02084",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
       "award": 4604,
-      "class": 3257,
+      "class": 3256,
       "page": 2143,
       "person": 213039
     },
