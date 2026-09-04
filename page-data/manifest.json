@@ -1,18 +1,24 @@
 {
-  "generation_id": "page-data-3d9bef2f2bed-20260904T155542Z",
-  "incremental": null,
+  "generation_id": "page-data-1d2a87cb4f0a-20260904T170929Z",
+  "incremental": {
+    "base_content_commit": "b6aa401f39b4b4940a9ef7f2964fa7d2d26e4ebd",
+    "base_generation_id": "page-data-3d9bef2f2bed-20260904T155542Z",
+    "carried_payload_count": 162480,
+    "removed_payload_count": 108,
+    "rendered_payload_count": 79546
+  },
   "kind": "rolling_site_page_data",
   "nav": {
     "preview": {
-      "awards": 1151,
+      "awards": 1239,
       "before_chicago": 14,
       "classes": 131,
       "convocations": 649,
-      "degrees": 85,
+      "degrees": 61,
       "exercises": 49,
       "imprints": 4,
       "locations": 27,
-      "people": 203590,
+      "people": 220969,
       "processions": 617,
       "schools": 21,
       "speakers": 403
@@ -22,7 +28,7 @@
       "before_chicago": 14,
       "classes": 2,
       "convocations": 8,
-      "degrees": 15,
+      "degrees": 12,
       "exercises": 17,
       "imprints": 4,
       "locations": 4,
@@ -32,36 +38,24 @@
       "speakers": 10
     }
   },
-  "partial": {
-    "carried_payload_count": 219103,
-    "only_years": [
-      2004
-    ],
-    "rendered_payload_count": 4281,
-    "rendered_years_by_scope": {
-      "preview": [
-        2004
-      ],
-      "production": []
-    }
-  },
-  "payload_count": 223384,
-  "predecessor": "bdb821bc752ee7c8756a96ff71e6246d966a0529",
+  "partial": null,
+  "payload_count": 242026,
+  "predecessor": "b6aa401f39b4b4940a9ef7f2964fa7d2d26e4ebd",
   "production_year_additions": [],
-  "repo_commit": "3d9bef2f2bed8017cf1e373200d3b4e6b2a02084",
+  "repo_commit": "1d2a87cb4f0a46b38a2dec6e6ee1a51de7260241",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
-      "award": 4604,
-      "class": 3256,
-      "page": 2143,
-      "person": 213039
+      "award": 5889,
+      "class": 3234,
+      "page": 2119,
+      "person": 230445
     },
     "production": {
       "award": 6,
       "class": 32,
-      "page": 91,
+      "page": 88,
       "person": 213
     }
   },
