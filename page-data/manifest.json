@@ -1,27 +1,28 @@
 {
-  "generation_id": "page-data-9b1268c0ff66-20260905T073710Z",
+  "generation_id": "page-data-08b27e211d02-20260905T184723Z",
   "incremental": {
-    "base_content_commit": "d5266297129d03399bea8e1350e1068a5da36158",
-    "base_generation_id": "page-data-0ad0c7741085-20260905T045431Z",
-    "carried_payload_count": 218448,
-    "removed_payload_count": 113,
-    "rendered_payload_count": 23673
+    "base_content_commit": "f5de44cfd2ab15f4591aec38d6ecf0e2e9d98bbb",
+    "base_generation_id": "page-data-9b1268c0ff66-20260905T073710Z",
+    "carried_payload_count": 213669,
+    "removed_payload_count": 93,
+    "rendered_payload_count": 29815
   },
   "kind": "rolling_site_page_data",
   "nav": {
     "preview": {
-      "awards": 1242,
+      "awards": 1244,
       "before_chicago": 14,
       "classes": 131,
       "convocations": 649,
-      "degrees": 60,
+      "degrees": 53,
       "exercises": 49,
+      "fields": 1051,
       "imprints": 4,
       "locations": 27,
-      "people": 220969,
+      "people": 221316,
       "processions": 617,
       "schools": 20,
-      "speakers": 503
+      "speakers": 501
     },
     "production": {
       "awards": 3,
@@ -30,6 +31,7 @@
       "convocations": 8,
       "degrees": 12,
       "exercises": 18,
+      "fields": 1,
       "imprints": 4,
       "locations": 4,
       "people": 213,
@@ -39,23 +41,23 @@
     }
   },
   "partial": null,
-  "payload_count": 242121,
-  "predecessor": "d5266297129d03399bea8e1350e1068a5da36158",
+  "payload_count": 243484,
+  "predecessor": "f5de44cfd2ab15f4591aec38d6ecf0e2e9d98bbb",
   "production_year_additions": [],
-  "repo_commit": "9b1268c0ff66e8c0391920c5a179e10abad8d824",
+  "repo_commit": "08b27e211d02290c3e5db8151e1c2e7e797fb135",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
     "preview": {
-      "award": 5891,
-      "class": 3231,
-      "page": 2213,
-      "person": 230445
+      "award": 5900,
+      "class": 3169,
+      "page": 3254,
+      "person": 230818
     },
     "production": {
       "award": 6,
       "class": 32,
-      "page": 90,
+      "page": 92,
       "person": 213
     }
   },
