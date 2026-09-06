@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-a683d9a8bdab-20260906T010504Z",
+  "generation_id": "page-data-ae61746d208c-20260906T012336Z",
   "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
@@ -35,30 +35,24 @@
     }
   },
   "partial": {
-    "carried_payload_count": 232724,
+    "carried_payload_count": 238537,
     "only_years": [
-      1981,
-      1982,
-      1983,
-      1984,
-      1985
+      1986,
+      1987
     ],
-    "rendered_payload_count": 10760,
+    "rendered_payload_count": 4947,
     "rendered_years_by_scope": {
       "preview": [
-        1981,
-        1982,
-        1983,
-        1984,
-        1985
+        1986,
+        1987
       ],
       "production": []
     }
   },
   "payload_count": 243484,
-  "predecessor": "6b4add3cd0e394a1d7f0bfca38841302e0e17e63",
+  "predecessor": "78b7f5153ea8f49e46067b516bf7be3b0154c269",
   "production_year_additions": [],
-  "repo_commit": "a683d9a8bdabeb47f167f506a5f777966653d5fe",
+  "repo_commit": "ae61746d208cf9b3b18ac971cf0a5f1c6db88a6a",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
