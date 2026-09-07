@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-4d53d19595c0-20260907T101012Z",
+  "generation_id": "page-data-e55ca96aa061-20260907T104848Z",
   "incremental": null,
   "kind": "rolling_site_page_data",
   "nav": {
@@ -35,22 +35,22 @@
     }
   },
   "partial": {
-    "carried_payload_count": 297215,
+    "carried_payload_count": 297153,
     "only_years": [
-      1995
+      1996
     ],
-    "rendered_payload_count": 3345,
+    "rendered_payload_count": 3603,
     "rendered_years_by_scope": {
       "preview": [
-        1995
+        1996
       ],
       "production": []
     }
   },
-  "payload_count": 300560,
-  "predecessor": "06e2850eb75bd317df0274dd323cf788096f8009",
+  "payload_count": 300756,
+  "predecessor": "92a5037665598b34df33cb4c53c57b9ee06ea3fc",
   "production_year_additions": [],
-  "repo_commit": "4d53d19595c0cb3a72fb00486a7794d87838d0dc",
+  "repo_commit": "e55ca96aa061c13df14e6b21cecdd9103ed31559",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
@@ -58,7 +58,7 @@
       "award": 6452,
       "class": 3214,
       "page": 3382,
-      "person": 287169
+      "person": 287365
     },
     "production": {
       "award": 6,
