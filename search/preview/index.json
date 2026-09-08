@@ -1,0 +1,37 @@
+{
+  "scope": "preview",
+  "people": 286312,
+  "dropped": [
+    {
+      "person_id": "person_6bETSqd0Ql-FgYMd1K3NTA",
+      "year": 2004,
+      "slug": "elizabeth-helen-blackburn",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_meyHnmXbSkuhYHfSfgKidA",
+      "year": 2004,
+      "slug": "edgar-d-jannotta",
+      "reason": "no name in any projection"
+    }
+  ],
+  "shards": 465,
+  "bytes": 50571794,
+  "largest_shard": {
+    "key": "ma",
+    "bytes": 2310302,
+    "rows": 35420
+  },
+  "generation": {
+    "content_commit": "e1a492e2d3fe33cad46da9af1fea04524dca2122",
+    "generation_id": "page-data-a6ede306ae17-20260907T132006Z",
+    "source": "page-data/current.json"
+  },
+  "token_min": 2,
+  "row": [
+    "display_name",
+    "home_year",
+    "slug",
+    "credentials"
+  ]
+}
