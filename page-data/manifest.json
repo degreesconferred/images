@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-2f152e23db7a-20260912T205853Z",
+  "generation_id": "page-data-2f152e23db7a-20260912T214637Z",
   "incremental": null,
   "inputs": {
     "cache/site-data/degree-overlays/2004/award-records.jsonl": "0f4bc10d7fe15fd2e36ef465ebbef731d4d555379f5d6bd08924f8758d848552",
@@ -101,7 +101,7 @@
     "data/identity/people/57.jsonl": "44e1cc902336aafc0bd1161bebae2d618b5fc9da8ff4ff067d791fb487a3d5dc",
     "data/identity/people/58.jsonl": "dd903e0888ceec0b3c75db37759c80dc4afdfa1a15854e6ccc81c90fce1f5614",
     "data/identity/people/59.jsonl": "a082bab72f7e7c6f597270e403a6fa28e49b6aad9ecc905785665ee632380cf9",
-    "data/identity/people/5a.jsonl": "058f4c83cfaf67eb41c2daac55be00228856c4ceabd3d970540203809a7d7a9e",
+    "data/identity/people/5a.jsonl": "6f9b65539ea63f283d8fd78e2a71037d09e31808f432e742dba65881cf3338f6",
     "data/identity/people/5b.jsonl": "bcd05c353076f59651173a72423dbdeb484a94f9130eb52c118105eace92b773",
     "data/identity/people/5c.jsonl": "cba7935c2fe1857a56dc666dd2da38cdb058074cf1c6174712c76ab1aec679fd",
     "data/identity/people/5d.jsonl": "a16829d28acc06c251012b4ff52553337f4285d12894b748475912b170b4983c",
@@ -3085,7 +3085,15 @@
     "output/site/crops-manifest-shards/mvol-0447-2006-0825.jsonl": "5b05353426ea904567353ff7f821b9620a202f31ba8f3a532c981dcfbfa9ce73",
     "output/site/crops-manifest-shards/mvol-0447-2006-1027.jsonl": "bbcae4784ca31fda675c67dee946dbeefe7a5ac33f4ab26eb9c9dd4f249c8be5",
     "output/site/crops-manifest-shards/mvol-0447-2006-1208.jsonl": "843aa3ba851d05ce6436c5de60648292a2f5272d8923764135a0c3a9770fa176",
-    "output/site/crops-manifest.json": "f4200279fb544678a058e00769fbea39c05b738567d9f1b840e3f7e3424b766e"
+    "output/site/crops-manifest-shards/mvol-0447-2007-0316.jsonl": "1041533f849af32542342cc7ba4636ec6338b42f323e1b00cfb77d8084ac3bf8",
+    "output/site/crops-manifest-shards/mvol-0447-2007-0608.jsonl": "7307e0549163adc76270e41b1a93f23e823012be4c386fce8873e2b213bcde58",
+    "output/site/crops-manifest-shards/mvol-0447-2007-0824.jsonl": "c60a96d09668beaa6a0ef54791ea01d2be719e985f820126fe7516fa28dd8272",
+    "output/site/crops-manifest-shards/mvol-0447-2007-1207.jsonl": "fb9d1c58d730b7a8d5a1b265aac8a4ca80b32de739f7e1673aa4612c4a15646c",
+    "output/site/crops-manifest-shards/mvol-0447-2008-0321.jsonl": "ef97bfb508ae6f99519203a0ee2179eb607b02d9415e924afc5266ca1ef420df",
+    "output/site/crops-manifest-shards/mvol-0447-2008-0613.jsonl": "f3116a8e30f0da714339099469aebcf1dfe5c8e1e0959a469d85ebda6791bbc3",
+    "output/site/crops-manifest-shards/mvol-0447-2008-0829.jsonl": "9ad630b1d74d5292e27b13751c0a8fa7a21c9b56bc83ebfa156b43f8a8dddac0",
+    "output/site/crops-manifest-shards/mvol-0447-2008-1212.jsonl": "cd09f6bdec176fd4d7e68c256647787de773197a4a3531136ef6e3bd59ccacc9",
+    "output/site/crops-manifest.json": "7b09461dc60be42dfded368e93c60866befc8faeb7420c1988c5e69941c6e7c1"
   },
   "kind": "rolling_site_page_data",
   "nav": {
@@ -3121,20 +3129,24 @@
     }
   },
   "partial": {
-    "carried_payload_count": 310491,
+    "carried_payload_count": 301199,
     "only_years": [
-      2006
+      2004,
+      2007,
+      2008
     ],
-    "rendered_payload_count": 4607,
+    "rendered_payload_count": 13899,
     "rendered_years_by_scope": {
       "preview": [
-        2006
+        2004,
+        2007,
+        2008
       ],
       "production": []
     }
   },
   "payload_count": 315098,
-  "predecessor": "87f619be79550caa250373ccc13a02252a27f80b",
+  "predecessor": "827b04572242c27643116aa32b4e2afcb338bec4",
   "production_year_additions": [],
   "repo_commit": "2f152e23db7af526e498b9d2cf1f0ecbc26a1bb2",
   "repo_dirty": true,
