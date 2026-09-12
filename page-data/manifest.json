@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-c43ea2592047-20260912T195718Z",
+  "generation_id": "page-data-2f152e23db7a-20260912T205853Z",
   "incremental": null,
   "inputs": {
     "cache/site-data/degree-overlays/2004/award-records.jsonl": "0f4bc10d7fe15fd2e36ef465ebbef731d4d555379f5d6bd08924f8758d848552",
@@ -3072,15 +3072,20 @@
     "output/site/crops-manifest-shards/mvol-0447-2003-0613.jsonl": "a405e7955bb29802b4f076c7b1a50d7d161b77effeb2ce88882f61c89c11d412",
     "output/site/crops-manifest-shards/mvol-0447-2003-0829.jsonl": "c414e2cfa596dfc8a83eeea6c08c0ea253ef73cee49e67d7e4fe822d721bb8d1",
     "output/site/crops-manifest-shards/mvol-0447-2003-1212.jsonl": "39aec73c81b2f91a9908457683b9ca94be041ff646495bd01e5d1f6653b24baa",
-    "output/site/crops-manifest-shards/mvol-0447-2004-0319.jsonl": "0374c7ac563fb7d30796c5b99bace503273c43b5be608f06ec0cc8bc94ad34ac",
-    "output/site/crops-manifest-shards/mvol-0447-2004-0611.jsonl": "8ec6805be85e05176dc667f7f4b99259ffed3799f7b9ad9be78d5f2f727eba93",
-    "output/site/crops-manifest-shards/mvol-0447-2004-0827.jsonl": "c9fd5d9d41a7a5db55313be8d7f6c2b9720f1e069b936bc6d3d17557ec86985e",
-    "output/site/crops-manifest-shards/mvol-0447-2004-1210.jsonl": "c6b556d6e59f3377385425a19fb5a25d1a00749cb71fdd7ee05ad788cb568820",
+    "output/site/crops-manifest-shards/mvol-0447-2004-0319.jsonl": "9813cd0198e9d37cc303a82893d83f81a01b5c5025be562180b88726631dc065",
+    "output/site/crops-manifest-shards/mvol-0447-2004-0611.jsonl": "67dad48780ac273af23afdb8e20dfb48c501cecb0dec194c1e2b1c2660926302",
+    "output/site/crops-manifest-shards/mvol-0447-2004-0827.jsonl": "7988ff765262461feb2694e25968c913484bf5bf707a2be7d981b9a530f34231",
+    "output/site/crops-manifest-shards/mvol-0447-2004-1210.jsonl": "81f2ec5bfcbbd7501968ceeb2feeaee76287dbca54a46c31f1e3cd497b4f7b8f",
     "output/site/crops-manifest-shards/mvol-0447-2005-0318.jsonl": "9d4cfbb2394eaa79fad6adb2ce5ed4ef041b1f3faca2b6b445fc59e78f9a83fe",
     "output/site/crops-manifest-shards/mvol-0447-2005-0610.jsonl": "0cb9f6ac4feb48016174eb65e69f298eb9ea2129b0bebf28b7b9f858138d35e2",
     "output/site/crops-manifest-shards/mvol-0447-2005-0826.jsonl": "9d0692772fa86f5eda968c96837c8e1aeb548e8a6cbf9a9133416924edc70fc7",
     "output/site/crops-manifest-shards/mvol-0447-2005-1209.jsonl": "2ee1f8d535c62ebfc4b0f6de097481c3f5c55dfc0fc6edd87757dd188608051a",
-    "output/site/crops-manifest.json": "876df621eccd7a73c26a4f0ce735ee9849c70a78cbcfecf07390fe4fba7d079a"
+    "output/site/crops-manifest-shards/mvol-0447-2006-0317.jsonl": "52c43f23c5bea4c0e5eb97d0f7d56cc8c6e6a0987d7c308cf5f28629095a9440",
+    "output/site/crops-manifest-shards/mvol-0447-2006-0609.jsonl": "3678af01d01d1e5114313f51c81dfc45d1a9a8961dc31807c023ec16754ef3f8",
+    "output/site/crops-manifest-shards/mvol-0447-2006-0825.jsonl": "5b05353426ea904567353ff7f821b9620a202f31ba8f3a532c981dcfbfa9ce73",
+    "output/site/crops-manifest-shards/mvol-0447-2006-1027.jsonl": "bbcae4784ca31fda675c67dee946dbeefe7a5ac33f4ab26eb9c9dd4f249c8be5",
+    "output/site/crops-manifest-shards/mvol-0447-2006-1208.jsonl": "843aa3ba851d05ce6436c5de60648292a2f5272d8923764135a0c3a9770fa176",
+    "output/site/crops-manifest.json": "f4200279fb544678a058e00769fbea39c05b738567d9f1b840e3f7e3424b766e"
   },
   "kind": "rolling_site_page_data",
   "nav": {
@@ -3116,24 +3121,22 @@
     }
   },
   "partial": {
-    "carried_payload_count": 306724,
+    "carried_payload_count": 310491,
     "only_years": [
-      2002,
-      2003
+      2006
     ],
-    "rendered_payload_count": 8374,
+    "rendered_payload_count": 4607,
     "rendered_years_by_scope": {
       "preview": [
-        2002,
-        2003
+        2006
       ],
       "production": []
     }
   },
   "payload_count": 315098,
-  "predecessor": "7e5760ce67b35100551838d53f93d7257083c55a",
+  "predecessor": "87f619be79550caa250373ccc13a02252a27f80b",
   "production_year_additions": [],
-  "repo_commit": "c43ea25920477762f815df996cdb3ae832abff4a",
+  "repo_commit": "2f152e23db7af526e498b9d2cf1f0ecbc26a1bb2",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
