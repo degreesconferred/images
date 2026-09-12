@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-c43ea2592047-20260912T185452Z",
+  "generation_id": "page-data-c43ea2592047-20260912T195718Z",
   "incremental": null,
   "inputs": {
     "cache/site-data/degree-overlays/2004/award-records.jsonl": "0f4bc10d7fe15fd2e36ef465ebbef731d4d555379f5d6bd08924f8758d848552",
@@ -3064,8 +3064,14 @@
     "output/site/crops-manifest-shards/mvol-0447-2001-0608.jsonl": "b99f262b08285eacf96425e3bb0d6bbf311f2210ffb220635a5e2eddbe10f9b9",
     "output/site/crops-manifest-shards/mvol-0447-2001-0824.jsonl": "cd3aa23981139e040fc4f7ddbe2d2a2a983f80c1e0aa3e4637bc4cb53ee1d461",
     "output/site/crops-manifest-shards/mvol-0447-2001-1207.jsonl": "b5342cc3bacbeba7c38e147b76cb6fee620ae4a4804fb3c451c80427828f4d3a",
-    "output/site/crops-manifest-shards/mvol-0447-2003-0613.jsonl": "61999236ba595b0669da252919e74f4be95a48ed5fe181b315176993e63d1fa5",
-    "output/site/crops-manifest-shards/mvol-0447-2003-0829.jsonl": "497c2fe30c0811746ecae110f4f87dae1814de0c6ba494f5fb9fa47dba5ef7ad",
+    "output/site/crops-manifest-shards/mvol-0447-2002-0315.jsonl": "cb0ee0e53a815c2f3778c0098646eb02f2000053f0c70add2f5cf085d82f4ac3",
+    "output/site/crops-manifest-shards/mvol-0447-2002-0707.jsonl": "523e17e65514922bd7c4a79c2a4b476270b5abedc1ca10d6eccd6bd4ba0faa61",
+    "output/site/crops-manifest-shards/mvol-0447-2002-0813.jsonl": "ca9724a368d35a38dd44d65038e0bd0e5de83fcb32d56641a2ddb451ba6bca22",
+    "output/site/crops-manifest-shards/mvol-0447-2002-1213.jsonl": "b15ab2b19bd8e1e4da6959616703342a90e2d47fa4dde66587ae1ae3e9690b1b",
+    "output/site/crops-manifest-shards/mvol-0447-2003-0321.jsonl": "bcec36d141e329a4b4a74f65d4ef03fffcfa22f9691e2a3ef80c5878d0caa55d",
+    "output/site/crops-manifest-shards/mvol-0447-2003-0613.jsonl": "a405e7955bb29802b4f076c7b1a50d7d161b77effeb2ce88882f61c89c11d412",
+    "output/site/crops-manifest-shards/mvol-0447-2003-0829.jsonl": "c414e2cfa596dfc8a83eeea6c08c0ea253ef73cee49e67d7e4fe822d721bb8d1",
+    "output/site/crops-manifest-shards/mvol-0447-2003-1212.jsonl": "39aec73c81b2f91a9908457683b9ca94be041ff646495bd01e5d1f6653b24baa",
     "output/site/crops-manifest-shards/mvol-0447-2004-0319.jsonl": "0374c7ac563fb7d30796c5b99bace503273c43b5be608f06ec0cc8bc94ad34ac",
     "output/site/crops-manifest-shards/mvol-0447-2004-0611.jsonl": "8ec6805be85e05176dc667f7f4b99259ffed3799f7b9ad9be78d5f2f727eba93",
     "output/site/crops-manifest-shards/mvol-0447-2004-0827.jsonl": "c9fd5d9d41a7a5db55313be8d7f6c2b9720f1e069b936bc6d3d17557ec86985e",
@@ -3074,7 +3080,7 @@
     "output/site/crops-manifest-shards/mvol-0447-2005-0610.jsonl": "0cb9f6ac4feb48016174eb65e69f298eb9ea2129b0bebf28b7b9f858138d35e2",
     "output/site/crops-manifest-shards/mvol-0447-2005-0826.jsonl": "9d0692772fa86f5eda968c96837c8e1aeb548e8a6cbf9a9133416924edc70fc7",
     "output/site/crops-manifest-shards/mvol-0447-2005-1209.jsonl": "2ee1f8d535c62ebfc4b0f6de097481c3f5c55dfc0fc6edd87757dd188608051a",
-    "output/site/crops-manifest.json": "a152133487bfe6e16ebd91b836989cfe2c24ebc82c33f1ed82a35c86734d223e"
+    "output/site/crops-manifest.json": "876df621eccd7a73c26a4f0ce735ee9849c70a78cbcfecf07390fe4fba7d079a"
   },
   "kind": "rolling_site_page_data",
   "nav": {
@@ -3110,22 +3116,22 @@
     }
   },
   "partial": {
-    "carried_payload_count": 306771,
+    "carried_payload_count": 306724,
     "only_years": [
-      2000,
-      2001
+      2002,
+      2003
     ],
-    "rendered_payload_count": 8327,
+    "rendered_payload_count": 8374,
     "rendered_years_by_scope": {
       "preview": [
-        2000,
-        2001
+        2002,
+        2003
       ],
       "production": []
     }
   },
   "payload_count": 315098,
-  "predecessor": "396ad31681406f05649b73298520941e5aaa8ff9",
+  "predecessor": "7e5760ce67b35100551838d53f93d7257083c55a",
   "production_year_additions": [],
   "repo_commit": "c43ea25920477762f815df996cdb3ae832abff4a",
   "repo_dirty": true,
