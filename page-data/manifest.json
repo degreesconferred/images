@@ -1,5 +1,5 @@
 {
-  "generation_id": "page-data-c43ea2592047-20260912T174640Z",
+  "generation_id": "page-data-c43ea2592047-20260912T185452Z",
   "incremental": null,
   "inputs": {
     "cache/site-data/degree-overlays/2004/award-records.jsonl": "0f4bc10d7fe15fd2e36ef465ebbef731d4d555379f5d6bd08924f8758d848552",
@@ -3052,6 +3052,18 @@
     "output/site/crops-manifest-shards/mvol-0447-1999-0613.jsonl": "17331c07ea23860a145f9ca347d0ee038a1c13a4bf45b639288930c0ebec9f81",
     "output/site/crops-manifest-shards/mvol-0447-1999-0827.jsonl": "9623cbfa6a1ee0b652605f27af3552b7da0b26c8c23e605807b75b5fb6203e05",
     "output/site/crops-manifest-shards/mvol-0447-1999-1210.jsonl": "b26ba8e617176d8f80160f38627f64576f164879fe53a1232e995f9b7b8668df",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0317.jsonl": "4680faf713b6aefbb3c88f78ff79b2deb0b4561964c6fb48193ebe50d95289fb",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0609-01.jsonl": "cd1aca8b257682b944e1f2dc185ccdc1baac728e2fe8f387a53370b96448af19",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0609-02.jsonl": "af21f89635b97508f3c19cfc5f29575563a2d80812e2ef705e9e8adfde7b3ed0",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0610.jsonl": "b1e6867e5b4831aef2b916a6fb12b74ccba64c94082e01e36a67b6dd5c82ad99",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0611.jsonl": "299b9d958a238f7949a132f07e28e8750f228ddf64a82d3b6761a07aba5b019c",
+    "output/site/crops-manifest-shards/mvol-0447-2000-0825.jsonl": "f7f3819c6344d2bb3b2a23dab1778e8e65bb06961046b6290e966d2eb4f68beb",
+    "output/site/crops-manifest-shards/mvol-0447-2000-1102.jsonl": "f45173c920d2fc433c4cd976ee528f882f8f56feecfae9e090988343761e081a",
+    "output/site/crops-manifest-shards/mvol-0447-2000-1208.jsonl": "d4ab086bb9a2b365f59ecf2272fbfdfad2772ffe64eb192f8a6dab019e7a0be9",
+    "output/site/crops-manifest-shards/mvol-0447-2001-0316.jsonl": "4f2092850a950e9bf4fd99075a56b7c76559eb81a1804b49e34f17ca02ac7174",
+    "output/site/crops-manifest-shards/mvol-0447-2001-0608.jsonl": "b99f262b08285eacf96425e3bb0d6bbf311f2210ffb220635a5e2eddbe10f9b9",
+    "output/site/crops-manifest-shards/mvol-0447-2001-0824.jsonl": "cd3aa23981139e040fc4f7ddbe2d2a2a983f80c1e0aa3e4637bc4cb53ee1d461",
+    "output/site/crops-manifest-shards/mvol-0447-2001-1207.jsonl": "b5342cc3bacbeba7c38e147b76cb6fee620ae4a4804fb3c451c80427828f4d3a",
     "output/site/crops-manifest-shards/mvol-0447-2003-0613.jsonl": "61999236ba595b0669da252919e74f4be95a48ed5fe181b315176993e63d1fa5",
     "output/site/crops-manifest-shards/mvol-0447-2003-0829.jsonl": "497c2fe30c0811746ecae110f4f87dae1814de0c6ba494f5fb9fa47dba5ef7ad",
     "output/site/crops-manifest-shards/mvol-0447-2004-0319.jsonl": "0374c7ac563fb7d30796c5b99bace503273c43b5be608f06ec0cc8bc94ad34ac",
@@ -3062,7 +3074,7 @@
     "output/site/crops-manifest-shards/mvol-0447-2005-0610.jsonl": "0cb9f6ac4feb48016174eb65e69f298eb9ea2129b0bebf28b7b9f858138d35e2",
     "output/site/crops-manifest-shards/mvol-0447-2005-0826.jsonl": "9d0692772fa86f5eda968c96837c8e1aeb548e8a6cbf9a9133416924edc70fc7",
     "output/site/crops-manifest-shards/mvol-0447-2005-1209.jsonl": "2ee1f8d535c62ebfc4b0f6de097481c3f5c55dfc0fc6edd87757dd188608051a",
-    "output/site/crops-manifest.json": "0a12585232d2515dc94cce7e9140b2a1366a6828744020ae988ca63cf63503c8"
+    "output/site/crops-manifest.json": "a152133487bfe6e16ebd91b836989cfe2c24ebc82c33f1ed82a35c86734d223e"
   },
   "kind": "rolling_site_page_data",
   "nav": {
@@ -3098,20 +3110,22 @@
     }
   },
   "partial": {
-    "carried_payload_count": 310764,
+    "carried_payload_count": 306771,
     "only_years": [
-      2005
+      2000,
+      2001
     ],
-    "rendered_payload_count": 4334,
+    "rendered_payload_count": 8327,
     "rendered_years_by_scope": {
       "preview": [
-        2005
+        2000,
+        2001
       ],
       "production": []
     }
   },
   "payload_count": 315098,
-  "predecessor": "24c274d2177f981991ef7d4fbed5248eeb6863eb",
+  "predecessor": "396ad31681406f05649b73298520941e5aaa8ff9",
   "production_year_additions": [],
   "repo_commit": "c43ea25920477762f815df996cdb3ae832abff4a",
   "repo_dirty": true,
