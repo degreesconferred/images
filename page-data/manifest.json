@@ -1,8 +1,8 @@
 {
-  "generation_id": "page-data-83dc072958de-20260915T010957Z-768bfe33",
+  "generation_id": "page-data-83dc072958de-20260915T011302Z-8910878f",
   "incremental": {
-    "base_content_commit": "923f6e332aa6ad495c0ea655f47fae1d5222efa0",
-    "base_generation_id": "page-data-f46ad8194da0-20260915T003750Z-df289317",
+    "base_content_commit": "9f69e3c23b3858d8c50e50ae55501c6a17febf53",
+    "base_generation_id": "page-data-f46ad8194da0-20260915T005909Z-2df247c4",
     "carried_payload_count": 0,
     "removed_payload_count": 0,
     "rendered_payload_count": 1
@@ -3733,8 +3733,8 @@
     }
   },
   "partial": null,
-  "payload_count": 315099,
-  "predecessor": "9f69e3c23b3858d8c50e50ae55501c6a17febf53",
+  "payload_count": 315100,
+  "predecessor": "84a2f6586b2323be0625bb5578ed635cbfc06c64",
   "production_year_additions": [],
   "repo_commit": "83dc072958de1fcee1dd6bc3b14843f2a4c50896",
   "repo_dirty": true,
@@ -3744,7 +3744,7 @@
       "award": 8140,
       "class": 3174,
       "page": 3457,
-      "person": 299981
+      "person": 299982
     },
     "production": {
       "award": 6,
