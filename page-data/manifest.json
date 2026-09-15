@@ -1,11 +1,11 @@
 {
-  "generation_id": "page-data-f46ad8194da0-20260915T005909Z-2df247c4",
+  "generation_id": "page-data-83dc072958de-20260915T010957Z-768bfe33",
   "incremental": {
     "base_content_commit": "923f6e332aa6ad495c0ea655f47fae1d5222efa0",
     "base_generation_id": "page-data-f46ad8194da0-20260915T003750Z-df289317",
     "carried_payload_count": 0,
     "removed_payload_count": 0,
-    "rendered_payload_count": 30
+    "rendered_payload_count": 1
   },
   "inputs": {
     "cache/site-data/degree-overlays/2004/award-records.jsonl": "0f4bc10d7fe15fd2e36ef465ebbef731d4d555379f5d6bd08924f8758d848552",
@@ -3733,10 +3733,10 @@
     }
   },
   "partial": null,
-  "payload_count": 315098,
-  "predecessor": "923f6e332aa6ad495c0ea655f47fae1d5222efa0",
+  "payload_count": 315099,
+  "predecessor": "9f69e3c23b3858d8c50e50ae55501c6a17febf53",
   "production_year_additions": [],
-  "repo_commit": "f46ad8194da019b218bda7795f22217a57e5fca6",
+  "repo_commit": "83dc072958de1fcee1dd6bc3b14843f2a4c50896",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
@@ -3744,7 +3744,7 @@
       "award": 8140,
       "class": 3174,
       "page": 3457,
-      "person": 299980
+      "person": 299981
     },
     "production": {
       "award": 6,
@@ -3760,152 +3760,7 @@
     "authorized_routes": [
       {
         "family": "person",
-        "route": "/preview/1987/elizabeth-roach",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1987/john-lewis-bohn",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1987/karen-e-anderson",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/adam-david-shepard",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/brandon-charles-look",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/charles-mueller",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/david-l-feige",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/donald-alan-krueger",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/elizabeth-roach",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/gail-anne-martin",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/gerard-joseph-marek",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/james-bonebrake",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/jeffrey-charles-groulx",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/john-lewis-bohn",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/john-william-wallace",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/judith-j-helms",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/karen-e-anderson",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/karen-schrader",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/kartik-kalyan-raman",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/linda-elizabeth-prince",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/lorene-elaine-rutherford",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/mirza-qader-baig",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/paul-w-okel",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/robert-edward-draba",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/thomas-m-redburg",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1988/william-henry-wentz",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1989/adam-david-shepard",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1989/gerard-joseph-marek",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1989/linda-elizabeth-prince",
-        "scope": "preview"
-      },
-      {
-        "family": "person",
-        "route": "/preview/1990/adam-david-shepard",
+        "route": "/preview/1981/pradip-kumar-sen",
         "scope": "preview"
       }
     ],
