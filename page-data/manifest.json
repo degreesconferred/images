@@ -16,7 +16,7 @@
     "data/identity/people/05.jsonl": "04a177fb6e0008f527a56a00437cf8f8d44728a9cc1b43b8712d6524a3335088",
     "data/identity/people/06.jsonl": "207b211d5586e02fa6e4b909de36337c4e7a27be738fec9d3f9a4a3b054b8efd",
     "data/identity/people/07.jsonl": "78d83a8202ad85eb5f025692f4994b89aec56c3ae38f38605da9fa66857b0589",
-    "data/identity/people/08.jsonl": "5c5e47c68916373a468c377af17c009ec28cc613065f973aae8338620024ac25",
+    "data/identity/people/08.jsonl": "bc7fe33a8d25df58b598fa1743162c605ab154e9bab8647d961d0dc2058b8ae4",
     "data/identity/people/09.jsonl": "3e470c0fee95c5b972a8f3b4bab84f52bb2d5e6c6db8b92fcca9c9c5a586772c",
     "data/identity/people/0a.jsonl": "9359328fb5d81c4aaadd86f1e6c4eafe262e38abfc068158be477c53589f4efc",
     "data/identity/people/0b.jsonl": "be074296520e310e2ddac9f923a4dfca991e9e54ae4325a55d928141255de355",
@@ -35,7 +35,7 @@
     "data/identity/people/18.jsonl": "656363f2f8d34f86463116cd2b56bbbb488c9b8dd98bdc214f1e8df1c22134b0",
     "data/identity/people/19.jsonl": "9b7ecdb279f94e8aef3624f0dc1641dc7e35c59a5429eda66b4964455ae3719b",
     "data/identity/people/1a.jsonl": "170448e23c7f5a511b5053df0b1a86efdcc0a6cff381ba3f62be790919dcc7d3",
-    "data/identity/people/1b.jsonl": "03cf195f3490efadd2f8906deb7213cc36ecdad52a933007eef473f74f5cfec0",
+    "data/identity/people/1b.jsonl": "ff15a89e8b30517f94501ec1e32b2fc0df28482fc8a208ec003ec062f7e4ec5d",
     "data/identity/people/1c.jsonl": "fbdc81525b596b2e8f882c314bfeb0b7d44e1562d434b434ea27a3f8c436b1f9",
     "data/identity/people/1d.jsonl": "970586aeade35836f42a76bc203d261ef2edb8a9c317b0b53f55492453bd1102",
     "data/identity/people/1e.jsonl": "e65e63ef9117fd0ff63474ab8cdd01d6427539bf6803152a606d85d0dd4bef86",
@@ -75,7 +75,7 @@
     "data/identity/people/40.jsonl": "4d7d54cc11d6b3f754d81eb238c98d701427838c26dd5af5c825260aff054e6e",
     "data/identity/people/41.jsonl": "0dbc715a5aaf9050b47e87d18113bcc8ec2297b036ca6a0b96dbcbc61966cf5d",
     "data/identity/people/42.jsonl": "f774514a1edeb6cf77471f445767c57b324c8a8fb7d8c0c1e8d8efffa6f0af7d",
-    "data/identity/people/43.jsonl": "4b8ba9bf991b0f0de16574565717fd1bb68eca4d6ab8891259bd6fa6618f0728",
+    "data/identity/people/43.jsonl": "2847685e4da9529c3fefc7c0bca1d327be2457ca28ba0f0947e244c28c740881",
     "data/identity/people/44.jsonl": "bb82d222d5c265c75dae7a6a5cb76227028911fbbc8abb4cc2a6c553e981489b",
     "data/identity/people/45.jsonl": "b523afaca0aebe9b05349c849bf9bfc001cc5d34cc5ae2c839f59d5fbc25d0ab",
     "data/identity/people/46.jsonl": "11e7614f943f48dd748094724747f479374d1858b30da7b8a4f377c9d392d5b5",
@@ -154,7 +154,7 @@
     "data/identity/people/8f.jsonl": "3abaebf60790c895e14e984ace9f9869a5981b40286be4b000a821adcc294df4",
     "data/identity/people/90.jsonl": "2a7d6162494e1796717a4ed73c7276689ad9dd929c4ef37e67517648c9f6406f",
     "data/identity/people/91.jsonl": "80ddee00925a6db42b397dd60eff06c7aad1aae2fb32359caea0c53c74d3d7fb",
-    "data/identity/people/92.jsonl": "2961514011eeaa4a42ceec6f951b13a630ea98a6304f2dfb70199f1491e73a8c",
+    "data/identity/people/92.jsonl": "0c84afab94b74e14d49a0f329fb8e58ccfebd11c5b61365eac7236ae0fe7c604",
     "data/identity/people/93.jsonl": "59998a1d9854423f7e7eaad299a42d3682329518343dd026c0dd52bd259cd728",
     "data/identity/people/94.jsonl": "cd9cef865f0387557dc08a7971e45c7e565be98f37dec64792dde6808fadaad5",
     "data/identity/people/95.jsonl": "8d90c263e4c5b70c52bf50da5d00b0fba39c16c9207378399fe4be24798c4798",
@@ -185,7 +185,7 @@
     "data/identity/people/ae.jsonl": "1dca25156618e849bc6be575a3e50d9b1a8bcf09133ee8fe0e3483907d3e9cc8",
     "data/identity/people/af.jsonl": "87cc999ac589083d491a84f17253ef9556c5d699e94185b016cf083f41f1f4ad",
     "data/identity/people/b0.jsonl": "111911b7a599bec3869b6d70511ef966267ce57a2c8d6bf3928560417e574e7a",
-    "data/identity/people/b1.jsonl": "fc93fe6271d90ab618d7465b1dbafb8b27d0842166ff260f13dbf37d98f75e40",
+    "data/identity/people/b1.jsonl": "cf0d2b67c1d570cddfe6b67441d9a4dbd38eac7c99132683160a3674367836ba",
     "data/identity/people/b2.jsonl": "82f3bb819615f47060698d0cac66359ae7fa4c1f0e373d3afadcd972d30ae6ed",
     "data/identity/people/b3.jsonl": "6a47f75a9fb850d6fea6771f27aeb0c55b27efaaca2b74a814bcaf2719eb6ffb",
     "data/identity/people/b4.jsonl": "f11e88dcfb0800dbe229293bc2f14e91d6e46ef455681dfb4e57acc3183fd1d9",
@@ -245,7 +245,7 @@
     "data/identity/people/ea.jsonl": "6e2881b3028f5bd57b575867a6136e00f14bf15be1a073deb57349f0f52c3936",
     "data/identity/people/eb.jsonl": "ef1ffa66c1b33bd037a90ae2b27564764ce4d305b190d8a8e96b45d8485ca242",
     "data/identity/people/ec.jsonl": "5f65b71167d6303344a8b989f831dcd657ce3d62c74dd6cb11ba7de8018853be",
-    "data/identity/people/ed.jsonl": "b8537cfd7260d28d7dff51de9e5eb0412d4df7aa18a50eced4f728dcafd7fa37",
+    "data/identity/people/ed.jsonl": "c2b5fe445b14efcc260ae3145fe2f2be64383093e7ebd187f40d1db7b36ec8e4",
     "data/identity/people/ee.jsonl": "51d53ae42072c6fbe83e1c4c8e1630433f9cdd19dbe1a9e3a2a09a61c663fbe8",
     "data/identity/people/ef.jsonl": "34bfbb0fd6689cdebefa79796348080dfe3e0cf063e8db96e5b1d41e0dbd9981",
     "data/identity/people/f0.jsonl": "d9df523c4e1c1d6196cad755597192e34333c84c38cf27d8db32b9e8fc882842",
@@ -256,8 +256,8 @@
     "data/identity/people/f5.jsonl": "ccd4a4d90674dd40448802a2410c0c4385f70c20fda96ea02b6857d89fca2fd1",
     "data/identity/people/f6.jsonl": "5d3749f6b775eec3ef635e5e0efde53d1a583d01f9985170711560231ba5e12a",
     "data/identity/people/f7.jsonl": "15122a684b4d381b4c1073b0557a4b31ba2a5a4c1ae20db5725014ff7e85eac4",
-    "data/identity/people/f8.jsonl": "6ea5a089d871adf91c822546c5dfef75fcd66f67b8057bc2b9f9ae894397fc29",
-    "data/identity/people/f9.jsonl": "d390ff2cd8c4c99aae22143fef4d0ecd942b032c756fedafd8b15f8b71465a89",
+    "data/identity/people/f8.jsonl": "8af4208fd3923f3c6e80b02e4a96301e8fab7e31ffc435feb91e87e8098a3a2f",
+    "data/identity/people/f9.jsonl": "a138a295b1906fb95e7e9a32e7f7d494d6be83b7d57f8610329304e3e124f2bd",
     "data/identity/people/fa.jsonl": "1041a97558260e9e819e04e2658b7f59541f5ba3cd6c8a50f3c355be005240f6",
     "data/identity/people/fb.jsonl": "7f61e16679d4396e51b240033c4e7b78ddfda25bfbc03fadf8caa4df50342e4c",
     "data/identity/people/fc.jsonl": "70479781b19eef87f1000a1389200a4817b2e2a5e230ac907dac0c566ec14413",
@@ -3367,7 +3367,7 @@
     "output/site-inputs/degree/degree-events/2021.jsonl": "e0d799b023d66731b12e301151feb1d62a4ceed698b9c29fdbababb151e56c13",
     "output/site-inputs/degree/degree-events/2022.jsonl": "41b1fd1003384763799ce158959424bf6704537cb589138148824554141bfc1a",
     "output/site-inputs/degree/degree-events/2023.jsonl": "6ec04030b914b1a0bcbdd2e1ae86b56afc8444c84f0c81230e67f71caedb0e8d",
-    "output/site-inputs/manifest.json": "ee0b651ffced6a938ef8ccb8d885dc21a1eed765791c80b6020652b7e8485956",
+    "output/site-inputs/manifest.json": "c382177a17f9ebffe65874cb6e0365635d7b9f609669983b9eea110037471125",
     "output/site-inputs/roster/1899.jsonl": "324e241459ac87b1d612cb57ad99eed1ca35da95f7313a2c5dad5cdb959a298d",
     "output/site-inputs/roster/1900.jsonl": "8b6d87b776c64cda1e1209e476c7ee0d50e681cb1540fa1cfb127fe48d87c76d",
     "output/site-inputs/roster/1901.jsonl": "508a517f6ca9e35ae33ab419dcafd9d9228ad6a525891ca755cce8743fb936e6",
@@ -3627,7 +3627,7 @@
     "output/site/crops-manifest-shards/mvol-0447-1996-0609.jsonl": "d43c3e9c0da22027008ed9a824ac7a08326d65b61126d266a2829e68e76d14fa",
     "output/site/crops-manifest-shards/mvol-0447-1996-0823.jsonl": "8ce8ea8a41c9d1d648a44f956081b55b25c4e6e539df785038f460e0b9abb452",
     "output/site/crops-manifest-shards/mvol-0447-1996-1213.jsonl": "8fbaa040f600bd1f6a3a72acc49c480d79832093f526c3e382bfdd9d1718c76c",
-    "output/site/crops-manifest-shards/mvol-0447-1997-0321.jsonl": "ab517d7d0821a37cd72c166b81681d38d3850d042b750fa9c9ac2531c0f04e55",
+    "output/site/crops-manifest-shards/mvol-0447-1997-0321.jsonl": "879508dd6440efad5aa2b5c4004ce046e8c7a542e231f5fa82b0b7b354158933",
     "output/site/crops-manifest-shards/mvol-0447-1997-0613-01.jsonl": "9f95088a4f9bd43d3e2c5926c1fbb769bb9696a23522008e7439f3169d663f4b",
     "output/site/crops-manifest-shards/mvol-0447-1997-0613-02.jsonl": "14816d5b488a5e9baf6c863f78992cc0a7e5a35d56878a5a1107214a83f91d3e",
     "output/site/crops-manifest-shards/mvol-0447-1997-0614.jsonl": "74a0b1db1b45c90a7581ad2326f9575c0184b35fa2160b7ed8409711a1121717",
@@ -3689,12 +3689,12 @@
     "output/site/crops-manifest-shards/mvol-0447-2008-0613.jsonl": "f3116a8e30f0da714339099469aebcf1dfe5c8e1e0959a469d85ebda6791bbc3",
     "output/site/crops-manifest-shards/mvol-0447-2008-0829.jsonl": "9ad630b1d74d5292e27b13751c0a8fa7a21c9b56bc83ebfa156b43f8a8dddac0",
     "output/site/crops-manifest-shards/mvol-0447-2008-1212.jsonl": "cd09f6bdec176fd4d7e68c256647787de773197a4a3531136ef6e3bd59ccacc9",
-    "output/site/crops-manifest.json": "ad4545f084ecd8ab46b1ee65130b48ba6ed48051a88aeebfe42144aafa6c2dbc"
+    "output/site/crops-manifest.json": "eadbdf6189667631dec50527d8535f27aed2918970d20a47002db24b041b4bb1"
   },
-  "generation_id": "page-data-eb8405cd72f0-20260916T185108Z-64fcb380",
+  "generation_id": "page-data-7c0ec6a0f7b5-20260916T193123Z-cdf6f19f",
   "incremental": {
-    "base_content_commit": "f9bf499217e69b3c0ff13cdba5500c54261b8d10",
-    "base_generation_id": "page-data-228bb8eee6fb-20260916T175302Z-e34c1e15",
+    "base_content_commit": "564a1c6984b2910202f2190000d9bb34b38afa78",
+    "base_generation_id": "page-data-eb8405cd72f0-20260916T185108Z-64fcb380",
     "carried_payload_count": 0,
     "removed_payload_count": 0,
     "rendered_payload_count": 108
@@ -7427,9 +7427,9 @@
   },
   "partial": null,
   "payload_count": 315099,
-  "predecessor": "f9bf499217e69b3c0ff13cdba5500c54261b8d10",
+  "predecessor": "564a1c6984b2910202f2190000d9bb34b38afa78",
   "production_year_additions": [],
-  "repo_commit": "eb8405cd72f0ef808592021a8797e415d6763e00",
+  "repo_commit": "7c0ec6a0f7b5acbe41ea3a36531be2570466e098",
   "repo_dirty": true,
   "restored_from": null,
   "route_counts": {
@@ -7451,132 +7451,134 @@
     "base_commit": "73de1a773b52add9b087ff452d001cca4a09b9f2",
     "changed": [
       "output/site/crops-manifest.json",
-      "output/site/crops-manifest-shards/mvol-0447-1996-0315.jsonl"
+      "output/site/crops-manifest-shards/mvol-0447-1997-0321.jsonl"
     ],
     "changed_lines": 100,
     "finder_shards": [],
     "open_years": [],
     "reasons": [],
     "route_counts": {
-      "class": 6,
+      "class": 7,
       "person": 100
     },
     "routes": [
       "class:1986",
-      "class:1988",
-      "class:1989",
-      "class:1993",
+      "class:1991",
       "class:1994",
-      "class:1996",
-      "person:person_-3L_6JQpRgKlsdZyadGMBA",
-      "person:person_04FT5PshXOzghHiDssOlbG",
-      "person:person_0d0lLCIoQwKezWG8YV6vQw",
-      "person:person_10EJdpdyxMKoJaOru1INHQ",
-      "person:person_1Zrvag68TeGlTvxBjs1d6A",
-      "person:person_26zKwm6PRiWsEm0QC4hsdg",
-      "person:person_2VAKg4XGThugekNb998JPA",
-      "person:person_2YW_pqZVRDyj9TrEwXtNNw",
-      "person:person_3UxIjfW5Sei_M5sh-QbqAw",
-      "person:person_4Ec5ALv4QzuNQpiOlijMSB",
-      "person:person_52O6QjoDQM-fSU2HvwvtOQ",
-      "person:person_5S4CrmKMjFK9-9U5_jfxfv",
-      "person:person_6rDePASPSFWT0GL-pt7bJw",
-      "person:person_7V3peXf4QnyaigBbrwzZGg",
-      "person:person_A5YmbN5WSlSNMwCmkaLjmA",
-      "person:person_AUz7OWVtSdil6YlYgl06ow",
-      "person:person_B4RJNwwuQ-WiSaaoC2FLzA",
-      "person:person_BDdAjHLJQ_ijz8BkxuoYlA",
-      "person:person_BIpFoXtZQOKDYKeoE4GjLA",
-      "person:person_Bp4LZdQPQ-S8E53tqV2lGg",
-      "person:person_D-nVoudxRVCEvygBDfpkww",
-      "person:person_FEz4EI7AQMi6UN6CWV64Fw",
-      "person:person_FPdhp7a2Qfy9wJAydMjUhw",
-      "person:person_FcmZDKg1SY-6v8yjMp6AAA",
-      "person:person_FjfVZqXzR9mLk7rXAusn4g",
-      "person:person_HaDgpY0BT8ufOrh3jb566Q",
-      "person:person_Hj9l6QGUS36xX6hEl1zXpQ",
-      "person:person_HxN8RZbeSmsIIWNR7Rmckb",
-      "person:person_HzInsaCfR4Gw6Uy9hvxuww",
-      "person:person_IUUm7hYb-GPa8NEpqqx5OW",
-      "person:person_JonGaYLoSB6WIX6q3YU1tg",
-      "person:person_K27ib_a_SrWFuMUHk3B9Xw",
-      "person:person_KW9LHVejRiucw4c5Sq5wyw",
-      "person:person_KuK1WaDrRDi-3ueHcFbgrA",
-      "person:person_L1LkAlUD_JVjxxaD3NkLr-",
-      "person:person_M6yfQSj3QV2PT2aQwVUlUA",
-      "person:person_NtWuLNDSQyyYP1j_9wqKPA",
-      "person:person_P1Zv_OEFR6eZfgOuXsZ9og",
-      "person:person_PvyRJjdSRmSvIDAAl6FjZQ",
-      "person:person_QxOSyCCMS-iTCNMtIl-64A",
-      "person:person_R-0jYd_gSna_IWH1XZW9_Q",
-      "person:person_RurH5PD4RSC-ktpD2QCyeg",
-      "person:person_RxkJNKZjQb6x8z_wlUaL4A",
-      "person:person_T2VukkLWSWuqN0rgH5LUeQ",
-      "person:person_TLTiJGevTbuKZwyivzbaLg",
-      "person:person_TqEEXFDhbf0oAEWi2IkWVE",
-      "person:person_UCsGxuHpSGKWkOhiCjTMOQ",
-      "person:person_V-79WbQ7Q3-lc3Q5iFZ8gA",
-      "person:person_VbTRl47pTiyxgSa8ppLnHg",
-      "person:person_Wi8OLwGwQ9CBPmTrqwDOmg",
-      "person:person_XYCEm-HfRoq08_CkHersRQ",
-      "person:person_XwsedSWjSvKbdLP_8mLurQ",
-      "person:person_YcdKB6UJRTyOBH3DQIqkUA",
-      "person:person_YtEouqgPSTa5dvGEs73WRA",
-      "person:person__GUcX8AFSi6KAIGClHczNQ",
-      "person:person__N_vPzVwT_yfIkmleTJ0RQ",
-      "person:person__vTI3NSmQ-qc3aehR4KaGA",
-      "person:person_b78oL1-4Qia7oqx4VHATWg",
-      "person:person_bwhRUm3aQ4SO6Fpci8RIHw",
-      "person:person_cOO896STTRWF6uhhSC4_yQ",
-      "person:person_cr6uMR3sR_mVPN3YWVx4-w",
-      "person:person_dRJRMNoqTmamzCXdt0D2tQ",
-      "person:person_dW687-YcRbWl_GQhkj8kag",
-      "person:person_dgiZk4nVR1qd-i1Qov6rsQ",
-      "person:person_e7El3cmfR--n4MZeA2fDzQ",
-      "person:person_fMyaJ3JjRQ2I6g3YbsxZYQ",
-      "person:person_jJYJfBnIQFebsWqWShVQmQ",
-      "person:person_jNYzU7iJQUyUN8DilGDusA",
-      "person:person_jXqsbpWUSvijLl9hHhcSkQ",
-      "person:person_kBXH7CD7QfSMHLfEN7_wCw",
-      "person:person_kblumI5NT_aTA4LLAGzPRr",
-      "person:person_keEbJJa2SFusHEL4rsgdVQ",
-      "person:person_lLtxXrmuTt6I-scc1GoLxg",
-      "person:person_lYHKVLmP7UV3Dp9GRO1unp",
-      "person:person_mF03lK58RMe7eOpn5XPQNQ",
-      "person:person_mvIddQPaQpSnJdm9qKxw0g",
-      "person:person_n6x2YJCsTLyZiiWhMx-WrQ",
-      "person:person_pdBDCwcnT7yUGTe2N4dwyw",
-      "person:person_qT_Yf24cSdCT5eiO2Vlo0A",
-      "person:person_rIk8GEz9LugsdP_2fLkgde",
-      "person:person_rQIiznbWRNOs8T_iMb9_EA",
-      "person:person_rSPlrcEssMzY76_dhZbTsj",
-      "person:person_rzjQMKd6TweXDy00E3WTNw",
-      "person:person_s-Ygg9duScSx7fnehuFm8g",
-      "person:person_sYTyabbQS35bwOahaHYaCT",
-      "person:person_taeKeTw2T3S9X3kM5LO9Lw",
-      "person:person_uSVqBOPZ5AgAn4u4kpdiXQ",
-      "person:person_uVE6fFPCT3uLGw4q_mavmQ",
-      "person:person_ugK-lxF_RKaf1D6MPR-WuQ",
-      "person:person_vSa4rqjLQWORJKnthsnxXQ",
-      "person:person_vd1krKdmRZuGYr50EMWaJw",
-      "person:person_vwRh8m-jRmScUydz5gfnSA",
-      "person:person_wyDjnil0u4FJiYo1CF4lCS",
-      "person:person_xVB5Ik9rSQCL7zYtNNjtPw",
-      "person:person_y4EPSba3_x_gE9a4C79QPe",
-      "person:person_y5XDTrTbQ5ikpgfw1RaV_A",
-      "person:person_yRX9AKFeTsSTumnSfAQbhg",
-      "person:person_yyqjyWxLTBOYlkcivt5YWw",
-      "person:person_zB83u30XTi-6Phrn1BBjyA",
-      "person:speaker:marta-tienda"
+      "class:1995",
+      "class:1997",
+      "class:1998",
+      "class:2006",
+      "person:person_-6XCIuMtptQJXH5T879Mz2",
+      "person:person_-gU6Fc5cTkmQyDIGNKZ-eA",
+      "person:person_-nfi0E4qQ-G3gRsG9p0beg",
+      "person:person_01e1KBmkRIylGoR7CUV64g",
+      "person:person_09vgU9TOTR-u9QfS4sHw9w",
+      "person:person_0ojSS8tUS_qrrxFBKqj0lA",
+      "person:person_1-AKBE9drO53VNSYTOUIed",
+      "person:person_2LZnzh25MTkefKWOnZRhGr",
+      "person:person_2P8uNbv8R7K8jCx7gGHd1g",
+      "person:person_3emxQ6SrSgOFoesd8bTc0A",
+      "person:person_4WichlkPQXeLN3Xm3VghKg",
+      "person:person_6D5ituJ6QPyiU_hi__YgUA",
+      "person:person_6HhlfGoS9fziCuji_zdcyZ",
+      "person:person_6SI-JQV6Qua3dAk3PO3jWw",
+      "person:person_6tAdyj-ybhE_-J0UWZm3F8",
+      "person:person_7t3E8M0wQE-Afbmn87d2BA",
+      "person:person_8MR2bZtNbFPNNYesdnk1JH",
+      "person:person_8W6rmXXVS72JYgjRdpv2JQ",
+      "person:person_8cXLt1WMT5CC9Jg1Uqz1Aw",
+      "person:person_8lmlwtOqQI66-kcB_OybAQ",
+      "person:person_9-1vGVlTTdeoKVD3P_FYLQ",
+      "person:person_9k4dL_OnSVSh2ZvekBnrzw",
+      "person:person_9kxpQdqPRmm1HxAFfVJSGw",
+      "person:person_Ad5nFvUKCMfOyl3ca4b9SZ",
+      "person:person_Al9UB8s7SKqBFmVcSbp12w",
+      "person:person_B6UKIp_zS3eV_0ImN1454Q",
+      "person:person_BUa96834RemI893ik4rzlw",
+      "person:person_C-KSZd__Rv_CsKPvkUNlUY",
+      "person:person_CulFgDtsQ8uRYLoy7xWfvA",
+      "person:person_DuhMV5KYQrys06o7v9TcEA",
+      "person:person_E2w9MSdZTKGMCqR_rQTl9w",
+      "person:person_EKZmPCPKIVFa-GoKvhBZir",
+      "person:person_ETDDpcY-PbdNHm8x72HvS-",
+      "person:person_FXiNtm9fSgmccaHW-DJUug",
+      "person:person_FlIIh5RfQM68Q0PV8_XMuA",
+      "person:person_HtKQxK3VA08R62uRg2DE3o",
+      "person:person_I4MHbKL9S6uTya9DOLZVxA",
+      "person:person_Iw8FQ80ORUavx7jTW7GR5Q",
+      "person:person_J2Yh8R94Ss2UuSUDyEiDhA",
+      "person:person_K7l2SLVCaDkHd_W70DSUZP",
+      "person:person_KPV7KC_8RH-rPOOE3yWEyw",
+      "person:person_KbIyKFzWQEWxOOureVFcWA",
+      "person:person_Lt_-rZBj7PInKwAnqknUkA",
+      "person:person_Mmk0mdg1T0SXowdSpWHwtQ",
+      "person:person_PMT66NAGQMGpied6tQflsQ",
+      "person:person_PMmifPjcVGLQKde5qMhP5U",
+      "person:person_PQZoSXZgov3oQ8WmEdsZGU",
+      "person:person_PmxejLHkcvDDdjY0QPz8S7",
+      "person:person_QVjXFX3F5y7Ygd7vhj8MJU",
+      "person:person_S8mM_tIzEAuzetrFW5Rro2",
+      "person:person_SOOBBV38VoNwHMfZMZz1r6",
+      "person:person_Tu_kE2b0QDsGO_FHPFBVw4",
+      "person:person_YYQ65oKm3YBS2TbvIw6W64",
+      "person:person_Yh4laWsxMkMnBlIw2oarMH",
+      "person:person_Z2e-KCARkGIunedKKP20Hf",
+      "person:person_ZFRxDnaZS3SjsvfPT_DZUQ",
+      "person:person_ZIdWEFfVSp6GuXZEvYVTjA",
+      "person:person_ZlHxl5fvy3m_BfyDDW9HXz",
+      "person:person___YADIHBTceaZ1fiQJUxEg",
+      "person:person__l97z1p-NlYOG6sQuaVpuW",
+      "person:person__nQ2k8gyQb6ZaxuaBH1pJQ",
+      "person:person_aM21Hig9LPCit_s_hFIZi8",
+      "person:person_abcXKXu2aNw0BoTYH_cLM7",
+      "person:person_aiBLm0O5nT9Us00RvDwqJ-",
+      "person:person_aloovG7-TbmrVPaoxc6trg",
+      "person:person_bE1i1WnMVpuM2SpkwMol8Z",
+      "person:person_cfAzdeztTOSBIWkw9fChkA",
+      "person:person_dSK7YxDhQlKI_TEZkIKe1w",
+      "person:person_f3SpMcW4xY86tp8OPs-PS8",
+      "person:person_fIWvBytzTSOV-7Iq39bn1Q",
+      "person:person_faNKvrl25v7jGccwCh6DIb",
+      "person:person_jJr9mOtsxPi4L85pT2otW5",
+      "person:person_kKiEVBFxSHGrbwESa2ymkA",
+      "person:person_kZRZ6IjQTuE0G004SqBM5B",
+      "person:person_lGpKYrUVkED4AhnK8rQegY",
+      "person:person_m2eL8-cxShqwjWETn39bKA",
+      "person:person_nZCoZxm0DDqYl7ihd0FNHa",
+      "person:person_pyNY636aQu2Tka23CbACGg",
+      "person:person_q-bpDJ4pRQudFgyMEGC8HA",
+      "person:person_qpLlkg4UN163Zvk-vwnljh",
+      "person:person_rPuJSDfdP0gWy6jjAq8WBL",
+      "person:person_rqIW_EfqRFma8weka3nv2g",
+      "person:person_sGkKXyrsWeWITHNwV-hWvu",
+      "person:person_sgEv_I79FXdLEdbYIFMrwv",
+      "person:person_uKy2iuwARqyZlXcxydwCIw",
+      "person:person_uLsDQFhtADpmBs_Zb6n4ix",
+      "person:person_vUBiKCsicMV_HPn3c2KT3E",
+      "person:person_vduXeNXD5kfIfjRnvdG1Ne",
+      "person:person_vo-ZWc8fTqS7199vouUfTw",
+      "person:person_w8czLxXvrQhJZVhoEsGGXP",
+      "person:person_whlbbeD3T5yS1lhW910wDw",
+      "person:person_x-M46pX2OzIfyagaKjN-HW",
+      "person:person_x3L4sBiQS_-sJIFLHDZyxA",
+      "person:person_xtD4UxI7VRFotm5p9TyMnV",
+      "person:person_yEmsJC1YTi-JZKrLO2fVFw",
+      "person:person_yjMdTpa4Hjr5GB3GhIe04n",
+      "person:person_yooXLibrSJio9yuTRdlDuw",
+      "person:person_z3vnQrqo4p9qlAZrFKNSA7",
+      "person:person_z8CmgvgsmuSno3rgNRhLJn",
+      "person:speaker:joel-snyder"
     ],
     "status": "scoped",
     "years": [
       1986,
-      1988,
-      1989,
-      1993,
+      1991,
       1994,
-      1996
+      1995,
+      1997,
+      1998,
+      2006
     ]
   },
   "status": "complete",
@@ -7584,542 +7586,542 @@
     "authorized_routes": [
       {
         "family": "person",
-        "route": "/preview/1986/paul-stuart-white",
+        "route": "/preview/1986/mary-elizabeth-hotz",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1988/alaina-maria-lemon",
+        "route": "/preview/1991/paul-michael-cobb",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1988/valerie-ramseyer",
+        "route": "/preview/1994/alain-joel-roy",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1989/fulvio-ortu",
+        "route": "/preview/1994/zhonghua-peng",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1989/thomas-cornfield",
+        "route": "/preview/1995/carrie-grimsley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1989/trevor-mundel",
+        "route": "/preview/1996/anthony-peter-soohoo",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1993/italo-fernando-marino",
+        "route": "/preview/1996/susanna-bady",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1993/paul-william-browning",
+        "route": "/preview/1997/alain-joel-roy",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1994/frederic-john-fransen",
+        "route": "/preview/1997/anna-miszczanczuk",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/abdulla-mohamed-almulla",
+        "route": "/preview/1997/anna-pluzhnikov",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/alaina-maria-lemon",
+        "route": "/preview/1997/anne-marie-zarrelli",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/alexander-hugh-kaufman",
+        "route": "/preview/1997/anthony-peter-soohoo",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/andrew-h-kydd",
+        "route": "/preview/1997/ashley-ann-barnett",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/arshad-ahmed",
+        "route": "/preview/1997/bernard-jacob-schwartz",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/brian-m-bradley",
+        "route": "/preview/1997/bethany-marie-rudd",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/catherine-m-dolsen",
+        "route": "/preview/1997/bret-russell-connor",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/chaok-seok",
+        "route": "/preview/1997/cara-suzanne-taber",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/christopher-bianucci",
+        "route": "/preview/1997/carrie-grimsley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/claudia-doll",
+        "route": "/preview/1997/catherine-camille-dewey",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/constantine-james-spiliotes",
+        "route": "/preview/1997/charles-edward-broughton",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/daesman-n-suri",
+        "route": "/preview/1997/christopher-john-maxwell",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/dan-patrick-debono",
+        "route": "/preview/1997/clara-morales-navarrete",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/david-g-jenkins",
+        "route": "/preview/1997/daniel-j-cziczo",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/david-james-allen",
+        "route": "/preview/1997/daniel-warren-smith",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/david-william-dinwoodie",
+        "route": "/preview/1997/daniella-reinhard",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/douglas-e-dunn",
+        "route": "/preview/1997/darleen-louise-mitchell",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/douglas-james-cookson",
+        "route": "/preview/1997/david-gable",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/e-mark-chiappara",
+        "route": "/preview/1997/david-l-franklin-2",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/eireeni-economou",
+        "route": "/preview/1997/dong-yu",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/eun-jin-kim",
+        "route": "/preview/1997/elisha-kate-faber",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/fang-deng",
+        "route": "/preview/1997/ellen-drennan-elder",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/fangren-chen",
+        "route": "/preview/1997/eric-klimeck-deamer",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/francesca-eugeni",
+        "route": "/preview/1997/fiona-hwan-hui-cho",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/frank-douglas-anderson",
+        "route": "/preview/1997/fraeda-rebecca-friedman",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/frederic-john-fransen",
+        "route": "/preview/1997/garth-william-bond",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/fulvio-ortu",
+        "route": "/preview/1997/gloria-huei-ting-su",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/gilles-paul-deotto",
+        "route": "/preview/1997/griselda-tapia",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/gregory-ethan-stone",
+        "route": "/preview/1997/haksun-li",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/hatsue-shinohara",
+        "route": "/preview/1997/hallie-jean-sims",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/helen-farrow",
+        "route": "/preview/1997/harold-jennings-burdick",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/hiroshi-chikuni",
+        "route": "/preview/1997/holly-beth-smiley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/hsiang-lin-lei",
+        "route": "/preview/1997/ilya-levinson",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/hsing-chu-lai",
+        "route": "/preview/1997/itsuhiro-matsuda",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/italo-fernando-marino",
+        "route": "/preview/1997/jacob-c-burnett",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/james-alvin-allen",
+        "route": "/preview/1997/james-k-rushing-jr",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/james-douglas-boone",
+        "route": "/preview/1997/james-kim",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/james-nader-alvarez-ii",
+        "route": "/preview/1997/jason-dawsey",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/james-richard-harris",
+        "route": "/preview/1997/jean-susan-macdougall",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jan-lodewijk-grootaers",
+        "route": "/preview/1997/jeffrey-david-picka",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jean-luc-baradat",
+        "route": "/preview/1997/jennifer-de-man",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jean-paul-bruls",
+        "route": "/preview/1997/jill-m-nicolaus",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jeffrey-lance-bellman",
+        "route": "/preview/1997/jing-zi-shang",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jeffrey-s-sweeney",
+        "route": "/preview/1997/joe-yuan-howard-doong",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jerry-gianakakos",
+        "route": "/preview/1997/john-h-choi",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/john-alistair-depoy",
+        "route": "/preview/1997/john-tatman-swaney",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/john-allen-ferry",
+        "route": "/preview/1997/joseph-john-chang",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/john-chu-yang-chen",
+        "route": "/preview/1997/josephine-maria-albanese",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/john-mcinerney-flynn",
+        "route": "/preview/1997/judith-pfeiffer",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jose-antonio-alvarez",
+        "route": "/preview/1997/kimberly-susan-barger",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/jose-luis-dominguez-de-posada",
+        "route": "/preview/1997/kristina-anne-kaufman",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/karen-sullivan-fogarty",
+        "route": "/preview/1997/laura-ellen-rivers",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/keiko-honjo",
+        "route": "/preview/1997/lauren-e-brubaker",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/kerimcan-engin",
+        "route": "/preview/1997/margaret-r-laster",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/kevin-joseph-canavan",
+        "route": "/preview/1997/marina-gemma-belozerskaya",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/kwangmo-koo",
+        "route": "/preview/1997/mary-elizabeth-hotz",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/lloyd-william-campbell",
+        "route": "/preview/1997/matthew-pete-lagen",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/luc-denhaerynck",
+        "route": "/preview/1997/michael-david-tanenbaum",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/luis-bonell",
+        "route": "/preview/1997/michael-g-woolf",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/marcelo-maranhao-cardoso",
+        "route": "/preview/1997/michael-l-hulver",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/marie-ghislaine-croquet",
+        "route": "/preview/1997/milena-a-benes",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/martin-joseph-bell",
+        "route": "/preview/1997/mineo-hattori",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/melinda-ann-brown-magnani",
+        "route": "/preview/1997/navdeep-singh-chandel",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/michael-s-cochran",
+        "route": "/preview/1997/paul-michael-cobb",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/miriam-a-blut",
+        "route": "/preview/1997/peggy-ping-hsin-lin",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/nancy-ann-cabell",
+        "route": "/preview/1997/peter-s-leonard",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/patrick-paul-dolisie",
+        "route": "/preview/1997/peter-s-markos",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/paul-donnelly-best",
+        "route": "/preview/1997/rachel-mara-tischler",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/paul-j-czerlanis",
+        "route": "/preview/1997/rebecca-ann-boone",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/paul-stuart-white",
+        "route": "/preview/1997/robert-christopher-hawley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/paul-william-browning",
+        "route": "/preview/1997/samir-n-parikh",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/robert-andre-la-fleur",
+        "route": "/preview/1997/sarah-catherine-turkington",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/robert-martin-dickson",
+        "route": "/preview/1997/satie-airame",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/rodolphe-m-collinet",
+        "route": "/preview/1997/scott-alan-holley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/ronan-cullen-o-malley",
+        "route": "/preview/1997/sean-alexander-blanton",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/sangwoo-joo",
+        "route": "/preview/1997/siu-man-yeung",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/scott-roderick-diaz",
+        "route": "/preview/1997/sooyong-kim",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/sherry-a-jacobs",
+        "route": "/preview/1997/sourna-ali-reza-daneshvar",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/stacey-lynn-adamson",
+        "route": "/preview/1997/stella-s-son",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/steven-marshall-budlong",
+        "route": "/preview/1997/stephan-a-koehler",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/steven-michael-cowan",
+        "route": "/preview/1997/steven-m-awodey",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/steven-thomas-d-beck",
+        "route": "/preview/1997/steven-robert-megibow",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/steven-wayne-curbow",
+        "route": "/preview/1997/sue-cavanaugh-taylor",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/suk-fong-sophie-tang",
+        "route": "/preview/1997/susanna-bady",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/suzanne-d-miller",
+        "route": "/preview/1997/tarannum-musvee",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/teresa-delas",
+        "route": "/preview/1997/ted-kim",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/thomas-cornfield",
+        "route": "/preview/1997/terrie-ollie-carl",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/tim-j-spiekerman",
+        "route": "/preview/1997/terry-meng-yee-ao",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/timothy-guy-conley",
+        "route": "/preview/1997/thomas-luke-bartscherer",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/timothy-john-dowd",
+        "route": "/preview/1997/thomas-mueck",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/tomas-blasco",
+        "route": "/preview/1997/victoria-sky",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/trevor-mundel",
+        "route": "/preview/1997/vladimir-a-kulyukin",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/valerie-ramseyer",
+        "route": "/preview/1997/william-blake-aydlett",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/vimut-vanitcharearnthum",
+        "route": "/preview/1997/william-t-adams",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/william-james-brewer",
+        "route": "/preview/1997/xiaoyang-fu",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/yang-chen",
+        "route": "/preview/1997/yaseen-ahmed-noorani",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/yuan-nan-young",
+        "route": "/preview/1997/zhonghua-peng",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/zening-ge",
+        "route": "/preview/1998/robert-christopher-hawley",
         "scope": "preview"
       },
       {
         "family": "person",
-        "route": "/preview/1996/zev-warren-abraham",
+        "route": "/preview/2006/garth-william-bond",
         "scope": "preview"
       }
     ],
