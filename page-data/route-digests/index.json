@@ -1,4 +1,5 @@
 {
+  "complete": false,
   "kind": "site_route_digest_partitions",
   "partitions": [
     "00.jsonl",
