@@ -551,9 +551,10 @@
 {"digest":"10c0daf49626afb4c63370b5d9c89ecd55bdb4c6a4af2e7125108165759f88f5","family":"person","person_id":"person_yk0DexRg7KHF6NcVhQgTTz","route":"/preview/1984/claude-everett-towery-jr","scope":"preview","shell_contract":1}
 {"digest":"338b07ae69577e546575c91ea352f6b6622a5c7a7b59432fd8a4aa8e935788ff","family":"person","person_id":"person_4CYqogxnSIKXkKBDSuJHtA","route":"/preview/1984/david-chet-wolinsky","scope":"preview","shell_contract":1}
 {"digest":"36a8657de4bb37beb5d6cde5cb6898974f560e0a480188cf67bf96b184f41d64","family":"person","person_id":"person_Jgjg9Ke0RfOPu-Y9Lo3UlA","route":"/preview/1984/david-william-montross","scope":"preview","shell_contract":1}
-{"digest":"d411503784e5dd3aa4c3edc2029d2fae51a99895bd1f867014bffe079a1aef0b","family":"person","person_id":"person_I89YyCB9SHKTPjk9Kw8aCQ","route":"/preview/1984/douglas-j-muder","scope":"preview","shell_contract":1}
+{"digest":"9f18dab8c6c97377ba546bb393c1376190f1ad539f41cc5a2da5ed474242ffba","family":"person","person_id":"person_I89YyCB9SHKTPjk9Kw8aCQ","route":"/preview/1984/douglas-j-muder","scope":"preview","shell_contract":1}
 {"digest":"8f536aa01f72215245df7d08683f291aa7db0132e8a64e484a9b892888543e6e","family":"person","person_id":"person_7jfaKWKhQk-Fj_6ZNz8V4w","route":"/preview/1984/gerson-m-rosenthal","scope":"preview","shell_contract":1}
 {"digest":"a767bd70bc2df283a25abc88839bf078b89697413875b1471e6511a264938b71","family":"person","person_id":"person_twKhHAuop2f4h4NSjL_MIU","route":"/preview/1984/james-christy-roberts-iii","scope":"preview","shell_contract":1}
+{"digest":"4fddb9055b72da812c6509db6436e6f7ea3985c6f0b646d13bcfc097f9351db5","family":"person","person_id":"person_R4IDL3KFBWYTyuqjAx8rQ3","route":"/preview/1984/james-william-bean","scope":"preview","shell_contract":1}
 {"digest":"2e47c7b6c24c2626fdd53bbd48ca4446091fc148f4777c56b444abc658c62c45","family":"person","person_id":"person_uht9cvdaTJq9IEIvmeG2lQ","route":"/preview/1984/joseph-s-kontur","scope":"preview","shell_contract":1}
 {"digest":"9131d2127457ae63324da7cb0ed2720f026ff76eed894bdc61bec89cd9110921","family":"person","person_id":"person_tytpgfFERUufL_1sB7xKBw","route":"/preview/1984/marie-celine-miranda","scope":"preview","shell_contract":1}
 {"digest":"8dadeeef222020b80e8478e3bdb70cb4e52faf825e557919cd4ad1c37f3dca7d","family":"person","person_id":"person_ENN4qDmTSsurM2BIEazoqw","route":"/preview/1984/mark-t-robinson","scope":"preview","shell_contract":1}
@@ -1232,9 +1233,9 @@
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/school/college","scope":"preview","shell_contract":1}
-{"digest":"973a34650b4c86298845916ba4e41b48f5527506fd63885164f6bc566133c03b","family":"page","route":"/preview/degree/bachelor-of-arts/other","scope":"preview","shell_contract":1}
+{"digest":"95719f1c831e4bb51e14cc57ce681799faf6a3563ddd9d2615cf27d4e63bd5e0","family":"page","route":"/preview/degree/bachelor-of-arts/other","scope":"preview","shell_contract":1}
 {"digest":"200937e19e006602e0e28b9c9ccede5ba60db8d11fe3dfc9d8214b7cc7d1fdeb","family":"page","route":"/preview/exercises/faculty_awards/1990","scope":"preview","shell_contract":1}
-{"digest":"2f22b170a1a0ec452d3bfbaa3cc7fe61bab866a1c9efec77dc8cd17b4260f6a1","family":"page","route":"/preview/exercises/honors_and_awards/1980","scope":"preview","shell_contract":1}
+{"digest":"29432d15381e248968ece494dd5a53669eb2531c79b5424b511bd79a342451b7","family":"page","route":"/preview/exercises/honors_and_awards/1980","scope":"preview","shell_contract":1}
 {"digest":"6e145c854175cec60bc620f4eb2d2e1eee0028b345ba841be9f425999df97aaa","family":"page","route":"/preview/exercises/welcome/2000","scope":"preview","shell_contract":1}
 {"digest":"d5777694d05e29dacf6c9efa0ac1f1c4cfba3c4e36301cf0a4beaa6a45b94502","family":"page","route":"/preview/field/collected-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"6e7c2a330ad9eef58ab3ac876c67b14fdbc60b2fd04e4954760962e39fc21c0c","family":"page","route":"/preview/field/committee-on-communication","scope":"preview","shell_contract":1}

@@ -548,6 +548,7 @@
 {"digest":"c9d68a34c32e0fa9b2b54d972c416fbeaad93008d2ac56a91367b501f0cd9ee6","family":"person","person_id":"person_YPu6wFZFTlm7kP9XE5R3oQ","route":"/preview/1984/kristen-underhill","scope":"preview","shell_contract":1}
 {"digest":"55a0922d7aff234915c25a35e48176144a92f518da4e05a0424028fb84d61260","family":"person","person_id":"person_zDsW2ZYsTgaU16Qt0DpyYw","route":"/preview/1984/mary-baty-miller","scope":"preview","shell_contract":1}
 {"digest":"3781e98663eb7ab6515a63c7ef2fbeac84bb4dc2deb596a14acd85d57d01630b","family":"person","person_id":"person_M_XgIuWmQr6pLFK2TaaTFw","route":"/preview/1984/oggie-kim","scope":"preview","shell_contract":1}
+{"digest":"40659b8ed283ed12e3a734ef36d560396eacbf6ad092eedfe69f5de701ce0ef2","family":"person","person_id":"person_YKYa3M1kTqeGF-pKgkVh1A","route":"/preview/1984/rebecca-louise-halperin","scope":"preview","shell_contract":1}
 {"digest":"c6787d069fa2c672d9f4fcc396d991217dbc510eea16e273f755c87a757873fb","family":"person","person_id":"person_ed4gvIjI7mFf32ODQUgwgo","route":"/preview/1984/robert-gerard-lavitt","scope":"preview","shell_contract":1}
 {"digest":"ac827f91ea1b7b4f06c52ff52f925ec5ae5f6177b6662bb3e5ea78253a1331bb","family":"person","person_id":"person_nF-vnqcuT3iJwrZN2P48lw","route":"/preview/1984/utthayudh-srisamoot","scope":"preview","shell_contract":1}
 {"digest":"5f0fba3ed383fd4f5a6e65f60040ea768ae3443a0851e5e0666f5c1d73783e69","family":"person","person_id":"person_RqVI-AEOSxOHce5-B-V02w","route":"/preview/1985/david-scott-ganis","scope":"preview","shell_contract":1}
@@ -556,7 +557,7 @@
 {"digest":"0b73cc192b2310f91555e01e1c2186374cbcf4270494821340d90f0924b96b0d","family":"person","person_id":"person_qA-SRWqxoyVrq5MuJn9M3A","route":"/preview/1985/joseph-h-astroth-jr","scope":"preview","shell_contract":1}
 {"digest":"ef865e321875b332f259e930d81ad08e7d5e6429d65b4b2a6a40b1d34c41a15c","family":"person","person_id":"person_gVh03QRVhei4RBg5zHv-Pa","route":"/preview/1985/juan-pablo-munoz","scope":"preview","shell_contract":1}
 {"digest":"e756b72bd4d3986bdebb466c772244b1752852ea0bc3d43da7c2d23fdac8389f","family":"person","person_id":"person_eIAAr_V9SWWY7TQXb7CwBA","route":"/preview/1985/orest-bohdan-stelmach","scope":"preview","shell_contract":1}
-{"digest":"0af29d27b955ee825ed2dcd76fb0d6be32be30fd28a23e1ceff1e3e02c0e2534","family":"person","person_id":"person_cfs64RKLT1mTcWSlQTZi7A","route":"/preview/1985/rachel-anne-saltz","scope":"preview","shell_contract":1}
+{"digest":"3793c4413a2d659c80c9eb3d1540edffc30162498ef906b2984283bfa18aec07","family":"person","person_id":"person_cfs64RKLT1mTcWSlQTZi7A","route":"/preview/1985/rachel-anne-saltz","scope":"preview","shell_contract":1}
 {"digest":"a93755d9320d8d406354ea580130dae44787a61404cc8fca566154ddb483d59e","family":"person","person_id":"person_dmzDjoIFRoiGKf8iraaIFQ","route":"/preview/1985/reeven-j-elfman","scope":"preview","shell_contract":1}
 {"digest":"6f2f7b6a05fa86649cfe7eb9cfbc17bbe745f4b8422ed1d39765d11d2d0f90d8","family":"person","person_id":"person_Bf2O7zmLQDeFQ7ygaL0OEw","route":"/preview/1985/richard-george-robb-jr","scope":"preview","shell_contract":1}
 {"digest":"8aa81f141a791c3ac509ab7aa73ee795b70d0b596320eacebe37f9d06da68358","family":"person","person_id":"person_iMwSNZU6QFSv9zvqpvxuiw","route":"/preview/1985/takero-matsuda","scope":"preview","shell_contract":1}
@@ -1285,7 +1286,7 @@
 {"digest":"bbc2556db5d13cf1a3b4f37b82dab24fa36550ce41073d3c32c0e779e7cb4dce","family":"class","route":"/preview/classes/1921/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"644a103aec444f972f06f111e9e804ef830a9ffe19dd7a31c1aba72fb55cd6c7","family":"class","route":"/preview/classes/1927/school/college-of-education","scope":"preview","shell_contract":1}
 {"digest":"6c0d371a87bdd12e3223e08098caef955e92c9e5a4dffa798c9a3c6e5bfa72a6","family":"class","route":"/preview/classes/1944/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"1fcca1d8e6edad90f379b7ae5431bd8155ae8bcf8da92d37a83a8761694a349d","family":"class","route":"/preview/classes/1961/master-of-comparative-law","scope":"preview","shell_contract":1}
+{"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/master-of-laws","scope":"preview","shell_contract":1}

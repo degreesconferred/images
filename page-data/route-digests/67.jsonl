@@ -521,8 +521,9 @@
 {"digest":"491fbc7c3d4ef8792215e83ff960990bd59974bdfaa625d7ddaaa2d1ac3d2d3d","family":"person","person_id":"person_0bUTzxItQOeEKWPtkfoJPg","route":"/preview/1983/stephen-john-morewitz","scope":"preview","shell_contract":1}
 {"digest":"76862eab74c8218024fdffbf746bbff5fc11e54dc3cfb0ea1dcfe12af5c6fe69","family":"person","person_id":"person_uGi-97ywQ8qxGU7xOsbgVw","route":"/preview/1983/wesley-lewis-michael","scope":"preview","shell_contract":1}
 {"digest":"95f77530ce5b5f935637b8891fe6ab5f33332cc33f7af68f518a833a19d4a69e","family":"person","person_id":"person_hr2XqdUgTUCR_GbV7wZhXw","route":"/preview/1984/james-a-warner","scope":"preview","shell_contract":1}
-{"digest":"9a32b0821dd461674f1b34bb74b2eaf37b844fae4a7ec0539f28851d116a5294","family":"person","person_id":"person_JKDMQgTLR4ScxerNROK6Jw","route":"/preview/1984/jefferson-travis-brown","scope":"preview","shell_contract":1}
-{"digest":"6200e203a07b315d7e5874988a6d2ef87574a3affaf4fa98294899c051da7910","family":"person","person_id":"person_we6qSThDR32HP6anQmot4g","route":"/preview/1984/lynn-victoria-abruzzo","scope":"preview","shell_contract":1}
+{"digest":"ea8db670ab67dc58f5ac85d2c9d6735b6aec9cdefbf7d2ceb8f5bf02c3de303a","family":"person","person_id":"person_JKDMQgTLR4ScxerNROK6Jw","route":"/preview/1984/jefferson-travis-brown","scope":"preview","shell_contract":1}
+{"digest":"62df56a6d33999123b37294958cff25784d3709f9207df6c2c2d9c809fe9b2b0","family":"person","person_id":"person_we6qSThDR32HP6anQmot4g","route":"/preview/1984/lynn-victoria-abruzzo","scope":"preview","shell_contract":1}
+{"digest":"ecf7628c2cbe1ff6a7231ba65ab8fcb7415fa45d41162eef548866410e657c4a","family":"person","person_id":"person_ZVpwN8MzHdmF5wFgJByKkx","route":"/preview/1984/mark-philip-strasser","scope":"preview","shell_contract":1}
 {"digest":"104cbc452f57422d4aff1568a63fc2e45e98d2f04683557cf2b24cc2927b0d94","family":"person","person_id":"person_AJXX10KU5AvLH9O8MxJTA3","route":"/preview/1984/paul-paluzzi","scope":"preview","shell_contract":1}
 {"digest":"ba0879eb4b3974b46fea2b14bfd73f22724e870b7883ca486432950d705cff58","family":"person","person_id":"person_OwJuRUubR8mbJQ6CjyOHsw","route":"/preview/1984/willis-roome-buck-jr","scope":"preview","shell_contract":1}
 {"digest":"4bb09c91b88bc97c8c0c9722ec1d2f8d8359d65c8618e9eb948dad54880dbb20","family":"person","person_id":"person_5sL4l76PndE1_MnuIrIW9V","route":"/preview/1985/jeffrey-ward-martin","scope":"preview","shell_contract":1}
@@ -1195,7 +1196,7 @@
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/bachelor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"7dd521bd5c518225fc147af820d7be048e2d4a6c4c985b204d681e596e880c6b","family":"class","route":"/preview/classes/1981/doctor-of-law","scope":"preview","shell_contract":1}
+{"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988","scope":"preview","shell_contract":1}
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"04600b5ea0ea0ec0b8495fc1446383602a312c30f7a55e84443ad154e7a3fd96","family":"class","route":"/preview/classes/2003/international-master-of-business-administration","scope":"preview","shell_contract":1}

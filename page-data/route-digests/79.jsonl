@@ -588,7 +588,7 @@
 {"digest":"705b9c43efdf1fcda08a58996294e46256a4c6299e67cb7957eb6648d0e8e07b","family":"person","person_id":"person_aF_bjifyQ46BlRfpniRIiQ","route":"/preview/1985/david-berliner-barol","scope":"preview","shell_contract":1}
 {"digest":"ec92115834dd5cd1b12865a3c86a4f26f2bfd845afde7147881c0c75113a2393","family":"person","person_id":"person_alR8ODIIJaG69SvvQxFmhg","route":"/preview/1985/david-evans-kiefer","scope":"preview","shell_contract":1}
 {"digest":"993903a66eb909dfb3271ccb18faabbd956e3f1a8a95b45d9207c0a1444e0575","family":"person","person_id":"person_Uvpb8I7aR-6zhFqyT5mX6g","route":"/preview/1985/david-j-hartner","scope":"preview","shell_contract":1}
-{"digest":"d5ce20cba276ee6974f525ee56b78523df632dcbd401f4cf75377ee8ee11f398","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1985/david-paul-demille","scope":"preview","shell_contract":1}
+{"digest":"f524f65bfc1f930bbd415d9908106d16d114dcaef431da09eb4a15f7311a0a69","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1985/david-paul-demille","scope":"preview","shell_contract":1}
 {"digest":"bcfe28be734b21ab2d0f465ea6a193037cbe16ed629d197345f51f383844cc3c","family":"person","person_id":"person_RfmLoK4dRrO3JF9R5hSmDw","route":"/preview/1985/edward-lipuma","scope":"preview","shell_contract":1}
 {"digest":"edb34357e3a23bcaa76a7119704250d4d1d962adb370edb9c19fda8a35eadc95","family":"person","person_id":"person_L0idDymCRUy-YGFsJqPBQA","route":"/preview/1985/kevin-m-corrigan","scope":"preview","shell_contract":1}
 {"digest":"a44a55ada3fc58860a7d37c4760cb9672bdd42353fe814eacc46749468ae1e95","family":"person","person_id":"person_uznJYSW5SqWgxrfq_wko4w","route":"/preview/1985/kevin-timothy-barry","scope":"preview","shell_contract":1}
@@ -1244,12 +1244,12 @@
 {"digest":"6d3bb7e29f72abfdac1077b30a25c4c163caea4ab473cc8889b90c5149dd13a8","family":"class","route":"/preview/classes/1903/diploma-of-the-three-years-course","scope":"preview","shell_contract":1}
 {"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/college","scope":"preview","shell_contract":1}
 {"digest":"9f27701fcd998804480114567a48d0dc4b5cc1db6da41e663837a6fba58fe4ba","family":"class","route":"/preview/classes/1974/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"5788ee57cc26fe63e6b19737ebdd31bd62ed83b8689d170d3c3afc9f417f013a","family":"class","route":"/preview/classes/1982/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"67960ee41466d0ddf811006ebabfb3d2ad1d85d2391827d902fb30611721ec20","family":"class","route":"/preview/classes/1983/doctor-of-law","scope":"preview","shell_contract":1}
+{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/master-of-science","scope":"preview","shell_contract":1}
+{"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"2ae36017d6c84a5b12972e6f1658a554fc366998c39a3fcbb64cce263a2a1b6d","family":"page","route":"/preview/degree/doctor-of-philosophy/i","scope":"preview","shell_contract":1}
+{"digest":"46ef9395f1b24b639b690c5ffca254addc9069ba0a987cc970dba2953566872f","family":"page","route":"/preview/degree/doctor-of-philosophy/i","scope":"preview","shell_contract":1}
 {"digest":"120dd4b6869eb999a3e094318f135cb8de3d7938e1f5968ba4e283cfc79a95c1","family":"page","route":"/preview/exercises/medal_presentation/2010","scope":"preview","shell_contract":1}
 {"digest":"b030d3c6306056d8b86fa477a49917c6b72eba338810e8b73fa320817c718c2f","family":"page","route":"/preview/exercises/student_address","scope":"preview","shell_contract":1}
 {"digest":"6c3709f2161b67ecf77a408935fd646510de3a38d22d047c78319fe1748fd501","family":"page","route":"/preview/field/as-of-august-29-1913","scope":"preview","shell_contract":1}

@@ -542,6 +542,7 @@
 {"digest":"66e542835b4fcb3de84b43b93bb2fc9a55d6dff14ab6e7daa1995528ed0a390c","family":"person","person_id":"person_3-xfNnJsTYykfwMt8d3AQQ","route":"/preview/1984/durbin-rowland","scope":"preview","shell_contract":1}
 {"digest":"83889a04c3a48a3795ba7251448bbf4cab2ae50335b98922b1e623633dea586f","family":"person","person_id":"person_ONVYksHVShSHO9z18nkW_Q","route":"/preview/1984/kathryn-leslie-zack","scope":"preview","shell_contract":1}
 {"digest":"6e8ae2d4b36b9acbd6202dc6a3794442f78223bf9e2857455bc57e36559ba57b","family":"person","person_id":"person_ay0L8-HuTt2KFmpa2JN9Wg","route":"/preview/1984/mark-edward-grube","scope":"preview","shell_contract":1}
+{"digest":"10ad72106a33b6b8b5667753ed9cbb48917015b0a800ae35d8d0a4a1a464782e","family":"person","person_id":"person_Y0gwHcttHnL3oPg5eIzb7f","route":"/preview/1984/michael-james-hodgman","scope":"preview","shell_contract":1}
 {"digest":"6b3eed7e05f27ec0d6a578193e5add201ed8fbe7ac374c68f411ed327fe67176","family":"person","person_id":"person_9xjCcki7Ty2HgPrucZUD5Q","route":"/preview/1984/philip-schlarman","scope":"preview","shell_contract":1}
 {"digest":"ce5dc8faee008c6214c76d9a52d09c8bb4ce694c4d776a2b8fedd2abdaa1102b","family":"person","person_id":"person_zJHfm9jd_FxwfXc9AggO93","route":"/preview/1984/ugis-k-sprudzs","scope":"preview","shell_contract":1}
 {"digest":"0ebea938d8a4d8a0b8e20404ce42f154a601cd3cd8d25645220998db2210372a","family":"person","person_id":"person_8QnxtmTlT9Csp3cFut1pgQ","route":"/preview/1985/chris-xavier-habisohn","scope":"preview","shell_contract":1}
@@ -1199,9 +1200,9 @@
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"aaa6979639fdb745b7cdb8681655d32d909b624b02fe548b06dc3a72f77915c9","family":"class","route":"/preview/classes/1987/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"e534e0412401310dbb28831c01d6b6c1dac4cb9663fda707a096eecd0783f122","family":"page","route":"/preview/degree/master-of-arts/y","scope":"preview","shell_contract":1}
+{"digest":"47e095479042a23037f88277f8c64e4381c7de397319e5751e3a61a7b26b1474","family":"page","route":"/preview/degree/master-of-arts/y","scope":"preview","shell_contract":1}
 {"digest":"296993934c4babd8ead194f5795046c70419ead83452c0cc8f93e9e8846a3b12","family":"page","route":"/preview/degree/master-of-business-administration/q","scope":"preview","shell_contract":1}
-{"digest":"2f22b170a1a0ec452d3bfbaa3cc7fe61bab866a1c9efec77dc8cd17b4260f6a1","family":"page","route":"/preview/exercises/honors_and_awards/1890","scope":"preview","shell_contract":1}
+{"digest":"29432d15381e248968ece494dd5a53669eb2531c79b5424b511bd79a342451b7","family":"page","route":"/preview/exercises/honors_and_awards/1890","scope":"preview","shell_contract":1}
 {"digest":"f392b564b45458b0a5cf2018042a3ec162ff801d7662266152b4da91b0c5b35a","family":"page","route":"/preview/field/belgian-studies","scope":"preview","shell_contract":1}
 {"digest":"9890972dce088c0d09c741d757ac06628b1bca611d7f79755b5172fbc1d3b469","family":"page","route":"/preview/field/botany-physiological-chemistry","scope":"preview","shell_contract":1}
 {"digest":"67d9ea11cebd24e263bf49be9e77f44e348a080f66d366efbd4f091fb5062479","family":"page","route":"/preview/field/eastern-europe-and-russian-eurasian-studies","scope":"preview","shell_contract":1}
@@ -1212,7 +1213,7 @@
 {"digest":"63f7b786862d2c7676a31d336be5fb57ce8fd5ba064fbb71a6e30888753a75a1","family":"page","route":"/preview/field/neurology-physiologv","scope":"preview","shell_contract":1}
 {"digest":"f5a6b462f4fdcdfebd06f74970ceaa8bc05d1aae25bd27ecd64cb35d34fa5ebb","family":"page","route":"/preview/field/pathology-anatomy","scope":"preview","shell_contract":1}
 {"digest":"757f68b473f09d71731861a9fbffa7423992e413c1b53f8a4c7bbfb2954214a0","family":"page","route":"/preview/field/slavic-languages-and-literatures-and-cinema-and-media-studies","scope":"preview","shell_contract":1}
-{"digest":"ed4d1adb78f7111de12c24d2b4dba2904a38a604dcf5b00b54c56e3aadaadc6f","family":"page","route":"/preview/field/south-asian-languages-and-civilizations","scope":"preview","shell_contract":1}
+{"digest":"2be6ada460342d4641159b10cbb59659551b5b824e21bda94f3c2d8a838c190d","family":"page","route":"/preview/field/south-asian-languages-and-civilizations","scope":"preview","shell_contract":1}
 {"digest":"21337ec60a31c076988900337235f4073e67c1c9b0dd2818580c0733ca1a3063","family":"page","route":"/preview/processions/program-beat-4a96cc1b67844213c1660c5f","scope":"preview","shell_contract":1}
 {"digest":"89fcdefbbdc71018f5a3011268c4212d9df7d974af0f4c790b8623db18cdb254","family":"page","route":"/preview/processions/program-beat-d82a192bee7efdb1887681c4","scope":"preview","shell_contract":1}
 {"digest":"044c20a910864c5a56be91a10cccc2a233e2ea87a3f75649584ab5aab0fd57a5","family":"page","route":"/preview/school/graduate-school-of-arts-and-literature","scope":"preview","shell_contract":1}

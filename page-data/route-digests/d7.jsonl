@@ -545,6 +545,7 @@
 {"digest":"b04576e60673f0c4695ebb57c6a8362a715de34a4f29c1f692283aa668d62cb6","family":"person","person_id":"person_xzvQT7_JTD6e7VPNpyHFbg","route":"/preview/1984/michael-patrick-donnelly","scope":"preview","shell_contract":1}
 {"digest":"38b060be0678ac47b2439be60182812fe7af5bbd66cf2f8b9db7c36391678974","family":"person","person_id":"person_OURWYGAKQrOUDGYejEsfBw","route":"/preview/1984/steven-raymond-majewski","scope":"preview","shell_contract":1}
 {"digest":"be2c1c2f2da5643987341fa05fd4ac1c6d6aea713ebe2201bea8b53e52a64004","family":"person","person_id":"person_eH18t42wQCmKuWJJNCF6KQ","route":"/preview/1984/thomas-joseph-cousineau","scope":"preview","shell_contract":1}
+{"digest":"8d86f49011b9af740e0462e97da93a3de05d08d7c4310c18177597fc69cef643","family":"person","person_id":"person_zRA2gqLXShnFUlq02isf8F","route":"/preview/1984/walter-nebeker-thurman","scope":"preview","shell_contract":1}
 {"digest":"52dfd84c34b0ba9e1d8eceaf8b16df91e08630808f9c62daa716cd964f3e936c","family":"person","person_id":"person_L3CVHJ1VQQSiJQgxgpLV1A","route":"/preview/1984/william-thomas-dunn","scope":"preview","shell_contract":1}
 {"digest":"1e321de0e3a025f922df9756af2ca97f07e15d0a11692a266d78484d85363d2d","family":"person","person_id":"person_0lNI4fI7StKVBK71d70LLw","route":"/preview/1985/christopher-hill","scope":"preview","shell_contract":1}
 {"digest":"aa7a61269fdecaa570a76667eacbbea8bc7dfe1657b2d5cf69343783eeac0acf","family":"person","person_id":"person_5aesxGy5dR2Sx_8y6oueo0","route":"/preview/1985/david-grange-pattison","scope":"preview","shell_contract":1}
@@ -1204,7 +1205,7 @@
 {"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/bachelor-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/master-of-theology","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
-{"digest":"3d640e9fc9892ffc77e5e96d9c381d1e576287ad2577ba92535b9ac688ea3d88","family":"class","route":"/preview/classes/1989/school/booth-school-of-business","scope":"preview","shell_contract":1}
+{"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/school/college","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"90b431facd5bf7f01be9256f834084cada7028c814ae848db562776a680c5f7b","family":"class","route":"/preview/classes/2012/school/division-of-social-sciences","scope":"preview","shell_contract":1}

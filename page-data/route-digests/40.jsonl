@@ -530,9 +530,11 @@
 {"digest":"b43ba51c2e03b1ba7e44e86bf79b8a0c39efdba932052319ba42cf67d5023152","family":"person","person_id":"person_1jajdWCiTaCw24jvACpMEA","route":"/preview/1984/christopher-ernest-flynn","scope":"preview","shell_contract":1}
 {"digest":"bcba4264e24c71e915f08214a20e26b9656ec2196f1c38a8f75b6ceb9a69e730","family":"person","person_id":"person_yiH0GJazR06fFrFdQ3Tc7Q","route":"/preview/1984/deepak-kumar-sainanee","scope":"preview","shell_contract":1}
 {"digest":"3d12dd7cda3b0ae68963be4bc16da8b40d90150b55dcb346114a5c974d393f3c","family":"person","person_id":"person_50YC1GXKQnKGGQNbUaYAFw","route":"/preview/1984/john-wells-reese","scope":"preview","shell_contract":1}
+{"digest":"3f6078c011cbaa1ccb970e3b04b5f13d99892ba6f700b91bdf19bcca8abb1b97","family":"person","person_id":"person_798H9DYQwlDktmK1rzaEdv","route":"/preview/1984/joseph-k-hassoun","scope":"preview","shell_contract":1}
 {"digest":"d82125593f1839de14580f1ce20325866aaca9cee9ba41f2eb3f1019baab5dab","family":"person","person_id":"person_AGs2Y8zzTpGx4y28-aWBQw","route":"/preview/1984/kathleen-mullaney","scope":"preview","shell_contract":1}
 {"digest":"e142682f581a14275256f15bbfb0b340e1ffdb423a570283aff055edda88e9b7","family":"person","person_id":"person_BDiWBp6GT_Cptj-qci-ADQ","route":"/preview/1984/michael-t-gallagher","scope":"preview","shell_contract":1}
 {"digest":"eed88385a2520ade6f6e1d5db25f05a95ab8c6459395cb0ef119478e52fcd8a0","family":"person","person_id":"person_uVDofhcmSyu1bxTT1jLGaQ","route":"/preview/1984/rosario-lujan","scope":"preview","shell_contract":1}
+{"digest":"bf98749fc43726b4d312af951bfb594469aecbfa47ad31fd7d8df5f08902a1c8","family":"person","person_id":"person_wDpXg0qhWdw2xW_VpHfb8W","route":"/preview/1984/vicente-ja-vier-fernandez","scope":"preview","shell_contract":1}
 {"digest":"a42379fc6c954d7e91c7b70d9c30bed7948f0914dc89406d3c514c88ef88e87d","family":"person","person_id":"person_AN2NEOc6SMeZzGzYg0CROg","route":"/preview/1985/amy-jo-crutchfield","scope":"preview","shell_contract":1}
 {"digest":"ea98cff7462fee88bcfa534a2efc343774d682542e2cd7b477edc744290e016e","family":"person","person_id":"person_FKuIBBntRuuxqoYZ-bPZ5A","route":"/preview/1985/frederick-william-lindahl","scope":"preview","shell_contract":1}
 {"digest":"8823a60a7f32db2e6c1b6dcd4d42bb6cb5239effc45e063ac09061edd94db4c7","family":"person","person_id":"person_SQduvQoDS3eagfZ-BFWlbQ","route":"/preview/1985/jane-rinkema-coleman","scope":"preview","shell_contract":1}
@@ -1220,12 +1222,12 @@
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"7dd521bd5c518225fc147af820d7be048e2d4a6c4c985b204d681e596e880c6b","family":"class","route":"/preview/classes/1981/school/division-of-social-sciences","scope":"preview","shell_contract":1}
+{"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
-{"digest":"849dda22dd525a0bceaa57b90a34177615f93929daf69f6a0b17ac20c2a2cd71","family":"page","route":"/preview/degree/doctor-of-philosophy/p","scope":"preview","shell_contract":1}
+{"digest":"899c0bf7b4c71b72f57a12d7be9fed8baa60ecf3f1eb3ac99e76f363ed7ed229","family":"page","route":"/preview/degree/doctor-of-philosophy/p","scope":"preview","shell_contract":1}
 {"digest":"7cb7973254999310a3966fdd3cd301e08810b59f96fec9edfac4d0dbdd072379","family":"page","route":"/preview/field/biological-chemistry-s-r","scope":"preview","shell_contract":1}
 {"digest":"ebd18965744d60d6dcfd3e590dae6d063501609ccb467a576494cb99b137ba15","family":"page","route":"/preview/field/human-genetics","scope":"preview","shell_contract":1}
 {"digest":"91718879a68aff23f85d1a1c9547fbbc7c96cf3e59a51c672a33f89c99cc4a2f","family":"page","route":"/preview/field/philosophy-experimental-psychology","scope":"preview","shell_contract":1}

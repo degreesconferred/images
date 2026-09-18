@@ -524,6 +524,7 @@
 {"digest":"81d7276bf635af78853cc56297a9d6d68d9165f438713c5831965518e3059daf","family":"person","person_id":"person_lGPO2hsrwj2zvcKK9rdSQD","route":"/preview/1983/scott-j-shenker","scope":"preview","shell_contract":1}
 {"digest":"b7c943f00faed4a2e3fc6a713f5fae506355942c86e6561efd6f8722324995c9","family":"person","person_id":"person_AVu0TnSCvidpkMSBDbhViE","route":"/preview/1983/stephen-skobel","scope":"preview","shell_contract":1}
 {"digest":"5dce07766777b1c5d58cf289aaae203f0a98eee12a5e434ef1982eb70530908f","family":"person","person_id":"person_vrRFQdgeSpGJCapcfyjmeg","route":"/preview/1984/carline-r-wilson","scope":"preview","shell_contract":1}
+{"digest":"8951eeb841ef86d63b1cde61100895dbc1830f9f2dabd797c5754746f7177db4","family":"person","person_id":"person_0inn1zVKa6R315eYctkTQi","route":"/preview/1984/elaine-o-connell-jordan","scope":"preview","shell_contract":1}
 {"digest":"9b1fd9a9336322a21bd36c3635a67e7f37332b36039adcf86756ff4ae5edc9cd","family":"person","person_id":"person_Pvf5OM_1WCkZGD7uwbFDlW","route":"/preview/1984/j-randall-dempsey","scope":"preview","shell_contract":1}
 {"digest":"9397ce12e4a0b2b13f45a03a6eabfad48add161200ccfebc1dd71133ad3fb784","family":"person","person_id":"person_ciyE2E9VQDeDyFEerVgisA","route":"/preview/1984/john-harger-ware","scope":"preview","shell_contract":1}
 {"digest":"99b919c510decc3cfad346345258fcdc3c41e7e7d8b5ba8111882981eaa2d57a","family":"person","person_id":"person_XKR6MTJChBndrXuHKFVAn7","route":"/preview/1984/julia-c-chill","scope":"preview","shell_contract":1}
@@ -1186,13 +1187,13 @@
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/master-of-laws","scope":"preview","shell_contract":1}
-{"digest":"0bc66cff858bf8dc8e45fde11fd3877b7e83729fef833580bf243d421e6c873a","family":"class","route":"/preview/classes/1985/master-of-arts","scope":"preview","shell_contract":1}
+{"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"946174f7c58618bd6b1713e9cf3ae82d7b74b75bc3ac947bf446ce65c07fccea","family":"page","route":"/preview/degree/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"1c8eb67dfd385103b434a8ccf7cf0d4993af6c116c2597cc34e849db06c7942b","family":"page","route":"/preview/exercises/address_to_graduates/1920","scope":"preview","shell_contract":1}
 {"digest":"d9207d1cf98a8362f23be863caafd155a372360648807b625f5bb6828e7e4dbd","family":"page","route":"/preview/exercises/congregational_hymn/1900","scope":"preview","shell_contract":1}
-{"digest":"ce16d437a624bf25390a5f5ffed10a6f8059ead68412577f832647e860b60c9a","family":"page","route":"/preview/exercises/degree_conferral/1930","scope":"preview","shell_contract":1}
+{"digest":"c8f3041ef705bc76d6d59618f00531de947ce95a0d583b7789fa7875aa0cbff9","family":"page","route":"/preview/exercises/degree_conferral/1930","scope":"preview","shell_contract":1}
 {"digest":"80ffb00a0da2f773ffab124168e5e0cb86a6aa921c0518ddf3195e36297be9f7","family":"page","route":"/preview/field/mathtics","scope":"preview","shell_contract":1}
 {"digest":"52e65e0cd80b76b17885920466da27b594c17f612197b841264fe5f573dd805d","family":"page","route":"/preview/field/reference-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"dbcd90bbfbfc98fe1d85f12e4f5dc5694d3c2208e83fab67fcce66fb81f4bbe2","family":"page","route":"/preview/processions/program-beat-6aa4a14f4865d67deaf717de","scope":"preview","shell_contract":1}

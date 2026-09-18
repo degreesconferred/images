@@ -523,7 +523,7 @@
 {"digest":"7c0b7ed142ce8331714bc867098f2a61ed0d3d24d1c28f921c43382f9944c503","family":"person","person_id":"person_3iDKQUxuGkufckB7kQGB8G","route":"/preview/1983/daniel-bernard-caveluer","scope":"preview","shell_contract":1}
 {"digest":"7fea7ba0585c89378c8e00365707ef8e4413345d0d16e63b9d802550e368021b","family":"person","person_id":"person_9EJ_6d0GQsahcknH09Vpqw","route":"/preview/1983/donna-marie-harrison","scope":"preview","shell_contract":1}
 {"digest":"b3837b8fd34ea05a0b6200bc6eb631216ac08bee1bb4d2235342bbbba7f61bdd","family":"person","person_id":"person_QlCDgcpCQZSzqiA_zdBenA","route":"/preview/1983/hubert-j-higgins-jr","scope":"preview","shell_contract":1}
-{"digest":"fa057f531aeb3bcc0e067d0c95498d1a8910ba24ab86e12cf476b351cc2cc394","family":"person","person_id":"person_YBsPs1NhQUyFbTvbaCF1hQ","route":"/preview/1983/jeffrey-m-friedman","scope":"preview","shell_contract":1}
+{"digest":"c95efc2580a8fa4fece6acf04faf02fb9b85099d022262c7f115f118972dd25c","family":"person","person_id":"person_YBsPs1NhQUyFbTvbaCF1hQ","route":"/preview/1983/jeffrey-m-friedman","scope":"preview","shell_contract":1}
 {"digest":"369eb7e8e7d2d899e16205e95be4a5c984c84fb02c1b20dd392d7c777c79f721","family":"person","person_id":"person_cNV5JPuBSYyjmWR5_3kDPQ","route":"/preview/1983/mark-w-filipski","scope":"preview","shell_contract":1}
 {"digest":"c76e8d113747b1d73e03379d2b6a9b8b9e3a3591a8b39648ac5716af7d604331","family":"person","person_id":"person_ZUDWPdi9oJT6zVO3PrTQy4","route":"/preview/1983/natalie-silberman","scope":"preview","shell_contract":1}
 {"digest":"23c132ba0ad4a11af5e63cc8ec3d219a91886c6324a889c7b5464a899b6a2f3a","family":"person","person_id":"person_plBPiTkwTlWOT41CYyRobg","route":"/preview/1983/paula-kay-sorbello","scope":"preview","shell_contract":1}
@@ -536,9 +536,10 @@
 {"digest":"5d3ed106092b1eb49bdd80e71f8a8a4a31a5c8dc0fd9587baf24a4119a1a008a","family":"person","person_id":"person_C1QxqQoTRVyEIfiDvAzaKQ","route":"/preview/1984/joseph-a-field","scope":"preview","shell_contract":1}
 {"digest":"d257d875f2139933963e88be1cd113b29d3723d4c0c498f4900e95f4124af63e","family":"person","person_id":"person_IfqBul1dQdGPAwjg4LsOIg","route":"/preview/1984/lawton-robert-burns","scope":"preview","shell_contract":1}
 {"digest":"c1a68c9ec210bf810fa860d635eb1b944667a8ce972ca4a62cd6b88635b556a9","family":"person","person_id":"person_hNfulym4TBuR0adG2CDzLQ","route":"/preview/1984/leslie-ann-belasco","scope":"preview","shell_contract":1}
+{"digest":"472baba165b426abe7314c3d69c17cf3a74dffab658bcbcb86b42d645e6a77bb","family":"person","person_id":"person_2suzlDoaFh3B2mGecNyxxn","route":"/preview/1984/mary-eileen-morris","scope":"preview","shell_contract":1}
 {"digest":"87abd09037dad2af49b6f284488af5b1455267e0a3c93c0fa3670acb489afb4b","family":"person","person_id":"person_YZMGP9PNSDa4LklEpduZBA","route":"/preview/1984/michalakis-christou-tringides","scope":"preview","shell_contract":1}
 {"digest":"d0e33a7f219c66343c95ca67c72ee3054214a4eb1ded3444a030299318f8b5d7","family":"person","person_id":"person_b4UOZcokTrudzn8vHCkI3Q","route":"/preview/1984/richard-henry-kleeman","scope":"preview","shell_contract":1}
-{"digest":"aab0662c5624610a769edaea0f25aeeb60dd828285e49ecf61705091324c7926","family":"person","person_id":"person_Lj7Z-arzTA6B19oiy7JWCQ","route":"/preview/1984/russell-craig-hirsch","scope":"preview","shell_contract":1}
+{"digest":"d63338cc0a13f9fb9255ab7f2f019b0ec7cc0c9e6d97acd9cd629add07931193","family":"person","person_id":"person_Lj7Z-arzTA6B19oiy7JWCQ","route":"/preview/1984/russell-craig-hirsch","scope":"preview","shell_contract":1}
 {"digest":"cf84b75082abe49239ff4196dc3b69512586a91cfdab92188602a5845378d154","family":"person","person_id":"person_1cJ08onUBq6ST9M_s4SfMw","route":"/preview/1985/alla-a-el-bendary","scope":"preview","shell_contract":1}
 {"digest":"bf092e8ce766665d159332415755e8985267043295c51eca4f1efd10333d4245","family":"person","person_id":"person_F-2xz9u2TVqdMzZbm6Tbvw","route":"/preview/1985/david-andrew-nickels","scope":"preview","shell_contract":1}
 {"digest":"9388a387c0ccd92a9d50704ec0ad860b1ff71506d801d51a69b75105acf88ec1","family":"person","person_id":"person_MmdxsGZShhvkWL3tzVirNP","route":"/preview/1985/david-l-johnson","scope":"preview","shell_contract":1}
@@ -1171,8 +1172,8 @@
 {"digest":"736ea35917f8a66ad13352719feda3c50e3ea8fd15131eea56ff6b332c710ff6","family":"class","route":"/preview/classes/1943/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948","scope":"preview","shell_contract":1}
 {"digest":"e2d12e0ca398f5aa02fd81dcc861451791fa18916a6dc535f69240973071448e","family":"class","route":"/preview/classes/1952/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"93ae7459d99b957d1f9c46aaec648896f5e9196144c0a670ffbc42666ce9c0d3","family":"class","route":"/preview/classes/1991/doctor-of-law","scope":"preview","shell_contract":1}
-{"digest":"93ae7459d99b957d1f9c46aaec648896f5e9196144c0a670ffbc42666ce9c0d3","family":"class","route":"/preview/classes/1991/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/doctor-of-law","scope":"preview","shell_contract":1}
+{"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"6f54bf123fd64ef145e8251223290acf6e15fbf6c48716723349b0a53ef8cec7","family":"class","route":"/preview/classes/1994/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/master-of-arts-in-teaching","scope":"preview","shell_contract":1}

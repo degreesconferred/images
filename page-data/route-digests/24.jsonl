@@ -523,10 +523,10 @@
 {"digest":"ebe154880ac2ae016f713d95d91a46afa3b16f66ef7981052f1d553e227a9639","family":"person","person_id":"person_Es9Uecail1lAeiDt527o9l","route":"/preview/1984/everett-c-olson","scope":"preview","shell_contract":1}
 {"digest":"8ddb374c9f9287d51f1f26638f1031553220f1f4ada5604586662b02f893723e","family":"person","person_id":"person_326tYppUzpUXgYyaKj0Jhr","route":"/preview/1984/jean-francois-laugel","scope":"preview","shell_contract":1}
 {"digest":"167756c649974e93a217591c1258f858dc5d68f1cd4253db4e2ac2ba8fae2563","family":"person","person_id":"person_RLCKzeLAQ7OJo1J5aH95ig","route":"/preview/1984/joseph-gerard-cooley","scope":"preview","shell_contract":1}
-{"digest":"f9e7f6eced3e3a2467a1a0f99d23d929ca603ea0d2a7ff0ebed098e25eba4f0e","family":"person","person_id":"person_EJrOMqNxST-D13gWOBRqjw","route":"/preview/1984/kirk-alan-greenway","scope":"preview","shell_contract":1}
+{"digest":"40ea273dcff75ac684f7a38c8a3af945ac22820f09d597a2fc1d6f0a258ed86b","family":"person","person_id":"person_EJrOMqNxST-D13gWOBRqjw","route":"/preview/1984/kirk-alan-greenway","scope":"preview","shell_contract":1}
 {"digest":"5a2d9401bb174ade26c7ca3f469301a633810cf3e58f8fb526cc5db398f1fee7","family":"person","person_id":"person_T3gjOvxBBrOP8T7vVHEt1v","route":"/preview/1984/paula-ann-harris","scope":"preview","shell_contract":1}
 {"digest":"95a19290d4eb9aa8458577e1c40c17359aa0603415ef36be08d80dc1e9c1d225","family":"person","person_id":"person_8rOFxB9RSIqqJFljKVmwqg","route":"/preview/1984/steven-john-langkamp","scope":"preview","shell_contract":1}
-{"digest":"df8772fc8d47c865a0cafc1963585c4fba3db8f0b2a3fc6aff3aafbaddcdf8ab","family":"person","person_id":"person_-t60rTVXS5OjQvEgKndAZQ","route":"/preview/1984/suzanne-speyser-greene","scope":"preview","shell_contract":1}
+{"digest":"affda55d369b9122aa09ed7835b8b985912b4c0e37a892e90dcf051248284d23","family":"person","person_id":"person_-t60rTVXS5OjQvEgKndAZQ","route":"/preview/1984/suzanne-speyser-greene","scope":"preview","shell_contract":1}
 {"digest":"20da5e1ef66eabf800cac795447629db7560f29ed8a1c7e3ea34fff8e35aef1f","family":"person","person_id":"person_AvdixSgXSQSgcRS6zbEI1A","route":"/preview/1985/angela-harris","scope":"preview","shell_contract":1}
 {"digest":"a19fed23309cf2e95d22b0cc78fbe3e16a33d86ab39a2cdda922e5608ea0658b","family":"person","person_id":"person_456_QsyGQdajMcrRCIQ_PA","route":"/preview/1985/anne-m-kaplan","scope":"preview","shell_contract":1}
 {"digest":"8fc521b808ec2a68cd1b2f3cd2830ea99eb4ab667ed2a67dad5744b50c71739a","family":"person","person_id":"person_3N-XInWuSgm4tWdU4xQFXQ","route":"/preview/1985/carol-a-schwartz","scope":"preview","shell_contract":1}
@@ -1189,9 +1189,9 @@
 {"digest":"9419398ebbf371c7c07ec7bc97fe1fd8f853cc53712809f3a6fb92246f16fc3c","family":"class","route":"/preview/classes/1949/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"9419398ebbf371c7c07ec7bc97fe1fd8f853cc53712809f3a6fb92246f16fc3c","family":"class","route":"/preview/classes/1949/school/college","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/school/graduate-school-of-education","scope":"preview","shell_contract":1}
-{"digest":"a516e4002e88af0600fdeb1e0bf0ca43b6db2fed93e4b9ec7b9b4243beac9c7a","family":"class","route":"/preview/classes/1973/doctor-of-comparative-law","scope":"preview","shell_contract":1}
-{"digest":"f31e822d7652bf7a6e0fa070e1e26e2a8587500e72795a6bec4e84793f4acf35","family":"class","route":"/preview/classes/1976/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"93ae7459d99b957d1f9c46aaec648896f5e9196144c0a670ffbc42666ce9c0d3","family":"class","route":"/preview/classes/1991/school/division-of-humanities","scope":"preview","shell_contract":1}
+{"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/doctor-of-comparative-law","scope":"preview","shell_contract":1}
+{"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"86815069de42a6d4bf62643b3d395fc4a7b5473365aea77085c3fb4c93171572","family":"class","route":"/preview/classes/1998/international-master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"1db70ece7b7e1129839f7b28b7611873554cd0c9da53b171f8dea8ce44c59e14","family":"class","route":"/preview/classes/2010/doctor-of-jurisprudence","scope":"preview","shell_contract":1}

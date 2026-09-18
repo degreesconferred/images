@@ -544,7 +544,7 @@
 {"digest":"e05177665b8065d048f60eed0167d09476db641d1d20023699fb2a9da2fd62c1","family":"person","person_id":"person_j_3IqJRC55sn2g7aXQF9CX","route":"/preview/1983/karl-joachim-weintraub","scope":"preview","shell_contract":1}
 {"digest":"9c512e19c752c4955b828751f2faaaa6c169bbfb0fbeceb72f8aaecad1912631","family":"person","person_id":"person_mAPvzailTH2gGHzXIJTOgw","route":"/preview/1983/robert-steven-salsbury","scope":"preview","shell_contract":1}
 {"digest":"b7a61460b44126281f27e2035a07ad829989ba9e0c2a50911d1db087cdc3abb4","family":"person","person_id":"person_sHXvUWCDKpaCyvULAbMTZF","route":"/preview/1984/andrew-jackson-howard-jr","scope":"preview","shell_contract":1}
-{"digest":"5835756d0822b3c2e0d39dd515e19feb7e2f5cd9494f430307d06e2033e4bfd9","family":"person","person_id":"person_TcV8OfI7Sgmy0Hw2uwZJ-g","route":"/preview/1984/bradley-meyer","scope":"preview","shell_contract":1}
+{"digest":"37dd3d07f59fc21d6cfd0c14a5ffb3ba8a9ff032897d9520743de15341a9a53b","family":"person","person_id":"person_TcV8OfI7Sgmy0Hw2uwZJ-g","route":"/preview/1984/bradley-meyer","scope":"preview","shell_contract":1}
 {"digest":"474ef938ff9c83cdbd03dfe5faa045e3ee34655ed3febad1ee717467a6f77058","family":"person","person_id":"person_y8daldteQTqzF8mplSsudw","route":"/preview/1984/carlton-l-ferrono","scope":"preview","shell_contract":1}
 {"digest":"b8a88ffee60282d79e16caebdc1bf5921f4ea8fa36c14e9986d10fe93bd3a633","family":"person","person_id":"person_ahLp_ClfX8kGuDlBKCcvuV","route":"/preview/1984/dawn-denise-haberlach","scope":"preview","shell_contract":1}
 {"digest":"9d537c4dcc97cc169360896194409fda09e9e8cfbb7742320edddbf3680f2123","family":"person","person_id":"person_eO26kg9sJTVsJlvl15_7FW","route":"/preview/1984/eugene-northrop","scope":"preview","shell_contract":1}
@@ -553,7 +553,8 @@
 {"digest":"9c5d5f7244936afdcbee68df7699108dbc8943bf37c611b30b0b740dbd70f57f","family":"person","person_id":"person_LgGz1QnDSVeasI0JOsKE7g","route":"/preview/1984/mary-elizabeth-carroll","scope":"preview","shell_contract":1}
 {"digest":"2c41bc2f30c191ad080278bfaad31cbb637cc21d8d26ca1f0510a099657b2740","family":"person","person_id":"person_xmv0FgNB1GWZ_9_PiOFFQP","route":"/preview/1984/matthew-craig-halperin","scope":"preview","shell_contract":1}
 {"digest":"af2b44b5d6c6852ff06eff1e05bdd0b96e311543a6e6ebe14cead87f36d640de","family":"person","person_id":"person_Dqo34b7IQTivqRPZQ6L3ZA","route":"/preview/1984/peter-charles-keenoy","scope":"preview","shell_contract":1}
-{"digest":"ac66a64f00ca41ffa0569de9d0db438de24d6e1fed23d8d4115785ab75c1d690","family":"person","person_id":"person_vZGeiLHtQXKYUuov7zZ5xA","route":"/preview/1984/wendy-lynn-friedman","scope":"preview","shell_contract":1}
+{"digest":"e4744effbb15d45ce489151f6d4e296322ccc585a824da352eb245bf5eff37aa","family":"person","person_id":"person_iGO0DSD_9dpuCXrvsHU_QY","route":"/preview/1984/russell-h-hvolbek","scope":"preview","shell_contract":1}
+{"digest":"22959e5dfd13d7cd8a0f6d617d149c46a6d36e5d4333b74dc5ff7eeb0608faa0","family":"person","person_id":"person_vZGeiLHtQXKYUuov7zZ5xA","route":"/preview/1984/wendy-lynn-friedman","scope":"preview","shell_contract":1}
 {"digest":"7abb3ea652a59ddac0ce66329be163fb4127caf7de80d8c4a638247a13272221","family":"person","person_id":"person_8MRVREzQkQWSsxm0xq1mw3","route":"/preview/1985/john-gleason","scope":"preview","shell_contract":1}
 {"digest":"6a11173599a7979be9a5efd3616eb80e1dac039e8f73335ce5a882f9518bf331","family":"person","person_id":"person_AcAF_qUzEEPmz4YrkiPcL-","route":"/preview/1985/joseph-francis-krebs","scope":"preview","shell_contract":1}
 {"digest":"bb9bd6e7e13e7759ae89b7740981f2e457f6030835393026881c8919b6ee27e3","family":"person","person_id":"person_IT4-fFvcSi-EhlDSxcWj3A","route":"/preview/1985/karen-elizabeth-huenemann","scope":"preview","shell_contract":1}
@@ -1217,7 +1218,7 @@
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/doctor-of-ministry","scope":"preview","shell_contract":1}
-{"digest":"36af4206c03d317c3ce737ae98ca1ebb231e6f524748be5f72d3fb25c24f6f99","family":"page","route":"/preview/degree/doctor-of-philosophy/c","scope":"preview","shell_contract":1}
+{"digest":"bdd45b2ff32fe05b0dd608eacf2d26fbeafcceafda0b3610f7f9a03783b11ffe","family":"page","route":"/preview/degree/doctor-of-philosophy/c","scope":"preview","shell_contract":1}
 {"digest":"52f739763fa4488db618a6b3c5c034bb7059f19f6bda7a6d0bee682df88ac7c8","family":"page","route":"/preview/exercises/national_anthem/1990","scope":"preview","shell_contract":1}
 {"digest":"ca6d425a1343d228020890f3d368c6f097c7914e56ed2c59ed38c653cd68988c","family":"page","route":"/preview/field/1725-1731","scope":"preview","shell_contract":1}
 {"digest":"59daa2f05f40b7d3d1ed0b3a29df794a22c56d22510cfdec54f138996838ec3a","family":"page","route":"/preview/field/general-studies-in-humanities","scope":"preview","shell_contract":1}

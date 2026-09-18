@@ -580,6 +580,7 @@
 {"digest":"04a30d86e2341135553228eec5ecd24fefc787f5b70089c7548a39fc9a7dc491","family":"person","person_id":"person_CiaYs-QQnQy-_ldUV4M0L8","route":"/preview/1984/kamal-javed-elias","scope":"preview","shell_contract":1}
 {"digest":"8e268340ea94226eeb4f83654e78dd675dba063928c2cb6090dfd5d93beb0b88","family":"person","person_id":"person_TlUIniDRQhiwqCnpIqtBWw","route":"/preview/1984/michael-terence-barker","scope":"preview","shell_contract":1}
 {"digest":"4a188744d3bed20ac60ad6db5398948116249ff40e36c7df51192d712eb6ae78","family":"person","person_id":"person_yYQV15H2SaUT38YeVdd803","route":"/preview/1984/michael-thomas-adams","scope":"preview","shell_contract":1}
+{"digest":"45449da624748b1d58e01b85dabfdf9748b772cdf22d66f933581968c756bde9","family":"person","person_id":"person_uLMr9u_cAtFRLcPrn3mcBO","route":"/preview/1984/michael-william-cox","scope":"preview","shell_contract":1}
 {"digest":"dbe8647b18c2284bb5e909951507cc34689bcb65da9f1e984356b487bc6fb148","family":"person","person_id":"person_dbQjtObKRSy6RdRenNPA8A","route":"/preview/1984/pamela-b-miller","scope":"preview","shell_contract":1}
 {"digest":"8fd324b1cb127af59c706f24f5918779008d26d5aa80a5d84463c389d440183a","family":"person","person_id":"person_fuO9c7R5Q_K5vIfpmA5tCg","route":"/preview/1984/patrick-s-chow","scope":"preview","shell_contract":1}
 {"digest":"fd166f922e42fcfc05b9e6570101d4322dad8865b32e5d79ee00fe15c80f8da7","family":"person","person_id":"person_5sGMlVQdNykocrR0XRk5Sx","route":"/preview/1985/andrew-a-saliman","scope":"preview","shell_contract":1}
@@ -1319,16 +1320,16 @@
 {"digest":"5abbe6df175ecf10eb9133448eccad0a30abfcad6d80b66607ba2b06076136a7","family":"class","route":"/preview/classes/1962/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"3d640e9fc9892ffc77e5e96d9c381d1e576287ad2577ba92535b9ac688ea3d88","family":"class","route":"/preview/classes/1989/master-of-science","scope":"preview","shell_contract":1}
+{"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"1d0ad1d64a8c7c0d227fb005e65001123781ad44cee1d6d880daf156588713fb","family":"class","route":"/preview/classes/2006/master-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/master-of-arts","scope":"preview","shell_contract":1}
-{"digest":"79870e17b75b30a1109b81d789685b5bba2d834fd59b7056a75f44c6794bd94b","family":"page","route":"/preview/degree/doctor-of-philosophy/z","scope":"preview","shell_contract":1}
+{"digest":"015f02f600423f5479a29d8b7b280421fe88d7803cd4939267a7060d9bbc563f","family":"page","route":"/preview/degree/doctor-of-philosophy/z","scope":"preview","shell_contract":1}
 {"digest":"bf7dec4c9ff1c9126693c8cbc97abd9597ca1ad8b06c90b7e1ad2d160d64abea","family":"page","route":"/preview/degree/master-of-business-administration/j","scope":"preview","shell_contract":1}
 {"digest":"33e878712993c372d95c818577680d87567b796548999efca1b465c29d111ce9","family":"page","route":"/preview/degree/master-of-business-administration/w","scope":"preview","shell_contract":1}
 {"digest":"688376cadbd05614d09cc226a385d9558b59ac9f480dd60755c478171689610a","family":"page","route":"/preview/exercises/national_service_enrollment","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/1900","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/2010","scope":"preview","shell_contract":1}
-{"digest":"0d2c9f30da172a7324004a5d1b7a9dd641bda6feb1ad30ade1f00d5b83f8b830","family":"page","route":"/preview/exercises/recessional/1960","scope":"preview","shell_contract":1}
+{"digest":"aac64227bca539c972d451da7599c2fe9f74763c89711a648be59ec72ab83dab","family":"page","route":"/preview/exercises/recessional/1960","scope":"preview","shell_contract":1}
 {"digest":"33c3a2b035073c3046796715c329246c3ba5c24f6dfc892446736161171cba2c","family":"page","route":"/preview/field/church-history-practical-theology","scope":"preview","shell_contract":1}
 {"digest":"0c14c0b22b0fe8226cb6af05201d8d29b5341c439aa76dcba22167c596335188","family":"page","route":"/preview/field/history-with-houses","scope":"preview","shell_contract":1}
 {"digest":"5a95256e858c0049a06edb0b87c6b3d52f6b0b0b7c541786b211062090ec949d","family":"page","route":"/preview/field/social-thought-and-art-history","scope":"preview","shell_contract":1}

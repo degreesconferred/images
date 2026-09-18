@@ -559,7 +559,7 @@
 {"digest":"dc9c6e96804508c8bf0838e23a7a6a289f366bc1c66cb8b01fa2e8288eb4476b","family":"person","person_id":"person_NA1sSnL7AZmM--0u7bgGME","route":"/preview/1984/james-a-rockefeller","scope":"preview","shell_contract":1}
 {"digest":"9e8a7cc8135f7be2c5a39f1968ead424221111696ca8189400f4691ce3a046ce","family":"person","person_id":"person_LXypquxMN1X6azF6xVz_aF","route":"/preview/1984/jane-gorman","scope":"preview","shell_contract":1}
 {"digest":"24510e910bb13280633e184cb248be66107e016f6272288bccaacc0a20d710b1","family":"person","person_id":"person_EHxsm9V4Rr6FbmC9UEMSCQ","route":"/preview/1984/julia-e-gwinn","scope":"preview","shell_contract":1}
-{"digest":"dc1a8ac532ddf1ba2c0c81ffb1c7e434b02dee335c84d59a10f8d790a5e34f83","family":"person","person_id":"person_UZSHin3sSKyBfNFdDzk9GA","route":"/preview/1984/larry-bruce-kramer","scope":"preview","shell_contract":1}
+{"digest":"cba01b97572fd94a883073c0ed209ed9c1c8cfc679e457166e195758e0b8cab5","family":"person","person_id":"person_UZSHin3sSKyBfNFdDzk9GA","route":"/preview/1984/larry-bruce-kramer","scope":"preview","shell_contract":1}
 {"digest":"c9345fb4baefd43b26fbb3fa556cc9db981bb3e92c843157604b4a5848a42251","family":"person","person_id":"person_yvDHEk_zhmjzfRAdsCKGYY","route":"/preview/1984/m-div-louisville-presbyterian-theological-sem","scope":"preview","shell_contract":1}
 {"digest":"c816afc2d89a4aefe8299b705544ba5091aadc4979a27163587dc61c3b8a3d16","family":"person","person_id":"person_aCV58i2QS6uOepiOXigfeg","route":"/preview/1984/vincent-casanova","scope":"preview","shell_contract":1}
 {"digest":"0c3ff17d4d92c85e105650306084d1a89d5ae4305ba553e4b06925bf433c5f3a","family":"person","person_id":"person_mr2XSTLOTEiTkITPjeKlGQ","route":"/preview/1985/eliseo-vivas","scope":"preview","shell_contract":1}
@@ -1210,8 +1210,8 @@
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"04192245993eb447ef2b8f4cae8b2da5e0acaf63e844b0716fb97a8d679bda1a","family":"page","route":"/preview/degree/master-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"c9a515ead5b2d6913756a3860ca76b871bebc91f7dbb432bfaf17e23b77f02cf","family":"page","route":"/preview/exercises/benediction/1930","scope":"preview","shell_contract":1}
-{"digest":"c9a515ead5b2d6913756a3860ca76b871bebc91f7dbb432bfaf17e23b77f02cf","family":"page","route":"/preview/exercises/benediction/1980","scope":"preview","shell_contract":1}
+{"digest":"064b4384d0139ed2fff6cf95daadebaafe1b0b16385faa014d0fc849c6fd2578","family":"page","route":"/preview/exercises/benediction/1930","scope":"preview","shell_contract":1}
+{"digest":"064b4384d0139ed2fff6cf95daadebaafe1b0b16385faa014d0fc849c6fd2578","family":"page","route":"/preview/exercises/benediction/1980","scope":"preview","shell_contract":1}
 {"digest":"a0ac11b3eff18027fa020c08a89905fef54b1d1cfea1cb22459a7a5124f841d6","family":"page","route":"/preview/field/anatomy-psychology","scope":"preview","shell_contract":1}
 {"digest":"cdbde22edec0819874cd6651db62a9554c441f111f934abfe06cb8361a02a009","family":"page","route":"/preview/field/paleontology-zoology","scope":"preview","shell_contract":1}
 {"digest":"583d168638193f5cea2b21217540fa8e7ab894a99931cdff9a65f775ae9f724e","family":"page","route":"/preview/processions/program-beat-42aa3a35ba3d8604637e0667","scope":"preview","shell_contract":1}

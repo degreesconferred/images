@@ -613,7 +613,7 @@
 {"digest":"879a4e27cd30069626cd8aacfc0b216e9674110aab49d4a31a36ed2f901a8f1a","family":"person","person_id":"person_oLPvOrvhQ_mw3mmOkWTE6w","route":"/preview/1990/robin-clement-roberts","scope":"preview","shell_contract":1}
 {"digest":"08f6f25378e13f4c3e0acf5685644162b5de7c9186caefa3112af91c6ea5938d","family":"person","person_id":"person_53tANxdgRS6G6HfqXR49aw","route":"/preview/1991/david-alan-sockel","scope":"preview","shell_contract":1}
 {"digest":"ebf36c3f52e951d99ebc6c081c1a421d1df8e48e11f951b1e0e0c72ab6562979","family":"person","person_id":"person_c8k8MBxfQoSuI7t6fFm2-A","route":"/preview/1991/enrique-negron-jr","scope":"preview","shell_contract":1}
-{"digest":"97aa115d09d8c27cf2c83842c442a9e245b464a9b958338f0b0efb2c8a9700a0","family":"person","person_id":"person_6ub0gzrbTy2fzn7xLWJ5ew","route":"/preview/1991/lena-lundgren-gaveras","scope":"preview","shell_contract":1}
+{"digest":"ed1e9d9ca13eb0eb083c3becf5b1c5f834751627e8316e5fbe6868f0822a02ce","family":"person","person_id":"person_6ub0gzrbTy2fzn7xLWJ5ew","route":"/preview/1991/lena-lundgren-gaveras","scope":"preview","shell_contract":1}
 {"digest":"833a047869bdf984a53a4d64864faf7fc5a570ecaef0f513ae6be2ee96188be0","family":"person","person_id":"person_yQRfPtKaSzarCzCgL2p96g","route":"/preview/1991/maria-c-galdikas","scope":"preview","shell_contract":1}
 {"digest":"2337a25d9a9cfaa3583ca53f3699358fb46bb0731039c9c9a4ba9c3259a3299c","family":"person","person_id":"person_AzlD2PqxQvq3fzMpuG0uLw","route":"/preview/1991/mark-edwin-arndt","scope":"preview","shell_contract":1}
 {"digest":"bffa8f6d61c2288eb989e780a25dac90f9ee469126576d59802ad2fe67f81274","family":"person","person_id":"person_HsGYsGeZTg6IJUKbtuuS0A","route":"/preview/1991/mong-ha-thi-hoang","scope":"preview","shell_contract":1}
@@ -1201,8 +1201,8 @@
 {"digest":"72121506306be68e7df753ec8c996c75734cadc1a246bb4ffc115ed22124ac99","family":"class","route":"/preview/classes/1941/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/school/college","scope":"preview","shell_contract":1}
-{"digest":"a516e4002e88af0600fdeb1e0bf0ca43b6db2fed93e4b9ec7b9b4243beac9c7a","family":"class","route":"/preview/classes/1973/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"f31e822d7652bf7a6e0fa070e1e26e2a8587500e72795a6bec4e84793f4acf35","family":"class","route":"/preview/classes/1976/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/master-of-fine-arts","scope":"preview","shell_contract":1}
+{"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"6f54bf123fd64ef145e8251223290acf6e15fbf6c48716723349b0a53ef8cec7","family":"class","route":"/preview/classes/1994","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/school/law-school","scope":"preview","shell_contract":1}
@@ -1210,7 +1210,7 @@
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"b1d1f002a057d41838aa88ba229a650d65e90fe277083b31d225549993da930a","family":"page","route":"/preview/degree/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"b8bbd447625c7c9d5d0c1f7ed9460b9ac29d901488175e4fd335b70539adc960","family":"page","route":"/preview/exercises/honorary_degree_conferral/1900","scope":"preview","shell_contract":1}
+{"digest":"06735890628d61f4b513c5ad2cdd65d5f35781b0b38d19a2774b0ae54380d8fb","family":"page","route":"/preview/exercises/honorary_degree_conferral/1900","scope":"preview","shell_contract":1}
 {"digest":"e07a55b4570cef69d8f138cc7bd19f09c17b4e3db9fa2b426ba2c167104ac7d0","family":"page","route":"/preview/exercises/institutional_special/1920","scope":"preview","shell_contract":1}
 {"digest":"b0fbbfa0cff1d78ade66a63c9f0fddcf39dbb0644b5e048adfb5b4939386a3c4","family":"page","route":"/preview/field/mathematics-e-b","scope":"preview","shell_contract":1}
 {"digest":"3b0f557341bd7954b0b521c56fe7e145191e324930491356818a2e79b9b982fb","family":"page","route":"/preview/processions/program-beat-30799eeeb90dc528f56a6145","scope":"preview","shell_contract":1}

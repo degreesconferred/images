@@ -501,7 +501,7 @@
 {"digest":"dbf8c06c175d93dcf6a197c7c7056c64b2c1a64e1ebc5234c274389b1abaac4d","family":"person","person_id":"person_7sL6HkFpRCGPJytSzCnzhw","route":"/preview/1983/robert-william-snyder","scope":"preview","shell_contract":1}
 {"digest":"b1e71885173d3810c70d3df1c2f79d7813e8233a817623b633cff7b4fbca1937","family":"person","person_id":"person_tLIpmReoS4y8L3p23yoI2g","route":"/preview/1983/sharon-leigh-harmon","scope":"preview","shell_contract":1}
 {"digest":"b4656d94ce41016413bb862c2bc4eab227c78a50e99f7c76c7070e200fcf2935","family":"person","person_id":"person_a-b1aQBZTfS9UYasgG_5TQ","route":"/preview/1983/william-sax","scope":"preview","shell_contract":1}
-{"digest":"b7cc868d12b566638bf26d564ea5cfea536e5801b32e532527ac365c645a693a","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1984/amy-b-silverman","scope":"preview","shell_contract":1}
+{"digest":"55423a7ee76fd1e56dfdfb44aa19ed9dbf0dc5c71e0f7387dba41efe0cb7ce9e","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1984/amy-b-silverman","scope":"preview","shell_contract":1}
 {"digest":"d658acc78d09a64a35839436e758b52e3bba2716df9e1164475437de41e73c56","family":"person","person_id":"person_f5V4c-XHQEeghJNisWejKQ","route":"/preview/1984/cory-m-helfand","scope":"preview","shell_contract":1}
 {"digest":"676e3c32d468611c8fe0b7e98fa1c697f7f1dd1b48cd08a42690f1ee7112c372","family":"person","person_id":"person_46Gm-H8hBb3rMWFveTvDYB","route":"/preview/1984/dayne-bradley-miller","scope":"preview","shell_contract":1}
 {"digest":"b4a2ba0a595aee94a97538c59d9f3bc1034319100f5967ee74e4ad9a881f1820","family":"person","person_id":"person_w8muzgYeTaOl2UU9tLGx_w","route":"/preview/1984/mark-eric-huslage","scope":"preview","shell_contract":1}
@@ -1148,12 +1148,12 @@
 {"digest":"a505f9ef1fb5fb0dd654351acf1e4c73553cab9fc59179cd418d1ef879f10325","family":"award","route":"/preview/award/walter-and-fay-selove-prize/2009","scope":"preview","shell_contract":1}
 {"digest":"0ea98e9984d01a1f5fbc82ed3c8c8eb45235861ee154cb6353954bbcf6e0684f","family":"class","route":"/preview/classes/1913/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"a0eebe4c642dc4f538d5651eae4424bf8c724559219b80c10bebcad3580036bb","family":"class","route":"/preview/classes/1950","scope":"preview","shell_contract":1}
-{"digest":"3d640e9fc9892ffc77e5e96d9c381d1e576287ad2577ba92535b9ac688ea3d88","family":"class","route":"/preview/classes/1989/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"93ae7459d99b957d1f9c46aaec648896f5e9196144c0a670ffbc42666ce9c0d3","family":"class","route":"/preview/classes/1991/school/divinity-school","scope":"preview","shell_contract":1}
+{"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/bachelor-of-science","scope":"preview","shell_contract":1}
+{"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"420116b63425fdeb298af1ed4693fd1e2ef403c46cb04cb575f7d7bd829e8355","family":"page","route":"/preview/exercises/prayer_or_invocation/2000","scope":"preview","shell_contract":1}
-{"digest":"0d2c9f30da172a7324004a5d1b7a9dd641bda6feb1ad30ade1f00d5b83f8b830","family":"page","route":"/preview/exercises/recessional/1970","scope":"preview","shell_contract":1}
+{"digest":"ba8321e97bea214d38ea35b117869f88774abf126dcbfd0bc317220af768920e","family":"page","route":"/preview/exercises/prayer_or_invocation/2000","scope":"preview","shell_contract":1}
+{"digest":"aac64227bca539c972d451da7599c2fe9f74763c89711a648be59ec72ab83dab","family":"page","route":"/preview/exercises/recessional/1970","scope":"preview","shell_contract":1}
 {"digest":"32b065011a66979050831a440e3a55903524befb71fc2cfec5e9330d0cd17d2d","family":"page","route":"/preview/field/home-economics-and-education","scope":"preview","shell_contract":1}
 {"digest":"e398ac6132a75690bbe978668a539b35667d70b315621f99884e63fddf054408","family":"page","route":"/preview/field/romance-german","scope":"preview","shell_contract":1}
 {"digest":"5b7804af65887ebcef7c4643491ca1f63ff3ae59cc715755799e6dd8b5212e4c","family":"page","route":"/preview/processions/program-beat-e016b30575959268bfb38bf0","scope":"preview","shell_contract":1}

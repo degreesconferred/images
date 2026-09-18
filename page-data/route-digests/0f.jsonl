@@ -479,6 +479,7 @@
 {"digest":"b8b7115e223f36c1cc3831d0464da4c6447afc4c607c19f49a4b7a126bfac9bf","family":"person","person_id":"person_FyG2JxTci8E58scFDClS6k","route":"/preview/1984/james-louis-singleton","scope":"preview","shell_contract":1}
 {"digest":"31559d609c975246bf7208459479097bc1cb07ef2933df0c59b7219a5a0fa6cb","family":"person","person_id":"person_DDWaLvRtTEGJT8zE0NWnGg","route":"/preview/1984/neal-edward-langseder","scope":"preview","shell_contract":1}
 {"digest":"623365020b8a0641def5d33f14386dfd956e7b6bebfb1b5eae28f77d9b2b21c0","family":"person","person_id":"person_OxE4drI-ri2ya4O0CwvObD","route":"/preview/1984/robert-sumter-lewis-jr","scope":"preview","shell_contract":1}
+{"digest":"49908a7eb015ddf8363e69e071df71b83f32c73c975b8297c78eaf2afa59b62c","family":"person","person_id":"person_FF1nG7WETFya3a1yoc4zdw","route":"/preview/1984/sarah-strother-bunting","scope":"preview","shell_contract":1}
 {"digest":"6dd1d8ada583244145d1c4a464eb53f751e832adc3accec7547ad954dcaf266b","family":"person","person_id":"person_fYoW21uCSqq9MraXEMpt-Q","route":"/preview/1984/wayne-bernard-geschke","scope":"preview","shell_contract":1}
 {"digest":"46bf7d8934415500f0f7f56efb5a94f4908969c8596e2d414c7ee079bb85d2a9","family":"person","person_id":"person_LveE3HJ4TgSGgjtnSDhfNw","route":"/preview/1985/algis-p-strikas","scope":"preview","shell_contract":1}
 {"digest":"19ce9d31442958d1a02796e3c5352d2656a3fbc812a7ee5914fd177422a14d32","family":"person","person_id":"person_ak8CwNfeRl-yxpd85Rd4XQ","route":"/preview/1985/deborah-kan","scope":"preview","shell_contract":1}
@@ -1115,13 +1116,13 @@
 {"digest":"cf3b84db4d65353f1280de0b95d61f9a5a8462fc0dc18a9d3bd284966cb592f7","family":"class","route":"/preview/classes/1899/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"1fcca1d8e6edad90f379b7ae5431bd8155ae8bcf8da92d37a83a8761694a349d","family":"class","route":"/preview/classes/1961/master-of-laws","scope":"preview","shell_contract":1}
+{"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"10fd2c64561ceae18ab5fbf2039845c6d3a7eb94abe82cd32361ef35d6b91dca","family":"page","route":"/preview/degree/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"a2fcb7f6cdca1e789f21449797f2c34ba79fc7d648ae79f26972e43aa115c293","family":"page","route":"/preview/field/elementary-education","scope":"preview","shell_contract":1}
+{"digest":"cb154c28c83099a934eba8d186604eb163167d8a7b9843d13a760b512b596680","family":"page","route":"/preview/degree/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"63bab3ce3cc72a57fde974f8fc7b43863cb8c64d069aa559809cb267b9feac77","family":"page","route":"/preview/field/elementary-education","scope":"preview","shell_contract":1}
 {"digest":"cf1a7696ee7e487179110462f170b8aeea3709633205af852aeb1c494255d718","family":"page","route":"/preview/field/geology-petrography-chemistry","scope":"preview","shell_contract":1}
 {"digest":"5a65d900635de8a5017d7d27f893e4f64a1d99c78a8043443944dae1fe4e3735","family":"page","route":"/preview/field/history-oj-culture","scope":"preview","shell_contract":1}
 {"digest":"a2f317a9a4d20dfaf28671e4f0a6919496fc85112aa55dc2f73d633c7f1ffbc6","family":"page","route":"/preview/field/religious-education-practical-sociology","scope":"preview","shell_contract":1}

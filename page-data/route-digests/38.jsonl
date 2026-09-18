@@ -554,7 +554,7 @@
 {"digest":"894da03da0c21b720bff188cbc98bb3a28ccea131d37cf695a42f286968caa74","family":"person","person_id":"person_nHoz7yfFSXq9p-X5jyR70g","route":"/preview/1984/boris-polman","scope":"preview","shell_contract":1}
 {"digest":"e77ce9dd682215a491832d4807baad4253404a5d0c6dcbbd19286cbf55766676","family":"person","person_id":"person_DzbTIizCQGiMFjvrX273Dg","route":"/preview/1984/jerome-anthony-mysliwiec","scope":"preview","shell_contract":1}
 {"digest":"df50b74f5e5d8f0a9a0760bd95e0f0a673eaed1249cc0744ae5bac91a4ba2fa1","family":"person","person_id":"person_o6vmTtuPTfCyV5mAeI_wSg","route":"/preview/1984/joe-allen-dahm","scope":"preview","shell_contract":1}
-{"digest":"1b4e0f3f15730efdf9cf1412f69de1821719405b099ca0f178726fe1052f1fdc","family":"person","person_id":"person_Y4lQwEf9Saciv1Jq6BN7rH","route":"/preview/1984/karen-michelle-chandler","scope":"preview","shell_contract":1}
+{"digest":"dc128009ce32d7f66410851779ec2d777bf3b0201e7d40d574a40d3db6040746","family":"person","person_id":"person_Y4lQwEf9Saciv1Jq6BN7rH","route":"/preview/1984/karen-michelle-chandler","scope":"preview","shell_contract":1}
 {"digest":"9f2a0863ce8da7dff611fc70a354519d1b4e8bd25168eaecf413601240994cc3","family":"person","person_id":"person_cNx5Emd1QlWpRHH-3OP-lg","route":"/preview/1984/lisa-joy-lecker","scope":"preview","shell_contract":1}
 {"digest":"b3c813e647640ef493551aa324d6d992eae7b7cc9cc55782173d80f7171632b3","family":"person","person_id":"person_iq3D3lg2To-Aa6_ucAB2KA","route":"/preview/1984/norma-carter","scope":"preview","shell_contract":1}
 {"digest":"bdd461382f0231ca917c651350f903606aba996e15434668646c91b8686d6791","family":"person","person_id":"person_KiMscsz1SCq4BeYFtuxoxA","route":"/preview/1984/patricia-l-damoc","scope":"preview","shell_contract":1}
@@ -1286,13 +1286,13 @@
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/doctor-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/master-of-comparative-law","scope":"preview","shell_contract":1}
-{"digest":"5788ee57cc26fe63e6b19737ebdd31bd62ed83b8689d170d3c3afc9f417f013a","family":"class","route":"/preview/classes/1982/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"ff612319db3d71e2aa97ab37acd47521879c18f09bc24e7dbe50bad864f2c061","family":"class","route":"/preview/classes/1984/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"93ae7459d99b957d1f9c46aaec648896f5e9196144c0a670ffbc42666ce9c0d3","family":"class","route":"/preview/classes/1991/master-of-divinity","scope":"preview","shell_contract":1}
+{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/school/division-of-humanities","scope":"preview","shell_contract":1}
+{"digest":"fa5c3b6c460a870c327595477f793c64a1ac80007c27eb3f2c2b26fdeaf97bf8","family":"class","route":"/preview/classes/1984/school/division-of-social-sciences","scope":"preview","shell_contract":1}
+{"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"07965e528b9580a510617300101b6868238fc762fb92ab97acbfad7a3e08f6ad","family":"class","route":"/preview/classes/1995/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"86815069de42a6d4bf62643b3d395fc4a7b5473365aea77085c3fb4c93171572","family":"class","route":"/preview/classes/1998/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/master-of-laws","scope":"preview","shell_contract":1}
-{"digest":"d062323240e9037c8960dfc46fa76a6f04f95212f224daaa9dd4853c09a37407","family":"page","route":"/preview/exercises/degree_group/2020","scope":"preview","shell_contract":1}
+{"digest":"7fc7992ebb205dee89c7f9723dc5ef159560b8b379b53f48746215d9a174b12e","family":"page","route":"/preview/exercises/degree_group/2020","scope":"preview","shell_contract":1}
 {"digest":"45c169f159c1269b1f3ef670c8331ccfa930193d9c25ab87e7071ac9daae4f6c","family":"page","route":"/preview/exercises/teaching_awards/1950","scope":"preview","shell_contract":1}
 {"digest":"1bf144c1a6871cf8c8d29968b982feabbd50a37b5c33a2bbe95a288e45e4bf57","family":"page","route":"/preview/field/committee-on-general-studies","scope":"preview","shell_contract":1}
 {"digest":"3a40e15d650864629f9880d104ba8b8aaf7a46a556448f97c529c67d04db1f7f","family":"page","route":"/preview/field/religious-education-systematic-theology","scope":"preview","shell_contract":1}
@@ -1303,7 +1303,7 @@
 {"digest":"1a66de9c8423d5bbd675b4b5a3e1ca8a4815f4df1e5b5e5a0096c857ebc99a6f","family":"page","route":"/preview/processions/program-beat-ddea9405fbc564c903230296","scope":"preview","shell_contract":1}
 {"digest":"41e17f7129511bc83d7c7ff4e8fb7cab5a2b18b103b4160ffcc89a7ff934fd67","family":"page","route":"/preview/processions/program-beat-edb3aceefd24d17a14baae65","scope":"preview","shell_contract":1}
 {"digest":"28fbf20304d7ee2fd54867ac425e9ccee2430a2cc17272d9f1a30d32c011286f","family":"page","route":"/preview/processions/program-beat-fe4ee17354dd003f4d20b3f3","scope":"preview","shell_contract":1}
-{"digest":"07e160c86f8ac963509693c72f9d58e39b65f04001bb67f03e7f6d20272a9dce","family":"page","route":"/preview/school/college/m","scope":"preview","shell_contract":1}
+{"digest":"e32455e46370a64a11367f3657f299ba3c4a22f48f4a093e37ce9732d6f16bdf","family":"page","route":"/preview/school/college/m","scope":"preview","shell_contract":1}
 {"digest":"1608a2a1e7c76ab366413e73d87c615a3063a534e439f9907b1ea0c2cbf23dfd","family":"page","route":"/preview/speaker/desideratus-cardinal-mercier","scope":"preview","shell_contract":1}
 {"digest":"317d6443e6c98b67410915a47f7f001db20ea73325885aaeee0c59a58f5f98fb","family":"page","route":"/preview/speaker/peter-f-dembowski","scope":"preview","shell_contract":1}
 {"digest":"9be743f3aee4e39a84cec69aa7fd776713164f72a541d27e42c8f1bec94fb590","family":"page","route":"/preview/speaker/robert-t-michael","scope":"preview","shell_contract":1}

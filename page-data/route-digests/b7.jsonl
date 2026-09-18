@@ -549,11 +549,12 @@
 {"digest":"709992d735f7db618e1ce20e56669f3f447f6da117e8be34b331482fe8ec6f07","family":"person","person_id":"person_d2xNG4zAkfMQHShZMXscC8","route":"/preview/1984/fernando-luis-cavero","scope":"preview","shell_contract":1}
 {"digest":"9cb133381dff22db20d4835926dce32473bfa967b499ccd3e51e5bb5955a6845","family":"person","person_id":"person_UBeTe7J9btNQ8ekGHbTgV7","route":"/preview/1984/ing-com","scope":"preview","shell_contract":1}
 {"digest":"3ba1de5b5fed32fa42adaf0a782a79c119dd2e666f8a2b8c81e4f52f20915332","family":"person","person_id":"person_NCCeOz9CQ_SGcXV7sYXfVg","route":"/preview/1984/joel-n-shapiro","scope":"preview","shell_contract":1}
+{"digest":"8e18a5cf1d8e26d419ff7f6b6a476a99c1810bddb45ee44cf46ae803d55331df","family":"person","person_id":"person_Oxcjgacskt3P8oD1EDUFqw","route":"/preview/1984/katherine-amato-von-hemert","scope":"preview","shell_contract":1}
 {"digest":"edc434ef4e4f2239bd5e248636b0f213eb8adf6b3a6543e2744b74c23e9d3f9f","family":"person","person_id":"person_lKX-ZwZMCZ6kR6cQFw1kPN","route":"/preview/1984/lida-k-downey","scope":"preview","shell_contract":1}
 {"digest":"39aaa595997f247fc28170bfae927e17a01900258b8d57dd05b74290e5e1fc06","family":"person","person_id":"person_4u5raRPumGhxwez2-lNk65","route":"/preview/1984/namhee-lee","scope":"preview","shell_contract":1}
 {"digest":"a95574d59ae99e78d24dc053460a7a26d6b4cedf08c62ff43af793994fc7c66b","family":"person","person_id":"person_tLPOYUzrQ7eajH7i-K3ZxQ","route":"/preview/1984/robert-jonathan-blake","scope":"preview","shell_contract":1}
 {"digest":"93deee5a4150309a028dcc5a64f5596afeb1799afe23e9a3abed73b998458270","family":"person","person_id":"person_Sz-MnkhfR4exC22LERHnTw","route":"/preview/1984/robin-weiner-neifield","scope":"preview","shell_contract":1}
-{"digest":"435565b70da049375d0829467000ec007f1193bec38e1da4013e1ccd3786285a","family":"person","person_id":"person_4Gpjvz7yQt6OMsyuF8d-tg","route":"/preview/1984/thomas-w-pyzik","scope":"preview","shell_contract":1}
+{"digest":"e52b902b1aea5a5f8fabc377403b22b8952b952d933ae0d6ec4044fc78b1a254","family":"person","person_id":"person_4Gpjvz7yQt6OMsyuF8d-tg","route":"/preview/1984/thomas-w-pyzik","scope":"preview","shell_contract":1}
 {"digest":"31f29654ecf68aa561ad1db0cd7d5ea13e4e4d324c76936071259b96f844f948","family":"person","person_id":"person_V2BQmb_7T_WSEXvLNizC9g","route":"/preview/1985/bruce-kenneth-leigh","scope":"preview","shell_contract":1}
 {"digest":"5f5cf27d2beb2d2092beedc446e72bd68b32dfa0ab9f548910c28b92bd7f3116","family":"person","person_id":"person_kKrY4L_GTVuObSV-WqmJAQ","route":"/preview/1985/david-nichols","scope":"preview","shell_contract":1}
 {"digest":"0a3e02964296ae380f35d73efbe5a429e4f673d0224f47615fd75fb8076e82c0","family":"person","person_id":"person_wXz1el4ET0ypHtFi4B5mOA","route":"/preview/1985/douglas-c-troyan","scope":"preview","shell_contract":1}
@@ -1263,7 +1264,7 @@
 {"digest":"f72b5fecdc39857dbfaf7948750dff55e10cb74a6fcba784c4ebad5f3067f8ba","family":"class","route":"/preview/classes/1919/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"a916fc85dde2dbb4ee9dde072a71803be1fc7032569c286d4c8833ccdb9d0020","family":"class","route":"/preview/classes/1928/school/college","scope":"preview","shell_contract":1}
 {"digest":"cb4164cea99d97536f1e48bb8e116938d3335b6ed00a4c62cc209a3673ae4aff","family":"class","route":"/preview/classes/1930/doctor-of-law","scope":"preview","shell_contract":1}
-{"digest":"a516e4002e88af0600fdeb1e0bf0ca43b6db2fed93e4b9ec7b9b4243beac9c7a","family":"class","route":"/preview/classes/1973/bachelor-of-science","scope":"preview","shell_contract":1}
+{"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"6f54bf123fd64ef145e8251223290acf6e15fbf6c48716723349b0a53ef8cec7","family":"class","route":"/preview/classes/1994/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/master-of-business-administration","scope":"preview","shell_contract":1}
@@ -1276,7 +1277,7 @@
 {"digest":"faee4545dad7604a71283b2bf5a1f9509b3d16bb86dd53aa6c87ec9ee696d685","family":"page","route":"/preview/field/history-political-economy","scope":"preview","shell_contract":1}
 {"digest":"3b11932d2ced4bbd54b355944bbf44cf325af06144456d572126879ae1ec37ac","family":"page","route":"/preview/field/meteorology","scope":"preview","shell_contract":1}
 {"digest":"66c2b004cd03f2cc90350e0b5f83a5b5a7ca09d8100b408cde71842660d91dc6","family":"page","route":"/preview/field/physiology-pathology","scope":"preview","shell_contract":1}
-{"digest":"17c6c72b9cbe8355fb0da80e5e5f84117a910ff42dbe9ac5b3cc901304197300","family":"page","route":"/preview/field/slavic-languages-and-literatures","scope":"preview","shell_contract":1}
+{"digest":"1c702ebb7d65e71cc6d5580b61d6790b9f47f47ac8d8e533b63c4afa27f85de9","family":"page","route":"/preview/field/slavic-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"4a0534e907a87a9eb0fd4c71ca9d6fad536ca2fc5e87637c42832f7f3c6bc243","family":"page","route":"/preview/processions/program-beat-18d40b1ee96e1f9e664db499","scope":"preview","shell_contract":1}
 {"digest":"fb72a3c038a94f63c27db01404d981f884c577e8a1c56b4cea7b359b206505da","family":"page","route":"/preview/processions/program-beat-e3a04bc37bd299b1f7b6d437","scope":"preview","shell_contract":1}
 {"digest":"161a992da4d2b50f33143c792b5e35bb1183003778cbd7f337b2362aa6d3c8e1","family":"page","route":"/preview/speaker/george-c-lorimer","scope":"preview","shell_contract":1}

@@ -537,6 +537,7 @@
 {"digest":"243d5bf847ea28eeb5bc91335b1192bf10ab087f4cf59ee603ca099bab9adc5b","family":"person","person_id":"person_u5wpJRmeiDUrwCBokwwl4u","route":"/preview/1984/mary-heather-smith","scope":"preview","shell_contract":1}
 {"digest":"f2833d9a11c0bc505ebef259283b6c72b3f9515b48d0bbdf140f857b3da93637","family":"person","person_id":"person_Ww5jEMvhGY1dWNXOO-GFIC","route":"/preview/1984/mee-hyon-kim","scope":"preview","shell_contract":1}
 {"digest":"da87817fc591266eaffe6786cb7a97fda6ad7cb08dc2adc2f66abb2394031677","family":"person","person_id":"person_8Qq6fdugTaWWi8aY5bVtkA","route":"/preview/1984/philip-joseph-bouchard","scope":"preview","shell_contract":1}
+{"digest":"d1354a8481813fa571dfa686ab434b279264456e4fb0ab0196bde30fd698401a","family":"person","person_id":"person_yRJ5Fa_I_HcLchJN3ps2S1","route":"/preview/1984/regina-soos","scope":"preview","shell_contract":1}
 {"digest":"0e1e7794058325f5df2077e4d8cb5bd346887f1aefe03cfcb5f7751b618a9253","family":"person","person_id":"person_uEz6UEgyRVOBAFGdZcDFrg","route":"/preview/1985/andrew-paul-valvano","scope":"preview","shell_contract":1}
 {"digest":"f97866ee4b981bc7d75dc0c34b32d9ec90ee0f7a97711f1203b054e02995fa4d","family":"person","person_id":"person_dEcGr4ixQcSp59EDYboHMg","route":"/preview/1985/bruce-w-heagstedt","scope":"preview","shell_contract":1}
 {"digest":"9a63ad51bfa9614bf65fd48a1beb5daba373b464d7eb6fc089c9d45ce9773328","family":"person","person_id":"person_PcR6GdzgRzCLaNFY6aacYg","route":"/preview/1985/calvin-s-monson","scope":"preview","shell_contract":1}
@@ -1164,7 +1165,7 @@
 {"digest":"e2d12e0ca398f5aa02fd81dcc861451791fa18916a6dc535f69240973071448e","family":"class","route":"/preview/classes/1952/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"e7fc6d4632b6edf656e87b8554a6bacb9811e63d3f0a7b147d6bdfc5d2596d9a","family":"class","route":"/preview/classes/1975/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"0bc66cff858bf8dc8e45fde11fd3877b7e83729fef833580bf243d421e6c873a","family":"class","route":"/preview/classes/1985/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
+{"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/master-of-divinity","scope":"preview","shell_contract":1}

@@ -526,6 +526,7 @@
 {"digest":"374dab3f27071584b9e5ae94454b118b4feefe05a8ad344eccdc2552358d72d1","family":"person","person_id":"person_e0Q5uUXWCogzpTuF1iWMvk","route":"/preview/1983/william-francis-boquist","scope":"preview","shell_contract":1}
 {"digest":"876bed604943836a9baf000c56659bd0a149cbc0331e9ca666058ffef8f825ff","family":"person","person_id":"person_050cTowxmYzgeW43whalbH","route":"/preview/1984/brian-patrick-coll","scope":"preview","shell_contract":1}
 {"digest":"9d94fb2dde548a00f20de8c49a9be4812099384f45bec7b2f67f274c6ca8e080","family":"person","person_id":"person_Go62bhWURiqPVbbji4kxtw","route":"/preview/1984/dicie-hansen","scope":"preview","shell_contract":1}
+{"digest":"de70195c3f58dd37b756cfcad1edeba666af95c6b00a08e7852b9cc88d5652f7","family":"person","person_id":"person_3PH7fxrGVXiG2CEU8H9kNm","route":"/preview/1984/elena-terry-levy","scope":"preview","shell_contract":1}
 {"digest":"531b40d159c8d4986d42cf07e49eeee9aa2d6167a7eab7adb404fa98e6a7aea7","family":"person","person_id":"person_uC4chBbtRueJsUmC8Wz0Cg","route":"/preview/1984/il-young-byun","scope":"preview","shell_contract":1}
 {"digest":"2c34c9819049343fac0a50ed5d113597635612d578070fec60980398b5c9f49d","family":"person","person_id":"person_xaXH7UVfTFi_EfnXzBSiZA","route":"/preview/1984/james-eugene-clark","scope":"preview","shell_contract":1}
 {"digest":"3fe0e85c9da54a58489a9e74ff406ee68c988dade72722f8c25d4b51748106e6","family":"person","person_id":"person_jusyIUkUTpbh9_8KiBNs4J","route":"/preview/1984/robin-gaye-patrowicz","scope":"preview","shell_contract":1}
@@ -1231,7 +1232,7 @@
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-science-in-teaching","scope":"preview","shell_contract":1}
-{"digest":"efebc8b21991c6784f387d3d41507045ec27300831d7ae8966719da18096405b","family":"class","route":"/preview/classes/1977/master-of-arts","scope":"preview","shell_contract":1}
+{"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/division-of-humanities","scope":"preview","shell_contract":1}

@@ -472,7 +472,7 @@
 {"digest":"ebfba6c80b7dcd47c081149bafdf3c328ae24fbb9fc4271c15d8ae9bdbbde2bc","family":"person","person_id":"person_WjoJrI4jQ_2WHLtxNrGoaw","route":"/preview/1980/kevin-dale-swanson","scope":"preview","shell_contract":1}
 {"digest":"5eceb3255452663bdd09922c401345c8a8932841500bdb650ec01c50b95bc11e","family":"person","person_id":"person_W7TSYna1RKOocPwzGdcaIQ","route":"/preview/1980/mark-robert-woodworth","scope":"preview","shell_contract":1}
 {"digest":"cf3ec9a14204c276c3d94fc2f1c433043e1c83a2e525eeb333c3466d50efe3ce","family":"person","person_id":"person_iZ8ByN-vS2C-Oe2A3YXjww","route":"/preview/1980/michael-d-larsen","scope":"preview","shell_contract":1}
-{"digest":"5e366e5f6dfdbd5b221358c48e8e6d67eacdf2f5b514eaf9184759b58319e2f9","family":"person","person_id":"person_JohEnRrFRUm6fuU_Sm-SoQ","route":"/preview/1980/patricia-louise-radloff","scope":"preview","shell_contract":1}
+{"digest":"2464fc16b6c1db1c6fb2ac796844927bf42e375eb4ceb291b687d94c99524af2","family":"person","person_id":"person_JohEnRrFRUm6fuU_Sm-SoQ","route":"/preview/1980/patricia-louise-radloff","scope":"preview","shell_contract":1}
 {"digest":"e23c16ecaf15c172f822f0f6734bf17f1d690da75a81e65023b25405dd696f72","family":"person","person_id":"person_-SRuHSQXQ1O7SUjGUHo4DA","route":"/preview/1980/robin-faith-karlin","scope":"preview","shell_contract":1}
 {"digest":"0d4e28095e42c5a1a4bcac96b360637e19a7311716279510dcec7f1362b4bab9","family":"person","person_id":"person_eLTN9RD8R6y0XCSUv2DPSA","route":"/preview/1981/andrea-d-little","scope":"preview","shell_contract":1}
 {"digest":"2d41114ca8071bc2f808a147216f10ae31733f0986436d97ed1e3a011c459708","family":"person","person_id":"person_1h6fVrIiTs2rk3pixaVKng","route":"/preview/1981/brenda-l-lyons","scope":"preview","shell_contract":1}
@@ -514,6 +514,7 @@
 {"digest":"c32dd289e3a173f6919545204edc755caef69a2753f5d77bbc5bb329d707fb4b","family":"person","person_id":"person_eAzdeLy9SHuAZ-HVLaJrpQ","route":"/preview/1984/barrett-denton-milliken","scope":"preview","shell_contract":1}
 {"digest":"01bf8a71910eb3d95815d7626b1ca0ee6435c492d98344a442672f1e458efd0d","family":"person","person_id":"person_8FDe0W8qm-O8GTYqnKt6YK","route":"/preview/1984/bruce-lecompte-richardson","scope":"preview","shell_contract":1}
 {"digest":"c06d18a88f9491fc20cf4e3b225ecd744e52e8c3a84404f1efa2c0ebc43ab1e3","family":"person","person_id":"person_g8ko5esXRfi2vjln3ncigA","route":"/preview/1984/gerald-francis-fitzgerald-jr","scope":"preview","shell_contract":1}
+{"digest":"af24ba6ac4df386620c59cbc33a77f15bc15d4d9c63b1d66690ebc7a0731551a","family":"person","person_id":"person_p9RGVCM3kivVG6dcaEpTYV","route":"/preview/1984/joseph-barry-heitman-2","scope":"preview","shell_contract":1}
 {"digest":"d60af7ee792b36497337331687264c6fcbe894f44bbce1b1add0b1e6caf07c9c","family":"person","person_id":"person_LZjfzjvpp64zm-SuwwF32V","route":"/preview/1984/judith-ellen-solomon","scope":"preview","shell_contract":1}
 {"digest":"777632283ef9320de144ab7d0d7a563cdcf993677f33d38b292b08d8bde7027a","family":"person","person_id":"person_x_z6vxAc1EkcD4hTOec5Ia","route":"/preview/1985/arthur-perry-hall-jr","scope":"preview","shell_contract":1}
 {"digest":"3a76c49ef8ac0c08a196fd48e55d400e522da18eeda6f827af3854e01955e5eb","family":"person","person_id":"person_JVL1tv_AQBKL0Sv7A4uW6g","route":"/preview/1985/barbara-sebek","scope":"preview","shell_contract":1}
@@ -1191,13 +1192,13 @@
 {"digest":"e9653c7f9164687de1f4b8a170fbc633e66c962d4523a4bf31c9861e1c4fe74d","family":"class","route":"/preview/classes/1932/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"260bc15d7f885337a19a0e3cf2cc17400a8cd1153945c5394d0cdba0ab7af59f","family":"class","route":"/preview/classes/1938/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"112280e1f18490ba661ab1298fc84d0daecc17601d105814c168271a343565f3","family":"class","route":"/preview/classes/1939/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"1fcca1d8e6edad90f379b7ae5431bd8155ae8bcf8da92d37a83a8761694a349d","family":"class","route":"/preview/classes/1961","scope":"preview","shell_contract":1}
+{"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"efebc8b21991c6784f387d3d41507045ec27300831d7ae8966719da18096405b","family":"class","route":"/preview/classes/1977/master-of-comparative-law","scope":"preview","shell_contract":1}
-{"digest":"1af3bcebaecdda8406454fae2525ad86c0349a79963d6ab8ec926ff9af5784a8","family":"class","route":"/preview/classes/1980","scope":"preview","shell_contract":1}
-{"digest":"7dd521bd5c518225fc147af820d7be048e2d4a6c4c985b204d681e596e880c6b","family":"class","route":"/preview/classes/1981/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"f54b4b75ac1775e8d956e29511b6661676bbe5110edead0bb778bd7a6d700d46","family":"class","route":"/preview/classes/1990/doctor-of-medicine","scope":"preview","shell_contract":1}
+{"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/master-of-comparative-law","scope":"preview","shell_contract":1}
+{"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980","scope":"preview","shell_contract":1}
+{"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/bachelor-of-science","scope":"preview","shell_contract":1}
+{"digest":"381c30eb5aad943de07b2648bf7db7e7ac54293513dab5a6c83425df072fc4c7","family":"class","route":"/preview/classes/1990/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"86815069de42a6d4bf62643b3d395fc4a7b5473365aea77085c3fb4c93171572","family":"class","route":"/preview/classes/1998/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/international-master-of-business-administration","scope":"preview","shell_contract":1}
@@ -1209,7 +1210,7 @@
 {"digest":"50922f51fce7224077d2a1c378c2fde236c2b0cc0f408767dd92c01ca59a34a7","family":"page","route":"/preview/field/classics-ancient-mediterranean-world-and-history","scope":"preview","shell_contract":1}
 {"digest":"6eddbdfdc2912d6292c5e9ec3eaee5ab991733c0e2c7373e21a800a96eb0f004","family":"page","route":"/preview/field/divisional-master-s-program","scope":"preview","shell_contract":1}
 {"digest":"22cc50bfbf90eee4b4574c4658dcea6c027563613753931bfa363e34bd84cde4","family":"page","route":"/preview/field/honors-in-medicine","scope":"preview","shell_contract":1}
-{"digest":"c58a2b8d4ab4c8df23528b00821aa3093d0236bb212071235864f4388aaacec5","family":"page","route":"/preview/field/latin-american-and-caribbean-studies","scope":"preview","shell_contract":1}
+{"digest":"6712073d9829cbd30f136a694c0f066e36203b7deeee56cd615e1bf1c041ea23","family":"page","route":"/preview/field/latin-american-and-caribbean-studies","scope":"preview","shell_contract":1}
 {"digest":"90fcb54bfba63f8e54ec241cc8079eee6092151af4ab6fbafa4466b691fc234e","family":"page","route":"/preview/field/new-testament-and-ear-ly-christian-literature","scope":"preview","shell_contract":1}
 {"digest":"bf9e88682307666041acac18c6a5e8a54ccb81fa4a89259edade684541627866","family":"page","route":"/preview/field/please-stand","scope":"preview","shell_contract":1}
 {"digest":"0eed98fd5407f9cf5f6cf5b7a608297b214bcc9cc8e89cabab3db94845ff15de","family":"page","route":"/preview/field/suicology","scope":"preview","shell_contract":1}

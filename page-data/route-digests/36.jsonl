@@ -556,14 +556,15 @@
 {"digest":"8b9e2d5b0d453141e8070846eb0159f05409c435c959bece9d9aca62917c1b7d","family":"person","person_id":"person_D87Ab4k4RxKUGtRDT0wkbw","route":"/preview/1983/steven-winford-holloway","scope":"preview","shell_contract":1}
 {"digest":"76a4f992656c3fee38534cb82be7c2ebf7c1fc2503fde15e1ac3642541f049db","family":"person","person_id":"person_r7MLGtV36uq_ivWfTUfNU2","route":"/preview/1983/tony-lester-simons","scope":"preview","shell_contract":1}
 {"digest":"f9ec43c33e73138ca2eeadbb2b2d0e8e4d640592179251c04c532d4f56948298","family":"person","person_id":"person_tgVd0VsZjtdMf7IFjSl17a","route":"/preview/1983/william-edward-flanagan","scope":"preview","shell_contract":1}
-{"digest":"131fac1d2cb437f055b6e6c50d22070598530a1bf94896996e0f142aed4f7a4e","family":"person","person_id":"person_aBOpGpWZQcuh1j-DG7Bxmw","route":"/preview/1984/brant-e-kanak","scope":"preview","shell_contract":1}
-{"digest":"e1036324ad25fb4d741c1460ad9db079db80c78901c9bab70c3c943938c5b810","family":"person","person_id":"person_H-GKFu44T_efn-akyi2D4A","route":"/preview/1984/bryan-hyland","scope":"preview","shell_contract":1}
-{"digest":"3f294d367c0e5d1bc89050c5660b8c28a56248a90dca996d05e1e89eca13bc95","family":"person","person_id":"person_LRYB3hjmHa67L53RJ9OqzX","route":"/preview/1984/douglas-joaquim-tangel","scope":"preview","shell_contract":1}
+{"digest":"41da2f4194d7a1a619504ccee61f56152912f9e77e6bb9fc120714ddbf179e7d","family":"person","person_id":"person_aBOpGpWZQcuh1j-DG7Bxmw","route":"/preview/1984/brant-e-kanak","scope":"preview","shell_contract":1}
+{"digest":"231557d350fe1f2f7d1d1d96c81c4951a8b6370f285529c31437e5586b1b2362","family":"person","person_id":"person_H-GKFu44T_efn-akyi2D4A","route":"/preview/1984/bryan-hyland","scope":"preview","shell_contract":1}
+{"digest":"dbc0411e828437ce77507642f1f90fbc7ce6da7725ba6d92e4247d0b94908df6","family":"person","person_id":"person_hPtXlwWxzO0R5dvswcIZlU","route":"/preview/1984/donald-fithian-stevens","scope":"preview","shell_contract":1}
+{"digest":"1d78a1c6a2d707064737c5d26f9262bdb7c618ae552b92dbbe0173e7da8c5c73","family":"person","person_id":"person_LRYB3hjmHa67L53RJ9OqzX","route":"/preview/1984/douglas-joaquim-tangel","scope":"preview","shell_contract":1}
 {"digest":"e4e061674b244bbab742be486f1ca0de4e27c743c3e8ccd8a7c455a7f096d6cb","family":"person","person_id":"person_uvp6h5BoSU-v3Vs6EDbxKQ","route":"/preview/1984/heidi-huntington-watts","scope":"preview","shell_contract":1}
 {"digest":"f48523843d5edbb29e7acb3d05ee1642b89c0fceadc4603c85f99b4096625e71","family":"person","person_id":"person_p6HEPFuRmo_b-pE58IbYag","route":"/preview/1984/jiyong-ahn","scope":"preview","shell_contract":1}
 {"digest":"01a8712708f1a228be1938af02f55f9378e0fd94634d3c45875ab01e7b3b9187","family":"person","person_id":"person_J85dd5IgSh2hjhnLzDrdPA","route":"/preview/1984/randolph-j-graczyk","scope":"preview","shell_contract":1}
 {"digest":"4a534d3f3a1697397cb434fbba66f76209766f085f5a5264ab10e918eb88b3e8","family":"person","person_id":"person_qQepvO2cbSxuz_V1wl3uEI","route":"/preview/1984/richard-l-manning","scope":"preview","shell_contract":1}
-{"digest":"d561af8809817f280c3a08a6f5ce5eee01df2b146381d36ec47ea10cdb26034f","family":"person","person_id":"person_5USGqUjLTSuXGIOfXjEnQQ","route":"/preview/1984/robert-whitnell","scope":"preview","shell_contract":1}
+{"digest":"6fb1e3595ecc2a79069c59081617a18c1ff772c7cab063d22becd3a9663fde74","family":"person","person_id":"person_5USGqUjLTSuXGIOfXjEnQQ","route":"/preview/1984/robert-whitnell","scope":"preview","shell_contract":1}
 {"digest":"73b3eecb81c4280bcf1b3245ab6df2c75a6d5841b90e088e987aee7af5b34b77","family":"person","person_id":"person_FLur_f0Xz2N8bfv81oYKIT","route":"/preview/1985/christine-rudman","scope":"preview","shell_contract":1}
 {"digest":"7735e4da9d7054f5bd2cc24b25ee408f1a3e846f8b354cd7d6fbdc850b9d02d7","family":"person","person_id":"person_z1CmpV79TPuEYM4wJzAA-Q","route":"/preview/1985/gene-kyum-kim","scope":"preview","shell_contract":1}
 {"digest":"b038bbb5832e6cd5654fb01ab2ba2063435188196ea1c1f8430a7e3059bba623","family":"person","person_id":"person_1yh1xdi8R3KoUbotj04P4A","route":"/preview/1985/priscilla-miki-ching","scope":"preview","shell_contract":1}
@@ -1234,7 +1235,7 @@
 {"digest":"a9eee4f513cc211eef25b641385fb7bc3c38740735dde63c05d25c971a12824f","family":"class","route":"/preview/classes/1937/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"6c0d371a87bdd12e3223e08098caef955e92c9e5a4dffa798c9a3c6e5bfa72a6","family":"class","route":"/preview/classes/1944/bachelor-of-library-science","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/school/college","scope":"preview","shell_contract":1}
-{"digest":"efebc8b21991c6784f387d3d41507045ec27300831d7ae8966719da18096405b","family":"class","route":"/preview/classes/1977/school/division-of-social-sciences","scope":"preview","shell_contract":1}
+{"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/international-master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/master-of-liberal-arts","scope":"preview","shell_contract":1}
@@ -1242,7 +1243,7 @@
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/master-of-divinity","scope":"preview","shell_contract":1}
-{"digest":"c7868aa64c2f291cb1e029204aa8d4627ebd7ea04b0cfb9dd80207153566fb6a","family":"page","route":"/preview/degree/master-of-arts/s","scope":"preview","shell_contract":1}
+{"digest":"06508d19d1d09f01cd89809b0eb9e1294bf993666723e297e3fbf38fd5bd3dc1","family":"page","route":"/preview/degree/master-of-arts/s","scope":"preview","shell_contract":1}
 {"digest":"0f54b12d4e77b133b8badbf021292ff0e3f3936cd37bb544cca6e526ea601c37","family":"page","route":"/preview/field/geographical-studies","scope":"preview","shell_contract":1}
 {"digest":"701777aba33ac743dc41da9b77214f4e5172b0fdc89081a0b69968dbe178974c","family":"page","route":"/preview/processions/program-beat-abe12fc9a10b09b091dc30a4","scope":"preview","shell_contract":1}
 {"digest":"bbe3e427adf0f736243f18b75ec137039d810ce67c6937fd9f0ade4d0fe23db8","family":"page","route":"/preview/processions/program-beat-f5c813682fdce452b88e3c44","scope":"preview","shell_contract":1}

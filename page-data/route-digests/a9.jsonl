@@ -527,10 +527,12 @@
 {"digest":"02dfc53e7f5bc08c86487e54f3d1566dcb38c2ca85abb09d6602719d2b1c1aec","family":"person","person_id":"person_kX8hizblTk6f3asiYg2POw","route":"/preview/1984/elizabeth-davis-harris","scope":"preview","shell_contract":1}
 {"digest":"9ed0284d6f33267659c8659c05822fe1cb3c7b5a05259b0d638a6f16ba6fba15","family":"person","person_id":"person_AQBLl91FSeCeWS3EBwO_Cw","route":"/preview/1984/james-anthony-rasulo","scope":"preview","shell_contract":1}
 {"digest":"02b75ffe15bfc1d993c880a67facdf604c6bcae22e80d22c9bfae4a67f925dc9","family":"person","person_id":"person_EXpl286iTo6HqhraNuxDBg","route":"/preview/1984/jennifer-peace-thurber","scope":"preview","shell_contract":1}
-{"digest":"3922711848bc10413b63ea749a4ad2be3d08e990f8b2994237c46f20a860f4c5","family":"person","person_id":"person_6Qu92Nx5TAqLuyQH3Ieaaw","route":"/preview/1984/katherine-sullivan-sparks","scope":"preview","shell_contract":1}
+{"digest":"ab5b9ca6d0a900e5e230ce350b495999c37d5dd57007a013723e82874084ca59","family":"person","person_id":"person_6Qu92Nx5TAqLuyQH3Ieaaw","route":"/preview/1984/katherine-sullivan-sparks","scope":"preview","shell_contract":1}
 {"digest":"fae850e043931aa3225c3a28766547184510fc31f50603e161ac7a7f675c8285","family":"person","person_id":"person_xCAb0J74RoyltkufnbiFhg","route":"/preview/1984/lawrence-arthur-hawkins","scope":"preview","shell_contract":1}
 {"digest":"e0bbba359a67643ecdfd8c5b3f24fe4bcdc27c6a809561adf492d9335f51f0bc","family":"person","person_id":"person_-Y_sw_d793R8NDrZyFTktk","route":"/preview/1984/neil-christopher-krueger","scope":"preview","shell_contract":1}
+{"digest":"f730d35a8cddbc986ddb72eff026d8eff6052192147943d5b8bc1b9f2de44dab","family":"person","person_id":"person_Gr6mV-hmLWc_jvdwfpFgLF","route":"/preview/1984/peter-d-reaven","scope":"preview","shell_contract":1}
 {"digest":"a88f7ba01ef86e74766c167dbfabdce914fb8252be27ef7159ae64e8c6ec475f","family":"person","person_id":"person_5yGsEPjPTxyLIvKhDRm5pg","route":"/preview/1984/peter-franklin-kardon","scope":"preview","shell_contract":1}
+{"digest":"10198074b8f6649a3d723a32d5fe088f03b330a7d114850147ed98dd55fa19ee","family":"person","person_id":"person_2WpWGo8qny7ERw_MzYVVx0","route":"/preview/1984/randall-correia","scope":"preview","shell_contract":1}
 {"digest":"e5489ef6a0ddc16fdf8296ba66fcc994a86084d85d70d87a76f5df6f8180c827","family":"person","person_id":"person_xmlef2f-QVKq3tt0EJl0tg","route":"/preview/1984/renee-andrea-krupp","scope":"preview","shell_contract":1}
 {"digest":"1dfd2f413378c8cafde349c6d8d026fc00bae1bf2637341882bb7d57f01da136","family":"person","person_id":"person_qabmmM0WSz6lX5AAHziwFA","route":"/preview/1984/richard-joseph-sondheimer","scope":"preview","shell_contract":1}
 {"digest":"4bc2e4cd17857e71f6819289f168cbafac285f0265bdfbe17cdef36b2ecd052a","family":"person","person_id":"person_855t3RsQvA8eFo5nuCCe9v","route":"/preview/1984/rosalie-valenti","scope":"preview","shell_contract":1}
@@ -1193,8 +1195,8 @@
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"b6182a5342edc5e8b9193f8780cb7d4493304743f20e76ef0841dee9f3eebd42","family":"page","route":"/preview/degree/master-of-arts/v","scope":"preview","shell_contract":1}
-{"digest":"ce16d437a624bf25390a5f5ffed10a6f8059ead68412577f832647e860b60c9a","family":"page","route":"/preview/exercises/degree_conferral/1970","scope":"preview","shell_contract":1}
+{"digest":"b71c5078e82b98ac9acab4365c5a9cfffc7e66ff514af6f795924e77007a8df0","family":"page","route":"/preview/degree/master-of-arts/v","scope":"preview","shell_contract":1}
+{"digest":"c8f3041ef705bc76d6d59618f00531de947ce95a0d583b7789fa7875aa0cbff9","family":"page","route":"/preview/exercises/degree_conferral/1970","scope":"preview","shell_contract":1}
 {"digest":"67579891706e6b6711b3baeea526a23e60345b3daf2e55384262c273e365fdc3","family":"page","route":"/preview/field/chris-history-systematic-theology-new-testament","scope":"preview","shell_contract":1}
 {"digest":"107b5d54f8e595e2fd95baccd8bc1913abb3174b1d6eab564a80025c1e4af6c8","family":"page","route":"/preview/field/disciplines-0-the-humanities","scope":"preview","shell_contract":1}
 {"digest":"b20406a14b92179afe9d8deb7c4f2091df2e4073a3677abf4a77a672618a3540","family":"page","route":"/preview/field/systematic-theology-new-testament-religious-education","scope":"preview","shell_contract":1}

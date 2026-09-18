@@ -520,7 +520,7 @@
 {"digest":"1286f36df841173d669363f5d47343593ba510350fd600cdcc4095cdb3cbf958","family":"person","person_id":"person_dLPwrSM0kUqGBJxhRjgY4_","route":"/preview/1984/ann-marie-thomas","scope":"preview","shell_contract":1}
 {"digest":"1e94a33ed150ae01a048a632ff7e99e7405416a17466b7a6b4de6db0eb2becdc","family":"person","person_id":"person_qnYeF_SbR2emAS1hN8DR5Q","route":"/preview/1984/erasmo-andre-passaro","scope":"preview","shell_contract":1}
 {"digest":"d1b5505020678a4d4c09835bcd031a1ed1bcff8b2a2c3dd8d1729a22e935dfac","family":"person","person_id":"person_SsSM5mkyR1iaoX-XabgX9A","route":"/preview/1984/georgiann-ellis","scope":"preview","shell_contract":1}
-{"digest":"82b41905a1bc37c7e64cc76b0c0fce3441d4b8690d44676313cddacb5f8ff77b","family":"person","person_id":"person_os2FHz0fRb2bpGB-RwOFCQ","route":"/preview/1984/john-michael-shiro","scope":"preview","shell_contract":1}
+{"digest":"6de56662692eb0e77876b08a9f79a6fcb00acb0b2ea2e0d33e62367712b92343","family":"person","person_id":"person_os2FHz0fRb2bpGB-RwOFCQ","route":"/preview/1984/john-michael-shiro","scope":"preview","shell_contract":1}
 {"digest":"9d63a09636c8c0583ea17ff79a53294d3b65c668c1ea045638fab440c8dc9e78","family":"person","person_id":"person_VjLRyl61TLmz1s377WIuog","route":"/preview/1984/paul-d-frenzen","scope":"preview","shell_contract":1}
 {"digest":"3707dcebffbe42c7fdfad99061eea3fd1038a77cf7b36da01eeb6fcf8b1edacd","family":"person","person_id":"person_c4Y0HmP6TW63G2NPYc24BQ","route":"/preview/1984/timothy-w-hurckes","scope":"preview","shell_contract":1}
 {"digest":"c8719dcfb5972423710ba6ebb374bd5b47bd00cecf6d1119b021217e259e654f","family":"person","person_id":"person_IjKi51-HSe6dUFA2krY9_w","route":"/preview/1985/aaron-paul-stubbs","scope":"preview","shell_contract":1}
@@ -1160,8 +1160,8 @@
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"5abbe6df175ecf10eb9133448eccad0a30abfcad6d80b66607ba2b06076136a7","family":"class","route":"/preview/classes/1962/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/bachelor-of-divinity","scope":"preview","shell_contract":1}
-{"digest":"a516e4002e88af0600fdeb1e0bf0ca43b6db2fed93e4b9ec7b9b4243beac9c7a","family":"class","route":"/preview/classes/1973/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"7dd521bd5c518225fc147af820d7be048e2d4a6c4c985b204d681e596e880c6b","family":"class","route":"/preview/classes/1981/master-of-science-in-teaching","scope":"preview","shell_contract":1}
+{"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/divinity-school","scope":"preview","shell_contract":1}
+{"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/doctor-of-medicine","scope":"preview","shell_contract":1}
@@ -1169,10 +1169,10 @@
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/master-of-business-administration","scope":"preview","shell_contract":1}
-{"digest":"b8bbd447625c7c9d5d0c1f7ed9460b9ac29d901488175e4fd335b70539adc960","family":"page","route":"/preview/exercises/honorary_degree_conferral/1930","scope":"preview","shell_contract":1}
+{"digest":"06735890628d61f4b513c5ad2cdd65d5f35781b0b38d19a2774b0ae54380d8fb","family":"page","route":"/preview/exercises/honorary_degree_conferral/1930","scope":"preview","shell_contract":1}
 {"digest":"6e145c854175cec60bc620f4eb2d2e1eee0028b345ba841be9f425999df97aaa","family":"page","route":"/preview/exercises/welcome/2020","scope":"preview","shell_contract":1}
-{"digest":"cf8e6e111313acb7126c4493cdd0e2b1c00c54b18ebf13f5ec5783f2c77bc25d","family":"page","route":"/preview/field/evolutionary-biology","scope":"preview","shell_contract":1}
-{"digest":"69c1f84700ba8139a17ca65da4cb4cf25b7a915de4923c2ca75b1c5bbdd2f974","family":"page","route":"/preview/field/general-studies-in-the-humanities","scope":"preview","shell_contract":1}
+{"digest":"afcc11c984a78c3f0c51f86043c923a06cc8aa4984bf58559d66319c862fdcf4","family":"page","route":"/preview/field/evolutionary-biology","scope":"preview","shell_contract":1}
+{"digest":"4ac89f01a9fd92e01e02bd08a0c3abd029c6873575148001c67bab812560bfef","family":"page","route":"/preview/field/general-studies-in-the-humanities","scope":"preview","shell_contract":1}
 {"digest":"11bf5f3b97c4f486421d04b8387447861b4b736e2cc7ff2af01e277c7190b8f3","family":"page","route":"/preview/field/genetics-genomics-and-systems-biology","scope":"preview","shell_contract":1}
 {"digest":"f8c1f7e304fa6b8870550437b3529cd74923b2bea35cba08d85e66d2b74f4467","family":"page","route":"/preview/field/handwritten","scope":"preview","shell_contract":1}
 {"digest":"d41841c645cbe8357c47f00d92ea52bde8988641108ed069e1a2c6231fa6fc9f","family":"page","route":"/preview/field/hygiene-and-bacteriology-anatomy","scope":"preview","shell_contract":1}

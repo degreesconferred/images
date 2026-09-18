@@ -571,8 +571,10 @@
 {"digest":"7983cfd3025546934139796842e4b8a6ddde4578090ea6fb78b71bdb153b62f0","family":"person","person_id":"person_4b9n02siD2kpgPLqIX4L6R","route":"/preview/1984/michael-ferdinand-hochguertel","scope":"preview","shell_contract":1}
 {"digest":"c9125aeef3eb7b3716ddf5454ae4deecd9f8664fb56721edc7bdec08352acc73","family":"person","person_id":"person_vzLpDY3jQMWCu1Z7UPHRdw","route":"/preview/1984/patrick-c-h-wan","scope":"preview","shell_contract":1}
 {"digest":"c38a9cc245d71928e6c052cff36fad076ad0770b94ca5758d386cdf1bd70e2a0","family":"person","person_id":"person_qdwPTP3rhyLVfTba6GyCzX","route":"/preview/1984/robert-monroe-palter","scope":"preview","shell_contract":1}
-{"digest":"98be4ba831811635d26f79ef3aabf9f8216385ebe5803a2505c6afb228664cf7","family":"person","person_id":"person_-d4SqWUIReWzp6jL-2EL0A","route":"/preview/1984/stuart-ira-feldstein","scope":"preview","shell_contract":1}
+{"digest":"ae4d27cabf9ca205de6aa0df65acf8892c861be0a5d08e056c8ac1c59dfb67e9","family":"person","person_id":"person_60TYIV2Opdw8ML6SFwR4Uz","route":"/preview/1984/ronald-michael","scope":"preview","shell_contract":1}
+{"digest":"b5a463d0c54299b7c092b5bdfc37d6ea61e3c36a870a3c26221d1a4f07ecfe67","family":"person","person_id":"person_-d4SqWUIReWzp6jL-2EL0A","route":"/preview/1984/stuart-ira-feldstein","scope":"preview","shell_contract":1}
 {"digest":"dc134016425d037b869e424466eb6b6a3bed7686a67e3c364162d2684ec06f15","family":"person","person_id":"person_lafNtVLQ-ThfQGc8b4PEgQ","route":"/preview/1984/susan-ann-ziegler","scope":"preview","shell_contract":1}
+{"digest":"4fc5c57a1b8fd1aa8252b45f21d758912b5eeced280e1315972d10ea5b950f2a","family":"person","person_id":"person_0bZCUu4l2_c2oCDGHQjgW-","route":"/preview/1984/suthan-janhom","scope":"preview","shell_contract":1}
 {"digest":"a8b27ac6b2ef884fc1434104d396f26ec28e0fd71f51d21a7576024eb893bfb9","family":"person","person_id":"person_VXr2xXfVQ1O7Khpr6eMtZg","route":"/preview/1985/craig-william-schlue","scope":"preview","shell_contract":1}
 {"digest":"bb95846e2cc61cfecd769c93311b0715e5ab6bcdbab9a277c9cebe1995cb86ba","family":"person","person_id":"person_ZwqzjZZ3TcWfylRZfjTOIA","route":"/preview/1985/edward-j-casey","scope":"preview","shell_contract":1}
 {"digest":"784bf0515b6c08169a40fcdd805fa57f227e9cfc1e89c71ff5c4cc334f7f6e32","family":"person","person_id":"person_ZDWQcdKsT3S6TpPIcD8WAg","route":"/preview/1985/henry-ming-chang-chu","scope":"preview","shell_contract":1}
@@ -1270,7 +1272,7 @@
 {"digest":"8f70c0568ead188168d9d4e4730871e3dea8d4a6eb39015a46fc43a47d2105e3","family":"award","route":"/preview/award/alfred-p-sloan-doctoral-dissertation-fellowship/1991","scope":"preview","shell_contract":1}
 {"digest":"90e2280dcef755a91e039bc4b8a0be1c3a56e246470a8b76b2e2f3b7a9178fa5","family":"award","route":"/preview/award/american-institute-of-indian-studies-junior-research-fellowship/2012","scope":"preview","shell_contract":1}
 {"digest":"63002389acb0693690b4d72733935fb089fb5c6077778efb9cf3766c3de669a9","family":"award","route":"/preview/award/award-for-outstanding-performance-in-the-field-of-cell-and-molecular-biology","scope":"preview","shell_contract":1}
-{"digest":"c91273c02703fbf428bd4a43ef70998c378ba830188c696152cd898ebd62b1d3","family":"award","route":"/preview/award/award-of-honors/1985","scope":"preview","shell_contract":1}
+{"digest":"d98b0d81c67c821b9d8209dc933f6d7520b5502cdaddbdf279c8c7187a21f0f4","family":"award","route":"/preview/award/award-of-honors/1985","scope":"preview","shell_contract":1}
 {"digest":"953a44b0a155c52df79ab01fbc1348d03a048c1b6f51feb86557fc00f54e5c54","family":"award","route":"/preview/award/award-of-honors/2017","scope":"preview","shell_contract":1}
 {"digest":"8a06ebee573512cdf7ecfbcbcc22b611874aa723d7f7a6464fa3d32fe53b81cb","family":"award","route":"/preview/award/borden-undergraduate-research-award-in-medicine/1960","scope":"preview","shell_contract":1}
 {"digest":"0361f1b4a1229f76367c68641e8337759d1591c70a6fc85b6403996efb7d0fe8","family":"award","route":"/preview/award/feminist-studies-dissertation-fellowship/1999","scope":"preview","shell_contract":1}
@@ -1294,12 +1296,12 @@
 {"digest":"9eea4d256993e8a7111802cd29ee5c2e0c35e2c70442cbc39395a915ad93c10d","family":"class","route":"/preview/classes/1947","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"67960ee41466d0ddf811006ebabfb3d2ad1d85d2391827d902fb30611721ec20","family":"class","route":"/preview/classes/1983/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"0bc66cff858bf8dc8e45fde11fd3877b7e83729fef833580bf243d421e6c873a","family":"class","route":"/preview/classes/1985/doctor-of-ministry","scope":"preview","shell_contract":1}
+{"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/doctor-of-ministry","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/master-of-divinity","scope":"preview","shell_contract":1}
-{"digest":"b0cf97bad217a0b0915756cfc463b0573e9493e9bd55724355c0e1e851aaeebe","family":"page","route":"/preview/exercises/alma_mater/1930","scope":"preview","shell_contract":1}
-{"digest":"e1f9be7f4bdc0d29af6f664c38595d0173254c1939525d5535a456ea755605aa","family":"page","route":"/preview/exercises/choral_anthem","scope":"preview","shell_contract":1}
+{"digest":"d0cbc5aa987e892c51dd3a7f5fd4455a42b05df5e32d9e78d5d689079d1c8d46","family":"page","route":"/preview/exercises/alma_mater/1930","scope":"preview","shell_contract":1}
+{"digest":"e2873371353f900a14cece6ea6ecce1fdb427e43adbed4002aca3b1a22ecd39e","family":"page","route":"/preview/exercises/choral_anthem","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/1950","scope":"preview","shell_contract":1}
 {"digest":"11015ee647a93cabf97ed72f3ed7abbd2e67057d8c6ccdbe34ba09fbfb749621","family":"page","route":"/preview/field/computational-and-applied-mathematics","scope":"preview","shell_contract":1}
 {"digest":"c5f7d0bb7ecfee6f22c7a08160ad96491936948a4c61e974e9b8420d1931011f","family":"page","route":"/preview/field/honors-in-physiological-chemistry-and-pharmacology","scope":"preview","shell_contract":1}

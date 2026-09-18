@@ -465,7 +465,7 @@
 {"digest":"5b2f7932da637f9bf41298ffeda5eb7f0faf3f2c22cec747f9a8c96cb965bdb0","family":"person","person_id":"person_iFN7v7wKTNGZeSaPWeTNaw","route":"/preview/1977/albert-laighton-osterheld","scope":"preview","shell_contract":1}
 {"digest":"4c27e2379df65a677b610f6e838e67c1a489e96496dba28546506d3f1ae46322","family":"person","person_id":"person_rCIiGKh1SymDsXIFMASuxg","route":"/preview/1977/ann-b-fein","scope":"preview","shell_contract":1}
 {"digest":"15a311f477d514a0fb6aa10826e7d830414d3e42818e2098e3b19d45c9f0a228","family":"person","person_id":"person_ClhcF3jXRHqGdSe3w6qfKQ","route":"/preview/1977/daniel-joseph-dzurek","scope":"preview","shell_contract":1}
-{"digest":"1c4cbfb5b47557c4c01b0bce9f729ecd10cecd95226b759f2cfb644d610ff9af","family":"person","person_id":"person_NuabmibuRSGS_cDvWyI19A","route":"/preview/1977/david-warren-beaubien","scope":"preview","shell_contract":1}
+{"digest":"4e55b6f5b0fd00dd867c38042c777aef3a5f3c78863a8b8d6131476f84521f60","family":"person","person_id":"person_NuabmibuRSGS_cDvWyI19A","route":"/preview/1977/david-warren-beaubien","scope":"preview","shell_contract":1}
 {"digest":"4cbd9bf3a925d463672a201778b5562b933d75e95b1b997720f51764c6fd9dd7","family":"person","person_id":"person_DdcPIKF0nZOJd_rW2qCHi4","route":"/preview/1977/joan-marie-weidenhamer","scope":"preview","shell_contract":1}
 {"digest":"bd4a1689e09c41e6f138d2b387bd4d5ab59ae7bde4319290e6a739b42cea9235","family":"person","person_id":"person_NOp6RmtCTEmKiQowIa2H5w","route":"/preview/1977/kerry-stephen-mcnamara","scope":"preview","shell_contract":1}
 {"digest":"5664270cf9633edb4b600c65e75e0bd1565450a7c5af9c22d0d9ad0edac792f3","family":"person","person_id":"person_tt6uxDLmC4T_lMEamYDF5I","route":"/preview/1977/manoj-chandravadan-adhikari","scope":"preview","shell_contract":1}
@@ -543,8 +543,8 @@
 {"digest":"6028e360110330cf4a74af605fac17e4f14e0ee3c3b8acc07c93365f452de9b9","family":"person","person_id":"person_G028QxqBEN2B0rgMjTzyK9","route":"/preview/1984/daniel-a-seligman","scope":"preview","shell_contract":1}
 {"digest":"2c0278289645e2c0681097e4d9de6626fbe4c26e5980f74e67b035e65e3214cb","family":"person","person_id":"person_tsxJKS6GT86vPmbhoo_X4w","route":"/preview/1984/earle-david-miller","scope":"preview","shell_contract":1}
 {"digest":"84b2227b3ed294ac285eb2a73131d83d47e9c94f101e67dbff13800095201b9d","family":"person","person_id":"person_PxyYPgqFSD-e8zIvs_wJuw","route":"/preview/1984/gwin-j-kolb","scope":"preview","shell_contract":1}
-{"digest":"24bf8afb74cdb3dff513ffd2139c3adce5f297c0ba6f29ac2110ccad63cfdfa8","family":"person","person_id":"person_py12huhXdYuiWa3ZVjIZqY","route":"/preview/1984/ian-bruce-hamilton-iii","scope":"preview","shell_contract":1}
-{"digest":"4e3911aaa5c396413bd631e3092432431da8590b816d741c5a5d75eb70e42306","family":"person","person_id":"person_CZwlVVRdSPup5lIiGl1mqw","route":"/preview/1984/james-welsh-lewis","scope":"preview","shell_contract":1}
+{"digest":"d011a2967e50e23275886da60e33438a141612651f2564d9dbb4fa12719a1376","family":"person","person_id":"person_py12huhXdYuiWa3ZVjIZqY","route":"/preview/1984/ian-bruce-hamilton-iii","scope":"preview","shell_contract":1}
+{"digest":"481a91a4f619721e5849d1b4f5ae15bff81abe2dcec1fad728a6e2c7b7928524","family":"person","person_id":"person_CZwlVVRdSPup5lIiGl1mqw","route":"/preview/1984/james-welsh-lewis","scope":"preview","shell_contract":1}
 {"digest":"73fa0fda989b46986984aa888b586268daf25691a2c2b198ef1c5e10f49c0f99","family":"person","person_id":"person_pkP5BmRmS8iZXErpAaGeaw","route":"/preview/1984/jaswant-singh-gill","scope":"preview","shell_contract":1}
 {"digest":"5b4315bdd21f35ee174a53d7ac35366b1be5db499df8330dfc4e193159caab20","family":"person","person_id":"person_i87vJuejQLyz4FGmDOWTbg","route":"/preview/1984/jonathan-b-abram","scope":"preview","shell_contract":1}
 {"digest":"d0c8d9d20fbf57a8d3abab405eaa174f6b8de3fd097b6d8959ccf2aaae3d3118","family":"person","person_id":"person_WKo3NixJSTLtk3NOqcLyiF","route":"/preview/1984/judith-colp","scope":"preview","shell_contract":1}
@@ -1241,13 +1241,13 @@
 {"digest":"9b0ac8502c518c83b22f14c29e7b59d9d7c0edc007263c5c2934f4de8cac9c83","family":"class","route":"/preview/classes/1935/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"412704ab2ab5b73432fc7220c13f2f31f1e4e13a609f50306bd093f4386597be","family":"class","route":"/preview/classes/1936/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"bdbb74e8b4d641f6d054b42aec80b057cb63b329503981b431950aeede6206c5","family":"class","route":"/preview/classes/1954/master-of-arts","scope":"preview","shell_contract":1}
-{"digest":"f54b4b75ac1775e8d956e29511b6661676bbe5110edead0bb778bd7a6d700d46","family":"class","route":"/preview/classes/1990/doctor-of-law","scope":"preview","shell_contract":1}
+{"digest":"381c30eb5aad943de07b2648bf7db7e7ac54293513dab5a6c83425df072fc4c7","family":"class","route":"/preview/classes/1990/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/doctor-of-ministry","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"9d7deee9cf57d671c59a2e99046dd627ccc2c652755d6627bb5acfd4ffb2238a","family":"page","route":"/preview/degree/master-of-arts/m","scope":"preview","shell_contract":1}
+{"digest":"9b8fba92860cb7de0b0a31fc93494d9ccb0c1f2433e92d3bbc6580cc00345ce5","family":"page","route":"/preview/degree/master-of-arts/m","scope":"preview","shell_contract":1}
 {"digest":"45c169f159c1269b1f3ef670c8331ccfa930193d9c25ab87e7071ac9daae4f6c","family":"page","route":"/preview/exercises/teaching_awards/1970","scope":"preview","shell_contract":1}
 {"digest":"cfcea86e1233db04fc1173a98bba397cec765347d0ebbceec5657b1cbcfe5aec","family":"page","route":"/preview/field/chemistry-and-physiological-chemistry","scope":"preview","shell_contract":1}
 {"digest":"33cc29df4ecb8da2641331d58ed0c810704ad7ecccee611d372a0e86dd43c0f8","family":"page","route":"/preview/field/chemistry-home-economics","scope":"preview","shell_contract":1}
@@ -1257,7 +1257,7 @@
 {"digest":"ce51e035cae0841517fa87b96e928ebd052dd401e58a7b150a94fbd3f5ed785d","family":"page","route":"/preview/processions/program-beat-518c83c2c197fd4ea6c485d1","scope":"preview","shell_contract":1}
 {"digest":"dfcebe6d5d74f8b063e50409c98c31bba72ddd096a928b30ab67c611ac48404d","family":"page","route":"/preview/processions/program-beat-9acd4cd2644c90d564e29518","scope":"preview","shell_contract":1}
 {"digest":"daf059637dccf54cf8c673485262da11044b624f38c2fc8d49e529b281374814","family":"page","route":"/preview/processions/program-beat-fe8cdb3e548b3ccb59d23c52","scope":"preview","shell_contract":1}
-{"digest":"db21e3ed65051acf9d7137850875365dc3f109666259bf16576f0a85165553e8","family":"page","route":"/preview/school/college/h","scope":"preview","shell_contract":1}
+{"digest":"95f985115407922e0004c52f327a45ec0bcf70cc592fc97569f0de1d5bc25b82","family":"page","route":"/preview/school/college/h","scope":"preview","shell_contract":1}
 {"digest":"252aa635bdcd365593cf62f614db7becfe397a7cebc27b7dd661de2bfa303b5f","family":"page","route":"/preview/speaker/edward-hirsch-levi","scope":"preview","shell_contract":1}
 {"digest":"79ad7629743e264f89d6bb894ff3b173a400957c608d1e958205abbc1101ace1","family":"page","route":"/preview/speaker/james-calvin-burwell","scope":"preview","shell_contract":1}
 {"digest":"9ab1ff84b2ff7219ab106d8872f4e08348c033bd2112dc779838f6fd41b1c010","family":"person","person_id":"person_TKKwXoZgRpC-KRv3u89tOw","route":"/1893/james-washington-falls","scope":"production","shell_contract":1}

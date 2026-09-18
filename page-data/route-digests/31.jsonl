@@ -501,7 +501,7 @@
 {"digest":"1551aef3997ba74e52a8da52a2cb8b414766901d76b44f16a1aaed31650a3760","family":"person","person_id":"person_FxYqxp_jnE08BJ1n1-8X-_","route":"/preview/1984/joseph-a-ritrosi","scope":"preview","shell_contract":1}
 {"digest":"147ea6ea2844b90ae434d88c999b3f36572ec2a221c9488d21b683da8b81e081","family":"person","person_id":"person_1n1INs5BTQKxg7l-Ah4G2A","route":"/preview/1984/juliet-r-mack","scope":"preview","shell_contract":1}
 {"digest":"8b5625f7e09d2ea01c1c849853b153f10fae699eb084c175de4f844cb1b8b0e3","family":"person","person_id":"person_ljJYATiNQeKufLHJCQdlGg","route":"/preview/1984/katherine-winstead","scope":"preview","shell_contract":1}
-{"digest":"13a8ac8d0613ce06069dc3d72fc9adb49b84c794069413ab9085e7423a8cf13b","family":"person","person_id":"person_7xi2kdJUTWm7tYTwvuQXaA","route":"/preview/1984/robert-f-kushner","scope":"preview","shell_contract":1}
+{"digest":"090ed525c21a06c36b046fde5375e93d274b6b8288fd1e7e95e6f8f37b0466cd","family":"person","person_id":"person_7xi2kdJUTWm7tYTwvuQXaA","route":"/preview/1984/robert-f-kushner","scope":"preview","shell_contract":1}
 {"digest":"339a390cea234ae34b53cad3c0afaa21914a6f5b56b0e55e1c2c6a4e501b4ede","family":"person","person_id":"person_FLomFN-kQ3qHOUEz7jgUUA","route":"/preview/1984/thomas-paul-havekotte","scope":"preview","shell_contract":1}
 {"digest":"efaf0a2eded35834611a579d71109c19593e366325cae239a1246d8050bbc52e","family":"person","person_id":"person_19lQHGi8TPWRhE3jAvsn8g","route":"/preview/1985/aaron-sayvetz","scope":"preview","shell_contract":1}
 {"digest":"d6a68eeab32452e6d1bae53ba199adce48be87b6e661f939bffa6585318be4ec","family":"person","person_id":"person_A1RXPMl4TXGq8Ooy5Jyzyw","route":"/preview/1985/alice-s-hotchkiss","scope":"preview","shell_contract":1}
@@ -1161,8 +1161,8 @@
 {"digest":"3dc5aded26f29b8329e746de58d3b523a6fe143ee7aa8b2734ff0e39b4cf2399","family":"class","route":"/preview/classes/1893/school/college","scope":"preview","shell_contract":1}
 {"digest":"260bc15d7f885337a19a0e3cf2cc17400a8cd1153945c5394d0cdba0ab7af59f","family":"class","route":"/preview/classes/1938/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/school/booth-school-of-business","scope":"preview","shell_contract":1}
-{"digest":"efe8289949242852cd3c4e45bc2f73f2015a8d0edc4d604a0524bb0956918b71","family":"class","route":"/preview/classes/1978/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"5788ee57cc26fe63e6b19737ebdd31bd62ed83b8689d170d3c3afc9f417f013a","family":"class","route":"/preview/classes/1982/doctor-of-law","scope":"preview","shell_contract":1}
+{"digest":"d7ea3d3a1cb82a936fe9f7d50903b68e680d05d7a3a94e504448242f3b9ca859","family":"class","route":"/preview/classes/1978/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
+{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/doctor-of-ministry","scope":"preview","shell_contract":1}
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}

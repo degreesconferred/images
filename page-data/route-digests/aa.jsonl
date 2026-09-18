@@ -494,13 +494,13 @@
 {"digest":"eafe977efacd15ea1a64fd7b496f51bc73f787521dbf1e6fe2a77fc2577ee60e","family":"person","person_id":"person_Yzhv1IoCT5OFlHAuQLD3fA","route":"/preview/1983/rebecca-hassoun","scope":"preview","shell_contract":1}
 {"digest":"bd45cc563741852703dff861203dcf9f3c8411a500f1bd82f3b57db59fd6aee1","family":"person","person_id":"person_YD5zsxaJ_0v2HEVMjludrp","route":"/preview/1984/david-i-ma","scope":"preview","shell_contract":1}
 {"digest":"7dca45fff7a827b0e65d1ffa4a1e18678b649b7d18e6b34dc2611a66a95d2f37","family":"person","person_id":"person_Meett26XRBaGaXmASKs28A","route":"/preview/1984/doris-hightower-warren","scope":"preview","shell_contract":1}
-{"digest":"d172282e6d7599687eb6dd0883eba39f6ce8b51f9c7d0fb266900f8ebd9bc658","family":"person","person_id":"person_JA8gYZL3RgaxavQJpHeuyA","route":"/preview/1984/james-barton-duncan","scope":"preview","shell_contract":1}
+{"digest":"7e0add0de65a055a25ed0894b2beb0ca49eac1d187e906f34530961c18930a1d","family":"person","person_id":"person_JA8gYZL3RgaxavQJpHeuyA","route":"/preview/1984/james-barton-duncan","scope":"preview","shell_contract":1}
 {"digest":"445df1df1c5a6e98e43922271cc6c6e86cac184cd72da9f606390ee839d1d6f5","family":"person","person_id":"person_Podl1Ob-NOAptaZVZBkqcZ","route":"/preview/1984/james-bayard-parsons","scope":"preview","shell_contract":1}
 {"digest":"38f962c0e5269829c416c03cb3880437884638afbc02a02a3c65f439e6d2a00a","family":"person","person_id":"person_Id_xg_ga05W47LO5z4xdIR","route":"/preview/1984/james-peter-simeone","scope":"preview","shell_contract":1}
 {"digest":"417bf4b7da55a12168ba8c02a444d4fdcee2b7855db67de4bc34ca8c819b8cbc","family":"person","person_id":"person_RhzoJkeIQRiVmy3HrjHvQQ","route":"/preview/1984/joetta-grace-forsyth","scope":"preview","shell_contract":1}
-{"digest":"fd676f6b1c57a3aca34d11f3761617bc991228913d3bd526805482d6ea5d2a3a","family":"person","person_id":"person_PmN7b0rfS3mAB3geietB8F","route":"/preview/1984/john-c-michael","scope":"preview","shell_contract":1}
+{"digest":"e431c5d6e1c6ecc1270a78c5833ad386ceb25d7e400212bcd4db96377a2d6078","family":"person","person_id":"person_PmN7b0rfS3mAB3geietB8F","route":"/preview/1984/john-c-michael","scope":"preview","shell_contract":1}
 {"digest":"8192cb6e12b89e6b048856dbf5486466941af7ef26683d79103e220ed8471bb8","family":"person","person_id":"person_LCTItxkBQ94Gquptfp8txd","route":"/preview/1984/kathleen-marie-kelly","scope":"preview","shell_contract":1}
-{"digest":"a03113286a3f23c78f1861192c9ee74cddb2c19f6e15b73b1f0cbcaf771f4354","family":"person","person_id":"person_22Yes46TSmykGdwDOhftDA","route":"/preview/1984/kent-alan-kirby","scope":"preview","shell_contract":1}
+{"digest":"17ae1bd4790c37de13dd8d6cf1b4eaac954b92bc1c46bdc0f7c8ca66275de8a9","family":"person","person_id":"person_22Yes46TSmykGdwDOhftDA","route":"/preview/1984/kent-alan-kirby","scope":"preview","shell_contract":1}
 {"digest":"c31b17b5691b0e1142e12f838b94a530f220158e1704e26047f6f6fb9ebfa9ec","family":"person","person_id":"person_l4FBv37jEFfku2le4k8qO5","route":"/preview/1984/kristy-lee-stewart","scope":"preview","shell_contract":1}
 {"digest":"bd2c88011fc9124b581e3dbdb2600b538e2b1d40faffbb9d6a9d13d0a87f4d4d","family":"person","person_id":"person_AYKKWsYLToafiXUvYgjxqA","route":"/preview/1984/martin-jerry-schnell","scope":"preview","shell_contract":1}
 {"digest":"a6c30229088e47569531c39fae6f11a4800b340c90122324601a8e06ff82025b","family":"person","person_id":"person_DyBiguSzT16NvB8KKVlMLw","route":"/preview/1984/sumit-ranjan-das","scope":"preview","shell_contract":1}
@@ -1184,7 +1184,7 @@
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/master-of-legal-studies","scope":"preview","shell_contract":1}
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"845e1039290c0f1917e59997354d062d73f81f45e684d71f81e5fc318f15de13","family":"page","route":"/preview/exercises","scope":"preview","shell_contract":1}
+{"digest":"fef78be2b3afe1735c84ad3c411173d243b737496d830cff5065717f18adc805","family":"page","route":"/preview/exercises","scope":"preview","shell_contract":1}
 {"digest":"31807294ff075d61e8c22fe78f6e5dd8a50bf3cb5d3e77ef47836af4b83f45dd","family":"page","route":"/preview/field/astrocomy-physics","scope":"preview","shell_contract":1}
 {"digest":"96b9c409b9b7234fa59b0c3ee6494ddc681b41051b9b22046350d39aaadd06fb","family":"page","route":"/preview/field/history-greek","scope":"preview","shell_contract":1}
 {"digest":"8e5360e51249403ab85dbea8ec21a890f7237d1019b122fa14d4e46affa0a18d","family":"page","route":"/preview/field/zuology","scope":"preview","shell_contract":1}
@@ -1192,5 +1192,5 @@
 {"digest":"5082239e9c87db7a2f748ac55b249c71857134fcb004701c43314c58183aac82","family":"page","route":"/preview/processions/program-beat-3479a503bd89ab945361c429","scope":"preview","shell_contract":1}
 {"digest":"b69693083113ec85df4cca042bfe3886ce594c2871ae0e1c108f82928c40ec70","family":"page","route":"/preview/processions/program-beat-57a434da03df63bdaf394cf8","scope":"preview","shell_contract":1}
 {"digest":"0f02e9b390dae9b79965a08ed61e7e8a47a83e49593277816ae4f36d6c8d479c","family":"page","route":"/preview/processions/program-beat-88b57af327920141bc36b0e3","scope":"preview","shell_contract":1}
-{"digest":"646b4ca0193b3c36ad70ea4d940e37a069cbc443952159084c5d96b99013d5d4","family":"page","route":"/preview/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
+{"digest":"681344149dc6d21ffe4adb614e85bbf72e96e6b91452a9995b11618d505a26c3","family":"page","route":"/preview/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"56ef5fdc81d41d66b2105018d1d8693f1f8e3d0fc698c005374b3aa028014ad6","family":"page","route":"/preview/speaker/jonathan-lear","scope":"preview","shell_contract":1}

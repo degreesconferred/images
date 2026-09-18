@@ -566,7 +566,7 @@
 {"digest":"617b1244fd100cb992b1e78efd92b50c1bcd5700144a8251f284a0686f1565f4","family":"person","person_id":"person_smSMtWW-TC2oPNnotFhlgg","route":"/preview/1984/salle-bruno-gerard","scope":"preview","shell_contract":1}
 {"digest":"0e913591190be1051b4f1df0f6962222d1259f14abd9058aae74dff1b2d316aa","family":"person","person_id":"person_La_IGssUCDs2a6iDM3g5Cw","route":"/preview/1984/steven-j-schuessler","scope":"preview","shell_contract":1}
 {"digest":"6e98a7f44233a4b7afb59baed72dda6ec77945be34f7f5725a0ff85fd08a1576","family":"person","person_id":"person_zTpgNpwaSouPMrPU8g8pKg","route":"/preview/1984/timothy-lawrence-bienz","scope":"preview","shell_contract":1}
-{"digest":"6bd2d3b3911fc412c84a83a7f3cbea06bd152355471c2005a15c59c60f580604","family":"person","person_id":"person_cNq4JVnfQgKn4jw-ZSFQjA","route":"/preview/1984/vesna-martich","scope":"preview","shell_contract":1}
+{"digest":"5dab32e99014b9f4cdf03908a9e674036ccf0496f497f0f30ee2c9f419648a15","family":"person","person_id":"person_cNq4JVnfQgKn4jw-ZSFQjA","route":"/preview/1984/vesna-martich","scope":"preview","shell_contract":1}
 {"digest":"f8f9d72cabe912ba439bd0a87899dea32ff5de8b755d311afdb34bddddccf725","family":"person","person_id":"person_cMvcKwhwk2LCO0peNo-t_-","route":"/preview/1985/benjamin-mindell","scope":"preview","shell_contract":1}
 {"digest":"aef5a5a811273affda916b7eae8e57ca23f1da362b58fc92ce167bbcfb530442","family":"person","person_id":"person_nPvMCdOMSUa-d8QjNmqX2Q","route":"/preview/1985/duane-j-seppi","scope":"preview","shell_contract":1}
 {"digest":"8645819a1907bc8e8a42c6bf11b1d72358d00510142dbe4fa90429a0a0f3687a","family":"person","person_id":"person_wegxP9xaQzilsgIuA4hugw","route":"/preview/1985/harry-calvin-bull","scope":"preview","shell_contract":1}
@@ -1236,11 +1236,11 @@
 {"digest":"cb4164cea99d97536f1e48bb8e116938d3335b6ed00a4c62cc209a3673ae4aff","family":"class","route":"/preview/classes/1930/school/rush-medical-college","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
-{"digest":"2f7eb0cd24382ca9477d03f65fc21733492a068e7a006d4e48f8db25291e1ce9","family":"page","route":"/preview/degree/doctor-of-philosophy/w","scope":"preview","shell_contract":1}
-{"digest":"7e6690480eb6a91a4423686ed0b5ed69bd6e9e4286a8e0b60167d63231148157","family":"page","route":"/preview/degree/doctor-of-philosophy/y","scope":"preview","shell_contract":1}
-{"digest":"51ac6ad47db5bd238aebca553841e4bff4508810a5553e6364e1fd7d2957bbfa","family":"page","route":"/preview/exercises/academic_unit/1990","scope":"preview","shell_contract":1}
-{"digest":"c9a515ead5b2d6913756a3860ca76b871bebc91f7dbb432bfaf17e23b77f02cf","family":"page","route":"/preview/exercises/benediction/1900","scope":"preview","shell_contract":1}
-{"digest":"3eeeb6b4bc3a0c673b5bc6ee1bf5f0c8f9014d14205b43a522d82ef8dd16ff8a","family":"page","route":"/preview/exercises/student_marshal_section/1930","scope":"preview","shell_contract":1}
+{"digest":"bf18a902365898e858a8bef9dc15c15a3aa87f6370d239f7f664a5c4afd50879","family":"page","route":"/preview/degree/doctor-of-philosophy/w","scope":"preview","shell_contract":1}
+{"digest":"4c2be73117baad78ecef7e17aaabc9282df54fb94d3798f061ad6c777ea2062c","family":"page","route":"/preview/degree/doctor-of-philosophy/y","scope":"preview","shell_contract":1}
+{"digest":"b722ff36aa0b4a3a666e7280d26ce7f2ecbcf4d34390e7896750b346b799d01f","family":"page","route":"/preview/exercises/academic_unit/1990","scope":"preview","shell_contract":1}
+{"digest":"064b4384d0139ed2fff6cf95daadebaafe1b0b16385faa014d0fc849c6fd2578","family":"page","route":"/preview/exercises/benediction/1900","scope":"preview","shell_contract":1}
+{"digest":"01a0a566e4a5a88c7789b76cc05058accb177a2ecafa8a6d4762d3c09e6960c9","family":"page","route":"/preview/exercises/student_marshal_section/1930","scope":"preview","shell_contract":1}
 {"digest":"fa192a45a147beeeedc189b55f402c9c4e8b70ec89f6122a98e0d39707f379ef","family":"page","route":"/preview/field/systematic-theology-philosophy","scope":"preview","shell_contract":1}
 {"digest":"76bfa8c62b426f8603a9a47f579a7131a86e088f770143f45bec0ad2f2247907","family":"page","route":"/preview/processions/program-beat-c8ff0139302938ad48ea5092","scope":"preview","shell_contract":1}
 {"digest":"7ae095edaadff1b6507675c3c124b749091df83ada62749f84115b0aa7445a87","family":"page","route":"/preview/speaker/chauncy-d-harris","scope":"preview","shell_contract":1}

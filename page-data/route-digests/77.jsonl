@@ -574,8 +574,8 @@
 {"digest":"6903d121584fb11490b471ee0819d35979efaeca45f74d9fc80ad89bb6252b24","family":"person","person_id":"person_BIaLiPhRQxirBfRIp0at2A","route":"/preview/1983/thomas-marshall-kryder","scope":"preview","shell_contract":1}
 {"digest":"1baa54ae78712171352f61f506a17f1d1e70914f5f589a5b574e4a494cff5a73","family":"person","person_id":"person_IxK8MzdF1EP5cClastOpOZ","route":"/preview/1983/thomas-o-connor-kelly-iii","scope":"preview","shell_contract":1}
 {"digest":"1f39da91f9a1c4040e4ca5a95539d93da33025715ca95f5ba0561c81805dc2ee","family":"person","person_id":"person_7EHDQyCSRQSLH2jZ8cN6fg","route":"/preview/1983/victor-s-khosla","scope":"preview","shell_contract":1}
-{"digest":"0e57f356ddefd6a55cb92eba62d1f220f3a23935f34dacf7ae0b6e04904331c4","family":"person","person_id":"person_Vs5Jew6-ShOrhnEMDfnGRw","route":"/preview/1984/brian-sullivan","scope":"preview","shell_contract":1}
-{"digest":"f6ccfd0875e75189ca4a339aa9931dff39bfbf408a585e04c2834f2547f6d035","family":"person","person_id":"person_TrNubRuv30WyK6W7MdEH6A","route":"/preview/1984/bruce-kevin-nelson","scope":"preview","shell_contract":1}
+{"digest":"4e0045f6517420ed52280fd02830014ea30196e729ab69f6dc0ddc315ed4ea85","family":"person","person_id":"person_Vs5Jew6-ShOrhnEMDfnGRw","route":"/preview/1984/brian-sullivan","scope":"preview","shell_contract":1}
+{"digest":"e78522fbf391c5ff8a69469c00fa157cd82d809fac25b70a2310dc68f77e556c","family":"person","person_id":"person_TrNubRuv30WyK6W7MdEH6A","route":"/preview/1984/bruce-kevin-nelson","scope":"preview","shell_contract":1}
 {"digest":"816dffc39028a9e063722af4b4a1ddc03dcd3a44ed1ea531152f947f9e43009d","family":"person","person_id":"person_ATdEu2vBR_iPB9AenjH74A","route":"/preview/1984/charlotte-diane-salomon","scope":"preview","shell_contract":1}
 {"digest":"9fabd0026d71d03cf220bc73938b74ccc0276a7bfb2534c3b5405087ca6f68ca","family":"person","person_id":"person_GzIy_wUeSnyKVyzbxE9QHg","route":"/preview/1984/elizabeth-landman","scope":"preview","shell_contract":1}
 {"digest":"6d68a46a56e89cff414e5db15a31d92820ef628673f89dae5a726f0ae4bbe219","family":"person","person_id":"person_v5vnMzXVRBuDftragIyHmg","route":"/preview/1984/jane-marie-thibault","scope":"preview","shell_contract":1}
@@ -1217,7 +1217,7 @@
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"e7fc6d4632b6edf656e87b8554a6bacb9811e63d3f0a7b147d6bdfc5d2596d9a","family":"class","route":"/preview/classes/1975/doctor-of-ministry","scope":"preview","shell_contract":1}
-{"digest":"f54b4b75ac1775e8d956e29511b6661676bbe5110edead0bb778bd7a6d700d46","family":"class","route":"/preview/classes/1990/master-of-science-in-teaching","scope":"preview","shell_contract":1}
+{"digest":"381c30eb5aad943de07b2648bf7db7e7ac54293513dab5a6c83425df072fc4c7","family":"class","route":"/preview/classes/1990/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"90b431facd5bf7f01be9256f834084cada7028c814ae848db562776a680c5f7b","family":"class","route":"/preview/classes/2012/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
@@ -1227,7 +1227,7 @@
 {"digest":"2475359615ff56e42d412a0ffe27781a4390148f9595845a5942752abe679bf2","family":"page","route":"/preview/field/religious-education-psychology","scope":"preview","shell_contract":1}
 {"digest":"4ad89b9d35c16b41084efb9334af7af3439cca1c1b6271fce482955415075abb","family":"page","route":"/preview/processions/program-beat-18d9d4404b747eac91d061cd","scope":"preview","shell_contract":1}
 {"digest":"3d54eab46985a73f76cb8f7dc7fa0145377b472019d0b85b4142316cd3ff8ba3","family":"page","route":"/preview/processions/program-beat-7727c7627eddb285a155dfce","scope":"preview","shell_contract":1}
-{"digest":"9bcea0b92cdb7d9ac408d079573cf7c5600e25b7e3ca503639008ae146b94824","family":"page","route":"/preview/school/college","scope":"preview","shell_contract":1}
+{"digest":"f3178e380206fcc5f302b44ba4f08d486070a8dd0602321214221456b96f910a","family":"page","route":"/preview/school/college","scope":"preview","shell_contract":1}
 {"digest":"9a794bf7b82d1e8b417735d4c4fbab535d631d2942e34e758bda368d4aba6530","family":"page","route":"/preview/speaker/charles-whitney-gilkey","scope":"preview","shell_contract":1}
 {"digest":"2f8539763466f2e25c0e9b3bed996b058f199f830515604dea583ea831e8c1a6","family":"page","route":"/preview/speaker/hamilton-wright-mabie","scope":"preview","shell_contract":1}
 {"digest":"efd595a5173c80afb6cc24d017dd01980b8c3f95e1c841cd876cc4a3f840ea79","family":"person","person_id":"person_w3pXs0vbBrznDTOJPrxeu0","route":"/1893/edwin-morgan","scope":"production","shell_contract":1}

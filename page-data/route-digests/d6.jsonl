@@ -564,8 +564,8 @@
 {"digest":"ecb7a7cd26a38bae03a4d7e7178c77ff55b948c17374130f9adf658056825ead","family":"person","person_id":"person_dnBgOcw43OGrSUSjx_-nUT","route":"/preview/1984/ann-margaret-schellenberg","scope":"preview","shell_contract":1}
 {"digest":"1dc0b34324986ef28834ca7fdd771fc3405ee6100b1a426e00987a8c6f6b64bc","family":"person","person_id":"person_Mdi-aCO4SDqxd8cbXhdZ2Q","route":"/preview/1984/daniel-joseph-peiser","scope":"preview","shell_contract":1}
 {"digest":"9a078eff834b2aaca2135262d04ed8680f67dc07697ad54e00aa241827dfbeba","family":"person","person_id":"person_dWgmAUqlVW4T3f4rspu_T8","route":"/preview/1984/david-avram-goodman","scope":"preview","shell_contract":1}
-{"digest":"2c5d4e92a09825bcda1dd7e814c678fe4e4611f754dc526c0567d6583e0f2650","family":"person","person_id":"person_gWX4n0lDPYaibECnjlu_yn","route":"/preview/1984/david-fel","scope":"preview","shell_contract":1}
-{"digest":"2f2d6578f62687e96f5978053ba267ffc66fdd0d36c5eb1f4380ad249c195503","family":"person","person_id":"person_AzKgekIPQSGQx57sW5AQHQ","route":"/preview/1984/frederick-william-backus","scope":"preview","shell_contract":1}
+{"digest":"644f5b5d8c56049f1dfc64292a7741558bd174ac658e6b6db0dabadb08f99390","family":"person","person_id":"person_gWX4n0lDPYaibECnjlu_yn","route":"/preview/1984/david-fel","scope":"preview","shell_contract":1}
+{"digest":"a34ba15f03c1a452129b601ac3836d3348a7c2c891f05318642fcbfdc274a4f0","family":"person","person_id":"person_AzKgekIPQSGQx57sW5AQHQ","route":"/preview/1984/frederick-william-backus","scope":"preview","shell_contract":1}
 {"digest":"66dac0bfecb6a39ba5c22d6ae01b86f69a01ca3d97132a7a25869f1838dd6953","family":"person","person_id":"person_561bdLTuTE2msZuIpXH7eg","route":"/preview/1984/madeleine-o-mcafee","scope":"preview","shell_contract":1}
 {"digest":"46943bb030ff1d14d820db371f0c46872db9198ee6a310aa1887769fdfef6377","family":"person","person_id":"person_cGxtPq6MQuSneayQMxB7mw","route":"/preview/1984/susan-hilary-rosenberg","scope":"preview","shell_contract":1}
 {"digest":"97dbda7db8a66375c3fcc4f9bf6534abda7283ae70efde7ae37be9bb678eb03b","family":"person","person_id":"person_Jt95mxSlQ3Om6QockPCBoQ","route":"/preview/1985/carl-august-schroeder","scope":"preview","shell_contract":1}
@@ -1256,8 +1256,8 @@
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"9f27701fcd998804480114567a48d0dc4b5cc1db6da41e663837a6fba58fe4ba","family":"class","route":"/preview/classes/1974/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/master-of-science-in-teaching","scope":"preview","shell_contract":1}
-{"digest":"3d640e9fc9892ffc77e5e96d9c381d1e576287ad2577ba92535b9ac688ea3d88","family":"class","route":"/preview/classes/1989/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"3d640e9fc9892ffc77e5e96d9c381d1e576287ad2577ba92535b9ac688ea3d88","family":"class","route":"/preview/classes/1989/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
+{"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/master-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/master-of-arts","scope":"preview","shell_contract":1}

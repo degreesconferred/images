@@ -303,7 +303,7 @@
 {"digest":"5620a858b598fe3bd3ea32f83545dd25bdb45cfb7f2e001f1c0be27f16edc53d","family":"person","person_id":"person_1FjBKFK4S_uJQxkESvOqfQ","route":"/preview/1960/lee-haupt","scope":"preview","shell_contract":1}
 {"digest":"13718b111824aa47d4b581d0a934aaefa089793f24c9fc9969a6169c5fcc1beb","family":"person","person_id":"person_j_U7jb87TdaBDRl46s9cWw","route":"/preview/1960/sheldon-hearst","scope":"preview","shell_contract":1}
 {"digest":"f6b4aef395fb2f40cd0431556dbd8e20d9b89d77c5cef9cc03cc7c55a732247b","family":"person","person_id":"person_nMySE194SFuaNtNCBgomyg","route":"/preview/1961/carl-j-bordiga","scope":"preview","shell_contract":1}
-{"digest":"5da2fc30ecb45b17aa7707b55c0ba2346bd82f35b040be209a38478d461b6f4c","family":"page","route":"/preview/1961/convocation/convocation-4","scope":"preview","shell_contract":1}
+{"digest":"263cc432efbf69cb7f4d9cc930e5d621b3e507352968f6ee2768cba316ddf94f","family":"page","route":"/preview/1961/convocation/convocation-4","scope":"preview","shell_contract":1}
 {"digest":"f7c8e0b1d0e71c3a74ae33d5aec223a8d5103b940fb1cf4307e865ad0b95d5aa","family":"person","person_id":"person_-FvA71goYsYhvaoDTmcnpi","route":"/preview/1961/elizabeth-ann-truninger","scope":"preview","shell_contract":1}
 {"digest":"8d24f4dcb8621365ae23300241cc02a3d3f82ff57588d009d17703e596afccc9","family":"person","person_id":"person_oy0wUf8KnlUy9YY0BvCSpr","route":"/preview/1961/eric-d-fenster","scope":"preview","shell_contract":1}
 {"digest":"ff069464ecb081fef0343e8780c235208ee224edec0fdfc6a5b49d42ffd2d9bc","family":"person","person_id":"person_fY3F2n-kRQOskmgeSSCyeQ","route":"/preview/1961/j-terry-ernest","scope":"preview","shell_contract":1}
@@ -553,8 +553,8 @@
 {"digest":"d309010bcd164f062106782cc6dd10309556e4a0e304ce1c3462feab8da286dd","family":"person","person_id":"person_LQrPr5geVYdJb0V9rnkobs","route":"/preview/1984/david-martin-shannon","scope":"preview","shell_contract":1}
 {"digest":"c3761c2dfb4a729898998ed47c4b52bcb107fdb9c3e1b1fcca3300e7ed7ce6d8","family":"person","person_id":"person_gvMDYBCKARTGEWg5D1PQ6L","route":"/preview/1984/james-nordhausen","scope":"preview","shell_contract":1}
 {"digest":"6649bec7b66b51c426773a6468d612498869a6000bacba9231d77e0a52dfb0b9","family":"person","person_id":"person_Yfq0p_UP387HvbIt0uwHvU","route":"/preview/1984/judith-c-fujita","scope":"preview","shell_contract":1}
-{"digest":"c4417d3ced610eedf4ce8632bf31925b869c3dbf852efbd57ca5e7745ca064c1","family":"person","person_id":"person_F8sBlXVbd3iKHEYLotq4Vp","route":"/preview/1984/julian-pierce-harris","scope":"preview","shell_contract":1}
-{"digest":"f2b431dcfdd0ff092ffd977b30cb8a08b70f8bf11923ee512fa12ab67539225e","family":"person","person_id":"person_e5ATVk3zSfmZgB4lwSn8ww","route":"/preview/1984/miguel-marcelo-sofer","scope":"preview","shell_contract":1}
+{"digest":"b2a3db593711401a4eff562aa4ca879efd51de2ba801a4b74292e37daa83085b","family":"person","person_id":"person_F8sBlXVbd3iKHEYLotq4Vp","route":"/preview/1984/julian-pierce-harris","scope":"preview","shell_contract":1}
+{"digest":"7052c5724f25b9e0e692989b083ecd41ef47ba5afaf9a4528a17b7ffaec9122c","family":"person","person_id":"person_e5ATVk3zSfmZgB4lwSn8ww","route":"/preview/1984/miguel-marcelo-sofer","scope":"preview","shell_contract":1}
 {"digest":"827ba37ae6ba39cdf49624e43576aaf337dd9e4926edcbbf8af37e62872dcb83","family":"person","person_id":"person_apzxN2TESaWuIHjeKGJJiw","route":"/preview/1985/ann-elaine-rutledge","scope":"preview","shell_contract":1}
 {"digest":"53745a3bbea3fc36b900138899161683b60759ebd9fc75689b2a6bd6191c67db","family":"person","person_id":"person_BY9tmm8QQx-OLYNErIFNAw","route":"/preview/1985/deborah-l-kurland","scope":"preview","shell_contract":1}
 {"digest":"c26e9494e3d438b6694626efb5a7fa8ddb89302a57991f44386e53beb72128f3","family":"person","person_id":"person_xaIrsPK4T0muqXInWcnMKg","route":"/preview/1985/douglas-l-cohen","scope":"preview","shell_contract":1}
@@ -1246,13 +1246,13 @@
 {"digest":"9eea4d256993e8a7111802cd29ee5c2e0c35e2c70442cbc39395a915ad93c10d","family":"class","route":"/preview/classes/1947/bachelor-of-library-science","scope":"preview","shell_contract":1}
 {"digest":"e2d12e0ca398f5aa02fd81dcc861451791fa18916a6dc535f69240973071448e","family":"class","route":"/preview/classes/1952/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/master-of-laws","scope":"preview","shell_contract":1}
-{"digest":"7dd521bd5c518225fc147af820d7be048e2d4a6c4c985b204d681e596e880c6b","family":"class","route":"/preview/classes/1981/school/college","scope":"preview","shell_contract":1}
+{"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/school/college","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"65e40bc6760b3916834e51a9c7737fd364d21a58a808202fc12f927058181edf","family":"page","route":"/preview/degree/doctor-of-philosophy/b","scope":"preview","shell_contract":1}
-{"digest":"d062323240e9037c8960dfc46fa76a6f04f95212f224daaa9dd4853c09a37407","family":"page","route":"/preview/exercises/degree_group/1920","scope":"preview","shell_contract":1}
+{"digest":"8d786823ea3b6e365ad61a595e8157dee88980ff5a2a507ba0704209cdcb23c6","family":"page","route":"/preview/degree/doctor-of-philosophy/b","scope":"preview","shell_contract":1}
+{"digest":"7fc7992ebb205dee89c7f9723dc5ef159560b8b379b53f48746215d9a174b12e","family":"page","route":"/preview/exercises/degree_group/1920","scope":"preview","shell_contract":1}
 {"digest":"acbb276089201bada7447a966bb06870b539c7a5201c621c07640d2380be7e1d","family":"page","route":"/preview/field/apgilod-mathematics","scope":"preview","shell_contract":1}
-{"digest":"f73165f148d2b1b4b6e3c6f502f2b0abb9a9eec11ce50e0dd846e783c2a49aef","family":"page","route":"/preview/field/biophysics-and-theoretical-biology","scope":"preview","shell_contract":1}
+{"digest":"f6f6e8d50375b6b9b37fbd2c38d943b90cf9cf5820637f093cb2dbaf66714c46","family":"page","route":"/preview/field/biophysics-and-theoretical-biology","scope":"preview","shell_contract":1}
 {"digest":"fd49f6a526defafb87d9e0cbe7ec9b1bc3e1704dc8c433eaa4975781cebc451b","family":"page","route":"/preview/field/botany-ecology","scope":"preview","shell_contract":1}
 {"digest":"b00dcae47d687124f339e0fc3e5e712e16de3428bea462e75082479011fc0ea9","family":"page","route":"/preview/field/committee-on-the-history-of-culture","scope":"preview","shell_contract":1}
 {"digest":"67f57aebbc4db2578afe4bbc8bded2b92a19a9cad794797b60d9b0abba04aa38","family":"page","route":"/preview/field/english-general-literature-philosophy","scope":"preview","shell_contract":1}

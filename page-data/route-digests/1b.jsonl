@@ -562,7 +562,8 @@
 {"digest":"597cae3694acd8cb5ceb8da7b0deb875ac24923c0be3e15694af802babaafedd","family":"person","person_id":"person_LOR-khOBREG1OLZwaC5TYw","route":"/preview/1984/david-paul-king","scope":"preview","shell_contract":1}
 {"digest":"5b0efc2267daac65cd0d056cd5da0a318033f5b196bedebae15da108195ed481","family":"person","person_id":"person_tOAZ9eLcSF-UbD0x39E0-A","route":"/preview/1984/james-w-armstrong","scope":"preview","shell_contract":1}
 {"digest":"bfea4775d2e95bef449d37cf7098d8c8f6b81dd633aa5c8ef63031a60b4ebff7","family":"person","person_id":"person_WuxNhtldjOZoGaKiMWDJ2b","route":"/preview/1984/mark-alan-epstein","scope":"preview","shell_contract":1}
-{"digest":"643af50b1e30015424b5b2872520a54833bc07f95627793f9dea97393e8c6b2c","family":"person","person_id":"person_sGZUCHj_ROaFj61nqfL2XQ","route":"/preview/1984/robert-ingram-sprague","scope":"preview","shell_contract":1}
+{"digest":"6759bba4aa324c539110a7a7bfa559203204fb3c1f29fe57fcec1f972da9fdd0","family":"person","person_id":"person_8aKCKrEqYnLF7f33GB0jDc","route":"/preview/1984/rebecca-lee-moorhead","scope":"preview","shell_contract":1}
+{"digest":"098210074b14330296f85a4d69f9dd3280fd0cc8467c44952c8d9ecf35c67167","family":"person","person_id":"person_sGZUCHj_ROaFj61nqfL2XQ","route":"/preview/1984/robert-ingram-sprague","scope":"preview","shell_contract":1}
 {"digest":"5dbe961a3230b1a0fc353aa70312ef3ecb4e66ba66be037ad53c4121273855cd","family":"person","person_id":"person_HMRf22-ryITHj3_Asjp3zx","route":"/preview/1984/tuesday-april-king","scope":"preview","shell_contract":1}
 {"digest":"c3a8686ecf9c5232a092c23359e5cf1996a99076fad2dab1499acbe0755d9b9a","family":"person","person_id":"person_gYaIBA4qQeehsEamLcODCw","route":"/preview/1985/anand-kumar","scope":"preview","shell_contract":1}
 {"digest":"8798cb4c5865c4fbae210dfde88627b8a94f766f9b60151438023b08d6b32393","family":"person","person_id":"person_Jd3gDZmKTtuKYJXooUTY8w","route":"/preview/1985/avi-j-bernstein","scope":"preview","shell_contract":1}
@@ -1245,7 +1246,7 @@
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"07965e528b9580a510617300101b6868238fc762fb92ab97acbfad7a3e08f6ad","family":"class","route":"/preview/classes/1995/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"1db70ece7b7e1129839f7b28b7611873554cd0c9da53b171f8dea8ce44c59e14","family":"class","route":"/preview/classes/2010/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"9a432a159017ddcf64599f7544a846e7c3866a2517a2be72e7cb627259f0ec67","family":"page","route":"/preview/degree/doctor-of-philosophy/s","scope":"preview","shell_contract":1}
+{"digest":"7e199b7fd8176ad9834e68c9db29f5f12ef3806f8fd4ecd590a7dd94026f0cce","family":"page","route":"/preview/degree/doctor-of-philosophy/s","scope":"preview","shell_contract":1}
 {"digest":"499a7f2f50c7a8cc0d95f4a28a05f04f357ea57391f446ba54b5fd26a82fa64c","family":"page","route":"/preview/degree/master-of-business-administration/h","scope":"preview","shell_contract":1}
 {"digest":"283145d1b8e1b76a408d7fc7852d0a3b4d758d75e44169134ba835506d1a61cc","family":"page","route":"/preview/exercises/call_to_order/2000","scope":"preview","shell_contract":1}
 {"digest":"23572dc11ac558fb38f8a423f434e74319242774ea620acc7f5d961ecd28d633","family":"page","route":"/preview/field/biblical-and-patristic-greek-hebrew-language-and-literature","scope":"preview","shell_contract":1}

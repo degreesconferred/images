@@ -502,7 +502,7 @@
 {"digest":"c4d69d382cfd9fc3095b6229e60907204c34bd346078d3db12caf98526e16c42","family":"person","person_id":"person_MI7M7fCqTDOiQBLXR8K3vA","route":"/preview/1983/douglas-paul-dow","scope":"preview","shell_contract":1}
 {"digest":"c7fdf3f1c47d2b65e15a99a2ea39e54c56839fa8600564546471f7d1962e1181","family":"person","person_id":"person_BbWgQh4MTwaj3Q-gzlAXnA","route":"/preview/1983/izaak-wirszup","scope":"preview","shell_contract":1}
 {"digest":"9335a87913d5925d9a1b7968d38fb5c33fefc918d26cc52d9d074414d6605322","family":"person","person_id":"person_Fi_vY78LT32bCn_OkUji6w","route":"/preview/1983/james-matthew-borders","scope":"preview","shell_contract":1}
-{"digest":"17e3ea1510f880a5ce50f83d13bfae231d1204598de8374064e8528099a6ccc2","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1983/jeffrey-e-terrell","scope":"preview","shell_contract":1}
+{"digest":"cb0b1738996c6ecbe5cebc6cfd52eba3a6eccc338b4295cef263691a6b82839e","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1983/jeffrey-e-terrell","scope":"preview","shell_contract":1}
 {"digest":"b68af14a260741e28c01f64dafc80cf51cf6e595b4de559e1c363a47010d7c74","family":"person","person_id":"person_6rAparcUSjkE7U0LybFBtS","route":"/preview/1983/katherine-elizabeth-sirotti","scope":"preview","shell_contract":1}
 {"digest":"f9f0378ba97e44eabc018b9bcbe87dadc371377d8ba2a19eca2584472106c37e","family":"person","person_id":"person_P3XipoQlT1qBWvEoOjm7RA","route":"/preview/1983/kelly-patricia-blake-drablos","scope":"preview","shell_contract":1}
 {"digest":"0e8ae0acaa2eb4909bd750c3046cde29eca0ff32c1f14ef29bd0020f918792af","family":"person","person_id":"person_aDpjG8nRRZGVyfSKsZuqJQ","route":"/preview/1983/lauretta-jane-moran","scope":"preview","shell_contract":1}
@@ -598,7 +598,7 @@
 {"digest":"48386f9343cbde3d66cbbefadec2372764bc357d5180e6cd9b79fdb01676b152","family":"person","person_id":"person_SnaqDmsqTeCEJrXds3y-cA","route":"/preview/1990/ankit-arvind-shah","scope":"preview","shell_contract":1}
 {"digest":"729404a975bb640bd7d0abd18af9a02c72bbde96f05f7e8507f37353857cfedd","family":"person","person_id":"person_EZxhdjuPRW69M8V6DNww8w","route":"/preview/1990/brian-gordon-weinberg","scope":"preview","shell_contract":1}
 {"digest":"804cc3d4a28f413a27f521d36c3eb704e28d2f10cb7147d6f89f0ac4df4d32e3","family":"person","person_id":"person_v682i_ezIIaZh9PNNuh6WV","route":"/preview/1990/cesar-l-gonzales-jr","scope":"preview","shell_contract":1}
-{"digest":"510557269c9d2d9285ef44f01dc3de7fba3cad3560bda6e0ef86ed086364f1bf","family":"page","route":"/preview/1990/convocation/convocation-3","scope":"preview","shell_contract":1}
+{"digest":"d9af030392a25e211c25b35e6f939334273a45022cf447b41c83047a4ab640d3","family":"page","route":"/preview/1990/convocation/convocation-3","scope":"preview","shell_contract":1}
 {"digest":"4f553125d869175193f1ed1e5741198bc2a87add117202ac65ac2a2c7ebd45f4","family":"person","person_id":"person_NkUugjVKTVuUDgqp_z3M_Q","route":"/preview/1990/danielle-jeanne-faulkner","scope":"preview","shell_contract":1}
 {"digest":"84d9435cba4fd9d69cedd993f3d8a289cf41792abf64c48c952f9926467b474a","family":"person","person_id":"person_J3vGo6bmRg2M57TG5Dq0AA","route":"/preview/1990/elizabeth-jane-wadsworth","scope":"preview","shell_contract":1}
 {"digest":"ac5c1add99e31592f721aff1b9ee8185f579b73cbb1fd76db70fe3b2f72f9083","family":"person","person_id":"person_6EYe2tBZvgN_gJfm-VoLCs","route":"/preview/1990/james-robert-chadam","scope":"preview","shell_contract":1}
@@ -1229,10 +1229,10 @@
 {"digest":"d80bd55c684a2250616a38c0f79561fdeb02220e3cc61df3500a5587610396b0","family":"class","route":"/preview/classes/1929/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"412704ab2ab5b73432fc7220c13f2f31f1e4e13a609f50306bd093f4386597be","family":"class","route":"/preview/classes/1936/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/doctor-of-comparative-law","scope":"preview","shell_contract":1}
-{"digest":"5788ee57cc26fe63e6b19737ebdd31bd62ed83b8689d170d3c3afc9f417f013a","family":"class","route":"/preview/classes/1982/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"67960ee41466d0ddf811006ebabfb3d2ad1d85d2391827d902fb30611721ec20","family":"class","route":"/preview/classes/1983/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"67960ee41466d0ddf811006ebabfb3d2ad1d85d2391827d902fb30611721ec20","family":"class","route":"/preview/classes/1983/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"ff612319db3d71e2aa97ab37acd47521879c18f09bc24e7dbe50bad864f2c061","family":"class","route":"/preview/classes/1984/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/bachelor-of-science","scope":"preview","shell_contract":1}
+{"digest":"fa5c3b6c460a870c327595477f793c64a1ac80007c27eb3f2c2b26fdeaf97bf8","family":"class","route":"/preview/classes/1984/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/1910","scope":"preview","shell_contract":1}

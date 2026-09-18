@@ -544,10 +544,10 @@
 {"digest":"c43361c995f4ed0799f4a1f621f76edcc2ae89abc62b31434391fde436d66597","family":"person","person_id":"person_1yUfbMNoRFiKKKzNbQI49A","route":"/preview/1984/elinor-w-gadon","scope":"preview","shell_contract":1}
 {"digest":"b81b8bc5a3cc1ca14fca2bfe0fc17f96a897b7c84209c74bc7b788bb6aa772b7","family":"person","person_id":"person_2VreNpuPQV97wliDdkwDVS","route":"/preview/1984/frank-paul-christiano-jr","scope":"preview","shell_contract":1}
 {"digest":"ecc9f340fdf3005085b7e4e53da3de4f0219de0434a44048f73df2e04ed6c24f","family":"person","person_id":"person_OS-onpzUTD24MWNt6j3qIQ","route":"/preview/1984/joseph-thomas-mccormick","scope":"preview","shell_contract":1}
-{"digest":"09073a727cc32bc45770793857f9155b26e3e0c8947ed2eb5da4dbde1ab3ded1","family":"person","person_id":"person_GM0hHoZRxiDgNHCyXtE18b","route":"/preview/1984/linda-laverne-lloyd","scope":"preview","shell_contract":1}
+{"digest":"5817d5524882cb1f23f944c763f6f69dcc061d9065f8f406cabbfa5afcd57b9c","family":"person","person_id":"person_GM0hHoZRxiDgNHCyXtE18b","route":"/preview/1984/linda-laverne-lloyd","scope":"preview","shell_contract":1}
 {"digest":"86ab16443970115a87ab2a631a46a6f493b52ae3ad99a11a96560f4183976640","family":"person","person_id":"person_FC4g_NIXTVKcybOe4oNdvQ","route":"/preview/1984/mace-jerome-rosenstein","scope":"preview","shell_contract":1}
 {"digest":"af4596ef31a617d5859c9993917a98168d112b3bdcbebceaee1c0a2f901252fd","family":"person","person_id":"person_3OjQ_5UjQmymnoGfzXHyHA","route":"/preview/1984/rade-velimir-radovich","scope":"preview","shell_contract":1}
-{"digest":"fae7c91943af626c65ef6dfd6bd7e91aa3abd8de9a27877e6a4123858ca62ca1","family":"person","person_id":"person_-g0XsTR5T8a7_eQHtx9Vhw","route":"/preview/1984/robert-martin-jacobson","scope":"preview","shell_contract":1}
+{"digest":"e57147db99de81527e9cb783ff9c634bbb75245e6af2089c0eb443a8e9dba898","family":"person","person_id":"person_-g0XsTR5T8a7_eQHtx9Vhw","route":"/preview/1984/robert-martin-jacobson","scope":"preview","shell_contract":1}
 {"digest":"20decc2aac037d185cbba127412aa3ecc1513542bda4376274ffad686380d47a","family":"person","person_id":"person_u2p1VCXXT-i4AOW98apsBg","route":"/preview/1984/timothy-d-kiefer","scope":"preview","shell_contract":1}
 {"digest":"3df8163fe2a4e44c21fc4efd5106fc84bbee5d0ce4d4bd1d699b8f62a64e662b","family":"person","person_id":"person_yVsbXT23Ta6VCBKLZ6IIgw","route":"/preview/1985/elizabeth-katherine-medina","scope":"preview","shell_contract":1}
 {"digest":"2890578c4f4a232949eca08242db5e949696ef8e0f508994e12fd753bdc03035","family":"person","person_id":"person_wVb8-f_xTiW7spWd25bhCw","route":"/preview/1985/karl-m-kilgore","scope":"preview","shell_contract":1}
@@ -1232,9 +1232,9 @@
 {"digest":"c4b51472428ca88a9ca73526d029ada39e7c500e1d8a75d36e4eb67daa57d566","family":"class","route":"/preview/classes/2015/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/pritzker-school-of-molecular-engineering","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/master-of-arts","scope":"preview","shell_contract":1}
-{"digest":"4538e556881ca2ad2ba39a54d6238c63e10eaee6dc2ccf94d512c8bef7a66ff6","family":"page","route":"/preview/exercises/convocation_address/1960","scope":"preview","shell_contract":1}
+{"digest":"b30e4e6843af6dddb0751a9329958df8948e914c5c925c500443cf8e0888831e","family":"page","route":"/preview/exercises/convocation_address/1960","scope":"preview","shell_contract":1}
 {"digest":"d98d0d6749a46b9b07e456c377716a9ebed7a2733b3092ac45f9991541b9186b","family":"page","route":"/preview/exercises/inaugural_address/2000","scope":"preview","shell_contract":1}
-{"digest":"d3c589cca135984a568a4104a0e59d3dc4820be55d45c8fa50adbf0e812841e5","family":"page","route":"/preview/exercises/processional/1900","scope":"preview","shell_contract":1}
+{"digest":"6c2bbad8e8a46c8de37020510fe6a22eb9b1bf489aae4fb1148d0a88ed4b9669","family":"page","route":"/preview/exercises/processional/1900","scope":"preview","shell_contract":1}
 {"digest":"dbe2ea82ba815ba26cfbae40666467aec43bf161d5366f0fa4e295a30cec6750","family":"page","route":"/preview/field/corkel","scope":"preview","shell_contract":1}
 {"digest":"a273720d7b62a2f4a3996828cfffe37b6f76d334e88868f1010070a4dbb62fd1","family":"page","route":"/preview/field/creative-writing","scope":"preview","shell_contract":1}
 {"digest":"be46912483c736019f78344e9805919d8da137c1b5a7bf55861e10043d11b89d","family":"page","route":"/preview/field/genetics","scope":"preview","shell_contract":1}

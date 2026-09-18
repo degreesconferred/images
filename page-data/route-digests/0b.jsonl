@@ -521,7 +521,7 @@
 {"digest":"3eda3e648917ed2c0d4373057be2366abd383fa5c9996f858f5022f19ff137f7","family":"person","person_id":"person_3D-xXxh08Hzgba5qmPx7_v","route":"/preview/1984/craig-g-johnson","scope":"preview","shell_contract":1}
 {"digest":"b0b2712343f109aa6539c617518b6a6a051c493de74bb12bd0cf864a1cc9399b","family":"person","person_id":"person_Co0jtgZJ69xd7534HC64pC","route":"/preview/1984/darryl-rogers-roberts","scope":"preview","shell_contract":1}
 {"digest":"042351b8add39dee225c9ce66ad2a0f5cfc4e7c8c767a84c82d16446ecba2ca7","family":"person","person_id":"person_2YQSibLIQr68kwAssrCL_A","route":"/preview/1984/diane-joyce-siegel","scope":"preview","shell_contract":1}
-{"digest":"49dd87338285559cc6261867aa8fc7470941b399a772456224203cde0b31a848","family":"person","person_id":"person_S3xtDu6zQDKwlcF3TpgqfA","route":"/preview/1984/gerardo-guzman-hargous","scope":"preview","shell_contract":1}
+{"digest":"505fe6c83975ed8ee409dfa0f2ceb69f8ca761716a247c86f66d0b0cd7fc7d8d","family":"person","person_id":"person_S3xtDu6zQDKwlcF3TpgqfA","route":"/preview/1984/gerardo-guzman-hargous","scope":"preview","shell_contract":1}
 {"digest":"f07173d37c427bad4f6af134820ccd0c901b9ee158358b2d3f116532a49eb7ab","family":"person","person_id":"person_5GDXl2ixRTmfENt-DiJwwA","route":"/preview/1984/inho-kim","scope":"preview","shell_contract":1}
 {"digest":"4e5d69802b0d2a2cddd6d7e4ce42f566b7bcd9b5beb6050c571c3e61fe2e7981","family":"person","person_id":"person_w8x5FCTlTryFjZ0A91WDAQ","route":"/preview/1984/mark-makoto-arimura","scope":"preview","shell_contract":1}
 {"digest":"62b506c3411d3d3b4a0249821cadd3fc73106199f42ca50ee16301a4b9c94d31","family":"person","person_id":"person_tXzEj-QKLjbDVURg4C4mNs","route":"/preview/1984/robert-m-devendorf","scope":"preview","shell_contract":1}
@@ -1217,14 +1217,14 @@
 {"digest":"e2d12e0ca398f5aa02fd81dcc861451791fa18916a6dc535f69240973071448e","family":"class","route":"/preview/classes/1952/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"1788c2b39a62d62cded73cdec2b53afbd74f303dab9411b5b294bf5e2b1cd310","family":"class","route":"/preview/classes/1953/bachelor-of-social-service","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"f31e822d7652bf7a6e0fa070e1e26e2a8587500e72795a6bec4e84793f4acf35","family":"class","route":"/preview/classes/1976/school/graduate-library-school","scope":"preview","shell_contract":1}
+{"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"14fba0f6a6c8188909436c4819d248f0e686d26c3dfa49ee975d3de93eb4d1f4","family":"class","route":"/preview/classes/2007/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
-{"digest":"abe29f8fbdd59b8588c9ef12dcc5a5707bcef490bf054440af7d18068b9cccc3","family":"page","route":"/preview/degree/doctor-of-philosophy/k","scope":"preview","shell_contract":1}
-{"digest":"420116b63425fdeb298af1ed4693fd1e2ef403c46cb04cb575f7d7bd829e8355","family":"page","route":"/preview/exercises/prayer_or_invocation/1940","scope":"preview","shell_contract":1}
+{"digest":"f1599b20a46c730495763a1342ffed798a203e05b18499be59e2dcc31bce2e72","family":"page","route":"/preview/degree/doctor-of-philosophy/k","scope":"preview","shell_contract":1}
+{"digest":"ba8321e97bea214d38ea35b117869f88774abf126dcbfd0bc317220af768920e","family":"page","route":"/preview/exercises/prayer_or_invocation/1940","scope":"preview","shell_contract":1}
 {"digest":"17226fba167c42db12a77e0f8eff81b6dc53976d1dd4639c16870b1a6303b5c8","family":"page","route":"/preview/field/as-of-june-12-1917","scope":"preview","shell_contract":1}
 {"digest":"4b86f41bde56c4907dece4faa44a6c65ba691b85dbdece5dc4485942051c2f4b","family":"page","route":"/preview/field/data-science","scope":"preview","shell_contract":1}
 {"digest":"7a256e0f7e92c3939c161df0f67764b5602fe30ceb550ab8cee88236e3cd6d0e","family":"page","route":"/preview/field/master-of-arts-in-the-humanities","scope":"preview","shell_contract":1}

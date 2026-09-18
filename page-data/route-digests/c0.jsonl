@@ -522,9 +522,12 @@
 {"digest":"900088c29646d3e9d58cac9cb728505695ba2251402489e94be53d0a52993dd9","family":"person","person_id":"person_4ABcho5LSlqw1bTi6TCOKQ","route":"/preview/1983/wendy-jerome","scope":"preview","shell_contract":1}
 {"digest":"19631b974fecf6c1b7a3fc98593d2e7cadc647eb8d0cb0cc65742ad6ef290dc7","family":"person","person_id":"person_69tJtOP3RNe2qC2uA_1tHA","route":"/preview/1984/carol-ann-spadinger","scope":"preview","shell_contract":1}
 {"digest":"b43d29f4dba296542a6d57e31cac4fd9f01c3b3c9ec0806d8ad37d643b21f973","family":"person","person_id":"person_Es2lAwLO7Yn9UBSHz5YuJd","route":"/preview/1984/curt-john-witte","scope":"preview","shell_contract":1}
+{"digest":"a0c9c93a0a960cbef055c0f54abc2ca1360330badd6afab470fc491bda50e4b5","family":"person","person_id":"person_xExd7FsvtGuGoUjHWPvfxp","route":"/preview/1984/edward-webb-keane-jr","scope":"preview","shell_contract":1}
+{"digest":"51c91b34156889091ea699dad469098cb4b42a2cb481081942ac22fc7b5b06ef","family":"person","person_id":"person_axn22sDpZ3i3rpiL-QG30l","route":"/preview/1984/elmer-ellsworth","scope":"preview","shell_contract":1}
 {"digest":"7ec412fa9734947a3970db86d99eb7f484cc9ace536db4bce66c5b7b8410600e","family":"person","person_id":"person_QFwF4peuRlOOJrf7d-INdA","route":"/preview/1984/eric-stephen-beckjord","scope":"preview","shell_contract":1}
 {"digest":"1af21c5d80934e71c063f114e4c0ac1050e346780fe799d6e1d51482e9a93f0d","family":"person","person_id":"person_2G8jVu0PiTFBxAxP3ZKl5a","route":"/preview/1984/maria-glendale-martinez","scope":"preview","shell_contract":1}
 {"digest":"e99fc793b17437520f1bacdfd1fe45184a4723b22784ad9e3f47ffe824b8c1cd","family":"person","person_id":"person_aJWZ_yj1ROWHF02XixD9RA","route":"/preview/1984/melissa-kathryn-reardon","scope":"preview","shell_contract":1}
+{"digest":"201fad52fe209b710bab7a7fa80fbcdd429a78b4e92efe0388b091a9e41742eb","family":"person","person_id":"person_PAh6nY6OiEPHIbaA5qIYV4","route":"/preview/1984/michael-john-joseph-gibbs-2","scope":"preview","shell_contract":1}
 {"digest":"a46b298a5f2a64f89834b5906356ec4bfeda7b07fd1f1c04b12b9769cb8a8c67","family":"person","person_id":"person_R8Nu0Xq1QHCZQDhGLrPdnA","route":"/preview/1984/pieter-willem-de-neef","scope":"preview","shell_contract":1}
 {"digest":"9f7c1feec2415cfba72a29a92dd4cd6b4eeb610667bd6adb8ef24ad6fdeae697","family":"person","person_id":"person_0mQa7QB6TcuLcBIWigJhxg","route":"/preview/1984/robert-j-equi","scope":"preview","shell_contract":1}
 {"digest":"373cf8c75d66e181035a8fb355c2e51457a5d8ee415d515e21d40b0e2a850c4a","family":"person","person_id":"person_SE3BIeUtHb_REn_FYyQFg7","route":"/preview/1984/sang-ngeen-sang-mpam","scope":"preview","shell_contract":1}
@@ -1240,7 +1243,7 @@
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963","scope":"preview","shell_contract":1}
 {"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"1af3bcebaecdda8406454fae2525ad86c0349a79963d6ab8ec926ff9af5784a8","family":"class","route":"/preview/classes/1980/master-of-science","scope":"preview","shell_contract":1}
+{"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019","scope":"preview","shell_contract":1}
 {"digest":"cf104c0acdc080af1cbba16fc6233eb11e919e787a9544178878816e9b13f9c6","family":"page","route":"/preview/field/phileophy","scope":"preview","shell_contract":1}
 {"digest":"93fa787fe1fd5c878039de101148cfb2638ec0ac632df763abd3e21a1487a7f8","family":"page","route":"/preview/field/plant-ecology-plant-physiology","scope":"preview","shell_contract":1}

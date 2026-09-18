@@ -555,8 +555,9 @@
 {"digest":"ec9b60781b0261d25661fc3351ff2fbccb361f57edc932077b72aa98ceb538b2","family":"person","person_id":"person_JcnrU9diQpuAX7WMbYqEIg","route":"/preview/1983/robert-michael-piecuch","scope":"preview","shell_contract":1}
 {"digest":"c36c44af2192b42822b0e598dbd9e453d1f8dafe067f44be205219cf68b219a1","family":"person","person_id":"person_6-fUYN49T3OH-FsioYRg5Q","route":"/preview/1983/steven-dale-boggs","scope":"preview","shell_contract":1}
 {"digest":"d4732d7c40376ab6fe07c00b04b22448002878e1d02ce8dcb3e5feb85718714e","family":"person","person_id":"person_CUA6YQrInqAVDD0xPH9dlq","route":"/preview/1984/brian-bursell","scope":"preview","shell_contract":1}
-{"digest":"1632e40d5c1d5e9b92007f623b96ed5e45890a71aa7238a038a6d98fe0fa3668","family":"person","person_id":"person_XGHCQG6wQlmhMZaHVpnEdg","route":"/preview/1984/dana-maria-brazdziunas","scope":"preview","shell_contract":1}
+{"digest":"4abee2a59b692167453465fcb39019cbd07eafc926541256112ebfd4f3b22aae","family":"person","person_id":"person_XGHCQG6wQlmhMZaHVpnEdg","route":"/preview/1984/dana-maria-brazdziunas","scope":"preview","shell_contract":1}
 {"digest":"1b9583c37987d70715cdceefbe2f2c193d77dd18ab23a27f87549e8555a384c4","family":"person","person_id":"person__w71oxab8-8aPz0wa8FpU_","route":"/preview/1984/david-roger-smith","scope":"preview","shell_contract":1}
+{"digest":"e876e217fc07567d32e77308a070cecea7aef2f6763c55d406432a8c5267ad70","family":"person","person_id":"person_H_EBUrwwaTcL8p20h0wVqb","route":"/preview/1984/douglas-james-gelb","scope":"preview","shell_contract":1}
 {"digest":"594c3e6ee24f69f3bfe43eb4af95606c9d713114aaa81209fbbb2737d1f7faff","family":"person","person_id":"person_s9_o0-dnwUWZfArMpIYdhq","route":"/preview/1984/elizabeth-steiner-novak","scope":"preview","shell_contract":1}
 {"digest":"cce7f78ee27c09d853eae74f3cb47fc47cc09f6745f50da1b7ea3b24f8f0593b","family":"person","person_id":"person_6xYmlYLcSEmk8A06cEu9Xg","route":"/preview/1984/gregory-paul-tarpinian","scope":"preview","shell_contract":1}
 {"digest":"a5d1d2973916a9867708527083f2a5e383a5f44f75ce04ef3ef8329869731e8a","family":"person","person_id":"person_BTlG1zJSQZ6AuYQ0DR0pCQ","route":"/preview/1984/joel-steven-kaminsky","scope":"preview","shell_contract":1}
@@ -1218,8 +1219,8 @@
 {"digest":"1788c2b39a62d62cded73cdec2b53afbd74f303dab9411b5b294bf5e2b1cd310","family":"class","route":"/preview/classes/1953/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"c8dfd780f2f5ae8ee079ba6fcf855e2e1665bef6319f4a0dab2e0748e3039806","family":"class","route":"/preview/classes/1957/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"9f27701fcd998804480114567a48d0dc4b5cc1db6da41e663837a6fba58fe4ba","family":"class","route":"/preview/classes/1974/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"f31e822d7652bf7a6e0fa070e1e26e2a8587500e72795a6bec4e84793f4acf35","family":"class","route":"/preview/classes/1976/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"0bc66cff858bf8dc8e45fde11fd3877b7e83729fef833580bf243d421e6c873a","family":"class","route":"/preview/classes/1985/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/school/divinity-school","scope":"preview","shell_contract":1}
+{"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/international-master-of-business-administration","scope":"preview","shell_contract":1}
@@ -1227,7 +1228,7 @@
 {"digest":"c70db9e3196a29c657a0c983dbef79c2aebc6f41a05b520a0a827185d53081be","family":"page","route":"/preview/field/as-of-june-12-1917-degree-conferred-postmortem-died-in-france-april-22-1918-in-the-service-of-the-nation","scope":"preview","shell_contract":1}
 {"digest":"9f8e80c8bf3d1ada60a825d23bf2a2831e53ec15a4970600854bc3e9b74d3a25","family":"page","route":"/preview/field/choice-ancient-mediterranean-world","scope":"preview","shell_contract":1}
 {"digest":"a54329655a100675e833c8cf891fd01eef3a0462ce9538f68a759ebaef4cfb09","family":"page","route":"/preview/field/divisional-a-m","scope":"preview","shell_contract":1}
-{"digest":"f8d45acb2f9d4b0e769a4370d4728207a721e50837013da8844cbd3109f44c07","family":"page","route":"/preview/field/master-oj-arts-in-social-sciences","scope":"preview","shell_contract":1}
+{"digest":"fbdaff00b86ee17e8466fb592f680cea852e94f4d65ad59e6b4d58aeb325ad37","family":"page","route":"/preview/field/master-oj-arts-in-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"215b3816c4ba86d9187a90e68e3bc2aafeeed6aa81567280fb3d161a8c7bfa83","family":"page","route":"/preview/field/political-economy-philosophy","scope":"preview","shell_contract":1}
 {"digest":"308cfa58e352ceb1e42c46529bd8234466d9e43015ef5d5b00dca00d97eff08e","family":"page","route":"/preview/field/theater-and-performance-studies","scope":"preview","shell_contract":1}
 {"digest":"dcf1d6bf7e312626b3ec31e6238e8f472360414795876e9131df8d23c58dc2a6","family":"page","route":"/preview/processions/program-beat-dbd92ae94b95accbb9bfe362","scope":"preview","shell_contract":1}

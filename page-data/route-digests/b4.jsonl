@@ -525,11 +525,11 @@
 {"digest":"22cd1ac428c45f575ee57eb6a91730554d86b91de9d55fa5def545acc3cffb4b","family":"person","person_id":"person_f1UznziES9qdEG3ka45OIN","route":"/preview/1983/walter-contrata","scope":"preview","shell_contract":1}
 {"digest":"6005668c631bc88e4c421efacfcabd432a2cc9bc0e15facf3e949ae8b9adb2ad","family":"person","person_id":"person_iW-7-xnxp7X8j_kcOd7QrQ","route":"/preview/1983/wayne-orville-glassman","scope":"preview","shell_contract":1}
 {"digest":"bdca4d2441b67b9bf060fdb8300379b9e1d0a83c30a4a0bfd026fd372f119adb","family":"person","person_id":"person_KgSlqKgbIbLJGH_QWo3_lu","route":"/preview/1984/carol-ann-rugg","scope":"preview","shell_contract":1}
-{"digest":"c07d7d1377b9061d8af30c97aa70749b6edfa076fee59d3485e356896143a0bd","family":"person","person_id":"person_AifKKWGNRG-lSPaOuYIvWg","route":"/preview/1984/charles-l-kane","scope":"preview","shell_contract":1}
+{"digest":"156b173e80127016aa7ff03c9b794bd21013604d341f426baa4468d2d076c3c5","family":"person","person_id":"person_AifKKWGNRG-lSPaOuYIvWg","route":"/preview/1984/charles-l-kane","scope":"preview","shell_contract":1}
 {"digest":"e0bae8967ee7f186e801f57a113831e61a11ec02943593683681d9340c659676","family":"person","person_id":"person_UMTlRCFMFI-V8x7jnVjer_","route":"/preview/1984/david-andrew-knorowski","scope":"preview","shell_contract":1}
-{"digest":"e420fa4af7c2b6cbe10ca173d65b67e07da3b4c5691b222894a0ac26f8455dd8","family":"person","person_id":"person_WvzMM1dmQ2myUhB9W0S9lA","route":"/preview/1984/emily-frances-ganzel","scope":"preview","shell_contract":1}
+{"digest":"1204a85dff837a61dafb5f8bc7a0f34b46246c9507269c3f3da75d25bb85ed1e","family":"person","person_id":"person_WvzMM1dmQ2myUhB9W0S9lA","route":"/preview/1984/emily-frances-ganzel","scope":"preview","shell_contract":1}
 {"digest":"583cb5ee159cc37ef90cb81672ed68e2f169e82e12eef0485f5de24bdbc69455","family":"person","person_id":"person_K6vl3RZRThiE6EyCMAqLbQ","route":"/preview/1984/gerald-anthony-jablonski","scope":"preview","shell_contract":1}
-{"digest":"fba0e81318a7da15ca0fcdb401989a36b2a65a8d79c622c345cdd064a2fe6240","family":"person","person_id":"person_juJe65uPQkir_Njsl2PslA","route":"/preview/1984/guillermo-martinez-barros","scope":"preview","shell_contract":1}
+{"digest":"508c982ada738a9cb29c36eca26c98176362be91c8e177995b2398d0f30280f7","family":"person","person_id":"person_juJe65uPQkir_Njsl2PslA","route":"/preview/1984/guillermo-martinez-barros","scope":"preview","shell_contract":1}
 {"digest":"6dae259c091de5a935602903d62a3d66bc15f6830794551fea8c4c5266407d6c","family":"person","person_id":"person_rFb3rgV_QSqw4pryH6iizg","route":"/preview/1984/michael-fedida","scope":"preview","shell_contract":1}
 {"digest":"4b72438e3d6ce703401f0ccb357b2c9181fcb35e0ed1e8aca5b1f6812e57ead5","family":"person","person_id":"person_XeqjY7bVRqS3sCaR4FviRg","route":"/preview/1985/frances-scovil","scope":"preview","shell_contract":1}
 {"digest":"c854bf77599c59da1b7b76983b0b1dde0c4d8ecdb73a54ca3cc4c7fd127782cf","family":"person","person_id":"person_e190qXcfRYiQ5-wzU2imSg","route":"/preview/1985/frederick-scott-sciance","scope":"preview","shell_contract":1}
@@ -1191,10 +1191,10 @@
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"ff612319db3d71e2aa97ab37acd47521879c18f09bc24e7dbe50bad864f2c061","family":"class","route":"/preview/classes/1984/doctor-of-medicine","scope":"preview","shell_contract":1}
+{"digest":"fa5c3b6c460a870c327595477f793c64a1ac80007c27eb3f2c2b26fdeaf97bf8","family":"class","route":"/preview/classes/1984/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/doctor-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"1e432f75a56988ebf194c30144d2ffe73b0cb36fe85c9418c9a7594a9a5e227e","family":"page","route":"/preview/degree/bachelor-of-arts/f","scope":"preview","shell_contract":1}
+{"digest":"6125a706b3d8faf4f4acbd33d112951dec9e631e8728cafd8af5ffe745891673","family":"page","route":"/preview/degree/bachelor-of-arts/f","scope":"preview","shell_contract":1}
 {"digest":"71753a8049204f9c6c6fd7248ac765b1dbccb7872fcf40aab25b1bf84d235c9c","family":"page","route":"/preview/degree/certificate-of-the-english-theological-seminary","scope":"preview","shell_contract":1}
 {"digest":"20a85e66a216c17a2f3a316b0f4f710371778d0c2c7477a13486be2cea67de15","family":"page","route":"/preview/field/botany-bacteriology-and-pathology","scope":"preview","shell_contract":1}
 {"digest":"c96ca6aab60c27ec093a3805af5d792e55b19fde0122876d489f253e6024c426","family":"page","route":"/preview/field/internasional-studies","scope":"preview","shell_contract":1}
