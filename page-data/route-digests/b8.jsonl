@@ -523,7 +523,7 @@
 {"digest":"11fe89d3ae0fa6a34296045e47b5f7ac2fcd0a638b8b711413714a9f260787d1","family":"person","person_id":"person_upIQ4R4IQ2e3z_PD0I3V2A","route":"/preview/1981/hans-peter-kosmider","scope":"preview","shell_contract":1}
 {"digest":"7573bf950b92f644e689af428880c2fe34b03e66d0cff05909610e844bc59ba2","family":"person","person_id":"person_m4SHcI7ERyqMWMC2ztkq4w","route":"/preview/1981/james-russell-bergen","scope":"preview","shell_contract":1}
 {"digest":"8c5ded3ff74dda2366162dd9dedd0a2bec380c6887076a942de2a1730edc83af","family":"person","person_id":"person_-Tm_Xo_1Sa-w5cyKg50GWw","route":"/preview/1981/joseph-t-mullan","scope":"preview","shell_contract":1}
-{"digest":"adadff0173fb0fdcbeedbc8e22e1808ce32d942c607e2ce87b26bdfbae2399a0","family":"person","person_id":"person_YCVYEZBoTSWzvXyanu4h9g","route":"/preview/1981/martin-luther-stephens","scope":"preview","shell_contract":1}
+{"digest":"471a947cd5b788e9351c846aa0dfb6be0a72ac940da3cb5cd7627af799add22a","family":"person","person_id":"person_YCVYEZBoTSWzvXyanu4h9g","route":"/preview/1981/martin-luther-stephens","scope":"preview","shell_contract":1}
 {"digest":"3706e51f1b17ad04ee7c81aad5da77c2b6787b89b25d3e6c740e2aad8b1a4d57","family":"person","person_id":"person_Zk5tMEiySDCmPBaDSUsd4A","route":"/preview/1981/nancy-battista","scope":"preview","shell_contract":1}
 {"digest":"a76116efa25c2f222ec4edcb445360e1243458db1c0d6a2d7896de8afeaccc1e","family":"person","person_id":"person_sOZzMTRWQbgPlcLxAw5NNf","route":"/preview/1981/richard-g-robb-jr","scope":"preview","shell_contract":1}
 {"digest":"cf7ab6659ba6eb001eac339bcf3b5d302ee05cce77d5f9b54ada019dd3564dc7","family":"person","person_id":"person_8P_1uqrISkm3cp3E7vnNcQ","route":"/preview/1981/rosalie-h-wax","scope":"preview","shell_contract":1}
@@ -549,8 +549,8 @@
 {"digest":"e580b7c01c5a199863c11d4553dc1c064e58f9a9514f15762f1eaa936d9ed867","family":"person","person_id":"person_PLIKbbYVSnSmkHhusdBJS4","route":"/preview/1984/cathy-meltzer-niden","scope":"preview","shell_contract":1}
 {"digest":"f219c817d255500b8ea93cf8e34aa6ad2eefe45e7e864ed3a64909ef9f6430fd","family":"person","person_id":"person_CMTDOpWTSG6BWAsKwDwt-w","route":"/preview/1984/charles-krohe","scope":"preview","shell_contract":1}
 {"digest":"aa1dc2d25e2e0ad047241f620e8c616a19cbf5dbf28617fff00413ec08a0c01a","family":"person","person_id":"person_NRldCXSBQ6m_qTjjz_QQFg","route":"/preview/1984/edwin-carrasquillo-molina","scope":"preview","shell_contract":1}
-{"digest":"12b506d4ebffd59cd8c71322e3c0e251aabcc2579d3626791ed66dea66f0c421","family":"person","person_id":"person_TlgQfAZv4T-pVbecXTn814","route":"/preview/1984/jens-kurt-heycke","scope":"preview","shell_contract":1}
-{"digest":"ae08075532ea6c56262edd604659dedfba2ccaeea429a243c462e99ac86f0c58","family":"person","person_id":"person_BE_QlGrEQmiBbKpqF1_n6Q","route":"/preview/1984/john-e-kolassa","scope":"preview","shell_contract":1}
+{"digest":"1aad953f2ed1fecf1c93ed5bce313ab23f2f27605a26abdd77120ef1ab73ae61","family":"person","person_id":"person_TlgQfAZv4T-pVbecXTn814","route":"/preview/1984/jens-kurt-heycke","scope":"preview","shell_contract":1}
+{"digest":"082b3643873c0f10cfdec2ef5b9b340b0211c2d2877c611f71a16b032590a911","family":"person","person_id":"person_BE_QlGrEQmiBbKpqF1_n6Q","route":"/preview/1984/john-e-kolassa","scope":"preview","shell_contract":1}
 {"digest":"bb535e31a0676dd55574c13361126731291e4b83cd808d3eccf9119ab6408d75","family":"person","person_id":"person_m4bm5cHDuaAmuvbjoSCKjI","route":"/preview/1984/peter-nathaniel-ver-lee","scope":"preview","shell_contract":1}
 {"digest":"5e27b7217852b536e54dbae5fda9cde3b9a3e2de9c1d27b3358a89d03b6393ef","family":"person","person_id":"person_g1N87ao-2iQq8K7PFCBKkx","route":"/preview/1984/thomas-e-cole-jr","scope":"preview","shell_contract":1}
 {"digest":"a6752ae90f3f98bd84f0edffacf64afea474081760b8e896ce03418f62a37673","family":"person","person_id":"person_DBtISWKrTlC8ZGDYNCXDpA","route":"/preview/1985/boyd-q-charette","scope":"preview","shell_contract":1}
@@ -1226,7 +1226,7 @@
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"1d0ad1d64a8c7c0d227fb005e65001123781ad44cee1d6d880daf156588713fb","family":"class","route":"/preview/classes/2006/international-master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"2f60de5f4941fb4974bfefb33982a22e524c5866683943784e8d886ea96ece8e","family":"page","route":"/preview/exercises/president_statement/1910","scope":"preview","shell_contract":1}
-{"digest":"17567d16c065572486c4878118974fff33df4fc019b63e751ed48e892f985753","family":"page","route":"/preview/exercises/recessional/2010","scope":"preview","shell_contract":1}
+{"digest":"ed1645bb1de2e6b6706af1b1851f98461035578ede16a579ee223118de952d95","family":"page","route":"/preview/exercises/recessional/2010","scope":"preview","shell_contract":1}
 {"digest":"dd13e17fa18649ec7758bb3f94712385d46e67c120abb4454177c0885a881d2d","family":"page","route":"/preview/field/cinema-and-media-studies-and-art-history","scope":"preview","shell_contract":1}
 {"digest":"e927443670c91aa9d27cdbbd35710653a6fb9305a01a12e180b0a453c4e2a645","family":"page","route":"/preview/field/education-sociology","scope":"preview","shell_contract":1}
 {"digest":"36caf0b8fd547d3cac77f75864185ed893292a520f6ad0355d841d185feffc55","family":"page","route":"/preview/field/far-eastern-languages-and-literatures","scope":"preview","shell_contract":1}

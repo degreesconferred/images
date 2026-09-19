@@ -515,7 +515,7 @@
 {"digest":"ab4ff2341eca59b16a200afc3ec98816665238e5993cd85e168b7ab2c3511ec7","family":"person","person_id":"person_nfifpSLxSAOJCu4szCk6yA","route":"/preview/1983/young-hee-na","scope":"preview","shell_contract":1}
 {"digest":"0ef6f1780f9f9a1afab47f963d6eb3ad32e54d6fd80e02aa2eb52ee4af149122","family":"person","person_id":"person_ZH-9VylQTVqK_kwXMmrOxA","route":"/preview/1984/alan-simpson","scope":"preview","shell_contract":1}
 {"digest":"d1dd9173d63e263f2259652b1c84a0971085167a89cb3f2993d1e94c7edce581","family":"person","person_id":"person_lLjLbTXdhWi68q-bOGzsDd","route":"/preview/1984/charles-godwin-moore","scope":"preview","shell_contract":1}
-{"digest":"f467cef41716a44374b9764379723c3eff0f07e5f89bb6d110fd84a35f8a5d38","family":"page","route":"/preview/1984/convocation/convocation-2","scope":"preview","shell_contract":1}
+{"digest":"7a50c3e1a4daddb1238461c7219d0656705b262ea2592805834ba362c7a73aaf","family":"page","route":"/preview/1984/convocation/convocation-2","scope":"preview","shell_contract":1}
 {"digest":"fd43c549d6c6489a704ad3cc7ddeb46dd68dc7b07c7d96dfb300e16324489739","family":"person","person_id":"person_Y3s59-p0Sk-i-TFwJvxSTA","route":"/preview/1984/dwayne-woods","scope":"preview","shell_contract":1}
 {"digest":"c8745d1f5f13468e19328775bdb3fcb6661e35bdad06b98e08659c6e3a67ba58","family":"person","person_id":"person_-KudwxL6SKCMh2SSC_p9EA","route":"/preview/1984/geoffrey-roy-harris","scope":"preview","shell_contract":1}
 {"digest":"9b9f8f11a8b395aaa74ed4ece87a6b18eeb53f5a49ef208e7c44849b369770e9","family":"person","person_id":"person_6649u9__SoSNU1WXxEWvlQ","route":"/preview/1984/john-a-bers","scope":"preview","shell_contract":1}
@@ -539,7 +539,7 @@
 {"digest":"6c83596c32ae2b39370044d0114da3618c965d6b62f44f0bd351871c8b8a3fe6","family":"person","person_id":"person_TGyjW7tAQqy7aEPv0zbG3A","route":"/preview/1985/floyd-paul-hofstetter","scope":"preview","shell_contract":1}
 {"digest":"f44d6eef33d85208cc0a79dc12c4c6a69e9a5f7c2556dc65b8bfe20026a47755","family":"person","person_id":"person_yJU8NvK0SxilzLlU4J5m8A","route":"/preview/1985/irene-martinez-gamba","scope":"preview","shell_contract":1}
 {"digest":"42174b99bfa56babf7010b67412e527b8549050c0b8138d64380e11baad7e4b5","family":"person","person_id":"person_0CSoGfY1n1XHOacK7hMm-C","route":"/preview/1985/john-hall-gernon","scope":"preview","shell_contract":1}
-{"digest":"34f0e3af24f84cc7717bffd8c82b23c4c933c3f85cb530f6f4777f7f48c8cadb","family":"person","person_id":"person_7SLpP4sgQrmV0wrWJdsUsA","route":"/preview/1985/john-thomas-steedman-jr","scope":"preview","shell_contract":1}
+{"digest":"6916ac2728e9f57abbc2ade4806314d2ca3a0f7cb448b510842a618e6c9655f7","family":"person","person_id":"person_7SLpP4sgQrmV0wrWJdsUsA","route":"/preview/1985/john-thomas-steedman-jr","scope":"preview","shell_contract":1}
 {"digest":"4d6c599e6774adb478e0c2b33328e20df2d36807ba2333369429e6981d0a8e40","family":"person","person_id":"person_xYlNWTCDScqd-eUnYLmupg","route":"/preview/1985/margaret-ramoso-garcia","scope":"preview","shell_contract":1}
 {"digest":"1cc18bc03016e58380e3c7c25c9c4b468bf2949b4888034d9b7bb51f1e3df160","family":"person","person_id":"person_QL6yt0_7IOepZKPuWGZjA-","route":"/preview/1985/matthew-jean-cordery","scope":"preview","shell_contract":1}
 {"digest":"e6bba39d756fcbd066a2b69a9eec762f2a3acf8c4f6a3746a86736675fa67c1f","family":"person","person_id":"person_w3fiR54nTSGpSdSCvx_Y5A","route":"/preview/1985/michelle-chue-loon-tan","scope":"preview","shell_contract":1}
@@ -1195,12 +1195,12 @@
 {"digest":"8f0d0d08ae31f118907f97cc71090b184853756587fd17ad12a3bee7ed7e2d17","family":"class","route":"/preview/classes/1915/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/school/graduate-library-school","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/master-of-arts","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"9f27701fcd998804480114567a48d0dc4b5cc1db6da41e663837a6fba58fe4ba","family":"class","route":"/preview/classes/1974/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"fb1d211330aa49a4ebbe105a41c233fe5fcb7d815d290c273ac9de4a1903beba","family":"page","route":"/preview/exercises/prayer_or_invocation/1950","scope":"preview","shell_contract":1}
-{"digest":"4200a1f6d402039141d0c61dd7173abcc9b16aeaaa75ad4a1795e7dda918be77","family":"page","route":"/preview/exercises/student_marshal_section/2010","scope":"preview","shell_contract":1}
+{"digest":"e646b598b4251428093a5413145722a7f1393da4268b47c4ea1ff78bb8756d4d","family":"page","route":"/preview/exercises/prayer_or_invocation/1950","scope":"preview","shell_contract":1}
+{"digest":"4cb586276c078ec2020965a5734878aa03489df86deadd6a0b99fb7c1b829dcc","family":"page","route":"/preview/exercises/student_marshal_section/2010","scope":"preview","shell_contract":1}
 {"digest":"e50623abd1652ec82598ec5b3d3740bed366b315856ee2283d4642809edd3df0","family":"page","route":"/preview/field/early-christian-literature","scope":"preview","shell_contract":1}
 {"digest":"df8416abb70b8d3cd1b6f8f16e9e7850efafce992e7c055931ee727625b46633","family":"page","route":"/preview/field/old-testament-comparative-religion","scope":"preview","shell_contract":1}
 {"digest":"d7bdead4ea5c26879f2abe9a53f5c8b9a2e6a78f1660684989bc81500a8683fd","family":"page","route":"/preview/field/religious-education-physics","scope":"preview","shell_contract":1}

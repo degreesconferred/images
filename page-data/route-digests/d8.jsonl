@@ -518,7 +518,7 @@
 {"digest":"2c97efc36f6d6d765046ab087a79eb81f19f32041f7a934b32945920a24a9c70","family":"person","person_id":"person_HjTfbbwvRQ6ZeP2Ih0kaGQ","route":"/preview/1983/andrew-r-miller","scope":"preview","shell_contract":1}
 {"digest":"cf8693ef31e2e3b805a37cae59b607323bfd6b9026de6f3b960db39b5594e93c","family":"person","person_id":"person_a-7hwAL9SQ-dMDPXtHNOog","route":"/preview/1983/beth-glazier-mcdonald","scope":"preview","shell_contract":1}
 {"digest":"702b08bb7081a19b195db78094677bc82f130c600f86cf65691359e349ed2bb4","family":"person","person_id":"person_D1JFADSDRnqWr_XEm4Ti8w","route":"/preview/1983/eric-hirschhorn","scope":"preview","shell_contract":1}
-{"digest":"9bbee3dec0e82687ae4ca6ec8486439b5b09c3801e0114134e2cd4bbb99d5fbb","family":"person","person_id":"person_Mom_MdJ-QguZAigbcoagpg","route":"/preview/1983/james-ki-park","scope":"preview","shell_contract":1}
+{"digest":"ab3748e4b25152b3c2d26d311c248395b6fc25743651e2b9b46073de352a96c1","family":"person","person_id":"person_Mom_MdJ-QguZAigbcoagpg","route":"/preview/1983/james-ki-park","scope":"preview","shell_contract":1}
 {"digest":"85933a5b91d1896566e012fccdfdc0f69d620912719bafbb540da3b22746490f","family":"person","person_id":"person_fQBSF_l9SFaDyvAz_CpSBA","route":"/preview/1983/james-lee-kraai","scope":"preview","shell_contract":1}
 {"digest":"b16241aa9a88bd4d9d67cf36d4746eac0e3ff1b8365ee15d6ce9529f7c23e91b","family":"person","person_id":"person_lA9D0fPdGYzHTpaCSCGvQV","route":"/preview/1983/james-patrick-coy","scope":"preview","shell_contract":1}
 {"digest":"5bf0b119b15383a7afd816da5a21b4bd5b8350ad1a38670b7e614227b4b33d7a","family":"person","person_id":"person_YXVRVF6yS4KbRNCzhYlEeg","route":"/preview/1983/james-thomas-wandrey","scope":"preview","shell_contract":1}
@@ -531,7 +531,7 @@
 {"digest":"33475e58b2e149f7a78e6825235d7609356859c3dffa19973eb656ae23442d5b","family":"person","person_id":"person_Nr5vVx5lRISoH9V35urmGA","route":"/preview/1984/catherine-marion-klema","scope":"preview","shell_contract":1}
 {"digest":"1743dbc1f7c58b0641818bc857bbc395d66c8502801e4f29a0119db1e87cba6e","family":"person","person_id":"person_sjvvJUluZO7glANDpR9O_n","route":"/preview/1984/daniel-scott-wilson","scope":"preview","shell_contract":1}
 {"digest":"25d84b09462bf41d4d4da03310d8401de04e8227d398f6ee79c6e9ea45198aac","family":"person","person_id":"person_2dXdzKw7R_il-q8vxS7qmg","route":"/preview/1984/frank-salvatore-accetta","scope":"preview","shell_contract":1}
-{"digest":"68e47aec28927ca5e703506938abbb3f30256e9246e8c8401c769b2c016d0785","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1984/jeffrey-e-terrell","scope":"preview","shell_contract":1}
+{"digest":"5b7bac15525e80c2a92b12a3f9cf50c20fe99be968db14f720309fad2d99ac74","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1984/jeffrey-e-terrell","scope":"preview","shell_contract":1}
 {"digest":"cec5465f2b3ff774e51c66cc18dbd56125ee5e82ff781b632c0fdc48e8ce3c1f","family":"person","person_id":"person_smNiQbRKS3WXjeMboEdFqA","route":"/preview/1984/jerome-joseph-larosa","scope":"preview","shell_contract":1}
 {"digest":"4a1749a590670e71ded94ad40e9b785d62fbaea17c29aa5448432252b242493e","family":"person","person_id":"person_U4bc8SUTS-6sKW7OAemyQA","route":"/preview/1984/linda-winters","scope":"preview","shell_contract":1}
 {"digest":"0b6f81185440dfd60549bea6800182bd4d5fee1f54bebe908a807f7f4935b878","family":"person","person_id":"person_E5qRDJ60sJfsDkxWlxgy0g","route":"/preview/1984/rex-ervin-gerald-ii","scope":"preview","shell_contract":1}
@@ -1244,7 +1244,7 @@
 {"digest":"e9653c7f9164687de1f4b8a170fbc633e66c962d4523a4bf31c9861e1c4fe74d","family":"class","route":"/preview/classes/1932/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"5f803d94ccdd099c26a9ce66412042b90d1dc96be05310b59c3cff2fb4814112","family":"class","route":"/preview/classes/1934/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/doctor-of-jurisprudence","scope":"preview","shell_contract":1}

@@ -517,12 +517,12 @@
 {"digest":"3945176dd52e434c5cf20c7c127a739e3eb41e9fbd97af9d9181a1477f27ffb8","family":"person","person_id":"person_t1X15PZ3TDCDjekVqkxbog","route":"/preview/1983/rosalie-h-wax","scope":"preview","shell_contract":1}
 {"digest":"9eda07915910c8a5caced7af4e88210a12f2fc90a42d5e13f2b910e84063afb9","family":"person","person_id":"person_uqZLvuE_T2GU6xX5EYzf5g","route":"/preview/1983/sheila-tukes","scope":"preview","shell_contract":1}
 {"digest":"2aecfeabed4dc77c68a4f8884142ee2da72890af915a1f6ad57acdae43161604","family":"person","person_id":"person_B_39I7dcQU6Bz2K0UHUV2Q","route":"/preview/1983/stephen-j-trejo","scope":"preview","shell_contract":1}
-{"digest":"f83004aed4f78bb2ece5291acdacef1ddfaf6c99fad2ac39bc7b9b5f1599651f","family":"person","person_id":"person_dLPwrSM0kUqGBJxhRjgY4_","route":"/preview/1984/ann-marie-thomas","scope":"preview","shell_contract":1}
+{"digest":"775cfcb738ccc4f9750557d59f487ba4b3eaf04948d68c32212c0a97a852ce52","family":"person","person_id":"person_dLPwrSM0kUqGBJxhRjgY4_","route":"/preview/1984/ann-marie-thomas","scope":"preview","shell_contract":1}
 {"digest":"3b531863f0b4b9e31b71c7b426d471e57c0833210e7dc8c0da24a36de97a5d0c","family":"person","person_id":"person_qnYeF_SbR2emAS1hN8DR5Q","route":"/preview/1984/erasmo-andre-passaro","scope":"preview","shell_contract":1}
 {"digest":"d1b5505020678a4d4c09835bcd031a1ed1bcff8b2a2c3dd8d1729a22e935dfac","family":"person","person_id":"person_SsSM5mkyR1iaoX-XabgX9A","route":"/preview/1984/georgiann-ellis","scope":"preview","shell_contract":1}
 {"digest":"8b14725afb5d9393992021ecc465d33d22edef89ce595dd3899d0c562647dbba","family":"person","person_id":"person_NCBQK3sXiAPgAI5ZKeJdg6","route":"/preview/1984/ing-civ","scope":"preview","shell_contract":1}
 {"digest":"6de56662692eb0e77876b08a9f79a6fcb00acb0b2ea2e0d33e62367712b92343","family":"person","person_id":"person_os2FHz0fRb2bpGB-RwOFCQ","route":"/preview/1984/john-michael-shiro","scope":"preview","shell_contract":1}
-{"digest":"9d63a09636c8c0583ea17ff79a53294d3b65c668c1ea045638fab440c8dc9e78","family":"person","person_id":"person_VjLRyl61TLmz1s377WIuog","route":"/preview/1984/paul-d-frenzen","scope":"preview","shell_contract":1}
+{"digest":"20609d0d4049d01213269499726e22877dea2716eea0af629fdfaebcde7f2a5f","family":"person","person_id":"person_VjLRyl61TLmz1s377WIuog","route":"/preview/1984/paul-d-frenzen","scope":"preview","shell_contract":1}
 {"digest":"8edaadac7f9df10537a8c33f871d2bbfd5d3dfda443347bbb9af23e904fa0e74","family":"person","person_id":"person_c4Y0HmP6TW63G2NPYc24BQ","route":"/preview/1984/timothy-w-hurckes","scope":"preview","shell_contract":1}
 {"digest":"c8719dcfb5972423710ba6ebb374bd5b47bd00cecf6d1119b021217e259e654f","family":"person","person_id":"person_IjKi51-HSe6dUFA2krY9_w","route":"/preview/1985/aaron-paul-stubbs","scope":"preview","shell_contract":1}
 {"digest":"6edca35ba4eb4a0c9ee22916cc63be2c450b6f503ff159aaf367100401a73a86","family":"person","person_id":"person_nTULVLGSSnG13eeI5OL0Ug","route":"/preview/1985/ann-macy-roth","scope":"preview","shell_contract":1}
@@ -1160,7 +1160,7 @@
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"5abbe6df175ecf10eb9133448eccad0a30abfcad6d80b66607ba2b06076136a7","family":"class","route":"/preview/classes/1962/school/booth-school-of-business","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/bachelor-of-divinity","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/school/law-school","scope":"preview","shell_contract":1}

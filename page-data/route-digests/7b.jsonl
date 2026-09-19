@@ -558,7 +558,7 @@
 {"digest":"d5df41bb7c08c79e84e445bd335010fee0d812687a2edee1a88e55512e4ee9d2","family":"person","person_id":"person_GZC09lJ2PqnC1_f8tmxioF","route":"/preview/1983/lawrence-william-robinson","scope":"preview","shell_contract":1}
 {"digest":"26a1ce6f4e1afe1025bc0baebdfa985581c69582d81cba8f21bd156f783f4b1e","family":"person","person_id":"person_HdlTsfsWuU95qxpMGgKP2z","route":"/preview/1983/lynn-voskuil-snarenberg","scope":"preview","shell_contract":1}
 {"digest":"1e07083252d4592edde8aeb74c1c9f70979bb777eb65961d6d3d11307bd8ee9d","family":"person","person_id":"person__X1pzr399vYszSu99F4_Vt","route":"/preview/1983/stanley-george-pavlak-jr","scope":"preview","shell_contract":1}
-{"digest":"865ec3475348bfa0705ee34213bdaad2519f73b46c085e3e7e83da7cb94a674a","family":"person","person_id":"person_u6hTbZMbT7SuybOvYNqmzw","route":"/preview/1983/thadeus-h-niemira","scope":"preview","shell_contract":1}
+{"digest":"c5c1d12ee78ba499517bb0d8f54900a8b40ff2ef6e32d76a52336414dfdbddd1","family":"person","person_id":"person_u6hTbZMbT7SuybOvYNqmzw","route":"/preview/1983/thadeus-h-niemira","scope":"preview","shell_contract":1}
 {"digest":"08d8afe9f92f7cb252ba78132118988521dc5f502a5b97c574a811388ba60972","family":"person","person_id":"person_GFRSZCKVX_jv86eIiltLi7","route":"/preview/1983/timothy-joseph-small","scope":"preview","shell_contract":1}
 {"digest":"59772cf90f9fd9d7bf9df7a1f51cfb16e70b4a522b443be20bc0ce1408a0c6b3","family":"person","person_id":"person_7nqxj9kJUtC2yYc8Gvxz-G","route":"/preview/1984/anthony-bedford-nesky","scope":"preview","shell_contract":1}
 {"digest":"2db1e99583586971d426328d581711f103533d157210b6648e4842b99d4c9fca","family":"person","person_id":"person_mULMEb3tS3G5sNcMGxBaHQ","route":"/preview/1984/chong-man-kim","scope":"preview","shell_contract":1}
@@ -1195,7 +1195,7 @@
 {"digest":"9eea4d256993e8a7111802cd29ee5c2e0c35e2c70442cbc39395a915ad93c10d","family":"class","route":"/preview/classes/1947/school/college","scope":"preview","shell_contract":1}
 {"digest":"9419398ebbf371c7c07ec7bc97fe1fd8f853cc53712809f3a6fb92246f16fc3c","family":"class","route":"/preview/classes/1949","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/master-of-business-administration","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}

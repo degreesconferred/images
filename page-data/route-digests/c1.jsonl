@@ -572,7 +572,7 @@
 {"digest":"265ded71d569495726f2aa35a98057d10b910373e78e57217ed6edae21b85a6d","family":"person","person_id":"person_vzLpDY3jQMWCu1Z7UPHRdw","route":"/preview/1984/patrick-c-h-wan","scope":"preview","shell_contract":1}
 {"digest":"21aadefc5c5674884ceb6ccd4282c95afd37828578b27df331c3987753ab92ea","family":"person","person_id":"person_qdwPTP3rhyLVfTba6GyCzX","route":"/preview/1984/robert-monroe-palter","scope":"preview","shell_contract":1}
 {"digest":"07dbd07e03ca74873b9d1bb250d7eca82c11c8a1f9541d0532d932aa8574766c","family":"person","person_id":"person_60TYIV2Opdw8ML6SFwR4Uz","route":"/preview/1984/ronald-michael","scope":"preview","shell_contract":1}
-{"digest":"9810e81d88ba7bd3eae03c8909444be046c924f16451aa4888a8fcd8b9bb3aff","family":"person","person_id":"person_-d4SqWUIReWzp6jL-2EL0A","route":"/preview/1984/stuart-ira-feldstein","scope":"preview","shell_contract":1}
+{"digest":"8b421f872ce0a535ae9ad94f5a424706d1b2a6f8ead71c9eb4d4ffe440070bc1","family":"person","person_id":"person_-d4SqWUIReWzp6jL-2EL0A","route":"/preview/1984/stuart-ira-feldstein","scope":"preview","shell_contract":1}
 {"digest":"d5fa5618e23b8dbe21771e879703b572326c8339ca33e1dbd94a90df365b3857","family":"person","person_id":"person_lafNtVLQ-ThfQGc8b4PEgQ","route":"/preview/1984/susan-ann-ziegler","scope":"preview","shell_contract":1}
 {"digest":"68e32bd811092ddebe44b1a6e71d4d53f5294cf4249166923bcd467a4fd70923","family":"person","person_id":"person_0bZCUu4l2_c2oCDGHQjgW-","route":"/preview/1984/suthan-janhom","scope":"preview","shell_contract":1}
 {"digest":"a8b27ac6b2ef884fc1434104d396f26ec28e0fd71f51d21a7576024eb893bfb9","family":"person","person_id":"person_VXr2xXfVQ1O7Khpr6eMtZg","route":"/preview/1985/craig-william-schlue","scope":"preview","shell_contract":1}
@@ -1300,8 +1300,8 @@
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/doctor-of-ministry","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/master-of-divinity","scope":"preview","shell_contract":1}
-{"digest":"7f948965152b6e5bbc436c43b872c656eba64dd9f6616226b2c1eb5753caf658","family":"page","route":"/preview/exercises/alma_mater/1930","scope":"preview","shell_contract":1}
-{"digest":"1c6f7e997e25abef13eb388aa6eed1f07d4da284c8caeb95be8511608a20577a","family":"page","route":"/preview/exercises/choral_anthem","scope":"preview","shell_contract":1}
+{"digest":"c8fdc18ad5863a9935a6b2e7ba81a96a2d2979bc797257bb85a9dbb2cc0e5e7b","family":"page","route":"/preview/exercises/alma_mater/1930","scope":"preview","shell_contract":1}
+{"digest":"cbce175655d04c5fc1f25aac9043a5f361e1e5aaa1a1d6f9461977b0b74316ac","family":"page","route":"/preview/exercises/choral_anthem","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/1950","scope":"preview","shell_contract":1}
 {"digest":"11015ee647a93cabf97ed72f3ed7abbd2e67057d8c6ccdbe34ba09fbfb749621","family":"page","route":"/preview/field/computational-and-applied-mathematics","scope":"preview","shell_contract":1}
 {"digest":"c5f7d0bb7ecfee6f22c7a08160ad96491936948a4c61e974e9b8420d1931011f","family":"page","route":"/preview/field/honors-in-physiological-chemistry-and-pharmacology","scope":"preview","shell_contract":1}

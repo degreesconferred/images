@@ -523,12 +523,12 @@
 {"digest":"c1d658c3dcb6a5bad7a625a281edf543567e1dba97de88cb45b2de0db9043747","family":"person","person_id":"person_CPjIU4BvJtnTtpX9PcU5MO","route":"/preview/1984/david-michael-reboussin","scope":"preview","shell_contract":1}
 {"digest":"975c77d1b17874ccef3a769f533585d2a3d9eabf4d26b7655388e97ebde53df0","family":"person","person_id":"person_tPnSFq73RjKz5x_7xAAuFA","route":"/preview/1984/herbert-lee-justinger","scope":"preview","shell_contract":1}
 {"digest":"3d5706677b6f7bd6898f20e5ebfa2b8a499611c9bab33288dceb145ed5f60482","family":"person","person_id":"person_AI0dnJWUQ3Zcaj7TkktOWw","route":"/preview/1984/james-s-reedy","scope":"preview","shell_contract":1}
-{"digest":"78a7c8231b9054e041d14cb044f0a295243fbabc45131e04b72fee9adc3ab83f","family":"person","person_id":"person_YBsPs1NhQUyFbTvbaCF1hQ","route":"/preview/1984/jeffrey-m-friedman","scope":"preview","shell_contract":1}
+{"digest":"f0c708b2a03082167a6ab13adc8974a49f91204cf90d883a71bcb11e80712b80","family":"person","person_id":"person_YBsPs1NhQUyFbTvbaCF1hQ","route":"/preview/1984/jeffrey-m-friedman","scope":"preview","shell_contract":1}
 {"digest":"dd8eeb9d76dc38841a05617c7864b717909eda97dd4333e4f5b11877761dd082","family":"person","person_id":"person_nNWSABr6Reaw1r7J5wftbg","route":"/preview/1984/kristine-a-rapp","scope":"preview","shell_contract":1}
 {"digest":"6ab5cd8bd40cde8496e8505a232dd3ca1322185c7efe8e1d1e966b551958d1e4","family":"person","person_id":"person_KjorOHqqRp8Jn7nEHnwjcL","route":"/preview/1984/ladonna-ann-pavetti","scope":"preview","shell_contract":1}
-{"digest":"64b19f1d92ed9c15ae71fd57214d12db4a68f66bb33597cf79f74f8c9446d799","family":"person","person_id":"person_s651684uSEq7ZzFjX9cSjw","route":"/preview/1984/miriam-gamoran","scope":"preview","shell_contract":1}
-{"digest":"b52bacd2d57dd80fc46e33a23623f18057c5af142e8e0c8edd681014eaa75de5","family":"person","person_id":"person_0QJVfS9-RG-VmyLKL51oIw","route":"/preview/1984/ralph-joseph-bremigan","scope":"preview","shell_contract":1}
-{"digest":"9e44522d51738775403de330d0737eb2721c07a13cae0a5ac172366f169782bf","family":"person","person_id":"person_BrEXCVKgR4aVnAQUs1SiDQ","route":"/preview/1984/robert-randall-waring","scope":"preview","shell_contract":1}
+{"digest":"70d950f978069809394b92ba67bdb3527f5107a79cbe77ccca295b2a94becef0","family":"person","person_id":"person_s651684uSEq7ZzFjX9cSjw","route":"/preview/1984/miriam-gamoran","scope":"preview","shell_contract":1}
+{"digest":"0e6cf358c17260d2349206cd08d40c5c196a74469b645b5a002dfcb7c36858b8","family":"person","person_id":"person_0QJVfS9-RG-VmyLKL51oIw","route":"/preview/1984/ralph-joseph-bremigan","scope":"preview","shell_contract":1}
+{"digest":"f473f74a2559a85ff3fe459e6c77ec70f6a074f445bc605f7ab4a82235f97b22","family":"person","person_id":"person_BrEXCVKgR4aVnAQUs1SiDQ","route":"/preview/1984/robert-randall-waring","scope":"preview","shell_contract":1}
 {"digest":"e1ee43e5cdeac5822ebd944a610d2c783e2bdb91b74a6e1248a428e22e593cd0","family":"person","person_id":"person_hrwwzxfaQ_ORhYxwFLYBmw","route":"/preview/1984/shinichi-sakamoto","scope":"preview","shell_contract":1}
 {"digest":"a9f8a016bb33c24cf53ab9dc3b48fd08d735a25e5c66d664840290d954f9751e","family":"person","person_id":"person_b8P-Fl8Nm0_AsaZ7DwBtMi","route":"/preview/1984/steven-s-rosenfeld","scope":"preview","shell_contract":1}
 {"digest":"515b9b64fa99537f0fb213b363a9c8bd12c17015dfe019dccde5f934769759f9","family":"person","person_id":"person_4BWVXSeCT3muITvJxeniSA","route":"/preview/1984/susan-e-lester","scope":"preview","shell_contract":1}
@@ -1249,7 +1249,7 @@
 {"digest":"f46c00da434869ef50cc3ba4cfd7e7992a91b015ddcad36b47fb97508e8828f0","family":"class","route":"/preview/classes/1908/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"a41224bba827ea9f4fb5ade774400a491f88eda16350f445cbbe5dac36a56e17","family":"class","route":"/preview/classes/1920/certificate-of-the-college-of-education","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"c5f1a4877d1e3922a88fc8eb83e95d89a1a04473e12cc9e37b722ab82b8f9c99","family":"class","route":"/preview/classes/1965/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/bachelor-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/school/division-of-social-sciences","scope":"preview","shell_contract":1}

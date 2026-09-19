@@ -515,13 +515,13 @@
 {"digest":"e9092eeb5955aae0b9d00b7c5a27482d99d6f765b5aab1fc5f24ff7e40f8e340","family":"person","person_id":"person_IRDG2f7WR42PYXgLewvKqw","route":"/preview/1983/michele-louise-bograd","scope":"preview","shell_contract":1}
 {"digest":"067b6eb11b63f5628d19154e2eb54549e304a396169963488244cf86eca1d0a2","family":"person","person_id":"person_9FFsD0_q1ojbAchw7y-zZ_","route":"/preview/1983/monica-g-noether","scope":"preview","shell_contract":1}
 {"digest":"5903c3d0ea1813a93bd48ea3c5ad8de84a87c01bdb70dec16da8069c69cc77cc","family":"person","person_id":"person_8g6mlHdzzcx1E9ow1Oqmb5","route":"/preview/1983/pamela-gowan","scope":"preview","shell_contract":1}
-{"digest":"7cb35992a953217a6b99f085b75b13b8fadd1822d8bf52526c76fe529311551f","family":"person","person_id":"person_P51Oz4pwS8-Lb7BI5uj3VA","route":"/preview/1983/paul-clayton-carlisle","scope":"preview","shell_contract":1}
+{"digest":"9156375ffdef32e61553bcd1415de0b6eeb940bcbfa3dd3e90d2a0fcda98cac9","family":"person","person_id":"person_P51Oz4pwS8-Lb7BI5uj3VA","route":"/preview/1983/paul-clayton-carlisle","scope":"preview","shell_contract":1}
 {"digest":"ef65b2365b96bfa7c46b6037e0e5f8ed36987be3ac2b3d278cfc9ad430cc5d20","family":"person","person_id":"person_iWyQ6emeRGCYRbcJOuiTDg","route":"/preview/1983/peter-r-palermo","scope":"preview","shell_contract":1}
 {"digest":"3bc7f524b5bb1fb3e02b860857702d908ab8865d116aef2f0d207b2de891f0a7","family":"person","person_id":"person_6nlm0wA_RJCfpYofvVPRnQ","route":"/preview/1983/richard-louis-edmonds","scope":"preview","shell_contract":1}
 {"digest":"f1db8ead3cef70fee5afec524209d7222237748662118d79b81abb186e476ffc","family":"person","person_id":"person_L7VG_upLHZ7qtun9RvuFXl","route":"/preview/1983/susan-hook-norton","scope":"preview","shell_contract":1}
 {"digest":"bf9acf0cb5c66f390ebeaf21c3b62d225269becf4f07354b4ce3c0756f6d69cf","family":"person","person_id":"person_VF44GiqFf3yUqlc_NGhxrg","route":"/preview/1984/david-christopher-plache","scope":"preview","shell_contract":1}
 {"digest":"f858f22114372ecb788d8be746dd1a3df767f5a9fc7187a0c78586ee7b4b392d","family":"person","person_id":"person_WqGGqgfsRwm9DLt7zvJiOg","route":"/preview/1984/eleanore-lucille-fredrick","scope":"preview","shell_contract":1}
-{"digest":"cc0fdf7d98f7fee49165ad20c36a7a1a9a9c9b255093dc7e8874f5cff0e8760c","family":"person","person_id":"person_ooKEb6M-TgWkyu5QYsRxtw","route":"/preview/1984/john-joseph-lavina","scope":"preview","shell_contract":1}
+{"digest":"10e980da022823fffadbf84f57879d46bce65703c64f535de389f2c9ca23b3a3","family":"person","person_id":"person_ooKEb6M-TgWkyu5QYsRxtw","route":"/preview/1984/john-joseph-lavina","scope":"preview","shell_contract":1}
 {"digest":"8a445bd638e3a8f07c6782e0020eaadefb88d62ebc5adf87297ea718962c028d","family":"person","person_id":"person_lRwZqXLLQOCz4SEa-MlF-A","route":"/preview/1984/kathleen-ann-dooley","scope":"preview","shell_contract":1}
 {"digest":"a5e00723f435bc53d4c575b7c608c2f359361ad5091b6e7941f30cd1ea27c61d","family":"person","person_id":"person_qRCpUtJfQV-q6Lirr4NK2A","route":"/preview/1984/phyllis-ann-lovrien","scope":"preview","shell_contract":1}
 {"digest":"8f0f574eb9f4ce1c5821ba9ecf582ee3c8cb704952d328b690fb64931dbd6a52","family":"person","person_id":"person_ZIf8TpxCR2WnQ2JN2Ts0KQ","route":"/preview/1984/teresa-jayne-siebeneck","scope":"preview","shell_contract":1}
@@ -1216,7 +1216,7 @@
 {"digest":"112280e1f18490ba661ab1298fc84d0daecc17601d105814c168271a343565f3","family":"class","route":"/preview/classes/1939/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"112280e1f18490ba661ab1298fc84d0daecc17601d105814c168271a343565f3","family":"class","route":"/preview/classes/1939/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/bachelor-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/doctor-of-philosophy","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"e7fc6d4632b6edf656e87b8554a6bacb9811e63d3f0a7b147d6bdfc5d2596d9a","family":"class","route":"/preview/classes/1975/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/master-of-science-in-teaching","scope":"preview","shell_contract":1}
@@ -1224,7 +1224,7 @@
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"78f7741efbb7909c72ecba2f1600e1de40ee5a5da8e31b614d762d295c80c875","family":"page","route":"/preview/exercises/closing_music","scope":"preview","shell_contract":1}
-{"digest":"ba6eebfd6a4a41aa0060d58b1e95070856225bf4c48852afe149e2bf490a64bf","family":"page","route":"/preview/exercises/convocation_address/1890","scope":"preview","shell_contract":1}
+{"digest":"b7b9f1d1db77a818762e3ea56e3c06250fda6a5ba07eb9540bc390fec9b72111","family":"page","route":"/preview/exercises/convocation_address/1890","scope":"preview","shell_contract":1}
 {"digest":"a6b91d38cd4049f498a04a41df11c17ae4cf8a75d0f8034b564b675171f33381","family":"page","route":"/preview/exercises/hymn_recessional/1940","scope":"preview","shell_contract":1}
 {"digest":"fe688f4105b4d96dc686a8bf5fa7a7fc77db86050b5e3a4e19f9bf4cf1744516","family":"page","route":"/preview/exercises/musical_interlude/2010","scope":"preview","shell_contract":1}
 {"digest":"25ff9e976dbb9c4465c936bd413164cd2ad4a46556ddad6f2404733949be6c85","family":"page","route":"/preview/exercises/president_address/1910","scope":"preview","shell_contract":1}

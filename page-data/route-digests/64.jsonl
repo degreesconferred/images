@@ -525,7 +525,7 @@
 {"digest":"7cf2e1d6d0a4c393c216fb14019ad9e101691fd73d83a2abef6be5e7e1743980","family":"person","person_id":"person_2KlkKdlzTwSZ1e_x5YzZgA","route":"/preview/1983/gillian-angela-curran","scope":"preview","shell_contract":1}
 {"digest":"b9607bb262c6758bc205ef01a81087a383f56e39d512278da3a267f23c68cc19","family":"person","person_id":"person_koDCEbGuQDOUEIQPytW-5w","route":"/preview/1983/john-g-cawelti","scope":"preview","shell_contract":1}
 {"digest":"5afb9e22039f58de2e8d040ba32577197ec39e6b172c70b59d39f4fd98594667","family":"person","person_id":"person_QPlA2LgcQ7mQq-ittPVTsA","route":"/preview/1983/masaki-yoshikawa","scope":"preview","shell_contract":1}
-{"digest":"46c94ca1faed5aabfff9397b377ecd0010d795e085b9513ac898a1693bb46a17","family":"person","person_id":"person_R9WWiDSrTWSvivaKAPGyIw","route":"/preview/1983/robert-a-berkowitz","scope":"preview","shell_contract":1}
+{"digest":"bc85da07e8a2cac808d0e885ffc36b77c40c8f49af7606ab7626a5c9c5261e7e","family":"person","person_id":"person_R9WWiDSrTWSvivaKAPGyIw","route":"/preview/1983/robert-a-berkowitz","scope":"preview","shell_contract":1}
 {"digest":"5117ce21d7964fcfab0d38b73c46350077a6075e22fcfff928149ed2bf4525f7","family":"person","person_id":"person_WBCDL73OSqOIXRxP8KTL8A","route":"/preview/1983/stephen-j-spindler","scope":"preview","shell_contract":1}
 {"digest":"cd25c7a01755bddae47f7bd43ff40657debb968a0b4bf5d9cd1a747250f47277","family":"person","person_id":"person_s-_-mb2ATDSSSYlzPBsRqA","route":"/preview/1983/sunny-s-kim","scope":"preview","shell_contract":1}
 {"digest":"32fc800e0f1bcae8e11b0be67d75851e1a2a47bdf5b4a9c0c040d302fc72f931","family":"person","person_id":"person_kcYYcPwmr6ihWGFQVybp0T","route":"/preview/1984/annette-r-blomquist","scope":"preview","shell_contract":1}
@@ -1185,10 +1185,10 @@
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/master-of-arts","scope":"preview","shell_contract":1}
-{"digest":"395278a0c28d7a5532ef3b1df8687dccdc2b1526841ee914feb4e17f15697d59","family":"page","route":"/preview/degree/master-of-arts/r","scope":"preview","shell_contract":1}
-{"digest":"7f948965152b6e5bbc436c43b872c656eba64dd9f6616226b2c1eb5753caf658","family":"page","route":"/preview/exercises/alma_mater/1940","scope":"preview","shell_contract":1}
-{"digest":"ba6eebfd6a4a41aa0060d58b1e95070856225bf4c48852afe149e2bf490a64bf","family":"page","route":"/preview/exercises/convocation_address/1900","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1940","scope":"preview","shell_contract":1}
+{"digest":"daeb43b436c58aa800eac9e06d2934a5d3f9f389515282a130b96e9e821c5f96","family":"page","route":"/preview/degree/master-of-arts/r","scope":"preview","shell_contract":1}
+{"digest":"c8fdc18ad5863a9935a6b2e7ba81a96a2d2979bc797257bb85a9dbb2cc0e5e7b","family":"page","route":"/preview/exercises/alma_mater/1940","scope":"preview","shell_contract":1}
+{"digest":"b7b9f1d1db77a818762e3ea56e3c06250fda6a5ba07eb9540bc390fec9b72111","family":"page","route":"/preview/exercises/convocation_address/1900","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1940","scope":"preview","shell_contract":1}
 {"digest":"fc924118ce53041c96ce267db80dfc8c0c02ce1cabdfc814c20ae6842dd7ffbb","family":"page","route":"/preview/exercises/honorary_degree_conferral/1970","scope":"preview","shell_contract":1}
 {"digest":"fc924118ce53041c96ce267db80dfc8c0c02ce1cabdfc814c20ae6842dd7ffbb","family":"page","route":"/preview/exercises/honorary_degree_conferral/1980","scope":"preview","shell_contract":1}
 {"digest":"58283b3dc54b1759d9f4830fb374606fa2cf5f9b626aafb12a43891158cdd94f","family":"page","route":"/preview/field/german-literature-and-english","scope":"preview","shell_contract":1}

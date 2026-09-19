@@ -539,7 +539,7 @@
 {"digest":"aeb422d084a1bf07ce0ead1dfd3d2b3b1ed81d64c4dad6e13271c77db2037030","family":"person","person_id":"person_4beXwwVOEncvYpiRwiLX9z","route":"/preview/1984/george-demetrios-geanon","scope":"preview","shell_contract":1}
 {"digest":"c5bd7c46fa2e201d671f77effa02c9f6bf5421889c513d4df2888a208fc45a7d","family":"person","person_id":"person_HXKyHGoI58YUndei4u8BvW","route":"/preview/1984/gerald-thomas-french","scope":"preview","shell_contract":1}
 {"digest":"e5b9875d230fa5320932f16e2b55c54d3240b8ce4b4df84f15c75b78726d7df8","family":"person","person_id":"person_ZrH3MkOnTkiB3Fcnzqz--w","route":"/preview/1984/kenneth-w-wunderlich","scope":"preview","shell_contract":1}
-{"digest":"1ba7d2d479b5fe9394a454cba50b1e2811532f28e71c660ab965124a23e3ed0d","family":"person","person_id":"person_iwfN9dI49n90iGgE4RlAwk","route":"/preview/1984/rex-gerald-ii","scope":"preview","shell_contract":1}
+{"digest":"1f137fe561da0bdc91abb6c62d8125b7509a5c6a52f97bd1f9efd3dc92c1f99d","family":"person","person_id":"person_iwfN9dI49n90iGgE4RlAwk","route":"/preview/1984/rex-gerald-ii","scope":"preview","shell_contract":1}
 {"digest":"8d4465fc04233495fafb5425ec04c105513429ebc87833523636cb95e549e892","family":"person","person_id":"person__fXD0iw7zwVq3sANZG51v-","route":"/preview/1984/san-luong-o","scope":"preview","shell_contract":1}
 {"digest":"bba3af56d80d992f31b28ec16a1bfc85784fb33f4eb072340081ff0a9b49405d","family":"person","person_id":"person_qKhwAQLkR8azLzCXy1jLMA","route":"/preview/1984/ted-chang-boon-cheang","scope":"preview","shell_contract":1}
 {"digest":"bea94baa0de9ccd0c1fab4edc9804601c4c940a0a5b19c389fe7c0b7dbbe5043","family":"person","person_id":"person_QvBiX8-4NlLZJbkTiGxeOG","route":"/preview/1984/theodore-c-slaughter-jr","scope":"preview","shell_contract":1}
@@ -1246,14 +1246,14 @@
 {"digest":"6c0d371a87bdd12e3223e08098caef955e92c9e5a4dffa798c9a3c6e5bfa72a6","family":"class","route":"/preview/classes/1944/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/doctor-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"4801ed7e889342d68899fa2109def7f456ba193e423ce0005bd225efcca91d6f","family":"class","route":"/preview/classes/2018/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"d47564e005d9503d4a15048a755e03effe7b2ef703cfc3c42df8cff7d2015e48","family":"page","route":"/preview/exercises/academic_unit/2010","scope":"preview","shell_contract":1}
-{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1990","scope":"preview","shell_contract":1}
+{"digest":"ef6a62f9e0e762ecf8a0f095cdca87570d692460c3d916295cfecf73ab0ce112","family":"page","route":"/preview/exercises/academic_unit/2010","scope":"preview","shell_contract":1}
+{"digest":"2a52d1e66afc93955b44867a4850f017be75ec76a03d943847b84fc8d622d5ca","family":"page","route":"/preview/exercises/degree_conferral/1990","scope":"preview","shell_contract":1}
 {"digest":"068866098a6aa301e1f2464563367acb632865a4b0982c38b9df16d3d90e92da","family":"page","route":"/preview/exercises/student_awards/2010","scope":"preview","shell_contract":1}
 {"digest":"c5a76c4771b6fdf2f7b56339147ef402e93871866b49972e0eb49c74af4a5d15","family":"page","route":"/preview/field/german-indo-european-comparative-philology","scope":"preview","shell_contract":1}
 {"digest":"4a5bc9355e44b4e4f1ae4a54d2f66cb1156be026e12271792ad51b6cece2e8e3","family":"page","route":"/preview/field/new-testament-ecclesiastical-sociology","scope":"preview","shell_contract":1}

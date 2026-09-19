@@ -555,7 +555,7 @@
 {"digest":"3c03d4e9f73298aa06ec6f94dffb8763811a443162b3ea050a0933dc89f1a679","family":"person","person_id":"person_Z4XhsGUvSAGBFAjHBwRAbA","route":"/preview/1984/joy-a-van-beveren","scope":"preview","shell_contract":1}
 {"digest":"0f3aa5876282e1dd87e80276baa2b50b713276e479c808a1bc02cb82f9eed32e","family":"person","person_id":"person_EHEM2bX7AF4ZQ-0wVLLnhM","route":"/preview/1984/randy-lee-kettering","scope":"preview","shell_contract":1}
 {"digest":"6bca1d67b28ec185299fa49ffd533c29c615bdf9173fc4f087211f0d3c370939","family":"person","person_id":"person_hV0cS14jmeOazYjxHDnpsY","route":"/preview/1984/sari-l-hart","scope":"preview","shell_contract":1}
-{"digest":"b5da9d4bbaf28113adc078250582f88db1892e045055a0a184bb928964dbc424","family":"person","person_id":"person_K_gwvs8HS3GtHv0W08mdLw","route":"/preview/1984/veronika-kot","scope":"preview","shell_contract":1}
+{"digest":"2098679fc9a64259d818b2989a94405fc0188b0fd0a571d7fd032ab3e93301a8","family":"person","person_id":"person_K_gwvs8HS3GtHv0W08mdLw","route":"/preview/1984/veronika-kot","scope":"preview","shell_contract":1}
 {"digest":"b2e2a3c6e66a26a4778303706ff44874cb46cc220e1569b86ba3a5a755eb652c","family":"person","person_id":"person_MwbZTTQCTnKL7G_gu7pTyg","route":"/preview/1985/aziz-ahmed-khan","scope":"preview","shell_contract":1}
 {"digest":"ff6fe33b7c3f4e355913f9fbc7bc9600051163ac8cbb79f4bfc751112a24e13d","family":"person","person_id":"person_neUAreF-ioIfH4K3X7_noy","route":"/preview/1985/daniel-brian-monteith","scope":"preview","shell_contract":1}
 {"digest":"ba319efddd96b948aeb4977df29235f39ff4bbfe07665f890f4bbad2fa06ec6c","family":"person","person_id":"person_sKTGg7bBiIjwQ1ZfYV0z2u","route":"/preview/1985/daniel-james-lipsher","scope":"preview","shell_contract":1}
@@ -1243,7 +1243,7 @@
 {"digest":"9419398ebbf371c7c07ec7bc97fe1fd8f853cc53712809f3a6fb92246f16fc3c","family":"class","route":"/preview/classes/1949/bachelor-of-library-science","scope":"preview","shell_contract":1}
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"c5f1a4877d1e3922a88fc8eb83e95d89a1a04473e12cc9e37b722ab82b8f9c99","family":"class","route":"/preview/classes/1965/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/bachelor-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/master-of-laws","scope":"preview","shell_contract":1}

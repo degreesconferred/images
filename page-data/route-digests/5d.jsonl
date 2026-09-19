@@ -486,7 +486,7 @@
 {"digest":"5911462da62a6e0b6192b8e95aded04206a2b2effb4aa04fd6d87934737f5ad4","family":"person","person_id":"person_N-m4m_F8ut2GTnH34aCgLw","route":"/preview/1981/charles-f-regan-jr","scope":"preview","shell_contract":1}
 {"digest":"708744c7b11d27e2dcdb032805cfdc68b2d767da55968503272ba7c8684cec7d","family":"person","person_id":"person_WWPDtGm7K6pGqnXVuG5pcW","route":"/preview/1981/james-selwyn-gillespie","scope":"preview","shell_contract":1}
 {"digest":"8662a90822d096d9863d2c68debe17958d54fc4a90ed4c484deac9ad7921d9e1","family":"person","person_id":"person_70QBh-7hPU7pA9-NxD096C","route":"/preview/1981/renee-marie-colwill","scope":"preview","shell_contract":1}
-{"digest":"2fa70c9b93d07e233aa11ad5fc6bfa5e87b2f84134cb67a522abdd78d4de5f23","family":"person","person_id":"person_lvJx5sFRQuyUzFy_2P2Iqw","route":"/preview/1981/sonia-maria-fidelis-garcia","scope":"preview","shell_contract":1}
+{"digest":"8afa800939a7cd9ec9f30ffd55dc0cc5fc83fb763651b5a2cddea5839116e64d","family":"person","person_id":"person_lvJx5sFRQuyUzFy_2P2Iqw","route":"/preview/1981/sonia-maria-fidelis-garcia","scope":"preview","shell_contract":1}
 {"digest":"0c9e70948baa139b22c1d6c97b64630c5a0e479493757e8c7192de0e4668a4c0","family":"person","person_id":"person__sCpGWweQYm3HWE5vwtJhQ","route":"/preview/1981/william-lewis-sachs","scope":"preview","shell_contract":1}
 {"digest":"5c79e96409d6fe1f7d0424426a6be4075b922c9e4edd3b1e221d63677a05c7bd","family":"person","person_id":"person_cBCdFnklwOvcfCY-3PcDeu","route":"/preview/1982/carla-susann-moody","scope":"preview","shell_contract":1}
 {"digest":"f989345072b78dd10431d6a33246145c0c91dfc360aa7b46f8c80dc8861666b6","family":"person","person_id":"person_FLFKH0W-E4lHXvSpuIE2vK","route":"/preview/1982/james-moskal","scope":"preview","shell_contract":1}
@@ -502,7 +502,7 @@
 {"digest":"c4d69d382cfd9fc3095b6229e60907204c34bd346078d3db12caf98526e16c42","family":"person","person_id":"person_MI7M7fCqTDOiQBLXR8K3vA","route":"/preview/1983/douglas-paul-dow","scope":"preview","shell_contract":1}
 {"digest":"c7fdf3f1c47d2b65e15a99a2ea39e54c56839fa8600564546471f7d1962e1181","family":"person","person_id":"person_BbWgQh4MTwaj3Q-gzlAXnA","route":"/preview/1983/izaak-wirszup","scope":"preview","shell_contract":1}
 {"digest":"9335a87913d5925d9a1b7968d38fb5c33fefc918d26cc52d9d074414d6605322","family":"person","person_id":"person_Fi_vY78LT32bCn_OkUji6w","route":"/preview/1983/james-matthew-borders","scope":"preview","shell_contract":1}
-{"digest":"928329da6c67ba1d64184c19e3244c9139b1b1a8e7b7939fc3b36d75f8645029","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1983/jeffrey-e-terrell","scope":"preview","shell_contract":1}
+{"digest":"0a733b79cb6a7928f7b1db9976982b23555b857fe26d1c626a4001b9fe9fae99","family":"person","person_id":"person_DhCVeY_kRl-sE2VRvgIikw","route":"/preview/1983/jeffrey-e-terrell","scope":"preview","shell_contract":1}
 {"digest":"b68af14a260741e28c01f64dafc80cf51cf6e595b4de559e1c363a47010d7c74","family":"person","person_id":"person_6rAparcUSjkE7U0LybFBtS","route":"/preview/1983/katherine-elizabeth-sirotti","scope":"preview","shell_contract":1}
 {"digest":"f9f0378ba97e44eabc018b9bcbe87dadc371377d8ba2a19eca2584472106c37e","family":"person","person_id":"person_P3XipoQlT1qBWvEoOjm7RA","route":"/preview/1983/kelly-patricia-blake-drablos","scope":"preview","shell_contract":1}
 {"digest":"0e8ae0acaa2eb4909bd750c3046cde29eca0ff32c1f14ef29bd0020f918792af","family":"person","person_id":"person_aDpjG8nRRZGVyfSKsZuqJQ","route":"/preview/1983/lauretta-jane-moran","scope":"preview","shell_contract":1}
@@ -1229,10 +1229,10 @@
 {"digest":"d80bd55c684a2250616a38c0f79561fdeb02220e3cc61df3500a5587610396b0","family":"class","route":"/preview/classes/1929/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"412704ab2ab5b73432fc7220c13f2f31f1e4e13a609f50306bd093f4386597be","family":"class","route":"/preview/classes/1936/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/doctor-of-comparative-law","scope":"preview","shell_contract":1}
-{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"a0af8e63f3daeaa82a23a1616ad9a749056b7c3994819e34596ce4fbab371260","family":"class","route":"/preview/classes/1982/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"56de6a95b6e1fb7f15972fcad6b1387060a341f6ed1e085420c37464785f2b12","family":"class","route":"/preview/classes/1983/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"1e8901724880957111f944b3dca6e57d629223922d1ed2cbc500074d8f55e55e","family":"class","route":"/preview/classes/1984/school/law-school","scope":"preview","shell_contract":1}
+{"digest":"d8a0a331599b1d2e9d4ee08876a4ea93a58ad6eb894b9a8281bdf2f3724d15af","family":"class","route":"/preview/classes/1984/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/1910","scope":"preview","shell_contract":1}

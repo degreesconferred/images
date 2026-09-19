@@ -508,13 +508,13 @@
 {"digest":"ffc273a1dab1b86d85a9f861896ea4db1841ca6527719bdd6fee36c3204105a6","family":"person","person_id":"person_dusg4ygdRUSqFfhdutMaSw","route":"/preview/1983/john-p-netherton","scope":"preview","shell_contract":1}
 {"digest":"1528666a34f9f9c3f6828713e47a576543bba2d1f94da23ca713616aada28bf4","family":"person","person_id":"person_6Ths_5vKSMK4Q1XqOtb1rQ","route":"/preview/1983/margo-leah-miller","scope":"preview","shell_contract":1}
 {"digest":"95a1bb14652122e388a0c857763f9e7facb57b940be0bce7d404c59fa96b284e","family":"person","person_id":"person_E4kS1gAkQDyWXvVWLP8uUQ","route":"/preview/1983/michael-n-lindh","scope":"preview","shell_contract":1}
-{"digest":"964099a757768c5648a8e8703c4c4de564ccf3298d75f37e041107015064c8fd","family":"person","person_id":"person_2kABauCGTvKIqXpmRvQ9lg","route":"/preview/1983/rodney-kwock-bau-young","scope":"preview","shell_contract":1}
+{"digest":"ca32b734ad8bd4d56ea1160450e9cb6dd272ad90420ad492bee104baf78cb2f0","family":"person","person_id":"person_2kABauCGTvKIqXpmRvQ9lg","route":"/preview/1983/rodney-kwock-bau-young","scope":"preview","shell_contract":1}
 {"digest":"9d2841384484c374a0d8f5cc827da9bf2e7c3b672b162b999c3a47e7b3f1f20c","family":"person","person_id":"person_Ow4XDkXIQaeGZSBh_EZkSw","route":"/preview/1983/roland-raymond-st-louis-jr","scope":"preview","shell_contract":1}
 {"digest":"3f36370751215445bf13f765bb122546ff36b4bc24b7714f55d92a8572f3b0a4","family":"person","person_id":"person_z-CKGx10T4-o77x9cBpW-A","route":"/preview/1983/vincent-huebner","scope":"preview","shell_contract":1}
-{"digest":"ae53d6ee5d21af8ea369be74b79b568517676ececb98dd05f86b3a8368b937d0","family":"person","person_id":"person_9IwDhyWfT0yTV97OSeYoAA","route":"/preview/1984/carol-lynn-weesner","scope":"preview","shell_contract":1}
+{"digest":"c965dfb2756f8af3e779e6388a5ccc5baeb872d7aaee5306db2d07c111891409","family":"person","person_id":"person_9IwDhyWfT0yTV97OSeYoAA","route":"/preview/1984/carol-lynn-weesner","scope":"preview","shell_contract":1}
 {"digest":"9be44e9ca7bcb0a2256fd999264d65cc94cd41b380c8bbd16fd14040b7799612","family":"person","person_id":"person_H2fi8VRQDoDhmwbd3vznm0","route":"/preview/1984/david-mengen-lefever","scope":"preview","shell_contract":1}
-{"digest":"4978597e62d6294bf2bbecf9beb7be1375c8073327d5937855cbf9be13814430","family":"person","person_id":"person_CHNmFgev0q5IVeysxiqJlZ","route":"/preview/1984/eileen-ann-elizabeth","scope":"preview","shell_contract":1}
-{"digest":"d2fe722fd3c90c4b921f1c02d3db9a3c73cf173129d745b77a9e6d9537dd0e2e","family":"person","person_id":"person_ohQYjArTTaSe9uhnMBK-Ew","route":"/preview/1984/frances-e-pincus","scope":"preview","shell_contract":1}
+{"digest":"ebad6a22284fef200b3788d7b4ec671379f7e0a9cdac036fc1c92968b27eb225","family":"person","person_id":"person_CHNmFgev0q5IVeysxiqJlZ","route":"/preview/1984/eileen-ann-elizabeth","scope":"preview","shell_contract":1}
+{"digest":"38a700a85c80e10d48dfd93cbf666d40f3e880d63b89f9b748f6e6bcd03a19f8","family":"person","person_id":"person_ohQYjArTTaSe9uhnMBK-Ew","route":"/preview/1984/frances-e-pincus","scope":"preview","shell_contract":1}
 {"digest":"42374e79bb1b172876311a4723173beeaf8567ae73e0918699d3c39c2f396aec","family":"person","person_id":"person_9JEJRA7KgUIUgh9FXRlJss","route":"/preview/1984/janice-marie-itson","scope":"preview","shell_contract":1}
 {"digest":"6f39441d0011c36b2612cdd6544d525c31c246e05e72b8de0183b14f4358f710","family":"person","person_id":"person_ixz6CshPLiyv5evH--E2Ql","route":"/preview/1984/patrick-waresk","scope":"preview","shell_contract":1}
 {"digest":"c9ddc0f798bf59e29f8d1072180ab98a72a5a90d8d9f43aa2518e2910c4c568c","family":"person","person_id":"person_8-MqKUrFQ9W_JK4LqMivpA","route":"/preview/1984/rob-linrothe","scope":"preview","shell_contract":1}
@@ -1195,7 +1195,7 @@
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022/doctor-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"d47564e005d9503d4a15048a755e03effe7b2ef703cfc3c42df8cff7d2015e48","family":"page","route":"/preview/exercises/academic_unit/1960","scope":"preview","shell_contract":1}
+{"digest":"ef6a62f9e0e762ecf8a0f095cdca87570d692460c3d916295cfecf73ab0ce112","family":"page","route":"/preview/exercises/academic_unit/1960","scope":"preview","shell_contract":1}
 {"digest":"fe688f4105b4d96dc686a8bf5fa7a7fc77db86050b5e3a4e19f9bf4cf1744516","family":"page","route":"/preview/exercises/musical_interlude/1920","scope":"preview","shell_contract":1}
 {"digest":"3072f6d3809ead47e1166a574364b698c9040b72f7a76ef3c7404ac64169df44","family":"page","route":"/preview/exercises/other_numbered_section/1990","scope":"preview","shell_contract":1}
 {"digest":"6b8d58026f66a2de45cc8263c22b57342851f023f23166b2b35a2eb844251347","family":"page","route":"/preview/field/french-spanish-and-italian","scope":"preview","shell_contract":1}

@@ -580,12 +580,12 @@
 {"digest":"b3f2b39519f66605b214eff9ce474bef9dfad87eb55c3cf7e347cbe636125ba4","family":"person","person_id":"person_jx4HwaJUQmKH-hGT0hUcxg","route":"/preview/1984/adela-margarita-cepeda","scope":"preview","shell_contract":1}
 {"digest":"0592a696e9d93c46a9fc7a3748041bf34201cc79b56ac75f71870cb5bd10e0cf","family":"person","person_id":"person_XKyim9iONxOwvxes5MBPB4","route":"/preview/1984/adeline-marie-madeleine-caulet","scope":"preview","shell_contract":1}
 {"digest":"276cbe13507fb989e4fcd81be785710579786b5689adafa4f59462565a76168c","family":"person","person_id":"person_-NDMAV1RRe2h98FOoZPbKA","route":"/preview/1984/andrew-wesley-patterson","scope":"preview","shell_contract":1}
-{"digest":"7c1dd97acffb4c12604aa79717c92c16fcb9db7ba0f459999e891ccbdd54bd3d","family":"person","person_id":"person_WO5lbflqSSKazpIQd-gULw","route":"/preview/1984/david-koester","scope":"preview","shell_contract":1}
+{"digest":"a45ce375497c85c2c156e540ba181680a7a611495d8d794ea59288533ad9628a","family":"person","person_id":"person_WO5lbflqSSKazpIQd-gULw","route":"/preview/1984/david-koester","scope":"preview","shell_contract":1}
 {"digest":"f127eddc6c6e00261252771207e1b2cc30082b97a24d416c03feb93a3d256c07","family":"person","person_id":"person_dkG8CNzBRuCJ1F-WBgnjDA","route":"/preview/1984/dorothy-e-sloan","scope":"preview","shell_contract":1}
 {"digest":"4a467d05e62bcb2559c43efe4b430da92f2ba250d757b4892c5a03d7e97329cb","family":"person","person_id":"person_cjn3d6GjiX7JUjuVMR6_k2","route":"/preview/1984/geoff-geis","scope":"preview","shell_contract":1}
-{"digest":"75cb3fac22dc380c8a1ff55607bc0b99f384499c4a379330d075f4db24ef10f0","family":"person","person_id":"person_5ex0X2YlR5idHxBYvLHWPg","route":"/preview/1984/john-foy-coverdale","scope":"preview","shell_contract":1}
+{"digest":"d95223b3d0bf9863cf27af24aaf8b51a4bb1aa359206ba98da87c337ac7dde67","family":"person","person_id":"person_5ex0X2YlR5idHxBYvLHWPg","route":"/preview/1984/john-foy-coverdale","scope":"preview","shell_contract":1}
 {"digest":"f4150da91d81e2ec8c710554c9e09068884a3aabb808987e1aba067b0d1ce4d4","family":"person","person_id":"person_NTR-3dbVQMyrJNh2sc3qjg","route":"/preview/1984/randy-mcvane","scope":"preview","shell_contract":1}
-{"digest":"b367127fb6c9d897092762906184f6f2bc59250bb2e655eb11d37d295b3808b7","family":"person","person_id":"person_Y3WFmMzwTVikczbVPeGjDw","route":"/preview/1984/roger-bilisoly","scope":"preview","shell_contract":1}
+{"digest":"2c06a8a2a1c9df0761f2969ac327f1d1f8d356426749283d4afdd929cf8588e5","family":"person","person_id":"person_Y3WFmMzwTVikczbVPeGjDw","route":"/preview/1984/roger-bilisoly","scope":"preview","shell_contract":1}
 {"digest":"099f9fcfc21dccdda87150538daae5c82ea4a6c395dd49c44c8e10a87a7b90f8","family":"person","person_id":"person_9eWKAbLgT9qf_RORnOQCvA","route":"/preview/1984/shirah-weinberg-hecht","scope":"preview","shell_contract":1}
 {"digest":"dd3aeb4130e930eade608d75d45b545c14a104193069f43b19fb6b5ebfe6486f","family":"person","person_id":"person_eeEKUwNzTPC87xapt3TsiA","route":"/preview/1985/annette-m-kavanaugh","scope":"preview","shell_contract":1}
 {"digest":"c9f2be4b96ad7b807a54862ad0df8fe62fd68ee318f86168013978e9993fabaf","family":"person","person_id":"person_Ge6O6LixS36KAbUm6-8o1g","route":"/preview/1985/gregory-thomas-merz","scope":"preview","shell_contract":1}
@@ -1216,7 +1216,7 @@
 {"digest":"86815069de42a6d4bf62643b3d395fc4a7b5473365aea77085c3fb4c93171572","family":"class","route":"/preview/classes/1998/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022/master-of-public-policy","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1960","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1960","scope":"preview","shell_contract":1}
 {"digest":"1cc940443bb2886bf5f851c8d91ca76a28b6b71a61a3b9d429d45fbc32624a29","family":"page","route":"/preview/exercises/music/1950","scope":"preview","shell_contract":1}
 {"digest":"34a371553dbef6febc188ad2e8f1b8a5e19c66c46d0b49a683cdd19035b64195","family":"page","route":"/preview/field/comparative-base-and-ethnic-studies","scope":"preview","shell_contract":1}
 {"digest":"2e498e76572c965c2c0a1c5bb7e35ed268029f02c86e3373a6984eed190d10db","family":"page","route":"/preview/field/general-geology-glacial-geology","scope":"preview","shell_contract":1}

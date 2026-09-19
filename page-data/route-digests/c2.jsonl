@@ -494,7 +494,7 @@
 {"digest":"a8dcf9028c487421313f28977956930277ddaf011fc7e7cf0f43f728ed45b1c0","family":"person","person_id":"person_agTeqv6Dj16OLAgyzjU2Ob","route":"/preview/1981/mark-bradley-sumner","scope":"preview","shell_contract":1}
 {"digest":"a30851b4b571d5e495f53e42bb070dbfad01ac498ebb6cc693f205904e1a922a","family":"person","person_id":"person_0eHYUgjpmjMwDY1pgCudUo","route":"/preview/1981/nancy-marie-ronczy","scope":"preview","shell_contract":1}
 {"digest":"9db1862c600167ecbc0703f5d826ec3f6737aac4170043968dd424ace084291f","family":"person","person_id":"person_h34Sjdi1T0CT7kzkPLzu4g","route":"/preview/1981/patrick-f-ryan","scope":"preview","shell_contract":1}
-{"digest":"3965cf5696ce3bc427baddd78859d0419c349fede7eaffaf2dd7644df05f08dd","family":"person","person_id":"person_VjLRyl61TLmz1s377WIuog","route":"/preview/1981/paul-d-frenzen","scope":"preview","shell_contract":1}
+{"digest":"0524739b4c5d62532299ab23d9b42c31146fd7778add1ea8001389ea52afe485","family":"person","person_id":"person_VjLRyl61TLmz1s377WIuog","route":"/preview/1981/paul-d-frenzen","scope":"preview","shell_contract":1}
 {"digest":"59a61f7c3198087dc56dca9cd9ce4bd9efce940a83f91647cdba4c425a28c379","family":"person","person_id":"person_cxGdS7I3RmyI4YvatUc3YA","route":"/preview/1981/richard-john-jacinto-jr","scope":"preview","shell_contract":1}
 {"digest":"c52578be3b85934a1e0168e038b0e2e65d5d8b9f0d560d880f06f7bdd58107bb","family":"person","person_id":"person_wQ3KVKKBSxmMpOncjxBhiA","route":"/preview/1981/robert-graham-shields","scope":"preview","shell_contract":1}
 {"digest":"30549302e0274dfa1da4787591342caf7b735ca500f2115e286d8546acf3bc25","family":"person","person_id":"person_alJqVLVfQbOb8qUqC28m7Q","route":"/preview/1981/warren-august-chrusciel","scope":"preview","shell_contract":1}
@@ -1190,14 +1190,14 @@
 {"digest":"a0eebe4c642dc4f538d5651eae4424bf8c724559219b80c10bebcad3580036bb","family":"class","route":"/preview/classes/1950/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/school/graduate-library-school","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"381c30eb5aad943de07b2648bf7db7e7ac54293513dab5a6c83425df072fc4c7","family":"class","route":"/preview/classes/1990/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/school/college","scope":"preview","shell_contract":1}
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021/master-of-legal-studies","scope":"preview","shell_contract":1}
 {"digest":"c48287e2a8136c8437a2386d549d39675d8077a5db3df39f72afd6bc3a57f3bf","family":"page","route":"/preview/degree/master-of-business-administration/g","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/2010","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/2010","scope":"preview","shell_contract":1}
 {"digest":"d98d0d6749a46b9b07e456c377716a9ebed7a2733b3092ac45f9991541b9186b","family":"page","route":"/preview/exercises/inaugural_address","scope":"preview","shell_contract":1}
 {"digest":"a39f2b338eb9d4f6b8585b6d514c17e297846e809ca748cb4588c3654a7a220f","family":"page","route":"/preview/exercises/recognition/1960","scope":"preview","shell_contract":1}
 {"digest":"46cdab5ede780c4f0c13fcde192394017f941841d01c0bde239afd20e0dbc18e","family":"page","route":"/preview/field/botany-bacteriology","scope":"preview","shell_contract":1}

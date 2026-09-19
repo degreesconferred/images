@@ -494,11 +494,11 @@
 {"digest":"eafe977efacd15ea1a64fd7b496f51bc73f787521dbf1e6fe2a77fc2577ee60e","family":"person","person_id":"person_Yzhv1IoCT5OFlHAuQLD3fA","route":"/preview/1983/rebecca-hassoun","scope":"preview","shell_contract":1}
 {"digest":"bd45cc563741852703dff861203dcf9f3c8411a500f1bd82f3b57db59fd6aee1","family":"person","person_id":"person_YD5zsxaJ_0v2HEVMjludrp","route":"/preview/1984/david-i-ma","scope":"preview","shell_contract":1}
 {"digest":"e880b807ca21f0057dca4b0f137d04df01a66f142557fdc3d2e6cecf04837c26","family":"person","person_id":"person_Meett26XRBaGaXmASKs28A","route":"/preview/1984/doris-hightower-warren","scope":"preview","shell_contract":1}
-{"digest":"af16edd5393839946460ff3e3ab16cdb7ee049d358cb89efb7146417449cab29","family":"person","person_id":"person_JA8gYZL3RgaxavQJpHeuyA","route":"/preview/1984/james-barton-duncan","scope":"preview","shell_contract":1}
+{"digest":"e12b6409dd10c8a9586105904baf84bbebd836ce137313287e4b98415d142ca3","family":"person","person_id":"person_JA8gYZL3RgaxavQJpHeuyA","route":"/preview/1984/james-barton-duncan","scope":"preview","shell_contract":1}
 {"digest":"24b49f4b5d3d811fa9440e3fb195312fa0bd559010c7ebae85ee848e7297de72","family":"person","person_id":"person_Podl1Ob-NOAptaZVZBkqcZ","route":"/preview/1984/james-bayard-parsons","scope":"preview","shell_contract":1}
 {"digest":"38f962c0e5269829c416c03cb3880437884638afbc02a02a3c65f439e6d2a00a","family":"person","person_id":"person_Id_xg_ga05W47LO5z4xdIR","route":"/preview/1984/james-peter-simeone","scope":"preview","shell_contract":1}
 {"digest":"417bf4b7da55a12168ba8c02a444d4fdcee2b7855db67de4bc34ca8c819b8cbc","family":"person","person_id":"person_RhzoJkeIQRiVmy3HrjHvQQ","route":"/preview/1984/joetta-grace-forsyth","scope":"preview","shell_contract":1}
-{"digest":"4460b763b9bfdd55bf8c505b1fae441d971a33a26a90576d4e588eaa6743d1a2","family":"person","person_id":"person_PmN7b0rfS3mAB3geietB8F","route":"/preview/1984/john-c-michael","scope":"preview","shell_contract":1}
+{"digest":"7dea1e406c251538c3c9ffdac17841d27d9790fc1d557c57d4238e4923396b57","family":"person","person_id":"person_PmN7b0rfS3mAB3geietB8F","route":"/preview/1984/john-c-michael","scope":"preview","shell_contract":1}
 {"digest":"b0ad5500833b3c77a8f98e51f609cd4f1fa4e467ceb4ed28fe912bb710971790","family":"person","person_id":"person_LCTItxkBQ94Gquptfp8txd","route":"/preview/1984/kathleen-marie-kelly","scope":"preview","shell_contract":1}
 {"digest":"17ae1bd4790c37de13dd8d6cf1b4eaac954b92bc1c46bdc0f7c8ca66275de8a9","family":"person","person_id":"person_22Yes46TSmykGdwDOhftDA","route":"/preview/1984/kent-alan-kirby","scope":"preview","shell_contract":1}
 {"digest":"c31b17b5691b0e1142e12f838b94a530f220158e1704e26047f6f6fb9ebfa9ec","family":"person","person_id":"person_l4FBv37jEFfku2le4k8qO5","route":"/preview/1984/kristy-lee-stewart","scope":"preview","shell_contract":1}
@@ -1184,7 +1184,7 @@
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/master-of-legal-studies","scope":"preview","shell_contract":1}
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"a0bc6de7434604ab585ba5203c5838908620475a5a4f92ee421b11e154528517","family":"page","route":"/preview/exercises","scope":"preview","shell_contract":1}
+{"digest":"8d177ef09283c69d02565f5ae8ef3b5e59df8c6d7f4738cdfc3d552a768d0202","family":"page","route":"/preview/exercises","scope":"preview","shell_contract":1}
 {"digest":"31807294ff075d61e8c22fe78f6e5dd8a50bf3cb5d3e77ef47836af4b83f45dd","family":"page","route":"/preview/field/astrocomy-physics","scope":"preview","shell_contract":1}
 {"digest":"96b9c409b9b7234fa59b0c3ee6494ddc681b41051b9b22046350d39aaadd06fb","family":"page","route":"/preview/field/history-greek","scope":"preview","shell_contract":1}
 {"digest":"8e5360e51249403ab85dbea8ec21a890f7237d1019b122fa14d4e46affa0a18d","family":"page","route":"/preview/field/zuology","scope":"preview","shell_contract":1}

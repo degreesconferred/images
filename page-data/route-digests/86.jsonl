@@ -552,9 +552,9 @@
 {"digest":"c95fba7a07a33d493795ce2b8a9c49e9bccab920be516415de66efa78da17bcf","family":"person","person_id":"person_xQkzMJzpS5SnAFv44l-6FQ","route":"/preview/1984/katherine-taylor-zink","scope":"preview","shell_contract":1}
 {"digest":"c495eaa719d4cab2006d2216ae8fba91d7ce868dd5ac87db1239263c0c1add48","family":"person","person_id":"person_eLgnKZR0QVeMrcdIiHR4eA","route":"/preview/1984/kazuhiko-shioyama","scope":"preview","shell_contract":1}
 {"digest":"cb4466d9a64dc813c2df0077cea1f2d42c166936c5ad0f222922080ed38e97b3","family":"person","person_id":"person_mrcI8Q9XSZqctv-5EXpScQ","route":"/preview/1984/marc-louis-miller","scope":"preview","shell_contract":1}
-{"digest":"9df6d621706ee35ea0583f5aebab2343055ccb84ba7a134d61841ac9a6d327fd","family":"person","person_id":"person_pIDP9rcwRxqqRUuc0j8EUw","route":"/preview/1984/thomas-joseph-podsadecki","scope":"preview","shell_contract":1}
+{"digest":"d1da62cf42dedf75962bce2203d52432bb0386c06e3c85d0aff2f233f2e1863c","family":"person","person_id":"person_pIDP9rcwRxqqRUuc0j8EUw","route":"/preview/1984/thomas-joseph-podsadecki","scope":"preview","shell_contract":1}
 {"digest":"a1801fca97b34685724c4d6bcbcb62332c1fff13b0b209862cfd37168ce53661","family":"person","person_id":"person_9ZQaP1BWQK2gKNVf3o6xbQ","route":"/preview/1984/todd-alan-emberley","scope":"preview","shell_contract":1}
-{"digest":"1cc5efedb13a90af116bbc2123017d293684f2d20d92cb77cfd0fbfa517519b5","family":"person","person_id":"person_2iW2nRUtQumk4wX1RAnupA","route":"/preview/1984/todd-wayne-huebner","scope":"preview","shell_contract":1}
+{"digest":"1377d8bd7252004d813a5ac97b65c93540adf95502b9b6e052ac8434721e1ddf","family":"person","person_id":"person_2iW2nRUtQumk4wX1RAnupA","route":"/preview/1984/todd-wayne-huebner","scope":"preview","shell_contract":1}
 {"digest":"d91217b9e5b0fb6ab1801ff8f89c9c1f17c2f4bb53b53a0f706f23fd9d0fc8da","family":"person","person_id":"person_R4H2Lg5aRPi3V5x_BGtIKQ","route":"/preview/1984/woodward-clark-price","scope":"preview","shell_contract":1}
 {"digest":"7fa99695a9b03faa1e00986f8f36fa6ec508ebdbe8369f34154a3b8df7f88ae1","family":"person","person_id":"person_jPyvm4OOZNoQPk5jEpWUzU","route":"/preview/1985/donal-mcclellan","scope":"preview","shell_contract":1}
 {"digest":"013ead7943dce9454f8a4264d3ae8712601cfb4742437153e0c65ef1d496cfbb","family":"person","person_id":"person_iZgGJQnqRxm8_8zArC1llA","route":"/preview/1985/john-ernest-shore","scope":"preview","shell_contract":1}
@@ -1224,7 +1224,7 @@
 {"digest":"3cd845461cc2ff267884a3dcbc8a98b7baaa87e52ed9d91cf1761f8c44225f98","family":"class","route":"/preview/classes/1894/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"a41224bba827ea9f4fb5ade774400a491f88eda16350f445cbbe5dac36a56e17","family":"class","route":"/preview/classes/1920/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/school/college","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/master-of-science","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"d7ea3d3a1cb82a936fe9f7d50903b68e680d05d7a3a94e504448242f3b9ca859","family":"class","route":"/preview/classes/1978/school/division-of-social-sciences","scope":"preview","shell_contract":1}

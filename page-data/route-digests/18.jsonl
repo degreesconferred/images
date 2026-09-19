@@ -485,13 +485,13 @@
 {"digest":"82a345206950eb766ba9a402a0e3f8a2880b9a4467b15eb1e9db30d74abc412a","family":"person","person_id":"person_Df3Ya_a1OZ5myOC9x4ynbO","route":"/preview/1983/tatsumi-ozawa","scope":"preview","shell_contract":1}
 {"digest":"48d255bd6a1001918cbdbb23220e8b500873fe6861f8ec6a0b59f4064cda25d8","family":"person","person_id":"person_reqJ2oV8oM0IEnrTzHmpZ4","route":"/preview/1983/warner-a-wick","scope":"preview","shell_contract":1}
 {"digest":"f6a251145fcbc831735d68a051604d8b14efa0bcab8f5edc92b48f658223c18c","family":"person","person_id":"person_izmwRf52RPqqce9I2CRVCQ","route":"/preview/1983/wyvetta-lavonne-harper","scope":"preview","shell_contract":1}
-{"digest":"9b8af75e82a42fc39ee44e74b5588b1412f880f9f089459dd40bcf3460b6a641","family":"person","person_id":"person_-ceA4BiTJixX2M5s2jdi0_","route":"/preview/1984/bruce-s-brown","scope":"preview","shell_contract":1}
+{"digest":"70f090554cac0afe5813eef21d8b21eec66df27e3471aed40e4529689e2a64bf","family":"person","person_id":"person_-ceA4BiTJixX2M5s2jdi0_","route":"/preview/1984/bruce-s-brown","scope":"preview","shell_contract":1}
 {"digest":"d3fe8f6f5294320c70dfef9e94c2edd8b6390ca7c5b81fc172bf12b66b664bc2","family":"page","route":"/preview/1984/convocation/convocation-4","scope":"preview","shell_contract":1}
 {"digest":"38b9257e9a2ff86645a8d0480e16f959b8442680f8fde9d77420d1adf845f3c8","family":"person","person_id":"person_OPFBYcVxQK-TgEExbaVoHA","route":"/preview/1984/denise-boneau","scope":"preview","shell_contract":1}
 {"digest":"7832dddd4ea46bdc287ef5ac4dcf8402d73040c74c03ae5621f0c22f017e0a5a","family":"person","person_id":"person_G4E4VkM1ScGbUQlcb2x9Qw","route":"/preview/1984/glynn-huilgol","scope":"preview","shell_contract":1}
 {"digest":"74a5d249cdfc3c373b6d8c0492893ea29526e6ffcf7c2bc4f0fbc4563c7ead4e","family":"person","person_id":"person_Nv-z7YRcQa6-dQWcYMbFGw","route":"/preview/1984/martin-joseph-mcdonnell","scope":"preview","shell_contract":1}
 {"digest":"5936670ffe34a61bea461718184e0f0498ff57b2584d98a6288366ab19128be0","family":"person","person_id":"person_YNTY1nZSQkGb_BmdVH6SGQ","route":"/preview/1984/mary-ann-hochfelder","scope":"preview","shell_contract":1}
-{"digest":"498555ca8d96101ed651bbc5a5a2427258653a0fb5f11e4315db4ab51b2f0549","family":"person","person_id":"person_edlItswsTay_UiDZFAmx9w","route":"/preview/1984/tatiana-christides","scope":"preview","shell_contract":1}
+{"digest":"27870d939dcf8104cfd49344fb45a541a18f0687b8eec5a3bc567d4dc1f30989","family":"person","person_id":"person_edlItswsTay_UiDZFAmx9w","route":"/preview/1984/tatiana-christides","scope":"preview","shell_contract":1}
 {"digest":"e57dd4f6d3cf585e9e7a5a676b19943aeffed6c71765dfd9ae79bbe2864df207","family":"person","person_id":"person_CCXfELgCQHKWCwtyrJ10_w","route":"/preview/1985/anne-marie-mizel","scope":"preview","shell_contract":1}
 {"digest":"5db92d29fd03bf9872cbdc751a1ccb08259a236eb16b93be356cad02485878f0","family":"person","person_id":"person_7mxmg9c1Tg2iDGZj6iLYBQ","route":"/preview/1985/catherine-kay-cloud","scope":"preview","shell_contract":1}
 {"digest":"e79c1d067135e66b53a49e15533ec680bff3a68fae92cf2d24d3df4d1bee78e4","family":"person","person_id":"person_Rqfx6OBMRi-HJhbvAMx6DA","route":"/preview/1985/changsoon-lee","scope":"preview","shell_contract":1}
@@ -1131,7 +1131,7 @@
 {"digest":"112280e1f18490ba661ab1298fc84d0daecc17601d105814c168271a343565f3","family":"class","route":"/preview/classes/1939/bachelor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"c5f1a4877d1e3922a88fc8eb83e95d89a1a04473e12cc9e37b722ab82b8f9c99","family":"class","route":"/preview/classes/1965/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-comparative-law","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"e7fc6d4632b6edf656e87b8554a6bacb9811e63d3f0a7b147d6bdfc5d2596d9a","family":"class","route":"/preview/classes/1975","scope":"preview","shell_contract":1}
@@ -1139,9 +1139,9 @@
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"4801ed7e889342d68899fa2109def7f456ba193e423ce0005bd225efcca91d6f","family":"class","route":"/preview/classes/2018/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/doctor-of-medicine","scope":"preview","shell_contract":1}
-{"digest":"af332ad9dd76be69c22a325a071bb265298890c79d347b84a588627fdd0aa308","family":"page","route":"/preview/degree/master-of-arts/e","scope":"preview","shell_contract":1}
+{"digest":"bd26f3de6dece54e38952ba3d70b7eec0425bc8219d5a0179ed8799eb798599c","family":"page","route":"/preview/degree/master-of-arts/e","scope":"preview","shell_contract":1}
 {"digest":"cd214ff77b608b74a96317d57cff07b2c72694df48f7545f5789542ce66131da","family":"page","route":"/preview/degree/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1990","scope":"preview","shell_contract":1}
+{"digest":"d2f16470d6f55b4f01b14f2c58cae7baac43c44b7e6599ad0b8cad3e38858118","family":"page","route":"/preview/exercises/benediction/1990","scope":"preview","shell_contract":1}
 {"digest":"a39f2b338eb9d4f6b8585b6d514c17e297846e809ca748cb4588c3654a7a220f","family":"page","route":"/preview/exercises/recognition/1920","scope":"preview","shell_contract":1}
 {"digest":"6e145c854175cec60bc620f4eb2d2e1eee0028b345ba841be9f425999df97aaa","family":"page","route":"/preview/exercises/welcome/2010","scope":"preview","shell_contract":1}
 {"digest":"7bee7a4a0c16e511fe1e850588128f0959ef2491e5d6fb2e2377d08cc40f2f55","family":"page","route":"/preview/field/commerce-and-administration-political-economy","scope":"preview","shell_contract":1}

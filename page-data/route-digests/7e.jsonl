@@ -498,7 +498,7 @@
 {"digest":"b8cabeb5e5cb4b7e22bed0fe0757e7157db6cb4bef9b5a726bc2835a41115592","family":"person","person_id":"person_7aMGIxD6OH4sZlqZQsxHRG","route":"/preview/1983/steven-allen-matthew","scope":"preview","shell_contract":1}
 {"digest":"c2681af4879ced113206caf056073272634220a8f83bf783ec58b36916f8491f","family":"person","person_id":"person_mkkrvPcqSZiUswCMTRIQiA","route":"/preview/1983/susan-marie-rensing","scope":"preview","shell_contract":1}
 {"digest":"bac6e34c5d76dbca4a241e54a6cb9ba4829c1dcad9b507bbf40b36c57df87419","family":"person","person_id":"person_jdzulgjzTQWb6BVmN94OKw","route":"/preview/1983/theodore-peter-skotnicki","scope":"preview","shell_contract":1}
-{"digest":"6067f07e9a68f1aed2e912f749400a5ac87985501fc51d5c22ae5915559472c1","family":"person","person_id":"person_7pNcMl0NRVGRS56c3_MsWA","route":"/preview/1984/alan-mitchell-levine","scope":"preview","shell_contract":1}
+{"digest":"3e84b587fdda71847a0e6f0f0318457686e8cd98e308a004f2a77c77d8662987","family":"person","person_id":"person_7pNcMl0NRVGRS56c3_MsWA","route":"/preview/1984/alan-mitchell-levine","scope":"preview","shell_contract":1}
 {"digest":"a56c3cc7ded98231601933c7ca6da513dc7031f02f216dd2c068a08f8e6cfd3b","family":"person","person_id":"person_P2ob3D4ydTc58nvy672f1P","route":"/preview/1984/donna-j-shrout","scope":"preview","shell_contract":1}
 {"digest":"6b23960e22acb64d08736c899ee2e1b7f1bd46bf36bc67bb5de4499df4557f4c","family":"person","person_id":"person_IoT9FWLkWXABiQwwqpyIiy","route":"/preview/1984/gerardo-licea","scope":"preview","shell_contract":1}
 {"digest":"61b6bf3fb255886b57b0a3fa3443de7ce8f84b087877060fe90ca8681a8a7d40","family":"person","person_id":"person_IgketrIzHItIwSmvy1VJLJ","route":"/preview/1984/h-stefan-schultz","scope":"preview","shell_contract":1}
@@ -1139,13 +1139,13 @@
 {"digest":"87b1cb17fd8b6e33e97908317e38753237decac6f740faaa062ec2e00aa8e6e3","family":"class","route":"/preview/classes/1922/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"c4516bda104b9801d51293615d6947f619dbd845a6e2c425bc4a5824285d1a2e","family":"class","route":"/preview/classes/1958/school/college","scope":"preview","shell_contract":1}
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/bachelor-of-fine-arts","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/bachelor-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"1856fd5e384fbe8e0476c25ad06682a8f580999333687c6ad97ddc258eb11da0","family":"class","route":"/preview/classes/1979/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022/master-of-laws","scope":"preview","shell_contract":1}
-{"digest":"ee340be5204156998064d0e08c50a08f8d664b8c10f162d4b93c3e8e5939ede5","family":"page","route":"/preview/exercises/processional/1980","scope":"preview","shell_contract":1}
+{"digest":"a503d7076e9353fb68beb75e8195aca3a38efe0f83926bd644525c9b35185909","family":"page","route":"/preview/exercises/processional/1980","scope":"preview","shell_contract":1}
 {"digest":"6e145c854175cec60bc620f4eb2d2e1eee0028b345ba841be9f425999df97aaa","family":"page","route":"/preview/exercises/welcome","scope":"preview","shell_contract":1}
 {"digest":"9d7f1aeec81fe84cd10a55d973dd40bc8f053848d919bbd3a3f3227967f123e1","family":"page","route":"/preview/field/germanic-philology-german-literature","scope":"preview","shell_contract":1}
 {"digest":"fe5d1ea40b6c3e60485ccbe2326aa5432756078f2812d82103983a2b9f3bc7ee","family":"page","route":"/preview/field/group-studies-in-the-humanities-literature","scope":"preview","shell_contract":1}

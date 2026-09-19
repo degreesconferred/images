@@ -523,13 +523,13 @@
 {"digest":"656a3b0144d0b6dd8a99d88436432c1d2f9c9c31cee7fa72104af75aded0cd50","family":"person","person_id":"person_RGEUs5yehydY5VuhlZMR4e","route":"/preview/1983/robert-d-thomas","scope":"preview","shell_contract":1}
 {"digest":"81d7276bf635af78853cc56297a9d6d68d9165f438713c5831965518e3059daf","family":"person","person_id":"person_lGPO2hsrwj2zvcKK9rdSQD","route":"/preview/1983/scott-j-shenker","scope":"preview","shell_contract":1}
 {"digest":"b7c943f00faed4a2e3fc6a713f5fae506355942c86e6561efd6f8722324995c9","family":"person","person_id":"person_AVu0TnSCvidpkMSBDbhViE","route":"/preview/1983/stephen-skobel","scope":"preview","shell_contract":1}
-{"digest":"f37886ac86144fe57fa89a7c118d571998b021acdf3a0d1e4057345252aa0a0e","family":"person","person_id":"person_vrRFQdgeSpGJCapcfyjmeg","route":"/preview/1984/carline-r-wilson","scope":"preview","shell_contract":1}
+{"digest":"a60de2c1834870faed3cb720fc868792356ad49d830ead286512567e2da4238b","family":"person","person_id":"person_vrRFQdgeSpGJCapcfyjmeg","route":"/preview/1984/carline-r-wilson","scope":"preview","shell_contract":1}
 {"digest":"9c1b7061ed526e92ede30eddfcf347f50a84c9652a79a5d92e612c98474cdbe6","family":"person","person_id":"person_0inn1zVKa6R315eYctkTQi","route":"/preview/1984/elaine-o-connell-jordan","scope":"preview","shell_contract":1}
 {"digest":"4e9f61ad947408f2ef53ca24d5b07fe449112f46505cdda2c45392156fcbf404","family":"person","person_id":"person_Pvf5OM_1WCkZGD7uwbFDlW","route":"/preview/1984/j-randall-dempsey","scope":"preview","shell_contract":1}
 {"digest":"107d66664da2168c68c7fdff1040f8f3190c7f60c7c2d6fb5cd07cb54f83941f","family":"person","person_id":"person_ciyE2E9VQDeDyFEerVgisA","route":"/preview/1984/john-harger-ware","scope":"preview","shell_contract":1}
 {"digest":"5ab770008155e363d20dab2377474b89321e061f2e045924053a673f70b29fa7","family":"person","person_id":"person_XKR6MTJChBndrXuHKFVAn7","route":"/preview/1984/julia-c-chill","scope":"preview","shell_contract":1}
 {"digest":"1a138d38b5e67ed520c387ba0377aebd24949ae7ccf2e0dadd3867564854b669","family":"person","person_id":"person_tlY38E_nSTuJr4tRITuR2Q","route":"/preview/1984/mary-catherine-budde","scope":"preview","shell_contract":1}
-{"digest":"064ebda529557308b42f7dc91cc57cf61248201b21ee393a8e2b10a240b2bf49","family":"person","person_id":"person_ZNu5ItcXR5-vLvnQQmdOFA","route":"/preview/1984/william-merrick-sanders","scope":"preview","shell_contract":1}
+{"digest":"b93a8970e9960d613477cd9d8bfca38f57b8cbf0163fad4b1460c086334f8de3","family":"person","person_id":"person_ZNu5ItcXR5-vLvnQQmdOFA","route":"/preview/1984/william-merrick-sanders","scope":"preview","shell_contract":1}
 {"digest":"62cfda283b8164c4cc3b37a537dd55b3f5317679bac00ab577986d3adaea40e7","family":"person","person_id":"person_qTAKFre5yPX-CA3wrdWEYZ","route":"/preview/1985/adria-gail-medema","scope":"preview","shell_contract":1}
 {"digest":"ab9588b500e4693421bff70b3a14ef14ca9e1ef9524cb28c399ea7df65caefd1","family":"person","person_id":"person_SspPIZBYTkqWv4ttUGgJ5w","route":"/preview/1985/alan-scott-segal","scope":"preview","shell_contract":1}
 {"digest":"a5917a75506ee49735aa6d076fbc875f0b98e85d71a0400cd0f85c0828981a27","family":"person","person_id":"person_ip-2ZpbsQNmqmP0TX1Ey1w","route":"/preview/1985/amy-h-shapiro","scope":"preview","shell_contract":1}
@@ -1185,7 +1185,7 @@
 {"digest":"112280e1f18490ba661ab1298fc84d0daecc17601d105814c168271a343565f3","family":"class","route":"/preview/classes/1939/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"cbf39ef1051291a8c7fd02b3ccb2e59a1818740a88602ad600b65174560e2b1d","family":"class","route":"/preview/classes/1945","scope":"preview","shell_contract":1}
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/division-of-social-sciences","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/doctor-of-law","scope":"preview","shell_contract":1}
@@ -1193,7 +1193,7 @@
 {"digest":"946174f7c58618bd6b1713e9cf3ae82d7b74b75bc3ac947bf446ce65c07fccea","family":"page","route":"/preview/degree/master-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"1c8eb67dfd385103b434a8ccf7cf0d4993af6c116c2597cc34e849db06c7942b","family":"page","route":"/preview/exercises/address_to_graduates/1920","scope":"preview","shell_contract":1}
 {"digest":"d9207d1cf98a8362f23be863caafd155a372360648807b625f5bb6828e7e4dbd","family":"page","route":"/preview/exercises/congregational_hymn/1900","scope":"preview","shell_contract":1}
-{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1930","scope":"preview","shell_contract":1}
+{"digest":"2a52d1e66afc93955b44867a4850f017be75ec76a03d943847b84fc8d622d5ca","family":"page","route":"/preview/exercises/degree_conferral/1930","scope":"preview","shell_contract":1}
 {"digest":"80ffb00a0da2f773ffab124168e5e0cb86a6aa921c0518ddf3195e36297be9f7","family":"page","route":"/preview/field/mathtics","scope":"preview","shell_contract":1}
 {"digest":"52e65e0cd80b76b17885920466da27b594c17f612197b841264fe5f573dd805d","family":"page","route":"/preview/field/reference-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"dbcd90bbfbfc98fe1d85f12e4f5dc5694d3c2208e83fab67fcce66fb81f4bbe2","family":"page","route":"/preview/processions/program-beat-6aa4a14f4865d67deaf717de","scope":"preview","shell_contract":1}

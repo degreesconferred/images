@@ -519,10 +519,10 @@
 {"digest":"24929eb448956e1ff4523b245bb4459d267ec9d15955bb86240efd7fce1fa62f","family":"person","person_id":"person_bzMxezD2Ay4phCELoOAdB0","route":"/preview/1983/paul-edmund-ducharme-jr","scope":"preview","shell_contract":1}
 {"digest":"3c020fce53a52d6a8544ca6160676cd6f193f35f38e38ab9bd5288ce698a03ce","family":"person","person_id":"person_q2pWWLSbTzurvbbF2gd5NA","route":"/preview/1983/richard-lee-erickson","scope":"preview","shell_contract":1}
 {"digest":"bec2350c1d290f69d24a99c989735d93013e1255bb22ece1aae579b4b50aad99","family":"person","person_id":"person_wE0PzESa5DuG8ydSGAaBK-","route":"/preview/1983/william-paul-springer-jr","scope":"preview","shell_contract":1}
-{"digest":"bc3714751bb1e676cb3c7897f1995b33177325472a05f19d913a019d00f45020","family":"person","person_id":"person_MW98Ptmy8y04O-sX07Yt_o","route":"/preview/1984/andre-e-kezdy","scope":"preview","shell_contract":1}
+{"digest":"6add5346be5110668585ab271d7eb00d021995a7c05dd2d5d037cb4fddd3ce23","family":"person","person_id":"person_MW98Ptmy8y04O-sX07Yt_o","route":"/preview/1984/andre-e-kezdy","scope":"preview","shell_contract":1}
 {"digest":"5456eb58ea2c1c157e95e16d39c4d7d2a7d9c9fa693bec0638a4440c477c5462","family":"person","person_id":"person_xahoD8ggRtOmkhY8og0DQQ","route":"/preview/1984/carl-edwin-may","scope":"preview","shell_contract":1}
-{"digest":"a7d8e3d54e1065a0fad38f19b4d0acee41f26487191a45fa8412650b4be32ab8","family":"person","person_id":"person_bImVKhKIQja7isrIss4Smg","route":"/preview/1984/celiza-p-braganca","scope":"preview","shell_contract":1}
-{"digest":"3c9d7ca1d41526e7434714d3ece7e6b9e11a166ee1a4dd6471833afcab198fec","family":"person","person_id":"person_8AePrT2VRFqB_xXaAmaJCQ","route":"/preview/1984/david-bruce-albert","scope":"preview","shell_contract":1}
+{"digest":"b81bd15f4d0f5863ae0dab63bf782eb4142f3d2eee67333e5b22211134babec0","family":"person","person_id":"person_bImVKhKIQja7isrIss4Smg","route":"/preview/1984/celiza-p-braganca","scope":"preview","shell_contract":1}
+{"digest":"dab20c8702a01aeb1d424f796a7c299f404727efe6c780387f926fdad5e574b7","family":"person","person_id":"person_8AePrT2VRFqB_xXaAmaJCQ","route":"/preview/1984/david-bruce-albert","scope":"preview","shell_contract":1}
 {"digest":"dacd6fff288ec8f19ddf0b764309dd604c5dcc8a2e5c4882195304d9851be1fa","family":"person","person_id":"person_4V3q-ZWkQfas4OygoNbwSQ","route":"/preview/1984/lamar-cecil-ratcliffe-jr","scope":"preview","shell_contract":1}
 {"digest":"dd40dd7f5eef07c2cccbcd9ca042ebaf2bc3a73749ae6fcad593867e947d060d","family":"person","person_id":"person__szVw0ZeSDGFlZ-kaJo9qg","route":"/preview/1984/laurie-n-feldman","scope":"preview","shell_contract":1}
 {"digest":"3eabe49929a4de96a95feb8bf3e25e8f418ec992712eab1f60f7abb2b49836bc","family":"person","person_id":"person_UXWa4Axw7LscitKt1xGH-K","route":"/preview/1984/robert-george-protosevich","scope":"preview","shell_contract":1}
@@ -1208,7 +1208,7 @@
 {"digest":"cf9f27f51f9ce272b0c0f09829bbc9cd521efaa02769d7ca20aa4ff6f85ed004","family":"class","route":"/preview/classes/1942/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/bachelor-of-arts","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"c5f1a4877d1e3922a88fc8eb83e95d89a1a04473e12cc9e37b722ab82b8f9c99","family":"class","route":"/preview/classes/1965/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"aaa6979639fdb745b7cdb8681655d32d909b624b02fe548b06dc3a72f77915c9","family":"class","route":"/preview/classes/1987/bachelor-of-arts","scope":"preview","shell_contract":1}

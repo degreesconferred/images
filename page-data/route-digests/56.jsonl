@@ -510,7 +510,7 @@
 {"digest":"959549c20f81fc1a4449d76622ffed9fde820069053023659fa63e15235e4752","family":"person","person_id":"person_Km5ospQ3id5gpYcaU70xFe","route":"/preview/1984/joseph-frederic-goldberg","scope":"preview","shell_contract":1}
 {"digest":"cf1a58b84a8460edd8d1b40977ff51f5dad9b71cfec7ac1dd4347f054aae6196","family":"person","person_id":"person_-F6_H-NySwaMUhinGxHVHQ","route":"/preview/1984/judith-s-mower","scope":"preview","shell_contract":1}
 {"digest":"9ac6e0c2dd701ac94ef314d090a380e01690ff2520a0606c2276faae89a848be","family":"person","person_id":"person_Rol2ONysS3uyYMO8PrnW2A","route":"/preview/1984/katherine-p-friedberg","scope":"preview","shell_contract":1}
-{"digest":"8c0818592e3390e0c59f7444c6fb23d6d28833610deb418ab89f1895f6bbedf1","family":"person","person_id":"person_Kg7IWYHbSWiowhD0hY-j-g","route":"/preview/1984/michael-d-bennett","scope":"preview","shell_contract":1}
+{"digest":"b782a85f9fb69fe8dfe18b9fd939beac0e8ae2dba6e1e1de7c79620f9d7f6515","family":"person","person_id":"person_Kg7IWYHbSWiowhD0hY-j-g","route":"/preview/1984/michael-d-bennett","scope":"preview","shell_contract":1}
 {"digest":"e19aeadb15e02185d4b37f4f956dad90cf55027c91adc79f833cc880516a939d","family":"person","person_id":"person_EL1wWfVkRGi3R9tuIjG7Ww","route":"/preview/1984/nancy-jean-zimmermann-aque","scope":"preview","shell_contract":1}
 {"digest":"f33de8617584f922d70e217fa55dee4577d0eb59fb83d7a99a188384a4cae87a","family":"person","person_id":"person_YXgDFflOTjNJxBVvykZ53-","route":"/preview/1984/peter-dokam-kim","scope":"preview","shell_contract":1}
 {"digest":"910ff65df70f829007df4319ef2d3a1eeeae1c1a4c22da322fecbeb678507a18","family":"person","person_id":"person_F1A6ojJ4P-TT2-pkIsj9JG","route":"/preview/1984/renee-denise-jacobson","scope":"preview","shell_contract":1}
@@ -1167,13 +1167,13 @@
 {"digest":"5f803d94ccdd099c26a9ce66412042b90d1dc96be05310b59c3cff2fb4814112","family":"class","route":"/preview/classes/1934/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"f643dfadded07f4536b37fdff9a3b03a9daff8f5b5219c6893df12b7f9559277","family":"class","route":"/preview/classes/1963/school/graduate-library-school","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"381c30eb5aad943de07b2648bf7db7e7ac54293513dab5a6c83425df072fc4c7","family":"class","route":"/preview/classes/1990/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/master-of-liberal-arts","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1940","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards/1940","scope":"preview","shell_contract":1}
 {"digest":"39909f139a51e55c62f52559441575f950b333c4afeb3365cce989ec5b1ea39c","family":"page","route":"/preview/field/ecclesiastical-sociology-sociology-church-history-political-economy","scope":"preview","shell_contract":1}
 {"digest":"55bbdacf66c8175823f26b19925f32bbd941e908cabf02d5c8e74ee9fd7be224","family":"page","route":"/preview/speaker/john-holladay-latane","scope":"preview","shell_contract":1}
 {"digest":"5de3bd58b55ef13e736829b42344b5dc0bb38f8e9f9696172a2fc448a6909a0b","family":"page","route":"/preview/speaker/robert-j-zimmer","scope":"preview","shell_contract":1}

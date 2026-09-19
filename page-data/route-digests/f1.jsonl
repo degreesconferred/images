@@ -518,14 +518,14 @@
 {"digest":"09876bdbcc35e38af8e45034a29f0f79417af066f25a0aefef43030f3e045550","family":"person","person_id":"person_75H3IXYjsxrFVQurYHA4MX","route":"/preview/1984/eddie-john-manelis","scope":"preview","shell_contract":1}
 {"digest":"87708cbe99ad370725094b4c8da4aaa5ea348e8bac37fee647ed93e60caecab0","family":"person","person_id":"person_ef5JUq8ea5SxRlfEtQ7R6T","route":"/preview/1984/george-jen-yi-chiu","scope":"preview","shell_contract":1}
 {"digest":"02869b2eee62807803706eda1a826e3f705d3c0d9b1a1caab244490dfc94303f","family":"person","person_id":"person_qGXNizfDS8aWmxnbRVjiWA","route":"/preview/1984/john-mace-grunsfeld","scope":"preview","shell_contract":1}
-{"digest":"6462d6e5ac67e8962aec6e9e45a726a9560f83598452ea2c15f4ecfac2d152ca","family":"person","person_id":"person_Au3G_0XVToOt5M8BTORj5A","route":"/preview/1984/lisa-katrine-meulbroek","scope":"preview","shell_contract":1}
+{"digest":"4267ff1f1c3d4afb0e3bf9d25f9d1e0cca6a7c9685911fdb00766533820d5a75","family":"person","person_id":"person_Au3G_0XVToOt5M8BTORj5A","route":"/preview/1984/lisa-katrine-meulbroek","scope":"preview","shell_contract":1}
 {"digest":"be1c7b62b6aefae4b9c92a81c4f0274a143310aa470f7f30d130940df89196f5","family":"person","person_id":"person_uJf2jGukRZSzIAIrp7B81Q","route":"/preview/1984/margaret-lee-dady","scope":"preview","shell_contract":1}
 {"digest":"2ba2b26cce374619984e42501d68f1c33578406a575fdb19bff73e61a4e3bc0b","family":"person","person_id":"person_ZQzjjgCfTAmuP6gApgqx2g","route":"/preview/1984/patrice-marie-daniels","scope":"preview","shell_contract":1}
 {"digest":"c62971ea853c392aa2db45ca9b8b53ce71dd0d2dd24842fa303cd8b536cbccba","family":"person","person_id":"person_XkC5fGDCrXjQMG3lusiebE","route":"/preview/1984/patrick-francis-aloysius-o-connell","scope":"preview","shell_contract":1}
 {"digest":"7adfeaf733e92954c2c41d98ea8bad581199789439b264c9182945f6aaa7e2af","family":"person","person_id":"person_ZhjgHZzeTler-UMgFCEtug","route":"/preview/1984/paul-g-oxholm","scope":"preview","shell_contract":1}
 {"digest":"a1efe0a3c8afed2a08ad0e8ea067b18733d43cfb32ca55804cc011d9bd8e43f2","family":"person","person_id":"person_RHoVHmGJTo2Y_5cRrMeD-w","route":"/preview/1984/sandra-m-jelks","scope":"preview","shell_contract":1}
 {"digest":"7b08dba14d657027e776da6099611a251ad9543116a7e07acc731c95d531b87e","family":"person","person_id":"person_O0jod41yLXDThfWbGJjz2n","route":"/preview/1984/steven-lane-conn","scope":"preview","shell_contract":1}
-{"digest":"413fd055d40e792a645d3100016dbee59aed2dd6a3e2287d94879e1719ac6b36","family":"person","person_id":"person_z28orB7gTqO55CxgRQjftA","route":"/preview/1984/suzanne-m-yant","scope":"preview","shell_contract":1}
+{"digest":"7a0f5b52c9a3ec7fcc685b59bb7e8a85c53b892c163a32155fae5b0efd6d5b7d","family":"person","person_id":"person_z28orB7gTqO55CxgRQjftA","route":"/preview/1984/suzanne-m-yant","scope":"preview","shell_contract":1}
 {"digest":"4b1693fdc3e03dc7d274953ffc25fb59c11a5c37b8a9819fb86827736a96b723","family":"person","person_id":"person_DVSyQGaSlQuz5Czge8U9yN","route":"/preview/1984/timothy-brian-robinson","scope":"preview","shell_contract":1}
 {"digest":"c69e464b791fbacbdfe8800269cfcd5f87d7b2583096eac92a82d160e363b84a","family":"person","person_id":"person_dxhFr96MSAewkd7pEli47A","route":"/preview/1984/william-edward-ledbetter","scope":"preview","shell_contract":1}
 {"digest":"6f184170c5fc123d50119f0c2ea89893274e8aa1b6311c1c0534294c1f203400","family":"person","person_id":"person_8opjL46JXpk3PzlypDcMKD","route":"/preview/1984/william-soule-baker","scope":"preview","shell_contract":1}
@@ -1199,7 +1199,7 @@
 {"digest":"260bc15d7f885337a19a0e3cf2cc17400a8cd1153945c5394d0cdba0ab7af59f","family":"class","route":"/preview/classes/1938/school/rush-medical-college","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/school/graduate-school-of-education","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/bachelor-of-science","scope":"preview","shell_contract":1}

@@ -465,7 +465,7 @@
 {"digest":"5b2f7932da637f9bf41298ffeda5eb7f0faf3f2c22cec747f9a8c96cb965bdb0","family":"person","person_id":"person_iFN7v7wKTNGZeSaPWeTNaw","route":"/preview/1977/albert-laighton-osterheld","scope":"preview","shell_contract":1}
 {"digest":"4c27e2379df65a677b610f6e838e67c1a489e96496dba28546506d3f1ae46322","family":"person","person_id":"person_rCIiGKh1SymDsXIFMASuxg","route":"/preview/1977/ann-b-fein","scope":"preview","shell_contract":1}
 {"digest":"15a311f477d514a0fb6aa10826e7d830414d3e42818e2098e3b19d45c9f0a228","family":"person","person_id":"person_ClhcF3jXRHqGdSe3w6qfKQ","route":"/preview/1977/daniel-joseph-dzurek","scope":"preview","shell_contract":1}
-{"digest":"4e55b6f5b0fd00dd867c38042c777aef3a5f3c78863a8b8d6131476f84521f60","family":"person","person_id":"person_NuabmibuRSGS_cDvWyI19A","route":"/preview/1977/david-warren-beaubien","scope":"preview","shell_contract":1}
+{"digest":"14fcde44f2265b67099bd4f92d331e4128df8f49be0a498b36a9c1d5d38bf2a3","family":"person","person_id":"person_NuabmibuRSGS_cDvWyI19A","route":"/preview/1977/david-warren-beaubien","scope":"preview","shell_contract":1}
 {"digest":"4cbd9bf3a925d463672a201778b5562b933d75e95b1b997720f51764c6fd9dd7","family":"person","person_id":"person_DdcPIKF0nZOJd_rW2qCHi4","route":"/preview/1977/joan-marie-weidenhamer","scope":"preview","shell_contract":1}
 {"digest":"bd4a1689e09c41e6f138d2b387bd4d5ab59ae7bde4319290e6a739b42cea9235","family":"person","person_id":"person_NOp6RmtCTEmKiQowIa2H5w","route":"/preview/1977/kerry-stephen-mcnamara","scope":"preview","shell_contract":1}
 {"digest":"5664270cf9633edb4b600c65e75e0bd1565450a7c5af9c22d0d9ad0edac792f3","family":"person","person_id":"person_tt6uxDLmC4T_lMEamYDF5I","route":"/preview/1977/manoj-chandravadan-adhikari","scope":"preview","shell_contract":1}
@@ -543,7 +543,7 @@
 {"digest":"6028e360110330cf4a74af605fac17e4f14e0ee3c3b8acc07c93365f452de9b9","family":"person","person_id":"person_G028QxqBEN2B0rgMjTzyK9","route":"/preview/1984/daniel-a-seligman","scope":"preview","shell_contract":1}
 {"digest":"ec2cd6bf706f8501558a6c82a810d77366fa8345a9797600c717531853497ab1","family":"person","person_id":"person_tsxJKS6GT86vPmbhoo_X4w","route":"/preview/1984/earle-david-miller","scope":"preview","shell_contract":1}
 {"digest":"5ca64699771b3cccc06c5adbc5778aba09cf5c5dff93306283e94ef5163db987","family":"person","person_id":"person_PxyYPgqFSD-e8zIvs_wJuw","route":"/preview/1984/gwin-j-kolb","scope":"preview","shell_contract":1}
-{"digest":"ed9c60cbaaf9d710db359229500f0b10c9db1a4d72ccd254c6dc340093d832fc","family":"person","person_id":"person_py12huhXdYuiWa3ZVjIZqY","route":"/preview/1984/ian-bruce-hamilton-iii","scope":"preview","shell_contract":1}
+{"digest":"8c4e9ebe70cb7c21e29bcb2f0583fdd0c368da1691d0271272b19827cc181bf4","family":"person","person_id":"person_py12huhXdYuiWa3ZVjIZqY","route":"/preview/1984/ian-bruce-hamilton-iii","scope":"preview","shell_contract":1}
 {"digest":"481a91a4f619721e5849d1b4f5ae15bff81abe2dcec1fad728a6e2c7b7928524","family":"person","person_id":"person_CZwlVVRdSPup5lIiGl1mqw","route":"/preview/1984/james-welsh-lewis","scope":"preview","shell_contract":1}
 {"digest":"73fa0fda989b46986984aa888b586268daf25691a2c2b198ef1c5e10f49c0f99","family":"person","person_id":"person_pkP5BmRmS8iZXErpAaGeaw","route":"/preview/1984/jaswant-singh-gill","scope":"preview","shell_contract":1}
 {"digest":"5b4315bdd21f35ee174a53d7ac35366b1be5db499df8330dfc4e193159caab20","family":"person","person_id":"person_i87vJuejQLyz4FGmDOWTbg","route":"/preview/1984/jonathan-b-abram","scope":"preview","shell_contract":1}
@@ -1247,7 +1247,7 @@
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/doctor-of-ministry","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"b5d313c57e623926111b8a186ccf2ef5d454b430b26abc8cba78b0ec33bb0ea8","family":"page","route":"/preview/degree/master-of-arts/m","scope":"preview","shell_contract":1}
+{"digest":"85f29ca60ee4220d4f13fa7696e9de68bde02b436e56e7af0d8ba0cc07d72ac8","family":"page","route":"/preview/degree/master-of-arts/m","scope":"preview","shell_contract":1}
 {"digest":"45c169f159c1269b1f3ef670c8331ccfa930193d9c25ab87e7071ac9daae4f6c","family":"page","route":"/preview/exercises/teaching_awards/1970","scope":"preview","shell_contract":1}
 {"digest":"cfcea86e1233db04fc1173a98bba397cec765347d0ebbceec5657b1cbcfe5aec","family":"page","route":"/preview/field/chemistry-and-physiological-chemistry","scope":"preview","shell_contract":1}
 {"digest":"33cc29df4ecb8da2641331d58ed0c810704ad7ecccee611d372a0e86dd43c0f8","family":"page","route":"/preview/field/chemistry-home-economics","scope":"preview","shell_contract":1}

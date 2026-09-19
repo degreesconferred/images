@@ -530,8 +530,8 @@
 {"digest":"ee85dc154eb4dddaff88f28035d5299edd3d5d0ea27840e52ec49f7fc26ca39d","family":"person","person_id":"person_2EAwcqkhQTCKaSUd2v549g","route":"/preview/1983/pedro-l-videla","scope":"preview","shell_contract":1}
 {"digest":"5e9581c754ec455e5d06fc0dc0d2f06fdde9185abd75f9ccc77becf42cad2f84","family":"person","person_id":"person_jikRIdXwQ6i0vQomeBvzjw","route":"/preview/1983/robert-j-dionne","scope":"preview","shell_contract":1}
 {"digest":"ba6091e3d0b2bb6e16d5a701ef9dd2f59347ac77a00c12c4da57769ff47b24d3","family":"person","person_id":"person_QhGcIQ8qjOQGiFfMbD9P3l","route":"/preview/1984/bruce-randall-bassett","scope":"preview","shell_contract":1}
-{"digest":"0942aba50bdede314c03d5907310272559d48c03fc29d8bb550ff8dc04202e16","family":"person","person_id":"person_tHPU0QQ_QKmRaVUphOm3wA","route":"/preview/1984/david-gordon-cohen","scope":"preview","shell_contract":1}
-{"digest":"7b2bc0c640d6de14c164eabb89bcb28fc18060c9eafdb71a98712bb0200f4b52","family":"person","person_id":"person_KwRcR9bNR0421ARc-Ojtev","route":"/preview/1984/douglas-jack-durian","scope":"preview","shell_contract":1}
+{"digest":"53e80d49ededcd86c1314dcc6d8d2958c8a8b6b1de6eb53ea665a59310794cb9","family":"person","person_id":"person_tHPU0QQ_QKmRaVUphOm3wA","route":"/preview/1984/david-gordon-cohen","scope":"preview","shell_contract":1}
+{"digest":"2f52c542f40b9ae24851419cab35bcf81063d9af32bf94619c5e901607bd89de","family":"person","person_id":"person_KwRcR9bNR0421ARc-Ojtev","route":"/preview/1984/douglas-jack-durian","scope":"preview","shell_contract":1}
 {"digest":"133ddd023efd0d9b613b7a58d08667e09b7603851e7bde17b45f8c5f9c81a7a1","family":"person","person_id":"person_1pZZ1mFTSNuL1RGwCh1PSg","route":"/preview/1984/duncan-clark-mccurrach","scope":"preview","shell_contract":1}
 {"digest":"ef2edf43e5b82bff4bdcba04664a99422095006ea146600c22c2f76fcb6d6571","family":"person","person_id":"person_mGu3YosRSF-nFDIdiusaBw","route":"/preview/1984/janice-marie-nigro","scope":"preview","shell_contract":1}
 {"digest":"d9d16419693521a6e230110a50b4d538f142eb4d3b5a38146d8deb1106a8b995","family":"person","person_id":"person_YuEV8mlcSuUhCYLG5lmvdK","route":"/preview/1984/jeffrey-colin-nii","scope":"preview","shell_contract":1}
@@ -539,7 +539,7 @@
 {"digest":"434f6da27fb24b3d01d9bbb7848cb510dc41c34012614532798ceb3b0fd90d99","family":"person","person_id":"person_fVuv9CiYRv6rWa9qIv4jnQ","route":"/preview/1984/linda-kay-nordeen-ferro","scope":"preview","shell_contract":1}
 {"digest":"1bea321b78d18da34e11a98e9907a6cb7efdfe37d82b5c1150804b50e1e7e5c1","family":"person","person_id":"person_qg3urZEVQ2eVg01zOhbkBg","route":"/preview/1984/mark-schenkman","scope":"preview","shell_contract":1}
 {"digest":"2e8a3faaec1e2d3c891d19f65bd4814b3bc9bb432b1ab545752e756d64fd1e76","family":"person","person_id":"person_vO5K9w_wT8eGdI4DLtsZwA","route":"/preview/1984/philip-hight","scope":"preview","shell_contract":1}
-{"digest":"d546de2a74052a6ae5bce44346996074f0d3d2b62956e0401e30689f8d4a382e","family":"person","person_id":"person_kTBN48P01aM-uBF0us7Y07","route":"/preview/1984/richard-john-english","scope":"preview","shell_contract":1}
+{"digest":"1362d43ecf9062a53d9628271e39c307c31d0aa91e7cb4046096d42cfcf4eacd","family":"person","person_id":"person_kTBN48P01aM-uBF0us7Y07","route":"/preview/1984/richard-john-english","scope":"preview","shell_contract":1}
 {"digest":"d20dd83b487991773a16a7df1183941ddad30ac93758aa8998392fa6613c3e6b","family":"person","person_id":"person_q2uk9R1eTNahYkNcz30pag","route":"/preview/1984/sandra-jean-rubin","scope":"preview","shell_contract":1}
 {"digest":"82fe2d37b534f2ea9a6d4a53f70ace4e0c3db6a5dd94326ec4c18cea67fe0bb9","family":"person","person_id":"person_ZiFnK6q4RSmbkcL0xl2sLA","route":"/preview/1984/sheri-linn-rush","scope":"preview","shell_contract":1}
 {"digest":"3621a9610fb15e18cd3d2f6d99f0ab9c73489c77ccc27d52894c8f1738cfed91","family":"person","person_id":"person_JbOLKLKXjriS_Ge7jmmV7a","route":"/preview/1984/skeffington-keith-young","scope":"preview","shell_contract":1}
@@ -1222,7 +1222,7 @@
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"f4df211c1c5e3f859ed33f398aec7e709bd98ac115699fa1982f507bbebc7dd2","family":"page","route":"/preview/degree/bachelor-of-arts/p","scope":"preview","shell_contract":1}
 {"digest":"1c1ec9ec546c085b4664c4cd3ef4d4f5eb76cfb8d23195481f0d84dc1c39d4a7","family":"page","route":"/preview/degree/master-of-public-health","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards","scope":"preview","shell_contract":1}
 {"digest":"c1a36fff8bacd70240cebbd6ab62ee0249561c73d4c684ce9c1872e743b08b46","family":"page","route":"/preview/field/chemistry-home-economics-and-physiological-chemistry","scope":"preview","shell_contract":1}
 {"digest":"a16f4630a9ecdd88c573c3b8991783183cdaf848f053558220b71c816df9ace6","family":"page","route":"/preview/field/chemistry-physiology","scope":"preview","shell_contract":1}
 {"digest":"399ff6e78ae0f9fd4634c1b185076e9f88f7ce6bbf0ac8f03f5ebc14c8c95d04","family":"page","route":"/preview/field/philosophy-sociology","scope":"preview","shell_contract":1}

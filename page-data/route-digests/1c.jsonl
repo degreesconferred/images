@@ -566,7 +566,7 @@
 {"digest":"f0d95b13f988529d74f1636ebe7f61fc2130122e96ceac7e5f22e65de59c229c","family":"person","person_id":"person_smSMtWW-TC2oPNnotFhlgg","route":"/preview/1984/salle-bruno-gerard","scope":"preview","shell_contract":1}
 {"digest":"0e913591190be1051b4f1df0f6962222d1259f14abd9058aae74dff1b2d316aa","family":"person","person_id":"person_La_IGssUCDs2a6iDM3g5Cw","route":"/preview/1984/steven-j-schuessler","scope":"preview","shell_contract":1}
 {"digest":"68d6c03e7775264267529ecd1881469e693def2bcd46840628d9befcac5213b4","family":"person","person_id":"person_zTpgNpwaSouPMrPU8g8pKg","route":"/preview/1984/timothy-lawrence-bienz","scope":"preview","shell_contract":1}
-{"digest":"da5633d104db1054ab32ef9f02d162d9c4a42a2c4f5d68b2380d812628882d4e","family":"person","person_id":"person_cNq4JVnfQgKn4jw-ZSFQjA","route":"/preview/1984/vesna-martich","scope":"preview","shell_contract":1}
+{"digest":"df56558278bb2fb374919b8f357edc130bf0e0884f102e03b9169a9bd306145d","family":"person","person_id":"person_cNq4JVnfQgKn4jw-ZSFQjA","route":"/preview/1984/vesna-martich","scope":"preview","shell_contract":1}
 {"digest":"f8f9d72cabe912ba439bd0a87899dea32ff5de8b755d311afdb34bddddccf725","family":"person","person_id":"person_cMvcKwhwk2LCO0peNo-t_-","route":"/preview/1985/benjamin-mindell","scope":"preview","shell_contract":1}
 {"digest":"aef5a5a811273affda916b7eae8e57ca23f1da362b58fc92ce167bbcfb530442","family":"person","person_id":"person_nPvMCdOMSUa-d8QjNmqX2Q","route":"/preview/1985/duane-j-seppi","scope":"preview","shell_contract":1}
 {"digest":"8645819a1907bc8e8a42c6bf11b1d72358d00510142dbe4fa90429a0a0f3687a","family":"person","person_id":"person_wegxP9xaQzilsgIuA4hugw","route":"/preview/1985/harry-calvin-bull","scope":"preview","shell_contract":1}
@@ -1238,9 +1238,9 @@
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
 {"digest":"e4ca72e85a3a3d237ca00d60e91f0721462e72318ccdb53efcf375a56a3a7ba4","family":"page","route":"/preview/degree/doctor-of-philosophy/w","scope":"preview","shell_contract":1}
 {"digest":"60d20c8940c90cb60928d695df5ce2ef2cbbbe429d416400e3ac057d292fc6f6","family":"page","route":"/preview/degree/doctor-of-philosophy/y","scope":"preview","shell_contract":1}
-{"digest":"d47564e005d9503d4a15048a755e03effe7b2ef703cfc3c42df8cff7d2015e48","family":"page","route":"/preview/exercises/academic_unit/1990","scope":"preview","shell_contract":1}
-{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1900","scope":"preview","shell_contract":1}
-{"digest":"4200a1f6d402039141d0c61dd7173abcc9b16aeaaa75ad4a1795e7dda918be77","family":"page","route":"/preview/exercises/student_marshal_section/1930","scope":"preview","shell_contract":1}
+{"digest":"ef6a62f9e0e762ecf8a0f095cdca87570d692460c3d916295cfecf73ab0ce112","family":"page","route":"/preview/exercises/academic_unit/1990","scope":"preview","shell_contract":1}
+{"digest":"d2f16470d6f55b4f01b14f2c58cae7baac43c44b7e6599ad0b8cad3e38858118","family":"page","route":"/preview/exercises/benediction/1900","scope":"preview","shell_contract":1}
+{"digest":"4cb586276c078ec2020965a5734878aa03489df86deadd6a0b99fb7c1b829dcc","family":"page","route":"/preview/exercises/student_marshal_section/1930","scope":"preview","shell_contract":1}
 {"digest":"fa192a45a147beeeedc189b55f402c9c4e8b70ec89f6122a98e0d39707f379ef","family":"page","route":"/preview/field/systematic-theology-philosophy","scope":"preview","shell_contract":1}
 {"digest":"76bfa8c62b426f8603a9a47f579a7131a86e088f770143f45bec0ad2f2247907","family":"page","route":"/preview/processions/program-beat-c8ff0139302938ad48ea5092","scope":"preview","shell_contract":1}
 {"digest":"7ae095edaadff1b6507675c3c124b749091df83ada62749f84115b0aa7445a87","family":"page","route":"/preview/speaker/chauncy-d-harris","scope":"preview","shell_contract":1}

@@ -540,8 +540,8 @@
 {"digest":"e5551981c017ff8d4b78900cf646b615ea9073cff9b4651c9f49f6ffd63ba028","family":"person","person_id":"person_BQ2RaQKXSfCsuREoAri1Kw","route":"/preview/1984/barry-alan-van-dyke","scope":"preview","shell_contract":1}
 {"digest":"a14ed4ae79a706e2138543fb066296d5ba5e9fcd8fcb542a4931da4d2faee4ec","family":"person","person_id":"person_H8ZYOe3mTTafNYWh4PE9iw","route":"/preview/1984/irl-s-barefield","scope":"preview","shell_contract":1}
 {"digest":"6e3ac5924e49b72c1add782ec3133341836549695ed8b3543dff9e7396c3e30c","family":"person","person_id":"person_vuWge7fMfbrEufIl2wyAMo","route":"/preview/1984/joan-olivia-brown","scope":"preview","shell_contract":1}
-{"digest":"53d163357ab432f2a062675a82d466277bd6600b6e183f20bece23d5ac78e176","family":"person","person_id":"person_NNO2frS0TIyarGHs5etWyA","route":"/preview/1984/lorraine-kenny","scope":"preview","shell_contract":1}
-{"digest":"4ffef52b49906e67257cde1d9d98fbbf893dda64402864cc2f59233dd02356cf","family":"person","person_id":"person_q1rWDLoDRs6OkPvJDcfKSA","route":"/preview/1984/paula-ruth-lortie","scope":"preview","shell_contract":1}
+{"digest":"27fc6a2325ded626371a7d8039a74a4b86acec812c6492f9c12ffc6164616fa0","family":"person","person_id":"person_NNO2frS0TIyarGHs5etWyA","route":"/preview/1984/lorraine-kenny","scope":"preview","shell_contract":1}
+{"digest":"5c1b736b3cc7cce05da2ace965bad821f807e95311b964c8b070a749b2ae44dd","family":"person","person_id":"person_q1rWDLoDRs6OkPvJDcfKSA","route":"/preview/1984/paula-ruth-lortie","scope":"preview","shell_contract":1}
 {"digest":"48a778ff6727c406125150d4a26169db166e69603db32242556b5709fdcbd669","family":"person","person_id":"person_QI0fKgZ5RQKutip4huiUZg","route":"/preview/1984/sun-chun-chang","scope":"preview","shell_contract":1}
 {"digest":"6609a47199fa8c4ab25d4bede99fbb065381498936f4f1216d781be022584e4e","family":"person","person_id":"person_cln3RhKZZYJfeGmgQ0o7sy","route":"/preview/1984/susan-b-gutenberg","scope":"preview","shell_contract":1}
 {"digest":"5d7473eb8fef0933c0bb37c445601590193433f838210a38343f1fe219eee2a8","family":"person","person_id":"person_LsKLk2iU9E3O3JsbwWV3EJ","route":"/preview/1984/timothy-s-murphy","scope":"preview","shell_contract":1}
@@ -587,7 +587,7 @@
 {"digest":"25557c289c13dc2aba533dba1cac892bb5162f65eb681856d061835f45c81b6a","family":"person","person_id":"person_eShwqoVURSux2rf3bftJXg","route":"/preview/1987/robert-emmett-brogan","scope":"preview","shell_contract":1}
 {"digest":"60b97abd1fddfc26bcb56fa642342634e14dcdfdc251d0598b0ae6b2efdc0e74","family":"person","person_id":"person_pldrl53MSqOv2GRGe_g_OA","route":"/preview/1988/aisuke-matsutoya","scope":"preview","shell_contract":1}
 {"digest":"f6e024d2915b11daa9e7c7fe24791d1723e167247e4345f5328636db090ddd3d","family":"person","person_id":"person_SqDvPRRuTK6w4X3S1RLClg","route":"/preview/1988/alice-marie-farling","scope":"preview","shell_contract":1}
-{"digest":"49ddfab9755b53f617562583f698c70f9ea035f3e2308e66829be049acb38f15","family":"person","person_id":"person_16Ev2KFZTmq2-WEG5UoncQ","route":"/preview/1988/catherine-marie-moran","scope":"preview","shell_contract":1}
+{"digest":"2f68af5aa95a93653a8018109d45bb7be0860e20d2acd44de68d6ae10338a094","family":"person","person_id":"person_16Ev2KFZTmq2-WEG5UoncQ","route":"/preview/1988/catherine-marie-moran","scope":"preview","shell_contract":1}
 {"digest":"daa8545283e24b94511688f28bf961a810f8410e055526d80abc7ae87bee793f","family":"person","person_id":"person_ls32zojcSo-sEvo3obwI9Q","route":"/preview/1988/christine-angela-matsis","scope":"preview","shell_contract":1}
 {"digest":"6c6546d63129906bbe94263da36ee2d8bfa329e69ca7a99f7d53b5a0aab94cac","family":"person","person_id":"person_OwAUD4TGpaE-aNggmSDqql","route":"/preview/1988/claudine-marie-kasinak","scope":"preview","shell_contract":1}
 {"digest":"35751fbed6c32d28151b2540ce650e3b09e691e9e92bf47bb713b9cdfab3a7cd","family":"person","person_id":"person_uKgOf1sRtkkqmPo8wnsQr8","route":"/preview/1988/jill-elizabeth-cantermen","scope":"preview","shell_contract":1}
@@ -1190,7 +1190,7 @@
 {"digest":"aaa6979639fdb745b7cdb8681655d32d909b624b02fe548b06dc3a72f77915c9","family":"class","route":"/preview/classes/1987/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
-{"digest":"7f948965152b6e5bbc436c43b872c656eba64dd9f6616226b2c1eb5753caf658","family":"page","route":"/preview/exercises/alma_mater/1980","scope":"preview","shell_contract":1}
+{"digest":"c8fdc18ad5863a9935a6b2e7ba81a96a2d2979bc797257bb85a9dbb2cc0e5e7b","family":"page","route":"/preview/exercises/alma_mater/1980","scope":"preview","shell_contract":1}
 {"digest":"d98d0d6749a46b9b07e456c377716a9ebed7a2733b3092ac45f9991541b9186b","family":"page","route":"/preview/exercises/inaugural_address/1970","scope":"preview","shell_contract":1}
 {"digest":"56faf7dd4c564c1f26aab1324e20f7e5f2d57792450e2f0c25cc1d75ffbc0d42","family":"page","route":"/preview/field/congregational-studies","scope":"preview","shell_contract":1}
 {"digest":"070a6ed6dc3b877b2806e1777a5681528efc5a2108f5576dd4938b59c230ed90","family":"page","route":"/preview/field/interdisciplinary-scientist-training-program-cancer-biology","scope":"preview","shell_contract":1}

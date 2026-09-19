@@ -554,7 +554,7 @@
 {"digest":"e11dd53908e994fbcf5e7e845be404b6ea94adcd4a320cae4ae626a22876e1fb","family":"person","person_id":"person_R44q5JZTQCOjoYuc5Jn5DA","route":"/preview/1983/pamela-mclean-meyerson","scope":"preview","shell_contract":1}
 {"digest":"c049a76e5bdfc3b1009565c5a32b1834d32f17e1ec17acf753e2e2d589801ded","family":"person","person_id":"person_51bSPc-fxkucK4zDQuXH6b","route":"/preview/1983/peter-lawrence-mente","scope":"preview","shell_contract":1}
 {"digest":"05c44c05b8f1d6bd5636e82ba5291ebc6f9661cf3fc20f0382cdb32377b8d66f","family":"person","person_id":"person_wpV87Y-FQpOjJbxV9SJLgA","route":"/preview/1983/robert-ossian-wirengard","scope":"preview","shell_contract":1}
-{"digest":"e98a27da85675c0427e607e129a24049a89de7aef6b8b0ea10b3deabd853da19","family":"person","person_id":"person_ukDYlx_iTx6wqExvR1s43w","route":"/preview/1984/armando-travelli","scope":"preview","shell_contract":1}
+{"digest":"1e7128731235ee26e968ab2336ce8280badd527d2fc361147d61079a6c414459","family":"person","person_id":"person_ukDYlx_iTx6wqExvR1s43w","route":"/preview/1984/armando-travelli","scope":"preview","shell_contract":1}
 {"digest":"b3c97a6e4935aab8679a12e0852607bb29b04d8d2ac7db26e93d5340503b19b1","family":"person","person_id":"person_RgwftGiaSFO0XQHppywfXw","route":"/preview/1984/geraldine-c-barry","scope":"preview","shell_contract":1}
 {"digest":"e5ea5be15cb3a15499e158a0f543f85fd6d4ceadbd8bf3003af543c527f4cef4","family":"person","person_id":"person_AE5b1ZKglKN5ayev-73SRB","route":"/preview/1984/janet-l-fisher","scope":"preview","shell_contract":1}
 {"digest":"98b66f2cd308f78adc93c7a0e7f320786d248304c097ee699186b720f10c5f9c","family":"person","person_id":"person_RNfwlHr2m0mcmdSw2fmyW_","route":"/preview/1984/john-kenneth-klassen","scope":"preview","shell_contract":1}
@@ -1232,7 +1232,7 @@
 {"digest":"7e5d3e199945ef10e96e037e5a8b7abcb4fe5096cbfa31fcb70f600771d4ef7d","family":"class","route":"/preview/classes/1933/bachelor-of-laws","scope":"preview","shell_contract":1}
 {"digest":"cf9f27f51f9ce272b0c0f09829bbc9cd521efaa02769d7ca20aa4ff6f85ed004","family":"class","route":"/preview/classes/1942/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"cf9f27f51f9ce272b0c0f09829bbc9cd521efaa02769d7ca20aa4ff6f85ed004","family":"class","route":"/preview/classes/1942/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/graduate-library-school","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001","scope":"preview","shell_contract":1}

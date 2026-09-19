@@ -540,7 +540,7 @@
 {"digest":"ff233f110b07d40be8e8c96b3d95cf8e7901f77226aaa78cfddd712617645afa","family":"person","person_id":"person_6XWnXV5MRMC9AwuJyn7Q1g","route":"/preview/1983/stephen-g-bronars","scope":"preview","shell_contract":1}
 {"digest":"32308846e016461f305d40979df9cf39fb2de105efcc22063598167325f00f73","family":"person","person_id":"person_ZE6rHSxASTO2XgK-CvO6RQ","route":"/preview/1983/wan-mohd-rani-bin-abdullah","scope":"preview","shell_contract":1}
 {"digest":"ae5abee3df883a1a8ed32bdf96b83f42de5cc6e4dd56ff74ed364ef6495b06d3","family":"person","person_id":"person_qJdl65jCd6zy4l6p_-h4ak","route":"/preview/1984/corey-justin-smith","scope":"preview","shell_contract":1}
-{"digest":"34b2c9706723600fa8db2c795cb173745f6deafcb84c629602e0ebc6e9097333","family":"person","person_id":"person_Ytu7rOG_J78UXGm628Mnq2","route":"/preview/1984/etahn-m-cohen","scope":"preview","shell_contract":1}
+{"digest":"54e89dda0cf37cd7623bb9f3863897349ba1f98493a061ae1fa150addd5a193a","family":"person","person_id":"person_Ytu7rOG_J78UXGm628Mnq2","route":"/preview/1984/etahn-m-cohen","scope":"preview","shell_contract":1}
 {"digest":"5b86b4916d86352b774c0c136a481c30d4eeecce6ef97dcff8986a684ae622f8","family":"person","person_id":"person_MuEb4gGsRBm2TIU9F4hW1g","route":"/preview/1984/gregg-frederick-haug","scope":"preview","shell_contract":1}
 {"digest":"ba1aa97dd24b385702ed787dc8b271d23a0e397e912cbc0692df1a0ff8813c2b","family":"person","person_id":"person_JxVOQTvfoVxl685l9gv3-e","route":"/preview/1984/howard-brooks-dexter-jr","scope":"preview","shell_contract":1}
 {"digest":"c08736eebbdddc849c2d20bb7f06eda3bbc22761ad2a33d5c3236b3cb35577cc","family":"person","person_id":"person_1yqsYhkAQlSEEpRpSeKawA","route":"/preview/1984/james-david-keller","scope":"preview","shell_contract":1}
@@ -1215,7 +1215,7 @@
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021/master-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"766fb093c1a188c30ba6f955c356114de9ad3dc46c10fe49f848dcdf421cf1fc","family":"page","route":"/preview/degree/doctor-of-philosophy/v","scope":"preview","shell_contract":1}
 {"digest":"1b43ac523d94fde6889c454d0880ad3c90bde508f5ec3e0e8ec59957be0e6123","family":"page","route":"/preview/exercises/closing_words","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1950","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1950","scope":"preview","shell_contract":1}
 {"digest":"7bd4b7c22f3b0ca9ca89be0769611fb33eb3fa1aa7a6c3a6765bea9af5596145","family":"page","route":"/preview/field/computational-analysis","scope":"preview","shell_contract":1}
 {"digest":"fa39320770b91e924bd8a6edd7693b5e81c0a1ea5fb02654a082729d0c0a38bb","family":"page","route":"/preview/field/greek-latin-sanskrit","scope":"preview","shell_contract":1}
 {"digest":"f8a83a8985c512dddd405967d5327b81d0773ef54304b180c1ee3260f5591a52","family":"page","route":"/preview/field/new-testament-old-testament","scope":"preview","shell_contract":1}

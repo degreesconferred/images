@@ -566,7 +566,7 @@
 {"digest":"0d44d8990b7c799bfed8b628f0cfacd0523185a36f07c627078dcfc00692d767","family":"person","person_id":"person_LOXRBHS8f5oIipM0gRyU73","route":"/preview/1984/laurence-john-mate","scope":"preview","shell_contract":1}
 {"digest":"6c6dce91df9460950e3c5a756c98b7d070f8018b6040e3c194e315142f34c3f8","family":"person","person_id":"person_1j0RWVXIRRipEBxKrVTvSQ","route":"/preview/1984/mckim-marriott","scope":"preview","shell_contract":1}
 {"digest":"829381f796e76fab40162f42df0ff4e5c2ffd5a311665478487ee495476e1768","family":"person","person_id":"person_hcS3JOJXTbGvIfUHw50DgA","route":"/preview/1984/melody-m-macduffee","scope":"preview","shell_contract":1}
-{"digest":"96d85ab4db9c91b770703b6e0d4758200fb1243bb501ec1520cb10b0c57d5edb","family":"person","person_id":"person_1KjMfDn6TEGCU5oZqXNWxg","route":"/preview/1984/nancy-kronenberger-neill","scope":"preview","shell_contract":1}
+{"digest":"4b85e07da86d92b1aea0b8acdcc86caf3fba5f722b0b54639959a91dec24773b","family":"person","person_id":"person_1KjMfDn6TEGCU5oZqXNWxg","route":"/preview/1984/nancy-kronenberger-neill","scope":"preview","shell_contract":1}
 {"digest":"c4b522eff90bfe6c7fc5f9734bd186a36565e0e737178e70dfdaa689e91256e2","family":"person","person_id":"person_K_xLXyk1TwqyURE4VwF4Iw","route":"/preview/1984/susan-stephens","scope":"preview","shell_contract":1}
 {"digest":"b9e35c98c01fc682f41903fbfcfe300bde409df33e8c2d0cc53756f3569ca0fd","family":"person","person_id":"person_Kzhx83WJQS6ULWxIcwsRgg","route":"/preview/1984/tyler-bruce-parr","scope":"preview","shell_contract":1}
 {"digest":"f41beea592b49a2162da047c88a4d2c10829359523fca1509a921e2a8d2d5d07","family":"person","person_id":"person_Av5A8wzPQVODPAFMA2ec0A","route":"/preview/1985/adam-david-klugman","scope":"preview","shell_contract":1}
@@ -1270,9 +1270,9 @@
 {"digest":"04600b5ea0ea0ec0b8495fc1446383602a312c30f7a55e84443ad154e7a3fd96","family":"class","route":"/preview/classes/2003/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
-{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1940","scope":"preview","shell_contract":1}
-{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/2000","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1980","scope":"preview","shell_contract":1}
+{"digest":"d2f16470d6f55b4f01b14f2c58cae7baac43c44b7e6599ad0b8cad3e38858118","family":"page","route":"/preview/exercises/benediction/1940","scope":"preview","shell_contract":1}
+{"digest":"d2f16470d6f55b4f01b14f2c58cae7baac43c44b7e6599ad0b8cad3e38858118","family":"page","route":"/preview/exercises/benediction/2000","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1980","scope":"preview","shell_contract":1}
 {"digest":"05c370f345e237ed402045942ba6507ca282b40581128c3a9ebbd997fcec0e20","family":"page","route":"/preview/exercises/student_speakers/1990","scope":"preview","shell_contract":1}
 {"digest":"2977cd04dae875227a9e64d6a15cc95ee37fd632802842b9f2c6c6e10d7778d1","family":"page","route":"/preview/field/committee-on-evolutionary-biology","scope":"preview","shell_contract":1}
 {"digest":"9c622071cd0a4f1ac626e20bfd56825fbf750c54081a7ddaa8140c7481e5a252","family":"page","route":"/preview/field/neurology-pathology","scope":"preview","shell_contract":1}

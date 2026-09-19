@@ -529,7 +529,7 @@
 {"digest":"bf970af2262d8e76e7c9d3d5e35674744ab3b6e4f0a2b17083409081211b98c0","family":"person","person_id":"person_UMTlRCFMFI-V8x7jnVjer_","route":"/preview/1984/david-andrew-knorowski","scope":"preview","shell_contract":1}
 {"digest":"0a20c83a8d9c59f3f32fb1b0a914313effd1992c78080f6c3e474c669f22dcdd","family":"person","person_id":"person_WvzMM1dmQ2myUhB9W0S9lA","route":"/preview/1984/emily-frances-ganzel","scope":"preview","shell_contract":1}
 {"digest":"e8dad5d1e217e458483ae6b220b01173becc09ff28853d204edc7246574b45ab","family":"person","person_id":"person_K6vl3RZRThiE6EyCMAqLbQ","route":"/preview/1984/gerald-anthony-jablonski","scope":"preview","shell_contract":1}
-{"digest":"dfffecd5a4116855a674efb736900d5a219f11ec5ca24efe5425a1b92870720e","family":"person","person_id":"person_juJe65uPQkir_Njsl2PslA","route":"/preview/1984/guillermo-martinez-barros","scope":"preview","shell_contract":1}
+{"digest":"c1c1e17f5ca5cb6e2e61cc2a78509688c51c47b30a49f5d722e7add90791f738","family":"person","person_id":"person_juJe65uPQkir_Njsl2PslA","route":"/preview/1984/guillermo-martinez-barros","scope":"preview","shell_contract":1}
 {"digest":"3c971664625ae2f0ee99b20400cdb02346762e158661b54adceba1a068965e8a","family":"person","person_id":"person_rFb3rgV_QSqw4pryH6iizg","route":"/preview/1984/michael-fedida","scope":"preview","shell_contract":1}
 {"digest":"4b72438e3d6ce703401f0ccb357b2c9181fcb35e0ed1e8aca5b1f6812e57ead5","family":"person","person_id":"person_XeqjY7bVRqS3sCaR4FviRg","route":"/preview/1985/frances-scovil","scope":"preview","shell_contract":1}
 {"digest":"c854bf77599c59da1b7b76983b0b1dde0c4d8ecdb73a54ca3cc4c7fd127782cf","family":"person","person_id":"person_e190qXcfRYiQ5-wzU2imSg","route":"/preview/1985/frederick-scott-sciance","scope":"preview","shell_contract":1}
@@ -1191,7 +1191,7 @@
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"904bf9515846e27efb2865514a9e7750329869e0b9754a81e38dc0761d41c3b8","family":"class","route":"/preview/classes/1968/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"1e8901724880957111f944b3dca6e57d629223922d1ed2cbc500074d8f55e55e","family":"class","route":"/preview/classes/1984/doctor-of-medicine","scope":"preview","shell_contract":1}
+{"digest":"d8a0a331599b1d2e9d4ee08876a4ea93a58ad6eb894b9a8281bdf2f3724d15af","family":"class","route":"/preview/classes/1984/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"95e58537c7c82e98ce2481fdc87319cab834c62eef06e7ebd3716b1c16b0b624","family":"page","route":"/preview/degree/bachelor-of-arts/f","scope":"preview","shell_contract":1}

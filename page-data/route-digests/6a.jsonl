@@ -492,7 +492,7 @@
 {"digest":"3afd772c4f8c06818e495f17e03df94cf0959b93ad8462e13403cb8b3ed586ab","family":"person","person_id":"person_1q-B5Sr9dIpy86-AKVOb4j","route":"/preview/1983/nora-elizabeth-murphy","scope":"preview","shell_contract":1}
 {"digest":"3642b333795e25898c51414c9e135b3771bb9288051392ae5cbff0e94537444c","family":"person","person_id":"person_D2LxPicNStOJ4cjovNEQjA","route":"/preview/1983/steven-d-shapiro","scope":"preview","shell_contract":1}
 {"digest":"98e7121c2137308078e1acf1537fffbf503fd70c2489cb2fa0082c7d65f6a970","family":"person","person_id":"person_aIaX9eE-Wq6iJrl0AO9gS1","route":"/preview/1983/thomas-fredrick-gushurst","scope":"preview","shell_contract":1}
-{"digest":"fe421f4d4a03497b213fe5f5920cd09872af52e5281de3496b7fc7d8c3e526c8","family":"person","person_id":"person_8zIqdCN8Sfm7HLgAGCOmVA","route":"/preview/1984/caroline-m-morrison","scope":"preview","shell_contract":1}
+{"digest":"6ab6902ac3fcb5f47c1397b7feedde3d93ad3ddd642e17d209f620b881c2429e","family":"person","person_id":"person_8zIqdCN8Sfm7HLgAGCOmVA","route":"/preview/1984/caroline-m-morrison","scope":"preview","shell_contract":1}
 {"digest":"b3d573f25b43fd63f541da09d3fcd0c852162ccf100ff84c7fddf0e4abc8cf19","family":"person","person_id":"person_YWqHIWKFRSmRKbaYy_exSw","route":"/preview/1984/deborah-brown-tompkins","scope":"preview","shell_contract":1}
 {"digest":"7ca6389b77b5efadb6cfd8fac1282bb33ca2efa809a2fc84f2e10535e13b5bb4","family":"person","person_id":"person_PvmN7dZZRB-iE7zAp7Dp4Q","route":"/preview/1984/jennifer-ann-mann","scope":"preview","shell_contract":1}
 {"digest":"51ce4dd2d8be55949d4fcaab466553db343d336f80968460b774e9304ead77e6","family":"person","person_id":"person_KttkZdtCSZui-AHmefHnAQ","route":"/preview/1984/mark-neil-hornung","scope":"preview","shell_contract":1}
@@ -1161,8 +1161,8 @@
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"bd8f986cd45ad9832e96b54c71e9e2fc2f92d62cd47d1aa6c6696e8eab3a05a2","family":"class","route":"/preview/classes/1961/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"5abbe6df175ecf10eb9133448eccad0a30abfcad6d80b66607ba2b06076136a7","family":"class","route":"/preview/classes/1962/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/school/booth-school-of-business","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/college","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/doctor-of-jurisprudence","scope":"preview","shell_contract":1}

@@ -526,7 +526,7 @@
 {"digest":"ec861a11295df5997b62e4a4c06beba0b9dc4982dfbb1e0a2056cd8845fb8010","family":"person","person_id":"person_QmIIWWhjR12Su9rYucaPhA","route":"/preview/1982/roy-eric-hoffinger","scope":"preview","shell_contract":1}
 {"digest":"5f9744eda8e7414b1e690a8d348c3f6d688c5f70c6f0de4753280ab18388cbb1","family":"person","person_id":"person_I6cnyOtZRyWCuOo5YKsKTQ","route":"/preview/1982/william-edward-bornschein","scope":"preview","shell_contract":1}
 {"digest":"a386327c76b740c28a1c7cda192e3ef4b770c1a820012444f8476bb5e8ea2f7e","family":"person","person_id":"person_LNfmlLh8SXi4WeaRDNzubw","route":"/preview/1982/william-michael-kaufman","scope":"preview","shell_contract":1}
-{"digest":"4167a66aad5f7cd9a2745509e89eb7bd3658076a2d8049a1d9a0909a5343cd39","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1983/amy-b-silverman","scope":"preview","shell_contract":1}
+{"digest":"3bfe4e5196561d91bf365af9dad47c06fab95b74c16053f7f20e78b67142e139","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1983/amy-b-silverman","scope":"preview","shell_contract":1}
 {"digest":"83abddfbb62c02ca916465d217796401229de2553422f883ef0605dc1b09cf72","family":"person","person_id":"person_7hP7_IKpR-GDQLzjwOlsCQ","route":"/preview/1983/amy-harriet-cohen","scope":"preview","shell_contract":1}
 {"digest":"f90dbd5dd30df223c3ed56e64587b228cdda543eb8ba0a9d13e42ae07f9166e0","family":"person","person_id":"person_Q6DsH42xPgz4pUPuT9tPzK","route":"/preview/1983/ana-elena-mooney-puga","scope":"preview","shell_contract":1}
 {"digest":"1624515cfd97b352b807cfb52cbf0a7bee26f101fca0283040d558020e4689e1","family":"person","person_id":"person_RkrjL5kCsCmwHsTPL0Luzg","route":"/preview/1983/enis-oguz","scope":"preview","shell_contract":1}
@@ -1227,8 +1227,8 @@
 {"digest":"e69ed6fd99c705d36972ce848dc4091e43f78c2a368aeb4ad8662fb1f9e23702","family":"class","route":"/preview/classes/1914/school/college-of-education","scope":"preview","shell_contract":1}
 {"digest":"87b1cb17fd8b6e33e97908317e38753237decac6f740faaa062ec2e00aa8e6e3","family":"class","route":"/preview/classes/1922/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/doctor-of-philosophy","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/master-of-fine-arts","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/master-of-arts-in-teaching","scope":"preview","shell_contract":1}

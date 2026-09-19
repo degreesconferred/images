@@ -522,7 +522,7 @@
 {"digest":"f8104efea94094884e1fb1d89018eeab2eee0f5b2df7dd0bee70f7744a43f196","family":"person","person_id":"person_3PrVkG_ZRUO53c6Zf2N1Xw","route":"/preview/1983/saro-g-hartounian","scope":"preview","shell_contract":1}
 {"digest":"696e5dacf08e3762d2e53bb0ca484ed7831c6fa70dd3bb3b329b5f28ad5a6294","family":"person","person_id":"person_FwfQw0uiQzi3YFQgJrp1_w","route":"/preview/1983/suzyn-jacobson","scope":"preview","shell_contract":1}
 {"digest":"37befb944ea691077ee0940969c3b03e99c39484e1cf75ef71f0a9b827f4ed44","family":"person","person_id":"person_Acz9uAJcQje8Q86ohKezyA","route":"/preview/1983/william-borden","scope":"preview","shell_contract":1}
-{"digest":"17997f25f9567f9ca49f5bf90aabe792857aea9c442af684ed5c71274f247d2d","family":"person","person_id":"person_16Ev2KFZTmq2-WEG5UoncQ","route":"/preview/1984/catherine-marie-moran","scope":"preview","shell_contract":1}
+{"digest":"2b90c5ba9ec697e89529556822ac83b97962ece1d3a1824861cdb6b2d952142a","family":"person","person_id":"person_16Ev2KFZTmq2-WEG5UoncQ","route":"/preview/1984/catherine-marie-moran","scope":"preview","shell_contract":1}
 {"digest":"8729bb8354e1592e549956ad4f78d3b5c4f3fe532874ab727fd2b53a842e056a","family":"person","person_id":"person_pw_MIhdvS5m1QGRnmKuOPw","route":"/preview/1984/geoffrey-francis-lee","scope":"preview","shell_contract":1}
 {"digest":"52c183baf567a0cf06c89933a9114f61d83f213cdba6a3acec911910449684e2","family":"person","person_id":"person_WI_T-I4ARlqxppUJ7VMihg","route":"/preview/1984/james-s-lichon","scope":"preview","shell_contract":1}
 {"digest":"ebb8e43d98f8314599e8301e4f7208bab24744ae0c3af4ccf9046b1edcd9d217","family":"person","person_id":"person_YkIm7vYQRWyYUTQBEA9fqA","route":"/preview/1984/karen-geralyn-karson","scope":"preview","shell_contract":1}
@@ -1250,8 +1250,8 @@
 {"digest":"697f20f3f8c7a2fe20535bd8bd6c3074b69277952b6849c017f0be539a9e31a7","family":"class","route":"/preview/classes/1924/school/college","scope":"preview","shell_contract":1}
 {"digest":"9b0ac8502c518c83b22f14c29e7b59d9d7c0edc007263c5c2934f4de8cac9c83","family":"class","route":"/preview/classes/1935/school/rush-medical-college","scope":"preview","shell_contract":1}
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/school/division-of-humanities","scope":"preview","shell_contract":1}
-{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
-{"digest":"1e8901724880957111f944b3dca6e57d629223922d1ed2cbc500074d8f55e55e","family":"class","route":"/preview/classes/1984/school/booth-school-of-business","scope":"preview","shell_contract":1}
+{"digest":"a0af8e63f3daeaa82a23a1616ad9a749056b7c3994819e34596ce4fbab371260","family":"class","route":"/preview/classes/1982/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
+{"digest":"d8a0a331599b1d2e9d4ee08876a4ea93a58ad6eb894b9a8281bdf2f3724d15af","family":"class","route":"/preview/classes/1984/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"04600b5ea0ea0ec0b8495fc1446383602a312c30f7a55e84443ad154e7a3fd96","family":"class","route":"/preview/classes/2003/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/school/college","scope":"preview","shell_contract":1}
 {"digest":"14fba0f6a6c8188909436c4819d248f0e686d26c3dfa49ee975d3de93eb4d1f4","family":"class","route":"/preview/classes/2007/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}

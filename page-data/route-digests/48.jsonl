@@ -489,8 +489,8 @@
 {"digest":"24b63217ed67d609d918e1e31afb795c63fb03e2202f44dcac176ee27cbf15f1","family":"person","person_id":"person_ZVEdfec8TGmhgkwaS5qRYw","route":"/preview/1983/julie-suzanne-putterman","scope":"preview","shell_contract":1}
 {"digest":"bd0a21504a8ccbf6e8be3fd4dcd06d1430e79c9e95d7141d09a570c55a000af2","family":"person","person_id":"person_Rj_3K0GPe-0WfAP_Zqymgh","route":"/preview/1983/karen-e-grice","scope":"preview","shell_contract":1}
 {"digest":"418da1a8e1acb9d6c3afbbccf5dae4644ad553bde18f5da87481d335bb1acae5","family":"person","person_id":"person_Rc6cogltTOONRL8-bzr_dA","route":"/preview/1984/david-j-hellman","scope":"preview","shell_contract":1}
-{"digest":"93fe5267d08182922a849c76fe9cc28a70a8f87120227d73cf7fa2eaf5890943","family":"person","person_id":"person_v74a6bdzSDKNOmpmvLc1iQ","route":"/preview/1984/david-marc-siegel","scope":"preview","shell_contract":1}
-{"digest":"23d925c4e8e8d879381d9bca64da4647836d16a3d15dce1fa2dfcbd75a5f02f0","family":"person","person_id":"person_WRCpRslN8sasKF5pIOQeDs","route":"/preview/1984/griffith-jr","scope":"preview","shell_contract":1}
+{"digest":"d84efc446dd0df08c393491216e269766dda51b2963ddaabd47bc92bbfcff131","family":"person","person_id":"person_v74a6bdzSDKNOmpmvLc1iQ","route":"/preview/1984/david-marc-siegel","scope":"preview","shell_contract":1}
+{"digest":"35c55916b0d0fa0c328cc445535ef7606b897b92148bd806e4330ce0ffe9fdee","family":"person","person_id":"person_WRCpRslN8sasKF5pIOQeDs","route":"/preview/1984/griffith-jr","scope":"preview","shell_contract":1}
 {"digest":"866cec999e41c5ff0c9a5268430e4c4d31e2da18cf7666532ee55c1027c2fb85","family":"person","person_id":"person_zxUv8MpjS1KNiLwilOV-9g","route":"/preview/1984/maria-alda-weiss","scope":"preview","shell_contract":1}
 {"digest":"76933cfa42ed4d9bb622c85cfa541fea22d9f10086c30ad8dc07a2705f484baa","family":"person","person_id":"person_HhURXH_kQhux2jwbzoHcWw","route":"/preview/1984/meyer-william-isenberg","scope":"preview","shell_contract":1}
 {"digest":"219fa5bd09c46ed8cbe2636152c748772d2ee99f69c5eca325b5f3d8e116e890","family":"person","person_id":"person_y8XK_j_XQg2h8Vk1GhMQLg","route":"/preview/1985/david-rolston","scope":"preview","shell_contract":1}
@@ -1171,7 +1171,7 @@
 {"digest":"f46c00da434869ef50cc3ba4cfd7e7992a91b015ddcad36b47fb97508e8828f0","family":"class","route":"/preview/classes/1908/certificate-of-the-dano-norwegian-theological-seminary","scope":"preview","shell_contract":1}
 {"digest":"c8dfd780f2f5ae8ee079ba6fcf855e2e1665bef6319f4a0dab2e0748e3039806","family":"class","route":"/preview/classes/1957/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"c4516bda104b9801d51293615d6947f619dbd845a6e2c425bc4a5824285d1a2e","family":"class","route":"/preview/classes/1958/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"d0a69b49cf03d31fae964ac911541ed3cf36f5a50f0cced33856d718ff6fe259","family":"class","route":"/preview/classes/1982/school/booth-school-of-business","scope":"preview","shell_contract":1}
+{"digest":"a0af8e63f3daeaa82a23a1616ad9a749056b7c3994819e34596ce4fbab371260","family":"class","route":"/preview/classes/1982/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"07965e528b9580a510617300101b6868238fc762fb92ab97acbfad7a3e08f6ad","family":"class","route":"/preview/classes/1995","scope":"preview","shell_contract":1}
 {"digest":"07965e528b9580a510617300101b6868238fc762fb92ab97acbfad7a3e08f6ad","family":"class","route":"/preview/classes/1995/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"c4b51472428ca88a9ca73526d029ada39e7c500e1d8a75d36e4eb67daa57d566","family":"class","route":"/preview/classes/2015/master-of-fine-arts","scope":"preview","shell_contract":1}
@@ -1179,9 +1179,9 @@
 {"digest":"4801ed7e889342d68899fa2109def7f456ba193e423ce0005bd225efcca91d6f","family":"class","route":"/preview/classes/2018/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"088f689338b9a4cdc52b70dcba87d27b28383e4b0c41e941bad333e54e2c7e7c","family":"page","route":"/preview/degree/associate","scope":"preview","shell_contract":1}
 {"digest":"b25c4413e39b6673e6628f27098edf93e33ffbacf0fe851bea5a1991305fca7a","family":"page","route":"/preview/degree/doctor-of-philosophy/f","scope":"preview","shell_contract":1}
-{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1890","scope":"preview","shell_contract":1}
+{"digest":"d2f16470d6f55b4f01b14f2c58cae7baac43c44b7e6599ad0b8cad3e38858118","family":"page","route":"/preview/exercises/benediction/1890","scope":"preview","shell_contract":1}
 {"digest":"3072f6d3809ead47e1166a574364b698c9040b72f7a76ef3c7404ac64169df44","family":"page","route":"/preview/exercises/other_numbered_section","scope":"preview","shell_contract":1}
-{"digest":"ee340be5204156998064d0e08c50a08f8d664b8c10f162d4b93c3e8e5939ede5","family":"page","route":"/preview/exercises/processional/1960","scope":"preview","shell_contract":1}
+{"digest":"a503d7076e9353fb68beb75e8195aca3a38efe0f83926bd644525c9b35185909","family":"page","route":"/preview/exercises/processional/1960","scope":"preview","shell_contract":1}
 {"digest":"12bb9df5e4b320280885b068496baa4faec5c253b9987466aa0a4be01be1eddc","family":"page","route":"/preview/field/anatomy","scope":"preview","shell_contract":1}
 {"digest":"95f8ed8ed8e3f6a8a71fcd244a77f25dc042da8a39451f744706ca7606480cf5","family":"page","route":"/preview/field/visual-arts","scope":"preview","shell_contract":1}
 {"digest":"5f318214fd1d0ec8b1a05b5daa0e8ad42dfff4b3488bdb4c0e6a681127479304","family":"page","route":"/preview/processions/program-beat-1b042a8690a7e05b3789168e","scope":"preview","shell_contract":1}

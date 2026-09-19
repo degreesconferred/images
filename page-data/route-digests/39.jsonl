@@ -574,7 +574,7 @@
 {"digest":"518abaeb7095b1f0b72ddaeec2caa9abf7553723f263a317501444b1a0b34f29","family":"person","person_id":"person_INjuLO1ITm-H3sC8MKej5w","route":"/preview/1984/j-david-jenkins","scope":"preview","shell_contract":1}
 {"digest":"fa5bef918845c290d559894375daf446da5a72f63bf5c07a4595fcf43e44fd39","family":"person","person_id":"person_6Cma_Xy0cALl0n0YBkOV6W","route":"/preview/1984/jean-goodwin","scope":"preview","shell_contract":1}
 {"digest":"ebb8e72f04e454348ee1cdb2876c7581ea54064d8725931db23895799f8d28a5","family":"person","person_id":"person_YdEAvnJ0QeKU9zJ0k6y7Ww","route":"/preview/1984/paul-a-muzzey","scope":"preview","shell_contract":1}
-{"digest":"a4353c8863a3a49c81c57b87c5d5bd267e174703dbf7e0450266ec9506aebe35","family":"person","person_id":"person_P51Oz4pwS8-Lb7BI5uj3VA","route":"/preview/1984/paul-clayton-carlisle","scope":"preview","shell_contract":1}
+{"digest":"59489c88a2e6305e95b5b664b049cb4b16d0ffb89d8d8ef820cc4ec4179ba9dd","family":"person","person_id":"person_P51Oz4pwS8-Lb7BI5uj3VA","route":"/preview/1984/paul-clayton-carlisle","scope":"preview","shell_contract":1}
 {"digest":"9076f6b781a7b7b9c26b747856cf58ef5bd6c8e4fac4e0570d65596f41c669b0","family":"person","person_id":"person_6772f8vnRGKNlzPMFT3mvA","route":"/preview/1984/susan-elizabeth-rosenthal","scope":"preview","shell_contract":1}
 {"digest":"c98fd7296bb622a718e1ddae159dbfe7d619db0cff9bf47ee1449d8c068bb4f0","family":"person","person_id":"person_zGiXiMMWScyxS2ZZRSfsPQ","route":"/preview/1985/david-b-small","scope":"preview","shell_contract":1}
 {"digest":"abcb58d80580a22a13cd5549003d41696821dc1eb3daf04b5e5d7432d0c49836","family":"person","person_id":"person_2SiKRHkoQ6G_mK2nOfRQuw","route":"/preview/1985/david-howard-steward","scope":"preview","shell_contract":1}
@@ -1261,8 +1261,8 @@
 {"digest":"cb4164cea99d97536f1e48bb8e116938d3335b6ed00a4c62cc209a3673ae4aff","family":"class","route":"/preview/classes/1930/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/master-of-business-administration","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/school/division-of-humanities","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/master-of-business-administration","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"04600b5ea0ea0ec0b8495fc1446383602a312c30f7a55e84443ad154e7a3fd96","family":"class","route":"/preview/classes/2003/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}

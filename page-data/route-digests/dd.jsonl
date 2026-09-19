@@ -537,7 +537,7 @@
 {"digest":"d474ff3b628da1926ce83140b8b4c2d2f1294f04a4bc33adf9780301f30c4132","family":"person","person_id":"person_JrOySBCN1xKiLI3iEJVQXn","route":"/preview/1984/barbara-bryce-morris","scope":"preview","shell_contract":1}
 {"digest":"eafe0e069687b0c81b29ef76da4f2e287f6b1a19f0abf95fe511ec7fea6080aa","family":"person","person_id":"person_9CIDdQ5g86tLPLoHXzOkeH","route":"/preview/1984/catherine-mcnally","scope":"preview","shell_contract":1}
 {"digest":"acff0191fbbdf316e28ee672c47a32081ba07d96b0673afc4576e07ecf02339d","family":"person","person_id":"person_1P2Ypkm9b9VBarR71J_vc_","route":"/preview/1984/colleen-patrice-doody","scope":"preview","shell_contract":1}
-{"digest":"4381c721d53a14a197f62caeff5974a7dfb06efd1bc4d1a9c7b8cdbfd839cb77","family":"person","person_id":"person_iLXQbAqZlNDPU874sHxN5X","route":"/preview/1984/daniel-howard-bauer","scope":"preview","shell_contract":1}
+{"digest":"832c894cb09e43bf129b6b91eb39dd72916c44c7dfa831265d335e55fd3c8b01","family":"person","person_id":"person_iLXQbAqZlNDPU874sHxN5X","route":"/preview/1984/daniel-howard-bauer","scope":"preview","shell_contract":1}
 {"digest":"16f87a93b28c339eef20034e981f06c7ea308eb3e8839991965114842c9d3976","family":"person","person_id":"person_Un6gMY84QxSej3kOR6d16g","route":"/preview/1984/james-glen-parker","scope":"preview","shell_contract":1}
 {"digest":"320c55d853b4328188cb9ce5938af48965b63083eba76aab9739cfb77cdb4548","family":"person","person_id":"person_qT_4jlo13QwJIB_IEkIjLS","route":"/preview/1984/l-paul-van-zuiden","scope":"preview","shell_contract":1}
 {"digest":"0fc51c1fe11738ca69b10d505253f526df68b0802bbb36961b525b92e90bbde3","family":"person","person_id":"person_5t74kbe1QkSfvhGnZhCdrQ","route":"/preview/1984/robert-miles-moldwin","scope":"preview","shell_contract":1}
@@ -1226,7 +1226,7 @@
 {"digest":"1db70ece7b7e1129839f7b28b7611873554cd0c9da53b171f8dea8ce44c59e14","family":"class","route":"/preview/classes/2010/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"1db70ece7b7e1129839f7b28b7611873554cd0c9da53b171f8dea8ce44c59e14","family":"class","route":"/preview/classes/2010/international-master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
-{"digest":"a2777c036566fc4a283c3929c520258941c18e31dc3a5c5fa0f9028c0fa6355b","family":"page","route":"/preview/degree/master-of-arts/d","scope":"preview","shell_contract":1}
+{"digest":"3b28f2e56aa346cee9fd946932f68e8266a7b4dfc0faebc94718fa86d3dcaf4e","family":"page","route":"/preview/degree/master-of-arts/d","scope":"preview","shell_contract":1}
 {"digest":"dec6177b62add415475e829d59b6f29e8d2f96950a6dc95dd7e4384676adf352","family":"page","route":"/preview/degree/master-of-business-administration/d","scope":"preview","shell_contract":1}
 {"digest":"987b61c6e67d3542b9c5d508339f8cd3d5e6300ad325025b6957b49122d5f1da","family":"page","route":"/preview/field/botany-zoology","scope":"preview","shell_contract":1}
 {"digest":"7ce816129b4259df0945cb18ce294cf3a4ca537cd87309c1577d53902c647c20","family":"page","route":"/preview/field/history-and-philosophy-of-physical-science","scope":"preview","shell_contract":1}

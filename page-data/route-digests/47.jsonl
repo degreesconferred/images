@@ -542,7 +542,7 @@
 {"digest":"b4a0665d26f50e0072c5c0654d07ef361241bd94f8d9b1d064db67e2e6f5c55d","family":"person","person_id":"person_ks5jKMYddS5-N6rSIJvloA","route":"/preview/1984/marguerite-moore-callaway","scope":"preview","shell_contract":1}
 {"digest":"1e3f31482df8e64034522563a6f8b56e7917ab1c71a62e44ae0a33c4df05f50c","family":"person","person_id":"person__PzRIwZx-5Of81AthOkOeJ","route":"/preview/1984/mark-g-toulouse","scope":"preview","shell_contract":1}
 {"digest":"a36e4623a61ce4117a68202b9ce12c6405acf5d264394a66553e761d9d0b7185","family":"person","person_id":"person_meN8egxER6-_sn4SbNH-Gg","route":"/preview/1984/steven-frederic-rasch","scope":"preview","shell_contract":1}
-{"digest":"47ea854dafd6db272c781c0b0fbb927e833e20f3e1a13f7679570c69e9a457dd","family":"person","person_id":"person_R1q3IPT8ULAMNrvwK7E4Gv","route":"/preview/1984/timothy-e-heidinger","scope":"preview","shell_contract":1}
+{"digest":"3b2727d7eb94f6d995c89e6b0b75d0bdb3f8bfd6e8906555862dd1556801b995","family":"person","person_id":"person_R1q3IPT8ULAMNrvwK7E4Gv","route":"/preview/1984/timothy-e-heidinger","scope":"preview","shell_contract":1}
 {"digest":"700658cc87ec8718501237efa45938d459631dc20a5250b2e8918783bfa26078","family":"person","person_id":"person_3ReO84KXTqGwq8SOnYFX2g","route":"/preview/1984/toru-aizawa","scope":"preview","shell_contract":1}
 {"digest":"738c76eeffb007ee4c12e219282b830fa45e9a6ca32f272e0e251d426d1df6c7","family":"person","person_id":"person_gZsCw260TWC9jYdl53zDoA","route":"/preview/1985/carla-j-funk","scope":"preview","shell_contract":1}
 {"digest":"48873682278c5d998c7cc065d446aa0546478dd4283c0d5723d1b9e7985d02ce","family":"person","person_id":"person_ekphyAdQbEPAThELHxDcbL","route":"/preview/1985/lillian-marie-czarnik","scope":"preview","shell_contract":1}
@@ -1210,8 +1210,8 @@
 {"digest":"d5a9f32ac2451e5fc37bd01bcea8288ade351f36e979fbfab8b98b3726b9c604","family":"class","route":"/preview/classes/1997/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"1c6f7e997e25abef13eb388aa6eed1f07d4da284c8caeb95be8511608a20577a","family":"page","route":"/preview/exercises/choral_anthem/1970","scope":"preview","shell_contract":1}
-{"digest":"17567d16c065572486c4878118974fff33df4fc019b63e751ed48e892f985753","family":"page","route":"/preview/exercises/recessional/2000","scope":"preview","shell_contract":1}
+{"digest":"cbce175655d04c5fc1f25aac9043a5f361e1e5aaa1a1d6f9461977b0b74316ac","family":"page","route":"/preview/exercises/choral_anthem/1970","scope":"preview","shell_contract":1}
+{"digest":"ed1645bb1de2e6b6706af1b1851f98461035578ede16a579ee223118de952d95","family":"page","route":"/preview/exercises/recessional/2000","scope":"preview","shell_contract":1}
 {"digest":"d142148833e590d69dc23046d02c91a589e551e6151d85c026d9a9066fa51965","family":"page","route":"/preview/field/analysis-oj-ideas-and-study-oj-methods","scope":"preview","shell_contract":1}
 {"digest":"77f38b2d04ea0340ed07e494b3bcaca95ba203e51901dcf7a85804fb925a25b7","family":"page","route":"/preview/field/committee-on-international-relations-with-specialization","scope":"preview","shell_contract":1}
 {"digest":"02e70667fe88cf65c19df8168022d3bb423743aee3362fca13227adb8667d30e","family":"page","route":"/preview/field/english-language-english-literature","scope":"preview","shell_contract":1}

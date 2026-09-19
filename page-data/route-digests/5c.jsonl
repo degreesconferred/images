@@ -399,7 +399,7 @@
 {"digest":"8f612a26630263a62f6f25e6cf0d7e6ae5bed2b6f63c4fc8508a2f3e5fb8f767","family":"person","person_id":"person_GvJhfw8gT_qf9tis1tT79Q","route":"/preview/1972/rebecca-anne-boylan","scope":"preview","shell_contract":1}
 {"digest":"a02226bcac5e3b2dcf3ee364c7262cd1a56cb7324734ba531e83bf859bdd0628","family":"person","person_id":"person_OV7mH_h6TueTTmlWUvmcKw","route":"/preview/1972/richard-gilbert-rhodes","scope":"preview","shell_contract":1}
 {"digest":"6751fcc9720e5f68a2b5258b141a1ce287bbaf64bf1986d41d02787e4fa06f6a","family":"person","person_id":"person_BwcqjUGlS7GchIRIbY3I1w","route":"/preview/1973/avigdor-haselkorn","scope":"preview","shell_contract":1}
-{"digest":"918a8169bb50ab6a47693b01f6d6fb27ebf9d97e984e9b3c549f448ab6fb91f1","family":"person","person_id":"person_kUrEvQlYRW6v2jXFTJFsZw","route":"/preview/1973/bruce-david-schreider","scope":"preview","shell_contract":1}
+{"digest":"72180cd8eb7b8ecc084499cf2853092a3b320f56da83cee0a22046a725143d8e","family":"person","person_id":"person_kUrEvQlYRW6v2jXFTJFsZw","route":"/preview/1973/bruce-david-schreider","scope":"preview","shell_contract":1}
 {"digest":"73f4f055fe15abe32377a36bcb7bc7d4b425f357f0065b71eaaff37a9da368a6","family":"person","person_id":"person_jArMSm7SSGet5wKyXNOhcg","route":"/preview/1973/christopher-richard-moss","scope":"preview","shell_contract":1}
 {"digest":"0dd74c69c26d1defbb6912b22cda960269b92fde790d4b840b39a8612f04dc50","family":"person","person_id":"person_VM8XVvYVQqqmNfZ7GWYhMw","route":"/preview/1973/frank-bolger-kelly","scope":"preview","shell_contract":1}
 {"digest":"90501dca7e54ccde6212310d5f64b72709f96f629b0fc7147c4c81e4dba2a898","family":"person","person_id":"person_8AB0IGOWTQ-eRYSkNXSp_A","route":"/preview/1973/georges-j-m-gillet","scope":"preview","shell_contract":1}
@@ -528,9 +528,9 @@
 {"digest":"55d770fd6439b01d31539460d906a1173c26caef42379f14d52898a2a7e31e74","family":"person","person_id":"person_SjW2bt35SG6UPlOCv06lDQ","route":"/preview/1984/fred-charles-crawford","scope":"preview","shell_contract":1}
 {"digest":"5df5a243baa2f2d28f67d3b169008c9b6f8cd4c08dd87f8c6af870ca27517d21","family":"person","person_id":"person_xfq3YijLbIqbxKy3i6oj_f","route":"/preview/1984/fred-ray-kogen","scope":"preview","shell_contract":1}
 {"digest":"01b4c737a58e735699254366d142fb69b94a7e2861be75d5fdda1c1ebb75edfa","family":"person","person_id":"person_OphChKt4MftQkA5AVThOxB","route":"/preview/1984/lorraine-anne-white","scope":"preview","shell_contract":1}
-{"digest":"3219d633e2fb308fd17a53cfd0fdb6fa3686e359278d854def1a9a0c899161bb","family":"person","person_id":"person_oHz8gmSiR2qtYPJXt8M9iw","route":"/preview/1984/mark-h-sheppard","scope":"preview","shell_contract":1}
+{"digest":"45647c6fc2c096e5d9bba3e46f96a07ddaabda7237e1509bbdb8e52c8a6a8ff1","family":"person","person_id":"person_oHz8gmSiR2qtYPJXt8M9iw","route":"/preview/1984/mark-h-sheppard","scope":"preview","shell_contract":1}
 {"digest":"5db95e5d368e346abc93a5ea1bdacf1639acc8c92c6be9f2e0a3154f8753ee90","family":"person","person_id":"person_iRb2lc8nTa6s6ITjF_aXzQ","route":"/preview/1984/robin-friedman","scope":"preview","shell_contract":1}
-{"digest":"90e6e35eb9e1d11c3c64b50ac416304913dcb9dfbf575ef8fc659844896d83c6","family":"person","person_id":"person_jBQBQQaO6pWdt35h3-Q6Rd","route":"/preview/1984/todd-m-brickell","scope":"preview","shell_contract":1}
+{"digest":"b0b58f6f63a2d371aa452f933246986fe01371ecd7041c19490482d595520b76","family":"person","person_id":"person_jBQBQQaO6pWdt35h3-Q6Rd","route":"/preview/1984/todd-m-brickell","scope":"preview","shell_contract":1}
 {"digest":"9ee349baac8e7d7e7bd57fba347bb32ae40200e3cbff5ce2f1b67cd4a42afb4c","family":"person","person_id":"person_zMQcLGu0T6aG1jEWtEF1cg","route":"/preview/1984/vincent-edward-hillery","scope":"preview","shell_contract":1}
 {"digest":"f80fd829f5e64e97bcc1b6479e70a2ce997d95e61f8b28e57aafca59d24c851b","family":"person","person_id":"person_467uJaeqTdW1qW8S-ajm-A","route":"/preview/1985/alexios-georgiou","scope":"preview","shell_contract":1}
 {"digest":"0d6cbbd421c627efc0b563053060a2eb2bf10ed422db07b3f512e7de23ced2c4","family":"person","person_id":"person_qHjsdOmMk7XCrKpTrBpA7R","route":"/preview/1985/cross-countrysara-dell","scope":"preview","shell_contract":1}
@@ -1211,7 +1211,7 @@
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009","scope":"preview","shell_contract":1}
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"4801ed7e889342d68899fa2109def7f456ba193e423ce0005bd225efcca91d6f","family":"class","route":"/preview/classes/2018/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
-{"digest":"9cdb8bd254e297ce5ade69782a871bfdb8a00d64fd1d6c67d08c85ce95e8c7e1","family":"page","route":"/preview/degree/master-of-arts/t","scope":"preview","shell_contract":1}
+{"digest":"a91383419ff96f59934265371c75854e57ece91f454ad5e47a97f06706d9149e","family":"page","route":"/preview/degree/master-of-arts/t","scope":"preview","shell_contract":1}
 {"digest":"3072f6d3809ead47e1166a574364b698c9040b72f7a76ef3c7404ac64169df44","family":"page","route":"/preview/exercises/other_numbered_section/1970","scope":"preview","shell_contract":1}
 {"digest":"79d92fb926cd686e32efb935ce9dad087f8c985c8836ee657ad16f80bd223b6e","family":"page","route":"/preview/field/far-eastern-civilizations","scope":"preview","shell_contract":1}
 {"digest":"469ad5fd45411835af7fb83729d6c0a6c7cf64e7a84c9bd3b431216dfd531a6b","family":"page","route":"/preview/field/germanics-romance","scope":"preview","shell_contract":1}

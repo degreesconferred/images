@@ -521,7 +521,7 @@
 {"digest":"491fbc7c3d4ef8792215e83ff960990bd59974bdfaa625d7ddaaa2d1ac3d2d3d","family":"person","person_id":"person_0bUTzxItQOeEKWPtkfoJPg","route":"/preview/1983/stephen-john-morewitz","scope":"preview","shell_contract":1}
 {"digest":"76862eab74c8218024fdffbf746bbff5fc11e54dc3cfb0ea1dcfe12af5c6fe69","family":"person","person_id":"person_uGi-97ywQ8qxGU7xOsbgVw","route":"/preview/1983/wesley-lewis-michael","scope":"preview","shell_contract":1}
 {"digest":"95f77530ce5b5f935637b8891fe6ab5f33332cc33f7af68f518a833a19d4a69e","family":"person","person_id":"person_hr2XqdUgTUCR_GbV7wZhXw","route":"/preview/1984/james-a-warner","scope":"preview","shell_contract":1}
-{"digest":"f5e8125a7c16a84ddf008c3d6a4aa7d81c56a46399f3bce76805d3568ab61e0b","family":"person","person_id":"person_JKDMQgTLR4ScxerNROK6Jw","route":"/preview/1984/jefferson-travis-brown","scope":"preview","shell_contract":1}
+{"digest":"738315c405bdb9669bb7b549c3fb69547507d5e9018e95eea2a215278d372d9b","family":"person","person_id":"person_JKDMQgTLR4ScxerNROK6Jw","route":"/preview/1984/jefferson-travis-brown","scope":"preview","shell_contract":1}
 {"digest":"62df56a6d33999123b37294958cff25784d3709f9207df6c2c2d9c809fe9b2b0","family":"person","person_id":"person_we6qSThDR32HP6anQmot4g","route":"/preview/1984/lynn-victoria-abruzzo","scope":"preview","shell_contract":1}
 {"digest":"f6ccd85f6af053d7d513bd30671f79bef1924cd5e061ebfafa4e0640073afaf2","family":"person","person_id":"person_ZVpwN8MzHdmF5wFgJByKkx","route":"/preview/1984/mark-philip-strasser","scope":"preview","shell_contract":1}
 {"digest":"104cbc452f57422d4aff1568a63fc2e45e98d2f04683557cf2b24cc2927b0d94","family":"person","person_id":"person_AJXX10KU5AvLH9O8MxJTA3","route":"/preview/1984/paul-paluzzi","scope":"preview","shell_contract":1}
@@ -1194,7 +1194,7 @@
 {"digest":"e6bea03445f9252afc92492648cc4ae87ffe1b47d68ae424d0e4f5eed58695c7","family":"class","route":"/preview/classes/1916/school/college","scope":"preview","shell_contract":1}
 {"digest":"895ececbb7520e023efda3bb10b4af01be55aeb5acab501ae7281484ef8b9efd","family":"class","route":"/preview/classes/1931/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"f5d120acf64cecfe33ddbb03c63f1bcdc5e4b74d1b038c114acd71956c0f21e8","family":"class","route":"/preview/classes/1955/bachelor-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-fine-arts","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988","scope":"preview","shell_contract":1}

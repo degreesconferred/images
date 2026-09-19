@@ -531,11 +531,11 @@
 {"digest":"c55fa7db5c498f59f9d3189117d296aef2d8dce82f77f21e25273ac5c1c6fb31","family":"person","person_id":"person_sBlUDYqETSmNmw_7HH2-pQ","route":"/preview/1983/william-v-hudon","scope":"preview","shell_contract":1}
 {"digest":"fc0c508d67529bf7f04386ee891d2627f8e6135090cc1bce0f1e548d195655b1","family":"person","person_id":"person_8n47M4kmYmt0kWbKEKr6Gn","route":"/preview/1984/cynthia-k-welsh","scope":"preview","shell_contract":1}
 {"digest":"32a49bdff99e31c537355dcbd5b786b4c42188a8f5e5b9c31bd9b0907de4bffc","family":"person","person_id":"person_Zki2ea65in3dTRxdR-cx2n","route":"/preview/1984/james-e-murphy-jr","scope":"preview","shell_contract":1}
-{"digest":"b45fb2f32ef92f38f4a9bff72c1a9f32fe83cbf162b071be05e7669738cfd4b4","family":"person","person_id":"person_VWH6WHyP6_imNX8iBVMtgz","route":"/preview/1984/john-robert-hotchkiss-jr","scope":"preview","shell_contract":1}
-{"digest":"4ecf7156e1ab10edd4f62475a551d349181413b262dd598aa07d92a70aa2aebd","family":"person","person_id":"person__xknbOC4QieVUaQoKLZbEA","route":"/preview/1984/kjell-gustav-nyborg","scope":"preview","shell_contract":1}
+{"digest":"9bffb2f4b344514694e564cd967d53f2463310207d7dbce4295d8845e689351f","family":"person","person_id":"person_VWH6WHyP6_imNX8iBVMtgz","route":"/preview/1984/john-robert-hotchkiss-jr","scope":"preview","shell_contract":1}
+{"digest":"ce8b4cb907a1f2c9e8ad3b282f9df2951efb31f34c9608eac4da90985a146026","family":"person","person_id":"person__xknbOC4QieVUaQoKLZbEA","route":"/preview/1984/kjell-gustav-nyborg","scope":"preview","shell_contract":1}
 {"digest":"33f925d479cfd7afa14114fa7caa69b1c3ae1a5bce6dc61cdb31d9b11cd6c7d0","family":"person","person_id":"person_dQABRWGDRP2mhJrD1QBDpw","route":"/preview/1984/lawrence-edward-plomann","scope":"preview","shell_contract":1}
-{"digest":"bda4bcb2b2cdf5b2efc7e532b91e04c4e28d9113e721ee4f7505c3e187fc772d","family":"person","person_id":"person_8QqCSFr2E7YQaQeGNMgfEx","route":"/preview/1984/marla-rachel-golden","scope":"preview","shell_contract":1}
-{"digest":"7ac8db54401356ea90d10192dcf8bc9b41b616e3d2784631c12c4a67f969a9cd","family":"person","person_id":"person_lIrg4aPnSsa9UmS9bMm9uA","route":"/preview/1984/rhonda-lynn-fields","scope":"preview","shell_contract":1}
+{"digest":"10b7c718f4fa7c7b62a20df5bcccda905eaf4dd9911d216e5f99b4eb3d891bba","family":"person","person_id":"person_8QqCSFr2E7YQaQeGNMgfEx","route":"/preview/1984/marla-rachel-golden","scope":"preview","shell_contract":1}
+{"digest":"277b99b638603b558423243dd725f67d0e42b86a87845ca501711669f8f4fe9d","family":"person","person_id":"person_lIrg4aPnSsa9UmS9bMm9uA","route":"/preview/1984/rhonda-lynn-fields","scope":"preview","shell_contract":1}
 {"digest":"cffc156a0d009a1797bbb1ec3ac475d1b821afe872f310ba5606cf7c6b423ca6","family":"person","person_id":"person_U7D5sd52KF6ZY39wkAeDPc","route":"/preview/1984/sarah-fend","scope":"preview","shell_contract":1}
 {"digest":"f7a427615a86824d4593adbd1e32a21de4cda747f996ced990ab902756f8f7c9","family":"person","person_id":"person_IL5wZG3b4DD5hkrLvACWbg","route":"/preview/1984/sarah-hope-kagan","scope":"preview","shell_contract":1}
 {"digest":"e5a52a1e2328e1aa7f1f445b122ac682c834cf70e1de1785d6a3374e74337bad","family":"person","person_id":"person_DN67uKnQbI-lC-DQH04EO-","route":"/preview/1984/susan-mary-winslow","scope":"preview","shell_contract":1}
@@ -1208,7 +1208,7 @@
 {"digest":"312885f1e4f06aa51c23416633a7fefe83d0e6e4404fd9759e1c89a7d1ac1284","family":"class","route":"/preview/classes/1923/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"d80bd55c684a2250616a38c0f79561fdeb02220e3cc61df3500a5587610396b0","family":"class","route":"/preview/classes/1929/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"736ea35917f8a66ad13352719feda3c50e3ea8fd15131eea56ff6b332c710ff6","family":"class","route":"/preview/classes/1943/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/school/booth-school-of-business","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"7bb0d754b2e4d9d390e8017954af45b7ddf50942a1614f8617b4818774b20aaf","family":"class","route":"/preview/classes/1973/school/college","scope":"preview","shell_contract":1}

@@ -1196,8 +1196,8 @@
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"b21ce19eeeff02b73c222e75a3c4e59b44e13656352a7116d66fcd0c5b2b68b5","family":"page","route":"/preview/degree/bachelor-of-arts/i","scope":"preview","shell_contract":1}
 {"digest":"fc924118ce53041c96ce267db80dfc8c0c02ce1cabdfc814c20ae6842dd7ffbb","family":"page","route":"/preview/exercises/honorary_degree_conferral/2000","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1950","scope":"preview","shell_contract":1}
-{"digest":"4200a1f6d402039141d0c61dd7173abcc9b16aeaaa75ad4a1795e7dda918be77","family":"page","route":"/preview/exercises/student_marshal_section/2000","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards/1950","scope":"preview","shell_contract":1}
+{"digest":"4cb586276c078ec2020965a5734878aa03489df86deadd6a0b99fb7c1b829dcc","family":"page","route":"/preview/exercises/student_marshal_section/2000","scope":"preview","shell_contract":1}
 {"digest":"fee3b78800e0609b713b69c5f7e5a33bf5a4fb8385ce90d1f567c9e765711e0d","family":"page","route":"/preview/field/divisional","scope":"preview","shell_contract":1}
 {"digest":"53284da4093577948db5f9af98ec9044aa9194d15361a98d713e46a96627b70c","family":"page","route":"/preview/field/home-economics-nutrition","scope":"preview","shell_contract":1}
 {"digest":"e8d024443696301f6fea7067523e6ba008dfd1d69f3353515d7dedc62b36a492","family":"page","route":"/preview/field/physical-chemistry-physics","scope":"preview","shell_contract":1}

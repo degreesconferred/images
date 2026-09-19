@@ -546,13 +546,13 @@
 {"digest":"bfefc6167f2a098ca17c701baf7e39617ea1d369de4d0fc141c43eb999d10311","family":"person","person_id":"person_C9kVUgGhRiWWbaTSCpoJaQ","route":"/preview/1983/kerry-scott-teplinsky","scope":"preview","shell_contract":1}
 {"digest":"3c8322674a68602ddd98785732a22fc3f117b13c7071b6e140db6c60b5d2af1f","family":"person","person_id":"person_OjBK1hySRhCjCtpJUJRN3w","route":"/preview/1983/mary-ann-hartnett","scope":"preview","shell_contract":1}
 {"digest":"7b7331d577ad212dc9e6889074946bdc2361fed85da8373eb86650c2dc5d4643","family":"person","person_id":"person_xz9MRbb7RpmdUHeu-13K-g","route":"/preview/1983/matthew-william-jacobs","scope":"preview","shell_contract":1}
-{"digest":"1bd9a24fed3f17f7adbbf7942beebfa28e57c4bd20924043acb92636579d8ba0","family":"person","person_id":"person_xj1zXYskTVKls0juQoihVg","route":"/preview/1983/mirza-ahmad-ali-baig","scope":"preview","shell_contract":1}
+{"digest":"5f1ff5dd758dce1a4240b0a3734c8e4510a2eebac0b1ba1e69ff2c3c4ccfff9e","family":"person","person_id":"person_xj1zXYskTVKls0juQoihVg","route":"/preview/1983/mirza-ahmad-ali-baig","scope":"preview","shell_contract":1}
 {"digest":"d79fde76271cd3692402d340bdfc9b003ba7f21a5add9e1d37aedd1cf9de303b","family":"person","person_id":"person_8Yh1Bq8ISxSvjoDWCN6kHg","route":"/preview/1983/richard-edward-guy","scope":"preview","shell_contract":1}
 {"digest":"45c65b85a6ba26751c2fbd7dff7af48313074c63882e06ba9125a09fe341c2ad","family":"person","person_id":"person_FDS40GbmKxswX81ps-C-HB","route":"/preview/1983/robert-joseph-disalle","scope":"preview","shell_contract":1}
 {"digest":"9f0f922c2a25f9fed10d2183e2521934363aec0d2d600b3c2d36d282a0f6cc76","family":"person","person_id":"person_UlPmCxqVRVuTFzyc_tSCwQ","route":"/preview/1983/wendy-d-lee","scope":"preview","shell_contract":1}
 {"digest":"156594107030e1b2e361393388f494ccabfbf1a43ef5bed953a213595602d61f","family":"person","person_id":"person_PeoKKEDVRNu1edG-ZpJtSg","route":"/preview/1984/david-andrew-nielsen","scope":"preview","shell_contract":1}
 {"digest":"e541a2e2e6b12b4454d3bc25d68e907c782d44c5abc28a76bdaf14a95fe4dd27","family":"person","person_id":"person_VtuOE6UnQ0OkfSqpxRBCMA","route":"/preview/1984/donald-meiklejohn","scope":"preview","shell_contract":1}
-{"digest":"70a4d69c4d05ff521af81fe91a92b2f55f2b2e5e23d206df536f2244415aeb82","family":"person","person_id":"person_pbuqDFBEn_wl14xy1Sivo6","route":"/preview/1984/francis-john-hannon","scope":"preview","shell_contract":1}
+{"digest":"cb67a582ac36d1dbb770ebe60ca0151882a7bb57494b61005c61aa86825f238d","family":"person","person_id":"person_pbuqDFBEn_wl14xy1Sivo6","route":"/preview/1984/francis-john-hannon","scope":"preview","shell_contract":1}
 {"digest":"03bf716204ebeef83f7a2525d487b24bf827ce7c5b1c15ca4a6a2f5a4d39e31c","family":"person","person_id":"person_2hJeeZp6U7hcUulhyuV5Se","route":"/preview/1984/kahane-rachel-corn","scope":"preview","shell_contract":1}
 {"digest":"39c8e55ae6cb4fc40a641d2f07e677040a5f791636b6aa130acba4e12fd2b37a","family":"person","person_id":"person_V_GcXrEulO93NUjbaNTNEZ","route":"/preview/1984/martina-anne-hone","scope":"preview","shell_contract":1}
 {"digest":"8e35bbfe40601e81b379e9261765f2d7dd5a0f4ce2a9dd28c5294d0a39baa1c8","family":"person","person_id":"person_jqWtuZ4qQxSKDyE1aub9PQ","route":"/preview/1984/susan-lee-tibbitts","scope":"preview","shell_contract":1}
@@ -1262,7 +1262,7 @@
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1970","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1970","scope":"preview","shell_contract":1}
 {"digest":"4152777e7218f07aaa88c9a78bae4a3df3458da52cf427a2fcc3d1a3c91100ae","family":"page","route":"/preview/exercises/greetings/1950","scope":"preview","shell_contract":1}
 {"digest":"c6964c0f87939528b7ab02479a9a987b7f96bf6cfe54b568851205657c8ec639","family":"page","route":"/preview/field/assyrian-babylonian","scope":"preview","shell_contract":1}
 {"digest":"c4910d4197b9b939a352276c60ab7e9bee2f9c6694837c0c42c7d7a80a4540a8","family":"page","route":"/preview/field/photocopies","scope":"preview","shell_contract":1}

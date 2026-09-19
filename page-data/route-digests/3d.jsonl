@@ -515,7 +515,7 @@
 {"digest":"f2baf2089f6cd1305032be35e3a0a1ca1c5ac51896f5625c5cef35189bcfa766","family":"person","person_id":"person_hFk6EyaARc6nDW9nBpC08Q","route":"/preview/1983/sue-ellen-blaine","scope":"preview","shell_contract":1}
 {"digest":"a18257975165996d2848b12b2d1b4c00cbe64a2e975a4fea545c0c262987355a","family":"person","person_id":"person_fBt6lJ7hTnRjvtQm6kiH47","route":"/preview/1983/suzanne-marcia-schenkein","scope":"preview","shell_contract":1}
 {"digest":"e8543dffe3f6f10d83403a020598554da5cb7b248d9cb82ca9e493a14d6a2d0b","family":"person","person_id":"person_tWhCDoCnSXOpWV9lt5xUyw","route":"/preview/1984/leandra-r-knes","scope":"preview","shell_contract":1}
-{"digest":"495c9954d9e33b49fc654eaae6ad57f50e656e32023669a1d1c10f74aa0bd5bf","family":"person","person_id":"person_FXD9nznjTJqd1zK_TvyZ1Q","route":"/preview/1984/nicholas-newlin-perry-jr","scope":"preview","shell_contract":1}
+{"digest":"6bb760dff524a4f6b367d86132c9b8e676f484159e9945eb15cb9ccdb6fa92fc","family":"person","person_id":"person_FXD9nznjTJqd1zK_TvyZ1Q","route":"/preview/1984/nicholas-newlin-perry-jr","scope":"preview","shell_contract":1}
 {"digest":"501f389a59d4af4ad050cef85f114eaa9441bcba37effba04cf6fdf82872a730","family":"person","person_id":"person_50UGIQACTN-Qk6R2jqAFHA","route":"/preview/1984/william-h-volkmann","scope":"preview","shell_contract":1}
 {"digest":"0fc8598de235635fb714a86ca3e5c52e018417deac33aca3ef918bc3a1f4d9b5","family":"person","person_id":"person_MYpAo1jlbvOhbf-BIDI1B4","route":"/preview/1985/douglas-randall-scott","scope":"preview","shell_contract":1}
 {"digest":"31e19dc1e4e242858199a344175f80d8ff0c8e52af895f715363ba0e9d3099ed","family":"person","person_id":"person_Yc5XgXaLRP6RAjzPzr8Wrg","route":"/preview/1985/elizabeth-anne-drumm","scope":"preview","shell_contract":1}
@@ -1181,7 +1181,7 @@
 {"digest":"9419398ebbf371c7c07ec7bc97fe1fd8f853cc53712809f3a6fb92246f16fc3c","family":"class","route":"/preview/classes/1949/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"9b6ac87bdf4edafe7f96f61a38bdc0ee8cfc94fa355d082ce6565f3caeb309c9","family":"class","route":"/preview/classes/1951/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"38a46f10744071e6d9847ecc152c7427f974b9f51ee71e9caa8c901086cb52b5","family":"class","route":"/preview/classes/1960/school/booth-school-of-business","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/master-of-laws","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"37c81561d5718d6b80bf4c0928a3c1609d54d75772525f4d0af5a758a4c4fb18","family":"class","route":"/preview/classes/1970/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986/doctor-of-philosophy","scope":"preview","shell_contract":1}
@@ -1189,7 +1189,7 @@
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"90b431facd5bf7f01be9256f834084cada7028c814ae848db562776a680c5f7b","family":"class","route":"/preview/classes/2012/master-of-fine-arts","scope":"preview","shell_contract":1}
-{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/2020","scope":"preview","shell_contract":1}
+{"digest":"2a52d1e66afc93955b44867a4850f017be75ec76a03d943847b84fc8d622d5ca","family":"page","route":"/preview/exercises/degree_conferral/2020","scope":"preview","shell_contract":1}
 {"digest":"6a254f8c826aaf27324b06781147f2f1a08a33e6350d23c8cfbe9d2134202e64","family":"page","route":"/preview/field/information-sciences","scope":"preview","shell_contract":1}
 {"digest":"9b76ea23f420977b54bd1941a34b8d4778fb5e29279e8f3c6c48206f42c7854d","family":"page","route":"/preview/field/smith-asian-languages-and-civilizations","scope":"preview","shell_contract":1}
 {"digest":"71f59da52d2f3abdbe50830fe54be2afa9107ffe5f00ebd2dc0ff6167a5f209d","family":"page","route":"/preview/speaker/jerald-c-brauer","scope":"preview","shell_contract":1}

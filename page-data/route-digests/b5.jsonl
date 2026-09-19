@@ -507,7 +507,7 @@
 {"digest":"d269d9386c3e7880923f870eb6b4f0814f0e3e4206d28434f604b2675d5f277b","family":"person","person_id":"person_gvRZKrMvQY-64uncjRTIPA","route":"/preview/1984/michael-joseph-ruddick","scope":"preview","shell_contract":1}
 {"digest":"b63ddd8ceacb1eb14b24613e5f2ed3863fabc2ab6f08416755a66033e7a11144","family":"person","person_id":"person_Ue6yRf6cTFWLcO7Zlm79IA","route":"/preview/1984/patricia-denise-brofazi","scope":"preview","shell_contract":1}
 {"digest":"e4b0b28208619c6f8ecb8b8be78e5d6edb0bdafaa4595d3b87196c061e991b51","family":"person","person_id":"person_yOBsbCIJQQq75xwB8bLPHQ","route":"/preview/1984/patrick-joseph-buckley","scope":"preview","shell_contract":1}
-{"digest":"f35825282efbbc418a132ada56ae8c6f2c6649e5a12b7606ffe800f0ada412d2","family":"person","person_id":"person_K4q3EMavSBOytZ5C4_POig","route":"/preview/1984/richard-tae-il-choi","scope":"preview","shell_contract":1}
+{"digest":"039e7c5a9067bd58795038b041bfb25ad0309358fe5bf5039570b155c491e9af","family":"person","person_id":"person_K4q3EMavSBOytZ5C4_POig","route":"/preview/1984/richard-tae-il-choi","scope":"preview","shell_contract":1}
 {"digest":"1784445dbde48bf82d69ceae043eab4b0d9adb174da430ace6d1e14de4323b59","family":"person","person_id":"person_ppiXtI9HQWaq0Ljr6Lq7BQ","route":"/preview/1984/robert-j-priest","scope":"preview","shell_contract":1}
 {"digest":"bab655a254bd89ca29c119fdcf1cfdb0e26adaf255771bf2d38c7638e7cbe80c","family":"person","person_id":"person_oAtW7HZtRQuUTIhixMGc6g","route":"/preview/1984/sarah-r-skinner","scope":"preview","shell_contract":1}
 {"digest":"8b15a7d7b4d9bfc6a98db4abf3495ee0ccc7d64524b640b2aa9ef50ddd3bd56f","family":"person","person_id":"person_WNBfadhDS-2ZaMQcS1nXYQ","route":"/preview/1984/simcha-laib-kuritzky","scope":"preview","shell_contract":1}
@@ -1190,7 +1190,7 @@
 {"digest":"a9eee4f513cc211eef25b641385fb7bc3c38740735dde63c05d25c971a12824f","family":"class","route":"/preview/classes/1937/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"cf9f27f51f9ce272b0c0f09829bbc9cd521efaa02769d7ca20aa4ff6f85ed004","family":"class","route":"/preview/classes/1942/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"5b4eb9bef839a32422f62975b77ab63f92463e88cc68440e05dbf470413172dd","family":"class","route":"/preview/classes/1946/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"fc581e1850db1cb8915cf111a9087991499be4d03bfb1f24fc968eab9394732f","family":"class","route":"/preview/classes/1967/doctor-of-philosophy","scope":"preview","shell_contract":1}
+{"digest":"187093262baf274eb750608c8d9f8d98c995a663ea7deead9b3938336a422b81","family":"class","route":"/preview/classes/1967/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"51bb9a13384c916f1cb77904104376dd43d0453a68f3d232f4375bca78443a42","family":"class","route":"/preview/classes/1969/school/division-of-social-sciences","scope":"preview","shell_contract":1}
 {"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"e949b564b2db75b81f00783bd5923bd1a9309c0140aac11a88e63c08bd2d38a0","family":"class","route":"/preview/classes/1977/school/law-school","scope":"preview","shell_contract":1}
@@ -1198,10 +1198,10 @@
 {"digest":"2d20743e11254932be4241065bbe6b1358f8188f6b0a9c9ee53085c9385feb9a","family":"class","route":"/preview/classes/1986","scope":"preview","shell_contract":1}
 {"digest":"6cc4d614fd6069d1fef2ef4159d67e164da988c51dc5d22a2c2c9bb8ec0886c9","family":"class","route":"/preview/classes/1989/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
-{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1890","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1930","scope":"preview","shell_contract":1}
+{"digest":"d6b174bcfb21b2c2a25d7124a71d675ef8a5c70b9dae195fa8314ac31c2bd97a","family":"page","route":"/preview/exercises/degree_group/1890","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards/1930","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music","scope":"preview","shell_contract":1}
-{"digest":"ee340be5204156998064d0e08c50a08f8d664b8c10f162d4b93c3e8e5939ede5","family":"page","route":"/preview/exercises/processional/2020","scope":"preview","shell_contract":1}
+{"digest":"a503d7076e9353fb68beb75e8195aca3a38efe0f83926bd644525c9b35185909","family":"page","route":"/preview/exercises/processional/2020","scope":"preview","shell_contract":1}
 {"digest":"6b25cdfab50dd8c72a7954b1840d36b1c00ff35402e2245c97b0d822964ea179","family":"page","route":"/preview/field/comparative-human-development","scope":"preview","shell_contract":1}
 {"digest":"a347f47da54d0d4eff03edf7774719a93089699bc8a1110d37923a53f459c684","family":"page","route":"/preview/field/conceptual-foundations-ojscience","scope":"preview","shell_contract":1}
 {"digest":"77e29058c9ebfd6571bd85c25c6a4df65911a286dcb02ef3059637bba99e2d9e","family":"page","route":"/preview/field/health-studies","scope":"preview","shell_contract":1}

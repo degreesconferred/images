@@ -544,8 +544,8 @@
 {"digest":"2d2fddd1b37d37d6792744e4657959a61d3317c5a7825328f354fbe5f8a65c39","family":"person","person_id":"person_BzNQepBQASmHmUY1R5EO8v","route":"/preview/1984/nicholas-k-hatzopoulos","scope":"preview","shell_contract":1}
 {"digest":"7f6df9ad6201aa65ce70f09240b116c804fee0277a4eb437f0655541973b6b40","family":"person","person_id":"person_DEpUPBwZsNlKfbmu5bkB0b","route":"/preview/1984/nurcholish-madjid","scope":"preview","shell_contract":1}
 {"digest":"c38165eea27cf8bcca9b4c67112580921bc730b9cf7093fce9df35bb126de2b4","family":"person","person_id":"person_sRwd650-StSs5TYnV4MIAQ","route":"/preview/1984/pablo-emilio-guidotti","scope":"preview","shell_contract":1}
-{"digest":"06d5808cb0aaf31d0b6a37472e2f223e3071cdafaef6601273a710c5f0b11c50","family":"person","person_id":"person_WEx14QXFStq2faGpVoLBXA","route":"/preview/1984/stephen-thomas-shandor","scope":"preview","shell_contract":1}
-{"digest":"b1bc34ae2a3a10ff8baa09fd770bb2350ad8d06c78ae1ce073a2caf27e748c8a","family":"person","person_id":"person_qEPzc6lzSd2sTa4tIDZZKw","route":"/preview/1984/thomas-joseph-bogdan","scope":"preview","shell_contract":1}
+{"digest":"5b013251e75bca911707e4291984feaf2aa99a787fa8ffaf91258d33a8005e79","family":"person","person_id":"person_WEx14QXFStq2faGpVoLBXA","route":"/preview/1984/stephen-thomas-shandor","scope":"preview","shell_contract":1}
+{"digest":"a900046fdce93f8de3db0be49e4138f441c9afc920622bb6a59470170a4f426d","family":"person","person_id":"person_qEPzc6lzSd2sTa4tIDZZKw","route":"/preview/1984/thomas-joseph-bogdan","scope":"preview","shell_contract":1}
 {"digest":"c0471470e986dce16ce596c0fce85990e1e46231a916c261c8434b2136cd94da","family":"person","person_id":"person__ZlxeGXMfyXf5cpYMXLgrj","route":"/preview/1984/william-shih-ping-lee","scope":"preview","shell_contract":1}
 {"digest":"8aa0c823ea669ddf39637c1bf0764f3b6ac049819b2fa2696e1972cdae9b3db0","family":"person","person_id":"person_4-kf3-XyRh-wTA8x9maVdQ","route":"/preview/1984/yuichiro-yamamoto","scope":"preview","shell_contract":1}
 {"digest":"58398b21d890539f4b26e19a64ed2852e6bdbf8bc38a4450f2374652045f3365","family":"person","person_id":"person_g7DhyVxAQACXxDolqyA4Yg","route":"/preview/1985/alan-leo-friedman","scope":"preview","shell_contract":1}
@@ -1174,9 +1174,9 @@
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"1d0ad1d64a8c7c0d227fb005e65001123781ad44cee1d6d880daf156588713fb","family":"class","route":"/preview/classes/2006/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
-{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1940","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1960","scope":"preview","shell_contract":1}
-{"digest":"17567d16c065572486c4878118974fff33df4fc019b63e751ed48e892f985753","family":"page","route":"/preview/exercises/recessional/1930","scope":"preview","shell_contract":1}
+{"digest":"2a52d1e66afc93955b44867a4850f017be75ec76a03d943847b84fc8d622d5ca","family":"page","route":"/preview/exercises/degree_conferral/1940","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards/1960","scope":"preview","shell_contract":1}
+{"digest":"ed1645bb1de2e6b6706af1b1851f98461035578ede16a579ee223118de952d95","family":"page","route":"/preview/exercises/recessional/1930","scope":"preview","shell_contract":1}
 {"digest":"f895d34d0c31bdcbbeeb0cceacf277aa051b963ae594d696fb9f9790f488b725","family":"page","route":"/preview/field/biophysics-theoretical-biology","scope":"preview","shell_contract":1}
 {"digest":"84c299ae9807571a7b0b1c431500fab61dcef18a9ec24e1423f5bd3ccd45216d","family":"page","route":"/preview/field/guidance","scope":"preview","shell_contract":1}
 {"digest":"4c1cb9e74506aef9edfb04c9d33c48c7a3b4c335f53d2044d7cf80282296c38b","family":"page","route":"/preview/field/human-development-mental-health-research","scope":"preview","shell_contract":1}

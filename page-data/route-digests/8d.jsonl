@@ -527,7 +527,7 @@
 {"digest":"740fe7b4ada1ee4ed137e75e8de618f664f4fd2da94705bd1fb6eda6928fc2e7","family":"person","person_id":"person_FgHtwbSJRYy7IFAKW_nO7Q","route":"/preview/1983/stephanie-helen-levy","scope":"preview","shell_contract":1}
 {"digest":"bdbd059a007960beca00891996a4c456fe4a2c18f882df911f59f5266d980d13","family":"person","person_id":"person_dLz0KM9ZSkyuG7u7cfeiRQ","route":"/preview/1983/teresa-l-romano","scope":"preview","shell_contract":1}
 {"digest":"abd94f2019d73e3b94ad22bef39631beab8561118a398f4b03ec56e3eb508863","family":"person","person_id":"person_O6xVaTHhSQSCm62o6dstkw","route":"/preview/1984/al-said-said-sultan","scope":"preview","shell_contract":1}
-{"digest":"2398d20582296b4efbb2080c1bd4c16ad9c77308a8ebe5a081d1d874a09ba587","family":"person","person_id":"person_YJNzYVTAb6eJ67LUPBvpoo","route":"/preview/1984/andrew-james-black","scope":"preview","shell_contract":1}
+{"digest":"2f56ac01242222c44113ca3dd37adbb7e761e850609da672a1eda7c87edb7da4","family":"person","person_id":"person_YJNzYVTAb6eJ67LUPBvpoo","route":"/preview/1984/andrew-james-black","scope":"preview","shell_contract":1}
 {"digest":"dc712e67f583bddff53f1c6d99bdb61f3b85d01b0a760f9ba03d324ea85c5f46","family":"person","person_id":"person_Vjxg4npMTeWPoCK0VXbZVg","route":"/preview/1984/carol-adderley","scope":"preview","shell_contract":1}
 {"digest":"b4cf2006ee01d59ad95d92db37044ba8a66e5a30a28421e3f80ecfd2b6afcbde","family":"person","person_id":"person_UKe8SOAaUzM3HEgSoDGWFS","route":"/preview/1984/edward-w-rosenheim-jr","scope":"preview","shell_contract":1}
 {"digest":"5acdde868e96ec2f3d1c89fd66d9cf13b20719eef9728d04c4249be00d932cca","family":"person","person_id":"person_LsXkRx-Tug8lMLtlHfbbqQ","route":"/preview/1984/f-joseph-mullin","scope":"preview","shell_contract":1}
@@ -1219,13 +1219,13 @@
 {"digest":"7a9f8e241435989139fb16a56b8079882fe4d76b78858dae0c5eb477d8951607","family":"class","route":"/preview/classes/1948/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"a0eebe4c642dc4f538d5651eae4424bf8c724559219b80c10bebcad3580036bb","family":"class","route":"/preview/classes/1950/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"590324072c0c6eb1ac3b039397219db1ec203b1f31f6e0e9193ebeeae45ba0b3","family":"class","route":"/preview/classes/1959/master-of-arts","scope":"preview","shell_contract":1}
-{"digest":"b72d43cf16a868a436198d9d8d1b78c6c53cfbf398e20331d3fe0df97b9e2247","family":"class","route":"/preview/classes/1964/school/graduate-school-of-education","scope":"preview","shell_contract":1}
+{"digest":"61e7589014acda246b5c8047a1521088ab77c1915fa0621297e3730433ff70fd","family":"class","route":"/preview/classes/1964/school/graduate-school-of-education","scope":"preview","shell_contract":1}
 {"digest":"c5f1a4877d1e3922a88fc8eb83e95d89a1a04473e12cc9e37b722ab82b8f9c99","family":"class","route":"/preview/classes/1965/school/graduate-school-of-education","scope":"preview","shell_contract":1}
-{"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/master-of-science-in-teaching","scope":"preview","shell_contract":1}
+{"digest":"9391506124fbccc039eb2f73b401a47d69ab968ad1629db1f6bd289c6f5756a6","family":"class","route":"/preview/classes/1966/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"788adaeae11dc94bb77beaf3a4fd675f74675662a41275de7b55c23fdf62ab41","family":"class","route":"/preview/classes/1972/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"d7ea3d3a1cb82a936fe9f7d50903b68e680d05d7a3a94e504448242f3b9ca859","family":"class","route":"/preview/classes/1978/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/doctor-of-medicine","scope":"preview","shell_contract":1}
-{"digest":"1e8901724880957111f944b3dca6e57d629223922d1ed2cbc500074d8f55e55e","family":"class","route":"/preview/classes/1984/school/graduate-library-school","scope":"preview","shell_contract":1}
+{"digest":"d8a0a331599b1d2e9d4ee08876a4ea93a58ad6eb894b9a8281bdf2f3724d15af","family":"class","route":"/preview/classes/1984/school/graduate-library-school","scope":"preview","shell_contract":1}
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"07965e528b9580a510617300101b6868238fc762fb92ab97acbfad7a3e08f6ad","family":"class","route":"/preview/classes/1995/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
@@ -1239,7 +1239,7 @@
 {"digest":"25d41bca062b1e54e7f2cb5b6479a5a51b65a6671a37a22efcaccc4567542570","family":"page","route":"/preview/degree/doctor-of-philosophy/l","scope":"preview","shell_contract":1}
 {"digest":"04079900273093fd35e4b3988e9b25c382ab5797c6af80775d5e07ce041bcce0","family":"page","route":"/preview/degree/master-of-business-administration/z","scope":"preview","shell_contract":1}
 {"digest":"283145d1b8e1b76a408d7fc7852d0a3b4d758d75e44169134ba835506d1a61cc","family":"page","route":"/preview/exercises/call_to_order/2020","scope":"preview","shell_contract":1}
-{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1910","scope":"preview","shell_contract":1}
+{"digest":"024cc3bf64551c711aaec31817abcddbfebc455e1f1d9053520a54ecae2998dd","family":"page","route":"/preview/exercises/honors_and_awards/1910","scope":"preview","shell_contract":1}
 {"digest":"a0c7fb26af685f72ac7073f60f177a0c542200e177df623567285db89dce9391","family":"page","route":"/preview/field/clausiss-classical-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"21a449533a12cd693bb37a228a4d2da62285de31394ae848765c868440c71ac5","family":"page","route":"/preview/field/conceptual-foundations-oj-science","scope":"preview","shell_contract":1}
 {"digest":"45e38ca7ec64458457b1b538b239af277ebb0529c25138006c76866d9b5f07b7","family":"page","route":"/preview/field/education-psychology-general-literature","scope":"preview","shell_contract":1}

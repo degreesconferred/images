@@ -501,10 +501,10 @@
 {"digest":"dbf8c06c175d93dcf6a197c7c7056c64b2c1a64e1ebc5234c274389b1abaac4d","family":"person","person_id":"person_7sL6HkFpRCGPJytSzCnzhw","route":"/preview/1983/robert-william-snyder","scope":"preview","shell_contract":1}
 {"digest":"b1e71885173d3810c70d3df1c2f79d7813e8233a817623b633cff7b4fbca1937","family":"person","person_id":"person_tLIpmReoS4y8L3p23yoI2g","route":"/preview/1983/sharon-leigh-harmon","scope":"preview","shell_contract":1}
 {"digest":"b4656d94ce41016413bb862c2bc4eab227c78a50e99f7c76c7070e200fcf2935","family":"person","person_id":"person_a-b1aQBZTfS9UYasgG_5TQ","route":"/preview/1983/william-sax","scope":"preview","shell_contract":1}
-{"digest":"33233a4f1475f512f3509410a8f5d2805a91a817f9a092564592989e89591796","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1984/amy-b-silverman","scope":"preview","shell_contract":1}
+{"digest":"606ca73b7a139f0cf3390211fc05ca95ad83ddcec58bcc4a2d48909836a98b9b","family":"person","person_id":"person_-597xbI1SIK5MxeEuVbndQ","route":"/preview/1984/amy-b-silverman","scope":"preview","shell_contract":1}
 {"digest":"d658acc78d09a64a35839436e758b52e3bba2716df9e1164475437de41e73c56","family":"person","person_id":"person_f5V4c-XHQEeghJNisWejKQ","route":"/preview/1984/cory-m-helfand","scope":"preview","shell_contract":1}
 {"digest":"676e3c32d468611c8fe0b7e98fa1c697f7f1dd1b48cd08a42690f1ee7112c372","family":"person","person_id":"person_46Gm-H8hBb3rMWFveTvDYB","route":"/preview/1984/dayne-bradley-miller","scope":"preview","shell_contract":1}
-{"digest":"71dbe25fb032eb7105e4447f2fbfd4be58341395af6e0b85717a69b57a61d866","family":"person","person_id":"person_b4pn0uzL233MUFzBfxIh1x","route":"/preview/1984/dorothy-robinson","scope":"preview","shell_contract":1}
+{"digest":"8a3c3dd48d14772b450f7dbf7f2185d3bfec464da972a5087f92cc8e2a2dfbdf","family":"person","person_id":"person_b4pn0uzL233MUFzBfxIh1x","route":"/preview/1984/dorothy-robinson","scope":"preview","shell_contract":1}
 {"digest":"a4a8a728d6e8ce62246fbb94fffa35b7656f72ed2f6d75ad7f8c5510a4b0db66","family":"person","person_id":"person_w8muzgYeTaOl2UU9tLGx_w","route":"/preview/1984/mark-eric-huslage","scope":"preview","shell_contract":1}
 {"digest":"78a163dcedc58912ca0d61000afea3fa485d4a15ef89e3c5aad7adec6451a991","family":"person","person_id":"person_Ry3ECerlSDOEsxa8_zNQHQ","route":"/preview/1984/mark-frederick-fischer","scope":"preview","shell_contract":1}
 {"digest":"1cd44971b33b2242666c8a27bf7ce0b035a3350d22f33f8c654e1fc4c8889fd8","family":"person","person_id":"person_maQHVKOjRYOwMKN6wQl-VQ","route":"/preview/1984/mitchell-i-dolins","scope":"preview","shell_contract":1}
@@ -1153,8 +1153,8 @@
 {"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"88c57d885fb16a44e21db481e3ca61c92982829e68b313b9c1b65bf8febbadcb","family":"class","route":"/preview/classes/1993/master-of-science-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"416b11bb262b83904102979b1bf1bbf8b32b1780b899175c370f8ed2ccf180ba","family":"class","route":"/preview/classes/2014/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"fb1d211330aa49a4ebbe105a41c233fe5fcb7d815d290c273ac9de4a1903beba","family":"page","route":"/preview/exercises/prayer_or_invocation/2000","scope":"preview","shell_contract":1}
-{"digest":"17567d16c065572486c4878118974fff33df4fc019b63e751ed48e892f985753","family":"page","route":"/preview/exercises/recessional/1970","scope":"preview","shell_contract":1}
+{"digest":"e646b598b4251428093a5413145722a7f1393da4268b47c4ea1ff78bb8756d4d","family":"page","route":"/preview/exercises/prayer_or_invocation/2000","scope":"preview","shell_contract":1}
+{"digest":"ed1645bb1de2e6b6706af1b1851f98461035578ede16a579ee223118de952d95","family":"page","route":"/preview/exercises/recessional/1970","scope":"preview","shell_contract":1}
 {"digest":"32b065011a66979050831a440e3a55903524befb71fc2cfec5e9330d0cd17d2d","family":"page","route":"/preview/field/home-economics-and-education","scope":"preview","shell_contract":1}
 {"digest":"e398ac6132a75690bbe978668a539b35667d70b315621f99884e63fddf054408","family":"page","route":"/preview/field/romance-german","scope":"preview","shell_contract":1}
 {"digest":"5b7804af65887ebcef7c4643491ca1f63ff3ae59cc715755799e6dd8b5212e4c","family":"page","route":"/preview/processions/program-beat-e016b30575959268bfb38bf0","scope":"preview","shell_contract":1}
