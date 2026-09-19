@@ -10,8 +10,8 @@
     "rows": 28
   },
   "generation": {
-    "content_commit": "fd06b381a99ec5c4ee3fcf3ae78ec4b97d1c44f3",
-    "generation_id": "page-data-2b34b26a3765-20260919T070714Z-7385c004",
+    "content_commit": "78ecf2dd39f3e0c48df8c2f21532680a872a9c0d",
+    "generation_id": "page-data-eae58b5d20e7-20260919T120600Z-ed47786a",
     "source": "page-data/current.json"
   },
   "token_min": 2,
@@ -24,36 +24,38 @@
   "partial": true,
   "built_shards": [
     "as",
-    "ca",
+    "br",
     "co",
-    "de",
+    "da",
     "el",
-    "fl",
+    "fe",
     "ga",
     "ge",
     "he",
-    "jo",
-    "ki",
-    "la",
+    "ho",
+    "ir",
+    "ja",
+    "ka",
+    "le",
     "li",
+    "mi",
     "mo",
     "ne",
     "oc",
-    "po",
-    "pr",
+    "pa",
+    "pe",
     "so",
-    "tu",
+    "st",
+    "su",
+    "ta",
     "vi",
     "we",
+    "wi",
     "wo"
   ],
   "removed_shards": [
     "dr",
-    "gm",
     "in",
-    "na",
-    "ni",
-    "qc",
-    "un"
+    "na"
   ]
 }
