@@ -584,10 +584,10 @@
 {"digest":"3041c0ce9b27e12e1686da1893a47a81ac22cca272f75ec85e449228ef2e8e13","family":"person","person_id":"person_v-9Grtl5Qs-zv6soxiUF6w","route":"/preview/1984/j-william-uhrig","scope":"preview","shell_contract":1}
 {"digest":"7d87a393012e3a95706231260e31a6d0afe71d6d41830bf39a8d22ccc9731687","family":"person","person_id":"person_NIMmzyzq_RsMwKxcBiSo3D","route":"/preview/1984/jacqueline-anita-jones","scope":"preview","shell_contract":1}
 {"digest":"bc9e4b1e2209c09e4905f456b61e3b83b8aeb35575b68de2418a4f5b971db4b2","family":"person","person_id":"person_txSVOgANR9q6_IASBxxF8w","route":"/preview/1984/jeffrey-todd-sprung","scope":"preview","shell_contract":1}
-{"digest":"420c9c2d9af2bde0ca931353b3ebc7337fec10398aa15560f06d7a9c56c763d5","family":"person","person_id":"person_m-THjTHcKRixm68FdmmBoj","route":"/preview/1984/jimena-garcia","scope":"preview","shell_contract":1}
+{"digest":"58a1d808973ef8246c7940c013e3c574d5a89f2a5ba55424615661be365c0fcf","family":"person","person_id":"person_m-THjTHcKRixm68FdmmBoj","route":"/preview/1984/jimena-garcia","scope":"preview","shell_contract":1}
 {"digest":"0d4119d3f6db2352773b8437ce2037932440c903e631279630ffce81471eeeb3","family":"person","person_id":"person_EmwlA0v1Q66oc8Q65tskRg","route":"/preview/1984/martin-robert-sinnott","scope":"preview","shell_contract":1}
 {"digest":"84de4d7fd4c9e4a1db4a8fc3324ce19d9c77a29b4aa96357b229028930aff4d1","family":"person","person_id":"person_w_PcHN1yTZ2FKH5vdbmRFA","route":"/preview/1984/steven-r-resler","scope":"preview","shell_contract":1}
-{"digest":"f759db27261a9f2ff4290ba08024020131db728d49f5ba6e13cd5923bbcb6e6b","family":"person","person_id":"person__MUjUqQhTDuS6YM6S0RAxg","route":"/preview/1984/susan-feurzeig","scope":"preview","shell_contract":1}
+{"digest":"22d32c9205dba585b09e72c88a9e29c7227297b01e8083deeae1d996617ea8aa","family":"person","person_id":"person__MUjUqQhTDuS6YM6S0RAxg","route":"/preview/1984/susan-feurzeig","scope":"preview","shell_contract":1}
 {"digest":"731a8a8284df5d1f7b219360ba9a6dc4c6f42279a8e0495d3b5709cf227324b1","family":"person","person_id":"person_sZaqt0QjRWSmkzf6jUjcng","route":"/preview/1984/thomas-drummond-riegelman","scope":"preview","shell_contract":1}
 {"digest":"14843af740e1b9db6775558bc5b7e07085880206e060b2a14c437c3a92f8d55c","family":"person","person_id":"person_heit5soyQWCXVeJ-nrVfUw","route":"/preview/1984/victor-e-johnson","scope":"preview","shell_contract":1}
 {"digest":"b354b976a419e2b76120e672862ceebdade8e092d7b43607249c7a19e07f1f73","family":"person","person_id":"person_-WdxDGJyS2qEJqsP3WXHPQ","route":"/preview/1985/christian-w-mackauer","scope":"preview","shell_contract":1}
@@ -1290,8 +1290,8 @@
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"fedb4856f31169da0d1a17bac041d4224d47cd87a58ce01b9f79c368e3cd108b","family":"page","route":"/preview/degree/bachelor-of-arts/a","scope":"preview","shell_contract":1}
-{"digest":"2555d81a9dbcd70d9769af4a8d6eaa83518af738ffb4950b2e92bc8dbb644a37","family":"page","route":"/preview/exercises/benediction/1920","scope":"preview","shell_contract":1}
-{"digest":"bb455e50c5dffa4385731ac3cab02567551d5545cf9166536f86dc9cbe5218b8","family":"page","route":"/preview/exercises/other_numbered_section/2020","scope":"preview","shell_contract":1}
+{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1920","scope":"preview","shell_contract":1}
+{"digest":"3072f6d3809ead47e1166a574364b698c9040b72f7a76ef3c7404ac64169df44","family":"page","route":"/preview/exercises/other_numbered_section/2020","scope":"preview","shell_contract":1}
 {"digest":"0483dc0d8ec78ad08961a07b04b27adf83e9c1bf5bb5604fdfe8f764824538c0","family":"page","route":"/preview/field/biophysics","scope":"preview","shell_contract":1}
 {"digest":"e27e86bc4a35ed0d719fde35f2394ba8edf21f0609851c9fc6bd6e8e1e499f89","family":"page","route":"/preview/field/honors-in-pediatrics","scope":"preview","shell_contract":1}
 {"digest":"7353cbf7de59022775ea6742e27dd445cddcdc53505776c19c154daba0f2c912","family":"page","route":"/preview/field/politics-economics-rhetoric-and-law","scope":"preview","shell_contract":1}

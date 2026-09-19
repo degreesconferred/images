@@ -137376,7 +137376,6 @@
 /preview/1984/colleen-marie-codey
 /preview/1984/colleen-mary-considine
 /preview/1984/colleen-patrice-doody
-/preview/1984/composition-confluence-jor-nine-soloists
 /preview/1984/composition-symphony
 /preview/1984/conrad-george-bahlke
 /preview/1984/convocation/convocation
@@ -137759,7 +137758,6 @@
 /preview/1984/fernando-luis-cavero
 /preview/1984/floyd-elliot
 /preview/1984/floyd-oliver-thompson
-/preview/1984/flux-tube-gas
 /preview/1984/frances-carter-barge
 /preview/1984/frances-e-pincus
 /preview/1984/frances-lillian-bishop
@@ -137851,7 +137849,6 @@
 /preview/1984/glenn-virgil-angermeier
 /preview/1984/gloria-tomko-beckley
 /preview/1984/glynn-huilgol
-/preview/1984/gmp-dependent-protein-kinase
 /preview/1984/goh-siew-eng
 /preview/1984/gordon-douglas-soenksen
 /preview/1984/gordon-marino
@@ -137909,7 +137906,6 @@
 /preview/1984/heather-elaine-blair
 /preview/1984/heather-l-kellman
 /preview/1984/hee-soo-ko
-/preview/1984/heidelberg-west-germany
 /preview/1984/heidi-huntington-watts
 /preview/1984/heidi-ilana-kon
 /preview/1984/heidi-mead-asbury
@@ -137947,9 +137943,6 @@
 /preview/1984/il-young-byun
 /preview/1984/ing-civ
 /preview/1984/ing-civ-pontificia-universidad-catolica-de
-/preview/1984/ing-com
-/preview/1984/ing-com-pontificia-universidad-catolica-de
-/preview/1984/ing-com-pontificia-universidad-catolica-de-2
 /preview/1984/ingrid-ellen-creppel
 /preview/1984/inhe-choi
 /preview/1984/inho-kim
@@ -138488,7 +138481,6 @@
 /preview/1984/lance-albert-selfa
 /preview/1984/lance-christian-balk
 /preview/1984/lannie-kip-abrams
-/preview/1984/large-n-qcd
 /preview/1984/larry-anthony-latvala
 /preview/1984/larry-bruce-kramer
 /preview/1984/larry-david-clark
@@ -311775,7 +311767,6 @@
 /preview/classes/1984/doctor-of-medicine
 /preview/classes/1984/doctor-of-ministry
 /preview/classes/1984/doctor-of-philosophy
-/preview/classes/1984/doctor-of-science
 /preview/classes/1984/master-of-arts
 /preview/classes/1984/master-of-arts-in-teaching
 /preview/classes/1984/master-of-business-administration
@@ -312954,7 +312945,6 @@
 /preview/degree/doctor-of-philosophy/x
 /preview/degree/doctor-of-philosophy/y
 /preview/degree/doctor-of-philosophy/z
-/preview/degree/doctor-of-science
 /preview/degree/international-master-of-business-administration
 /preview/degree/master-of-arts
 /preview/degree/master-of-arts-in-teaching

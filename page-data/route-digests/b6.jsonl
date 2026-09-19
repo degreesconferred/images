@@ -501,10 +501,10 @@
 {"digest":"bd86756271c55196769affb175fc9a8d24c320406222322aa08b962d993b72fe","family":"person","person_id":"person_ixQINWtkQlOsMSpfR4hYNA","route":"/preview/1983/nadine-j-hoffman","scope":"preview","shell_contract":1}
 {"digest":"75cbaf8468ec585b91978d91720acc57c10e6a0dae6cb0d63cce0b057b8234d3","family":"person","person_id":"person_XPtetc0ERUiVLJm7t9K3LQ","route":"/preview/1983/steven-jay-riemenschneider","scope":"preview","shell_contract":1}
 {"digest":"c15b6d8eb43cc8fd28372e2f1b1053a845eecbf974553b8cb2b31eb32531c568","family":"person","person_id":"person_04OV-YCK4j7SfTI80bZ5_H","route":"/preview/1983/thomas-s-lee","scope":"preview","shell_contract":1}
-{"digest":"765f50dfc3b92ba1c902f309b9080ff3d050666a2ff3df15b5a727e0515a419d","family":"person","person_id":"person_f3BWr7cIJJgNvY1jUqoti8","route":"/preview/1984/catherine-f-raia","scope":"preview","shell_contract":1}
+{"digest":"3daaae1ec3795b3144b683597bde7a4657f838cfda3723887f85714be15c94f6","family":"person","person_id":"person_f3BWr7cIJJgNvY1jUqoti8","route":"/preview/1984/catherine-f-raia","scope":"preview","shell_contract":1}
 {"digest":"7a81ceb116b5600b2dd370951b759e86b3bfb4e63aad0d1e28d6849c3f1f24c9","family":"person","person_id":"person_77F_QUgqQTiUBRD3UJ1GdQ","route":"/preview/1984/cynthia-anne-sax","scope":"preview","shell_contract":1}
 {"digest":"11411d062c13a30014c0415c280e56fe2cd86d7d4eb993bd847df37528c44ed5","family":"person","person_id":"person_ahWcdBdvK50x14PwpmcD_q","route":"/preview/1984/david-michael-stone","scope":"preview","shell_contract":1}
-{"digest":"b401151b8139a06ac11b70bdc072f3621942d6c4e7d2b78eceda113467b6e8d0","family":"person","person_id":"person_3wDvSGLRQMSAKHOG6DEd2w","route":"/preview/1984/dina-lize-janzen","scope":"preview","shell_contract":1}
+{"digest":"00d559b2217be3257540ffbfbfd3780b806a15f66d0dba45f4abe850b04f29f6","family":"person","person_id":"person_3wDvSGLRQMSAKHOG6DEd2w","route":"/preview/1984/dina-lize-janzen","scope":"preview","shell_contract":1}
 {"digest":"904f95842a58b964b733bbaf4953b967b355ba71f9bfc8d061715279b65b60fb","family":"person","person_id":"person_uuTW9u8hR4GxW-_A7TQU0w","route":"/preview/1984/james-edward-lucas","scope":"preview","shell_contract":1}
 {"digest":"e97c4d3d240442af28045f7205b7c045442c0a631aee648169526cf5465ab81c","family":"person","person_id":"person_-Lx72w0V5YoymyOW4mgMuz","route":"/preview/1984/jeffrey-keith-taylor","scope":"preview","shell_contract":1}
 {"digest":"e1cd5d19f2536a1e3abdb90b10bc686dcbe801b0ba4518c518cc414a1eff6e90","family":"person","person_id":"person_11FhEd55TQ2Kwrue2JpAsw","route":"/preview/1984/joann-eling","scope":"preview","shell_contract":1}
@@ -1163,8 +1163,8 @@
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/master-of-arts-in-teaching","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022/school/law-school","scope":"preview","shell_contract":1}
-{"digest":"00ede556361bd066529a7b7557a1e03298c4d95fee3d8667e87b4889e84c6598","family":"page","route":"/preview/exercises/alma_mater/2000","scope":"preview","shell_contract":1}
-{"digest":"8e4615265c34d131d83c3fe675a594c995725468fa8516b1125975a66d8d33ee","family":"page","route":"/preview/exercises/convocation_address/1990","scope":"preview","shell_contract":1}
+{"digest":"7f948965152b6e5bbc436c43b872c656eba64dd9f6616226b2c1eb5753caf658","family":"page","route":"/preview/exercises/alma_mater/2000","scope":"preview","shell_contract":1}
+{"digest":"ba6eebfd6a4a41aa0060d58b1e95070856225bf4c48852afe149e2bf490a64bf","family":"page","route":"/preview/exercises/convocation_address/1990","scope":"preview","shell_contract":1}
 {"digest":"75b8b1840dbcf865ac85d7e61cc6a46203248bce66348a366faa49c42bcbccb4","family":"page","route":"/preview/field/gender-and-sexuality-studies","scope":"preview","shell_contract":1}
 {"digest":"0fdc8a5ccba97c000dcb7f787d00ea8b28aaee794e98feb0a43419375d03c801","family":"page","route":"/preview/field/mathematical-biology","scope":"preview","shell_contract":1}
 {"digest":"4def2a8d39f6330e1005aee34b3a0e4b171626862a5cb94427c0eb09e9b06b2c","family":"page","route":"/preview/field/new-eastern-languages-and-civilizations","scope":"preview","shell_contract":1}

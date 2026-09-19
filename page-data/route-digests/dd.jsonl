@@ -534,11 +534,11 @@
 {"digest":"9b3661469fa8a130b0eb432a36c766d922153ff7667911357410df4421b82943","family":"person","person_id":"person_DiwDn6KOoSPOxCgLaMeXih","route":"/preview/1983/james-n-pathos","scope":"preview","shell_contract":1}
 {"digest":"f9229eb8e47685d8f9baa1c745aa5eff775f51c93fdb03e2016e5adc8a493803","family":"person","person_id":"person_A9yL6Xa4xpzMkNjL4Jex-f","route":"/preview/1983/thomas-o-brown","scope":"preview","shell_contract":1}
 {"digest":"150580dc85e5390f26afab0bd599171f5e02d852d0643c2e402f4f15b86afc37","family":"person","person_id":"person_Zv0bAfsESgSzM2_FFZb7gA","route":"/preview/1984/angelo-s-ioffreda","scope":"preview","shell_contract":1}
-{"digest":"62b0b10f1027a615415b1a29ee6f98a12c06d0bce11492d341dded4618118e40","family":"person","person_id":"person_JrOySBCN1xKiLI3iEJVQXn","route":"/preview/1984/barbara-bryce-morris","scope":"preview","shell_contract":1}
+{"digest":"d474ff3b628da1926ce83140b8b4c2d2f1294f04a4bc33adf9780301f30c4132","family":"person","person_id":"person_JrOySBCN1xKiLI3iEJVQXn","route":"/preview/1984/barbara-bryce-morris","scope":"preview","shell_contract":1}
 {"digest":"eafe0e069687b0c81b29ef76da4f2e287f6b1a19f0abf95fe511ec7fea6080aa","family":"person","person_id":"person_9CIDdQ5g86tLPLoHXzOkeH","route":"/preview/1984/catherine-mcnally","scope":"preview","shell_contract":1}
 {"digest":"acff0191fbbdf316e28ee672c47a32081ba07d96b0673afc4576e07ecf02339d","family":"person","person_id":"person_1P2Ypkm9b9VBarR71J_vc_","route":"/preview/1984/colleen-patrice-doody","scope":"preview","shell_contract":1}
-{"digest":"a93e14abaf7304407f81442d8e384ad5a817db2e8a7a85ad16049011869b8c5a","family":"person","person_id":"person_iLXQbAqZlNDPU874sHxN5X","route":"/preview/1984/daniel-howard-bauer","scope":"preview","shell_contract":1}
-{"digest":"0ede47100501163626a51ddd71c650cc492a6c46b727365bf67c662492d3c013","family":"person","person_id":"person_Un6gMY84QxSej3kOR6d16g","route":"/preview/1984/james-glen-parker","scope":"preview","shell_contract":1}
+{"digest":"4381c721d53a14a197f62caeff5974a7dfb06efd1bc4d1a9c7b8cdbfd839cb77","family":"person","person_id":"person_iLXQbAqZlNDPU874sHxN5X","route":"/preview/1984/daniel-howard-bauer","scope":"preview","shell_contract":1}
+{"digest":"16f87a93b28c339eef20034e981f06c7ea308eb3e8839991965114842c9d3976","family":"person","person_id":"person_Un6gMY84QxSej3kOR6d16g","route":"/preview/1984/james-glen-parker","scope":"preview","shell_contract":1}
 {"digest":"320c55d853b4328188cb9ce5938af48965b63083eba76aab9739cfb77cdb4548","family":"person","person_id":"person_qT_4jlo13QwJIB_IEkIjLS","route":"/preview/1984/l-paul-van-zuiden","scope":"preview","shell_contract":1}
 {"digest":"0fc51c1fe11738ca69b10d505253f526df68b0802bbb36961b525b92e90bbde3","family":"person","person_id":"person_5t74kbe1QkSfvhGnZhCdrQ","route":"/preview/1984/robert-miles-moldwin","scope":"preview","shell_contract":1}
 {"digest":"43d2c2e7d81d00398c6f7d52e76be4e06007932011173657c518fb50b4b8de0c","family":"person","person_id":"person_2zm0RRjrSyCv6cLBBetKiQ","route":"/preview/1984/thomas-bartlett-boyle","scope":"preview","shell_contract":1}
@@ -1227,7 +1227,7 @@
 {"digest":"1db70ece7b7e1129839f7b28b7611873554cd0c9da53b171f8dea8ce44c59e14","family":"class","route":"/preview/classes/2010/international-master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"3f85106920fe237dd7fa56788f11692651f6b0d408c039bbba2b42175bb4b653","family":"class","route":"/preview/classes/2017/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"a2777c036566fc4a283c3929c520258941c18e31dc3a5c5fa0f9028c0fa6355b","family":"page","route":"/preview/degree/master-of-arts/d","scope":"preview","shell_contract":1}
-{"digest":"c79c2c649da992db0bdbdb8efc050159b17407258412ff5edc08295f4fe8d9b9","family":"page","route":"/preview/degree/master-of-business-administration/d","scope":"preview","shell_contract":1}
+{"digest":"dec6177b62add415475e829d59b6f29e8d2f96950a6dc95dd7e4384676adf352","family":"page","route":"/preview/degree/master-of-business-administration/d","scope":"preview","shell_contract":1}
 {"digest":"987b61c6e67d3542b9c5d508339f8cd3d5e6300ad325025b6957b49122d5f1da","family":"page","route":"/preview/field/botany-zoology","scope":"preview","shell_contract":1}
 {"digest":"7ce816129b4259df0945cb18ce294cf3a4ca537cd87309c1577d53902c647c20","family":"page","route":"/preview/field/history-and-philosophy-of-physical-science","scope":"preview","shell_contract":1}
 {"digest":"b47e15d2effa096e00118136af8f1ef1e92ecc9b7920a3020f631132ed97c90a","family":"page","route":"/preview/field/philosophy-english-education","scope":"preview","shell_contract":1}

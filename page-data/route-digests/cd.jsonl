@@ -505,13 +505,13 @@
 {"digest":"8e31a99fe01c8196deee21585e81fc19dad9714756735822036ffad4277edec0","family":"person","person_id":"person_QoUwLggAS3aZOWoyGchIQQ","route":"/preview/1983/robert-h-yacobellis","scope":"preview","shell_contract":1}
 {"digest":"082451fbffbb802d020e5656a99a89955de072c67088d68e26518c0bca770723","family":"person","person_id":"person_8nFplv29vYl1clS122Ef9h","route":"/preview/1983/sandra-lee-goldberg","scope":"preview","shell_contract":1}
 {"digest":"078cd1e7948da5f070a88cff24164874136c1157607e1103cff23cbd605e805c","family":"person","person_id":"person_aXd7vb7VQ3iXuHpKZjzkwQ","route":"/preview/1983/susan-gardner-patton","scope":"preview","shell_contract":1}
-{"digest":"ca614f6aac9b5eeb2e3ca2cfca39e936dfee446fee2480e90b9d811728bc96b6","family":"person","person_id":"person_pVrE_K23ROik6zqHgDh3yQ","route":"/preview/1984/christine-carolle-gavlin","scope":"preview","shell_contract":1}
+{"digest":"e1d02e31b5a9e16308029d5832e01de2b1eb9a3637922163aaf18a2cb48d4214","family":"person","person_id":"person_pVrE_K23ROik6zqHgDh3yQ","route":"/preview/1984/christine-carolle-gavlin","scope":"preview","shell_contract":1}
 {"digest":"00f55b82ca2e2eb331bded04e513f8e946a6cb6a2f276f5aba81ebc1962f2252","family":"person","person_id":"person_Y6cSuZSJSdeHOmAfC7Hs4w","route":"/preview/1984/elizabeth-g-bloom","scope":"preview","shell_contract":1}
 {"digest":"a16236e33fa609584a2059269777a1c967861dd39969b8cf88bd258089432dad","family":"person","person_id":"person_GddDvL54ReWqw2QEBL0lgw","route":"/preview/1984/floyd-oliver-thompson","scope":"preview","shell_contract":1}
-{"digest":"d84457126dd096e1b4332bf95125f7f520b419d84ededb840c86302220edb186","family":"person","person_id":"person_ftM0zmZ9Q-q6OeJYfrCx3g","route":"/preview/1984/h-william-wells","scope":"preview","shell_contract":1}
+{"digest":"fd00784cdbeede537fff98dadcf7ee83414da7e01567327eac894f3515cfd4ec","family":"person","person_id":"person_ftM0zmZ9Q-q6OeJYfrCx3g","route":"/preview/1984/h-william-wells","scope":"preview","shell_contract":1}
 {"digest":"a655b7e2c3caf5c88c8493185633669245db010edb175170a19c7cc5076597db","family":"person","person_id":"person_WqQH2m6RRdi3ovmH-OPiDg","route":"/preview/1984/james-foster-reding","scope":"preview","shell_contract":1}
 {"digest":"20cb8387bbe354048be35955c7833dbf70312f6b448f9132a8d30783d07d1a29","family":"person","person_id":"person_h0G9uit9FEw_j3jGECCTsc","route":"/preview/1984/jeffrey-h-melgard","scope":"preview","shell_contract":1}
-{"digest":"a874d9430053c97516841ff4f5341223a308957e7928eb58012289edb35285dd","family":"person","person_id":"person_LSJNm_hyOxoR9sS4sto8D2","route":"/preview/1984/martha-louise-ann-koenig","scope":"preview","shell_contract":1}
+{"digest":"27608bbfea804e85be7249d9dec3602520eb510d4a5ffa79e2554a946a41f953","family":"person","person_id":"person_LSJNm_hyOxoR9sS4sto8D2","route":"/preview/1984/martha-louise-ann-koenig","scope":"preview","shell_contract":1}
 {"digest":"f01d6d3ed7a3724b754449c38bd79c06ede573e5ecf9bee2836bf6734181b05e","family":"person","person_id":"person_w0Tp2t0WQm6QF19GZ97KmA","route":"/preview/1984/virginia-chalmers-ormerod","scope":"preview","shell_contract":1}
 {"digest":"c922d530820ac095455e16ab4d60f467e3477bd4e00ca3a73fc05021cbcedbb7","family":"person","person_id":"person_-adBA5JERp-17_URBRcBMA","route":"/preview/1985/david-alfred-kastor","scope":"preview","shell_contract":1}
 {"digest":"68c8b6db528fecaf270625db35f60ee4f81510a6392e1eee9edf55fed7ac94bc","family":"person","person_id":"person_WACMpdO4Tjm5C1_IBUOFtQ","route":"/preview/1985/edward-wasiolek","scope":"preview","shell_contract":1}
@@ -1167,7 +1167,7 @@
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"1044010408ece6708ab4f97ce736e73b569eddd20edd7b8c0fc5ba66ebca9651","family":"class","route":"/preview/classes/2019/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"e07a55b4570cef69d8f138cc7bd19f09c17b4e3db9fa2b426ba2c167104ac7d0","family":"page","route":"/preview/exercises/institutional_special/2000","scope":"preview","shell_contract":1}
-{"digest":"e6eeaa9f4a6b34ab81633b0e6837b665f7e7377f1b06cacb28860cd9bb524ee0","family":"page","route":"/preview/exercises/processional/1940","scope":"preview","shell_contract":1}
+{"digest":"ee340be5204156998064d0e08c50a08f8d664b8c10f162d4b93c3e8e5939ede5","family":"page","route":"/preview/exercises/processional/1940","scope":"preview","shell_contract":1}
 {"digest":"10e281b49711e9b66ab1bb2850f70a056b00bfa2f7f4205e6188754e50137fe0","family":"page","route":"/preview/field/busian-studies","scope":"preview","shell_contract":1}
 {"digest":"7b0b0b3dc5a636c3bec70ff6d01b4e4878dc3b3e004834d84d597eb32e67a0df","family":"page","route":"/preview/field/committee-on-social-thought","scope":"preview","shell_contract":1}
 {"digest":"25a1cf46c86b00294e0d6b19a1066c02acd177d7fec92cc275f2ba8768c38125","family":"page","route":"/preview/field/comparative-bases-and-ethnic-studies","scope":"preview","shell_contract":1}

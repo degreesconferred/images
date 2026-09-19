@@ -573,7 +573,7 @@
 {"digest":"5d0b93076d6c25746d1fa1bfa7cfcc8fad782d1854dd79a24912dc5d05b2f159","family":"person","person_id":"person_8_78h_CqS767RUymARA9qA","route":"/preview/1982/shari-teitelbaum","scope":"preview","shell_contract":1}
 {"digest":"e5e47d0d3a651db2fd67127f12bd9d19f48e8fffc83d221a16ca0a7e294e96d6","family":"person","person_id":"person__2YenHkBT-KO279DuyHkqA","route":"/preview/1982/terrence-francis-hallaren","scope":"preview","shell_contract":1}
 {"digest":"b6b632106e0ce738344992185d1009a4e1dd4a317fa1f66c1a8ecce68f823829","family":"person","person_id":"person_9HUBbGLuQKGVjgjRqn-97Q","route":"/preview/1983/barry-nathan-goldenberg","scope":"preview","shell_contract":1}
-{"digest":"5c5b22b3c530338b5ac465455fd304b90109cb03a2f6dcad2f98cf29e636cae7","family":"person","person_id":"person_Vs5Jew6-ShOrhnEMDfnGRw","route":"/preview/1983/brian-sullivan","scope":"preview","shell_contract":1}
+{"digest":"e17497638cf53e76e4d3ffd3815320656a1f55f4b0e33ec7bbf16421f2c66d4c","family":"person","person_id":"person_Vs5Jew6-ShOrhnEMDfnGRw","route":"/preview/1983/brian-sullivan","scope":"preview","shell_contract":1}
 {"digest":"d633ebcfbd67471a45016e07617b7ab656de1ee2504235bc520ec3f73c00bf14","family":"person","person_id":"person_oKM3g9jYS2-v_-GrGMvyXA","route":"/preview/1983/denise-marie-jorgens","scope":"preview","shell_contract":1}
 {"digest":"bd18c63cd0b08d461fc223296d09d6655b604a0c35589455447655fd35b0df3c","family":"person","person_id":"person_nnpcNsBA-LjM8jhmNJ-q7w","route":"/preview/1983/fred-j-lebensorger","scope":"preview","shell_contract":1}
 {"digest":"e1af9561aa67e77da1740cc3a36c34ab94b47dea0b371e7242f3a36258d768aa","family":"person","person_id":"person_Mr4TcSireQLadQ767jZJPX","route":"/preview/1983/gregory-thomas-diamond","scope":"preview","shell_contract":1}
@@ -1279,8 +1279,8 @@
 {"digest":"808d1723551cf4d40679876573a3f8b8c5a712aa7f657457dfbc08fbeb804543","family":"class","route":"/preview/classes/2023/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"8c2985f1d9ba8817f778772d9fbd6f343abe131592004049ba891cda94f9e3c2","family":"page","route":"/preview/degree/bachelor-of-arts/names","scope":"preview","shell_contract":1}
 {"digest":"167503d69bc0e75e5a2a10f718391f99ccb40f4b125a49bcbb5763898c197167","family":"page","route":"/preview/degree/master-of-arts/n","scope":"preview","shell_contract":1}
-{"digest":"f61b90e1d7ee6ff1a8d865fe0ca300a9be9019a44322d02e8a59e38193eff1e1","family":"page","route":"/preview/exercises/choral_anthem/2010","scope":"preview","shell_contract":1}
-{"digest":"6cbac1c7793c7b305b03d68d1b582534943971d9c020119ba9940e15f885af4a","family":"page","route":"/preview/exercises/degree_conferral/1900","scope":"preview","shell_contract":1}
+{"digest":"1c6f7e997e25abef13eb388aa6eed1f07d4da284c8caeb95be8511608a20577a","family":"page","route":"/preview/exercises/choral_anthem/2010","scope":"preview","shell_contract":1}
+{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1900","scope":"preview","shell_contract":1}
 {"digest":"1cc940443bb2886bf5f851c8d91ca76a28b6b71a61a3b9d429d45fbc32624a29","family":"page","route":"/preview/exercises/music/1900","scope":"preview","shell_contract":1}
 {"digest":"1f9072f6123c1b2fdc9be371f971b0136ab1468994d0a88e97a9935a5a1d9ce6","family":"page","route":"/preview/field/biblical-theology-practical-theology","scope":"preview","shell_contract":1}
 {"digest":"1cee2d8b1c4ecf3d30a204d8a4c681602ed369d777bb9072d1c96571b788b8a1","family":"page","route":"/preview/field/english-romance-philology","scope":"preview","shell_contract":1}

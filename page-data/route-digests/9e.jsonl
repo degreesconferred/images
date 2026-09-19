@@ -525,12 +525,12 @@
 {"digest":"4a55654b6cb218c52ad9d2d36a25bd2fd60e65513ae47e9a4d818c7de733b2da","family":"person","person_id":"person_9mykTmy4SS-0JdqVCg9Uug","route":"/preview/1983/steven-craig-goldberg","scope":"preview","shell_contract":1}
 {"digest":"35f6bcaa38b007a4fb0baab8adca18312d24ab5f0d2a2c9900cb673ddeff9956","family":"person","person_id":"person_Sep5473ElOOhF9J4VV7RhV","route":"/preview/1984/carol-s-delahanty","scope":"preview","shell_contract":1}
 {"digest":"2fef57e515acbda9ac5d26634e942f0a8c07f192fda87da72bc86ea63dd4f967","family":"person","person_id":"person_f6yqocF8Qdmabn8texXnlw","route":"/preview/1984/cynthia-garst-ohlrich","scope":"preview","shell_contract":1}
-{"digest":"83930e83124c4a9df5b3f11e2918d5f01dbc8049133ad8cb60bc9e5b61b0580d","family":"person","person_id":"person_k-uGKbude99Mc2bhgUGZ7g","route":"/preview/1984/gan-ng-aik-choo","scope":"preview","shell_contract":1}
-{"digest":"019a30007c56ed88d61d45c3f7cff2a7582c3b29c618ce4ee4c53d807fc16ddc","family":"person","person_id":"person_f_zXsBQTI-MzgTFrr06Srm","route":"/preview/1984/ing-civ-pontificia-universidad-catolica-de","scope":"preview","shell_contract":1}
+{"digest":"df1d23700e35235f6fdf1ad74a6ec5b01872285ca5c76d196a3526cd3219104f","family":"person","person_id":"person_k-uGKbude99Mc2bhgUGZ7g","route":"/preview/1984/gan-ng-aik-choo","scope":"preview","shell_contract":1}
+{"digest":"16a5183c645d62cf70785f0d51d5ff4e83e1f40444b5e3839282be8b4525056a","family":"person","person_id":"person_f_zXsBQTI-MzgTFrr06Srm","route":"/preview/1984/ing-civ-pontificia-universidad-catolica-de","scope":"preview","shell_contract":1}
 {"digest":"63c1efa8bf337769b43648e225c9b97c47bf2e238327ece0a79cc7366592a3fa","family":"person","person_id":"person_Ou8GVPhWRTmsHpTenWYW4w","route":"/preview/1984/karl-ivan-olmstead","scope":"preview","shell_contract":1}
 {"digest":"d5b2223905ec49d4fa8d12f90860040eec0bfd3d9eb5606dd0ac1675b090eb79","family":"person","person_id":"person_FSkpRqD3TrmzBTL1axVo4w","route":"/preview/1984/marilyn-susan-schlein","scope":"preview","shell_contract":1}
 {"digest":"3c2334bdeb783f24c89084e3f2bbdf3ead01b042805373d5427b88954ee58aad","family":"person","person_id":"person_7cKTEGYdSlmcwVvu8dondQ","route":"/preview/1984/mark-alan-greenwald","scope":"preview","shell_contract":1}
-{"digest":"a2fc597ba13d0565c0e6502553c3b328070b4ba052fa25c80a93db983a8755c9","family":"person","person_id":"person_VXSOl99YBuwcY7-7Ip7Oxw","route":"/preview/1984/nora-ca-te-schaeffer","scope":"preview","shell_contract":1}
+{"digest":"d1c67efc4ec4f19712033480865c460a282a1bf62229c4ad76f442f15ac6abb9","family":"person","person_id":"person_VXSOl99YBuwcY7-7Ip7Oxw","route":"/preview/1984/nora-ca-te-schaeffer","scope":"preview","shell_contract":1}
 {"digest":"c762d844943617e0290d4cb5eaa238c66ce7563a56cb84f046c10649499566a6","family":"person","person_id":"person_GlQ6KdT8v_b82Yw8U-RXnG","route":"/preview/1984/paul-dirks-voth","scope":"preview","shell_contract":1}
 {"digest":"ef3bd2913677a6c4a306622ff39bc82dd875adad6490d59146f705a0bff255e6","family":"person","person_id":"person_K0XtD1JgSo-GC2byFjElBg","route":"/preview/1985/filippo-di-mauro","scope":"preview","shell_contract":1}
 {"digest":"961eae3a25089258d477d44235ef87f78f67867531abf51cc46d94a68a22815d","family":"person","person_id":"person_F6-AXRNXQ_-Oue-uKWi2Aw","route":"/preview/1985/karin-a-l-hyde","scope":"preview","shell_contract":1}
@@ -1192,8 +1192,8 @@
 {"digest":"758f8b4c3515703394328136250e7d575d90a1fc1fbc44eb1d499b27f1acf15f","family":"class","route":"/preview/classes/1985/master-of-laws","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"fdc85ec70b1c7fed334cb4e71fc5e017240b1654b65403c510d2f03d6965c0d6","family":"class","route":"/preview/classes/2009/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
-{"digest":"9a925c60969bfc6b6cd820f999da77a4985322c073c9fdc27bb7ef5845363a6e","family":"page","route":"/preview/degree/doctor-of-philosophy/r","scope":"preview","shell_contract":1}
-{"digest":"97ccea81f4108caa1216a7868d781d38df960c8d4681fb9b52090fd32c25f1b5","family":"page","route":"/preview/exercises/prayer_or_invocation/1890","scope":"preview","shell_contract":1}
+{"digest":"3e68ca975af9f1dea0ac872073ea0a275e8c4138e3f04deaeffe5133f11d4c17","family":"page","route":"/preview/degree/doctor-of-philosophy/r","scope":"preview","shell_contract":1}
+{"digest":"fb1d211330aa49a4ebbe105a41c233fe5fcb7d815d290c273ac9de4a1903beba","family":"page","route":"/preview/exercises/prayer_or_invocation/1890","scope":"preview","shell_contract":1}
 {"digest":"a5cfed87fd843786f2012f70e2eb9d7459ee1ac321524a50d8f412ab8d2dc607","family":"page","route":"/preview/field/analysis-of-ideas-and-study-of-methods","scope":"preview","shell_contract":1}
 {"digest":"ab668c4b5fced90748cad8d587b35833aad0da51dbebd12eaf230152e1052cf4","family":"page","route":"/preview/field/botany-geology","scope":"preview","shell_contract":1}
 {"digest":"b0743a9ea1607cc6771789222f6b30574f5b589e77acea02f7df403fb1b0d242","family":"page","route":"/preview/field/for-eastern-civilizations","scope":"preview","shell_contract":1}

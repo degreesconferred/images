@@ -527,9 +527,9 @@
 {"digest":"631eb3d53616cae1b56feb1fa6b93eb01c2f9302405c70e79025bc0df0f89bb0","family":"person","person_id":"person_z6yYMZClT9GSNLRAkrMUfA","route":"/preview/1983/michael-steven-knoll","scope":"preview","shell_contract":1}
 {"digest":"1f2615310def6a3d21174afb557555eac9c6398fb6ab788eb20c3c045ae25d73","family":"person","person_id":"person_gnNP8xZZTZqe6dt1_aA-lw","route":"/preview/1983/ralph-john-delfino","scope":"preview","shell_contract":1}
 {"digest":"fb22ca986236e373983ca231249827ab66a78d8f311648c5eb95c44be887e4a8","family":"person","person_id":"person_BQgu-HJpSDySkABDjOSSOA","route":"/preview/1983/william-james-marcussen","scope":"preview","shell_contract":1}
-{"digest":"87c9f5022427c616a16eb55ca5c1fe9300831931acbe3f1d480c8742772d1c19","family":"person","person_id":"person_LrnOQvAgFT8xg--svPwV0l","route":"/preview/1984/andrew-joseph-filardo","scope":"preview","shell_contract":1}
-{"digest":"984efdbe2bcc01ec6e0b168fb32ff0e2dabdb682cbde3ef45142495ffc13e7e4","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1984/david-paul-demille","scope":"preview","shell_contract":1}
-{"digest":"6a03dff974356a3a96056f8797e910d040b86a45c41047d96d2d48ebbcd1febb","family":"person","person_id":"person_4yO9XaF00IOqSHDAH461ly","route":"/preview/1984/elizabeth-sarah-goodstein","scope":"preview","shell_contract":1}
+{"digest":"61102bfc6706109709534d4c1ab4ea3c426b186cd7811e790b2384260a79ba6e","family":"person","person_id":"person_LrnOQvAgFT8xg--svPwV0l","route":"/preview/1984/andrew-joseph-filardo","scope":"preview","shell_contract":1}
+{"digest":"cd1ef1cd9792f2624e86b9f6f4ddff2940c62ee219d261ed8c76f7c62ab44aba","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1984/david-paul-demille","scope":"preview","shell_contract":1}
+{"digest":"3d2e8133de3b8193f32bf3c0100ee2e4ed9d768114749c4750185f83c8650750","family":"person","person_id":"person_4yO9XaF00IOqSHDAH461ly","route":"/preview/1984/elizabeth-sarah-goodstein","scope":"preview","shell_contract":1}
 {"digest":"d09dfed38a814b1842e79b1f4fb52dc9aa2328af9bdcbd78a61fcb34ad41bc91","family":"person","person_id":"person_OF09KN_qnShbNm9HA2_R6k","route":"/preview/1984/jack-paul-ponomarev","scope":"preview","shell_contract":1}
 {"digest":"f8f7f65e9f11f10b95e3ef828b81125988d2d8df529da8e39f1b8b485e798fdf","family":"person","person_id":"person_FbcgNjfkqBuFrIF_XHMF1s","route":"/preview/1984/jeffrey-jay-hadrick","scope":"preview","shell_contract":1}
 {"digest":"6af3d8bc2ed7867d1eb4d1fb303a31636550d4511b67c832399204a11e314471","family":"person","person_id":"person_YUIMTwA4TmGEr-wV60XNxA","route":"/preview/1984/kei-hanafusa","scope":"preview","shell_contract":1}
@@ -1226,8 +1226,8 @@
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/school/booth-school-of-business","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"90b431facd5bf7f01be9256f834084cada7028c814ae848db562776a680c5f7b","family":"class","route":"/preview/classes/2012/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"d6ff375f0dd3ae22317f8d982d5c4029d5dc4eb60de43e56820a73c01bf547b7","family":"page","route":"/preview/exercises/degree_group/2000","scope":"preview","shell_contract":1}
-{"digest":"c5b6c7344d8df0b465cb2f74ba977a462252749b46e0167d152e99531bca50ea","family":"page","route":"/preview/exercises/recessional/1950","scope":"preview","shell_contract":1}
+{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/2000","scope":"preview","shell_contract":1}
+{"digest":"17567d16c065572486c4878118974fff33df4fc019b63e751ed48e892f985753","family":"page","route":"/preview/exercises/recessional/1950","scope":"preview","shell_contract":1}
 {"digest":"7346c858fa1377e8d64a8413e01a0b0d6c066fd17a8cddca8750d7c0bbf45a3b","family":"page","route":"/preview/field/b-h","scope":"preview","shell_contract":1}
 {"digest":"23e2b79cfe9a585c6c63ebe0678e0c23231aca6377051eca5d287dc042b8ca98","family":"page","route":"/preview/field/psychology-and-linguistics","scope":"preview","shell_contract":1}
 {"digest":"71144bbefad0ed073018a28b9c5355a0082274cb3c5560832fdd6d4ecc40207f","family":"page","route":"/preview/field/sociology-household-administration","scope":"preview","shell_contract":1}

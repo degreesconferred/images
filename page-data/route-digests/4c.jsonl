@@ -536,7 +536,7 @@
 {"digest":"d2167d25cbeddcaf7ac59e5a1f02dd30046a4ded3a738c9ffc7f9df04d942c8d","family":"person","person_id":"person_wKCv_Y5kRa604zG5AqrnJg","route":"/preview/1984/nien-chu-yang","scope":"preview","shell_contract":1}
 {"digest":"f26e0f179bd836715e9d3329653dac10cfa3679947f89b158b70fe0fdc092f1e","family":"person","person_id":"person_grP5bw0PRFGozhaG48xhsA","route":"/preview/1984/ronald-edward-gemkow","scope":"preview","shell_contract":1}
 {"digest":"134535a08ba23c19d776e9645c678b8b1103882fb9672e6b0db380e281c56d28","family":"person","person_id":"person_F4C7CxdVAxv2gtTyEcnoHN","route":"/preview/1984/sandra-bingham-young","scope":"preview","shell_contract":1}
-{"digest":"7595f752382a04ed868e3c4b6f568da0690fd9c91fa75136eb322b9999e2b776","family":"person","person_id":"person_8zNo8J_gSoWV9SYeoWwhAg","route":"/preview/1984/vance-b-lancaster","scope":"preview","shell_contract":1}
+{"digest":"f1a204f9bc898dbf31b9ae4596c6d7f935b9d8ed9ef7be63db7239d947374c1d","family":"person","person_id":"person_8zNo8J_gSoWV9SYeoWwhAg","route":"/preview/1984/vance-b-lancaster","scope":"preview","shell_contract":1}
 {"digest":"ed783eaea1ea0ef88bade5c5e23a508906c42da7232849e8b7f046a7305567d8","family":"person","person_id":"person_nL13SGf_QsKVS2rlv_iisg","route":"/preview/1984/vinod-k-s-shante","scope":"preview","shell_contract":1}
 {"digest":"68dedc8d5ef69c46ee8ababf3d7f9efbbd55c775a313072a0084375926145d50","family":"person","person_id":"person_FpCt01z7Si-WgYml3dwMDw","route":"/preview/1984/william-taylor-lotshaw","scope":"preview","shell_contract":1}
 {"digest":"5fe6d809db91ca98cbddc906e03ec125832912a4e9a9b873de022031cae79993","family":"person","person_id":"person_bj1-8iACQhKXEdYjGO7mjg","route":"/preview/1985/adam-michael-katz","scope":"preview","shell_contract":1}
@@ -1210,14 +1210,13 @@
 {"digest":"e2d12e0ca398f5aa02fd81dcc861451791fa18916a6dc535f69240973071448e","family":"class","route":"/preview/classes/1952/bachelor-of-social-service","scope":"preview","shell_contract":1}
 {"digest":"8917e97bf320106f0f8a58a1b95fa07d6c655b920ea0d6db8ead0c1f36811c0e","family":"class","route":"/preview/classes/1966/bachelor-of-divinity","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/school/graduate-library-school","scope":"preview","shell_contract":1}
-{"digest":"bab852dc64822971b1d6bbcd241a881e85d49716e621a9dc27860c64116d9dfe","family":"class","route":"/preview/classes/1984/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
+{"digest":"1e8901724880957111f944b3dca6e57d629223922d1ed2cbc500074d8f55e55e","family":"class","route":"/preview/classes/1984/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/master-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"73e686c626007abdc6d7a3c6800b792c7bc8bc57bfd640889f98c6150a40db00","family":"class","route":"/preview/classes/2001/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/doctor-of-law","scope":"preview","shell_contract":1}
 {"digest":"dceff1b4e3a2074b0abb2d42cd50985d0c05e3bdb6f7179e53107eaa2cc6a3da","family":"class","route":"/preview/classes/2016/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"4801ed7e889342d68899fa2109def7f456ba193e423ce0005bd225efcca91d6f","family":"class","route":"/preview/classes/2018/master-of-liberal-arts","scope":"preview","shell_contract":1}
-{"digest":"571d115281db442cd5dda250621039a6bae1203d381b2182784b80bd4a968062","family":"page","route":"/preview/degree/doctor-of-science","scope":"preview","shell_contract":1}
-{"digest":"547da22de517db16f87c137a5355f90ece47a2c40c0459e6055f143fa3a62978","family":"page","route":"/preview/degree/master-of-business-administration/n","scope":"preview","shell_contract":1}
+{"digest":"36c59c3d5bb981f3108cba18f4d6d76ce69e781e3532ec9fb5b2f296fab9f318","family":"page","route":"/preview/degree/master-of-business-administration/n","scope":"preview","shell_contract":1}
 {"digest":"6e8250deb5f94ef600efbe4bc916271e9eff5cf37acbf1ef899a97dcd99ed410","family":"page","route":"/preview/field/anatomy-botany","scope":"preview","shell_contract":1}
 {"digest":"fd51e08ed9c70157f0e527421f7fc2eb7bb8fa7a1c87a751d99ec32a6d723375","family":"page","route":"/preview/field/chemistry-geography-geology","scope":"preview","shell_contract":1}
 {"digest":"89ab4e56d6b9987b15e3de624725d5c7f2b41eb2e413b81fe8c5be32623e3626","family":"page","route":"/preview/field/master-of-arts-program-in-the-humanities","scope":"preview","shell_contract":1}

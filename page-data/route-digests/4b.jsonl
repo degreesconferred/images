@@ -561,8 +561,8 @@
 {"digest":"5f7cd6fa7d4df9d5d1cde296bf803ecea53bef4db1dc80ef0eb9cee45cbdf2a5","family":"person","person_id":"person_MpQ9sLc7se_m7oGOUaAe6H","route":"/preview/1984/lore-megan-ruttan","scope":"preview","shell_contract":1}
 {"digest":"bb0954726d8d16a9ab7abea53c9602eefd3ada452eb86c6aa5b4b412aeb21a58","family":"person","person_id":"person_zLv-2HpuQwmIyC7HAGH65g","route":"/preview/1984/mitchell-adam-flack","scope":"preview","shell_contract":1}
 {"digest":"806186bf7d7648797f8d0480a6bbba606759f19b97dd7feb63c94c24d2e0c440","family":"person","person_id":"person_OYDp0NesQ9uaoqHvALTa6w","route":"/preview/1984/nan-weiss-ham","scope":"preview","shell_contract":1}
-{"digest":"a6cfc0e04cd35a9db7d0c4f69b56419d925e5e3f754087d210dd9b0cd42f1a0e","family":"person","person_id":"person_TtQ6hGA3TciTp2GtNBOhYQ","route":"/preview/1984/peter-lyndon-sereda","scope":"preview","shell_contract":1}
-{"digest":"f2ab5e2e1c18d4b3d7137a658892ce293b028e06ff78711f6c286296ce373b1d","family":"person","person_id":"person_lPGvk7Z6RYGdGAlDNfsZOA","route":"/preview/1984/sahotra-sarkar","scope":"preview","shell_contract":1}
+{"digest":"db46a9ae319a9a832da1497a608d47c16a31eca49a8e7c08b1601a10a33a8b1c","family":"person","person_id":"person_TtQ6hGA3TciTp2GtNBOhYQ","route":"/preview/1984/peter-lyndon-sereda","scope":"preview","shell_contract":1}
+{"digest":"7ba14515736a830f3b75dd9f182b44065da4ab672c8da09dde2dc5eeef40eac6","family":"person","person_id":"person_lPGvk7Z6RYGdGAlDNfsZOA","route":"/preview/1984/sahotra-sarkar","scope":"preview","shell_contract":1}
 {"digest":"f7df84d4605ca4ef7b98f53bd3d2d02b5c487b4d751cc246b23dd624fffe5c35","family":"person","person_id":"person_1cOKEqgA_GJSkLOsRZSS0g","route":"/preview/1984/shinji-unno","scope":"preview","shell_contract":1}
 {"digest":"5dd02f043f53346cbb94c2128ab8d6c374e72a590827d3d4e26a35186d14884c","family":"person","person_id":"person_0sgqeHdHTEOE-toJ6k6s_w","route":"/preview/1985/anthony-peter-adamis","scope":"preview","shell_contract":1}
 {"digest":"d02af8ea078f852e8d1610031663ef2c1928aabd255da639fd707faeb91e0629","family":"person","person_id":"person_JXB0GaV7LUVZVzVYaATXQv","route":"/preview/1985/eric-m-bergson","scope":"preview","shell_contract":1}
@@ -1256,7 +1256,7 @@
 {"digest":"90b431facd5bf7f01be9256f834084cada7028c814ae848db562776a680c5f7b","family":"class","route":"/preview/classes/2012/school/law-school","scope":"preview","shell_contract":1}
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/school/graham-school-of-continuing-liberal-and-professional-studies","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
-{"digest":"6cbac1c7793c7b305b03d68d1b582534943971d9c020119ba9940e15f885af4a","family":"page","route":"/preview/exercises/degree_conferral/1980","scope":"preview","shell_contract":1}
+{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1980","scope":"preview","shell_contract":1}
 {"digest":"53788e555dda01693ffd66d7dc36ebfc3a01d0174e68859432fd0f3dc31302e2","family":"page","route":"/preview/exercises/hymn_processional","scope":"preview","shell_contract":1}
 {"digest":"a6b91d38cd4049f498a04a41df11c17ae4cf8a75d0f8034b564b675171f33381","family":"page","route":"/preview/exercises/hymn_recessional","scope":"preview","shell_contract":1}
 {"digest":"e4e3483ce9864b6855cd448bb096ca5cbddb6e825b82661c5fcecd1fadb67614","family":"page","route":"/preview/exercises/opening_music/2000","scope":"preview","shell_contract":1}

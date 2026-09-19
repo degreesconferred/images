@@ -519,7 +519,7 @@
 {"digest":"cde57b301adbeba2b544dc2f8170ba9e136224e05692ac6e095cb507d2071fe6","family":"person","person_id":"person_OJ-1lChTO3-lY_9KEZ46zx","route":"/preview/1984/john-thomas-mead-jr","scope":"preview","shell_contract":1}
 {"digest":"93d7f5a58c877c9d9eacfcafbc4b54d9039f4f9b15c73c9be68a2b857629769d","family":"person","person_id":"person_cA_tpKgIQ9ukkV7cUMz4pg","route":"/preview/1984/marilyn-c-wroblewski","scope":"preview","shell_contract":1}
 {"digest":"d47b9c7725015e95cff14656f73a4ab676f21e5790f6753f0c594dd5c99ef7b9","family":"person","person_id":"person_G0wTIMUzR_2pHLO1pkM36g","route":"/preview/1984/mark-douglas-gerstein","scope":"preview","shell_contract":1}
-{"digest":"b0a4a9dac95a6d7a2d320cb1f0ec168145248c9a68197b695eab1aa12869644e","family":"person","person_id":"person_sKrWDz7ZRZKhMRwpxECP1A","route":"/preview/1984/mary-brace-petti","scope":"preview","shell_contract":1}
+{"digest":"2950ac48174b60e9387d768a850e776c3f492bad1e5d294b7bd066dd7eda0a06","family":"person","person_id":"person_sKrWDz7ZRZKhMRwpxECP1A","route":"/preview/1984/mary-brace-petti","scope":"preview","shell_contract":1}
 {"digest":"c35401cad3313f9134c2480617b4fe25362cdd0de74a5c4ade1f1a8500a94a40","family":"person","person_id":"person_LU8XSsu9RMurdk7AlhfM4Q","route":"/preview/1984/mary-elizabeth-shewmon","scope":"preview","shell_contract":1}
 {"digest":"645b5b6c65b13a9c2129eda5abc9a35abb6393485be9d83d7f26944c6a171d02","family":"person","person_id":"person_2EhSkC2ySlqhwyleuk4bjg","route":"/preview/1984/norman-alan-gollub","scope":"preview","shell_contract":1}
 {"digest":"c0e7694f20f779b8f4830711a1a3169ed89590299f31855ee743023a04928610","family":"person","person_id":"person_J47QmkaGQu5kWe9a9DA7IX","route":"/preview/1984/robert-preston-tucker-iii","scope":"preview","shell_contract":1}
@@ -1204,11 +1204,11 @@
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/school/harris-school-of-public-policy","scope":"preview","shell_contract":1}
 {"digest":"c57ede8f4416945ac598b8f8c11b598b8931429a61fd2b5052b410d68fd8612d","family":"class","route":"/preview/classes/2022","scope":"preview","shell_contract":1}
-{"digest":"6cbac1c7793c7b305b03d68d1b582534943971d9c020119ba9940e15f885af4a","family":"page","route":"/preview/exercises/degree_conferral/1910","scope":"preview","shell_contract":1}
-{"digest":"e6eeaa9f4a6b34ab81633b0e6837b665f7e7377f1b06cacb28860cd9bb524ee0","family":"page","route":"/preview/exercises/processional/1920","scope":"preview","shell_contract":1}
+{"digest":"cb3a0d586d99b20659964b97726007b506c1049bd945ecf5e6fc9dc91b280690","family":"page","route":"/preview/exercises/degree_conferral/1910","scope":"preview","shell_contract":1}
+{"digest":"ee340be5204156998064d0e08c50a08f8d664b8c10f162d4b93c3e8e5939ede5","family":"page","route":"/preview/exercises/processional/1920","scope":"preview","shell_contract":1}
 {"digest":"4811c6737ae98cb170e61c37c4a210dd6389252a6bc63b5d41d70ddc5a86b525","family":"page","route":"/preview/field/education-oriental-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"48a7c57a810abefcb7c61e63c7a296aa0177e1b40713bfed2218503bfb4697a2","family":"page","route":"/preview/field/old-testament-assyrian","scope":"preview","shell_contract":1}
 {"digest":"4215dc5cd0b199d007dbd63389a34e49157bbd951a9f06e22aaff4277010d778","family":"page","route":"/preview/field/russian-civilization","scope":"preview","shell_contract":1}
-{"digest":"4d5c168198d95a0189077f1d969eeaf0d03a648922dc8ba4853918c83a4f396f","family":"page","route":"/preview/home","scope":"preview","shell_contract":1}
+{"digest":"d7d05ba8573bce8596f4e6bfe46c7f3cbdf9db1718dd7fb043e6bebc223d4dab","family":"page","route":"/preview/home","scope":"preview","shell_contract":1}
 {"digest":"25ab85db6476c612b303b48c00b8fd7f7b47518e37befe8568666165349b4de2","family":"page","route":"/preview/processions/program-beat-2d6f69c8cd18d13dfad1999f","scope":"preview","shell_contract":1}
 {"digest":"d4df464b49ec5f70619734a1c6a43aec61796ed6f149b3995dea392adf158591","family":"page","route":"/preview/processions/program-beat-929c1b758397196b6f1d7b97","scope":"preview","shell_contract":1}

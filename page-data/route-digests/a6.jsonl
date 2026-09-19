@@ -551,7 +551,7 @@
 {"digest":"420ad797928a514f66abd9e3974e47af47b0855295fbdb693d99495c2673c7a9","family":"person","person_id":"person_S22mTqjYSEC9LDTllSZefg","route":"/preview/1984/karen-ann-kitchen","scope":"preview","shell_contract":1}
 {"digest":"509a124b3bbe7ced8e9205ae6f04e0d713ce62c2d403b3cdc0f05188d1c8fe6c","family":"person","person_id":"person_0Vf31b-bSVu0TR6QZEq6aw","route":"/preview/1984/mark-alan-epstein-thomas-levergood-shinji-unno","scope":"preview","shell_contract":1}
 {"digest":"3a9cbeaeeaf175c9fff2c5dd29922c9b74d1c7a53915c3f503f5cda151f48499","family":"person","person_id":"person_L52jqHp1SvCJnoCHVaAU9Q","route":"/preview/1984/richard-daniel-naponelli","scope":"preview","shell_contract":1}
-{"digest":"2967b5f13d4912c0eb0060a0df9cb2d74e2c9c82495edd4a920b23cc799618c9","family":"person","person_id":"person_Krle9lFcQqSNfRhTsvmVIw","route":"/preview/1984/steven-edwin-ozeran","scope":"preview","shell_contract":1}
+{"digest":"ef900aac5817bdd58036edc196584aa415487a496b8bce61f385eaff994455d9","family":"person","person_id":"person_Krle9lFcQqSNfRhTsvmVIw","route":"/preview/1984/steven-edwin-ozeran","scope":"preview","shell_contract":1}
 {"digest":"deed7321bcf2e2730738fa3787a73bcf809f51b8b98d625e9c0cec02434e42cf","family":"person","person_id":"person_sZuveDlBvG18fFPPkugbWm","route":"/preview/1985/andrew-jay-meyers","scope":"preview","shell_contract":1}
 {"digest":"47041cf0064674c01af0425821974bd6f2c292eac6d821661a57c2a33ce6b1de","family":"person","person_id":"person_h1iSI-lQQjGjloNaTwAeRA","route":"/preview/1985/esther-k-laspisa","scope":"preview","shell_contract":1}
 {"digest":"03e6233f3333704f2b2e073dec2b90edde8845d9192e5616e5b3e3c5407d6433","family":"person","person_id":"person_5RrVpIqqSZ-kHSwYlnoyeA","route":"/preview/1985/gregory-wyman-howard","scope":"preview","shell_contract":1}
@@ -1199,7 +1199,7 @@
 {"digest":"080c6dd59ff77944ca32f49d18ec80f87e91b47baf8efc47afdd5caa66f72c4a","family":"class","route":"/preview/classes/1991","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/master-of-liberal-arts","scope":"preview","shell_contract":1}
 {"digest":"b76bf757f547d522da3cd3a3d7ca42a45463aa8cd829e017df0441374cf6a33b","family":"class","route":"/preview/classes/2011/school/divinity-school","scope":"preview","shell_contract":1}
-{"digest":"8e4615265c34d131d83c3fe675a594c995725468fa8516b1125975a66d8d33ee","family":"page","route":"/preview/exercises/convocation_address/1980","scope":"preview","shell_contract":1}
+{"digest":"ba6eebfd6a4a41aa0060d58b1e95070856225bf4c48852afe149e2bf490a64bf","family":"page","route":"/preview/exercises/convocation_address/1980","scope":"preview","shell_contract":1}
 {"digest":"a39f2b338eb9d4f6b8585b6d514c17e297846e809ca748cb4588c3654a7a220f","family":"page","route":"/preview/exercises/recognition/1950","scope":"preview","shell_contract":1}
 {"digest":"068866098a6aa301e1f2464563367acb632865a4b0982c38b9df16d3d90e92da","family":"page","route":"/preview/exercises/student_awards/2020","scope":"preview","shell_contract":1}
 {"digest":"668c947ecb90e4534e866eaa1e5086e5488f6835f70009fb7d1d04df97f77a2e","family":"page","route":"/preview/field/medicine","scope":"preview","shell_contract":1}

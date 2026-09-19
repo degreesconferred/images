@@ -559,8 +559,8 @@
 {"digest":"b004042376ce6879d787dd06b0b9fb33ccc8fc2d6d3a91fa1f6cf572177620b6","family":"person","person_id":"person_NA1sSnL7AZmM--0u7bgGME","route":"/preview/1984/james-a-rockefeller","scope":"preview","shell_contract":1}
 {"digest":"1688c79498e3254fda93e5b5c8d569c3ccd1eb92066dadc70715a81a40414701","family":"person","person_id":"person_LXypquxMN1X6azF6xVz_aF","route":"/preview/1984/jane-gorman","scope":"preview","shell_contract":1}
 {"digest":"5e449a64501f0cdf4428d1510133553b6bbbcfadf26e15d4c8ddeec4f736d9e3","family":"person","person_id":"person_EHxsm9V4Rr6FbmC9UEMSCQ","route":"/preview/1984/julia-e-gwinn","scope":"preview","shell_contract":1}
-{"digest":"86bac15395142c004ae8d290e3595cac22bab8a0f7bf155f3c5cd86166f3cd12","family":"person","person_id":"person_UZSHin3sSKyBfNFdDzk9GA","route":"/preview/1984/larry-bruce-kramer","scope":"preview","shell_contract":1}
-{"digest":"c9345fb4baefd43b26fbb3fa556cc9db981bb3e92c843157604b4a5848a42251","family":"person","person_id":"person_yvDHEk_zhmjzfRAdsCKGYY","route":"/preview/1984/m-div-louisville-presbyterian-theological-sem","scope":"preview","shell_contract":1}
+{"digest":"ff01b3c832856869bb5de6db73b251e59d95ee636f45be99f1885e58a825f388","family":"person","person_id":"person_UZSHin3sSKyBfNFdDzk9GA","route":"/preview/1984/larry-bruce-kramer","scope":"preview","shell_contract":1}
+{"digest":"21151482becc349ebf4b3f6258cc0f4c0a9e9c169a19ad127efb4567589624ec","family":"person","person_id":"person_yvDHEk_zhmjzfRAdsCKGYY","route":"/preview/1984/m-div-louisville-presbyterian-theological-sem","scope":"preview","shell_contract":1}
 {"digest":"c816afc2d89a4aefe8299b705544ba5091aadc4979a27163587dc61c3b8a3d16","family":"person","person_id":"person_aCV58i2QS6uOepiOXigfeg","route":"/preview/1984/vincent-casanova","scope":"preview","shell_contract":1}
 {"digest":"0c3ff17d4d92c85e105650306084d1a89d5ae4305ba553e4b06925bf433c5f3a","family":"person","person_id":"person_mr2XSTLOTEiTkITPjeKlGQ","route":"/preview/1985/eliseo-vivas","scope":"preview","shell_contract":1}
 {"digest":"9e947e7c15716b9e2791d9c3194b1f6f022c1b4aee637e35f6688e4d59a541fd","family":"person","person_id":"person_lBor2QokRYWnfs6xhjtgzA","route":"/preview/1985/frederick-s-wadler","scope":"preview","shell_contract":1}
@@ -1210,8 +1210,8 @@
 {"digest":"f997d1de82b30a4af3eba39abaf25ac7b73de58ad171c94585586cf6d5c20552","family":"class","route":"/preview/classes/2004/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/school/crown-family-school-of-social-work-policy-and-practice","scope":"preview","shell_contract":1}
 {"digest":"04192245993eb447ef2b8f4cae8b2da5e0acaf63e844b0716fb97a8d679bda1a","family":"page","route":"/preview/degree/master-of-philosophy","scope":"preview","shell_contract":1}
-{"digest":"2555d81a9dbcd70d9769af4a8d6eaa83518af738ffb4950b2e92bc8dbb644a37","family":"page","route":"/preview/exercises/benediction/1930","scope":"preview","shell_contract":1}
-{"digest":"2555d81a9dbcd70d9769af4a8d6eaa83518af738ffb4950b2e92bc8dbb644a37","family":"page","route":"/preview/exercises/benediction/1980","scope":"preview","shell_contract":1}
+{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1930","scope":"preview","shell_contract":1}
+{"digest":"4e1b71f4cc6ec6f8addabc415d981c71c9953ae193ec03858daaa9caec82cb76","family":"page","route":"/preview/exercises/benediction/1980","scope":"preview","shell_contract":1}
 {"digest":"a0ac11b3eff18027fa020c08a89905fef54b1d1cfea1cb22459a7a5124f841d6","family":"page","route":"/preview/field/anatomy-psychology","scope":"preview","shell_contract":1}
 {"digest":"cdbde22edec0819874cd6651db62a9554c441f111f934abfe06cb8361a02a009","family":"page","route":"/preview/field/paleontology-zoology","scope":"preview","shell_contract":1}
 {"digest":"583d168638193f5cea2b21217540fa8e7ab894a99931cdff9a65f775ae9f724e","family":"page","route":"/preview/processions/program-beat-42aa3a35ba3d8604637e0667","scope":"preview","shell_contract":1}

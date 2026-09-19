@@ -546,9 +546,9 @@
 {"digest":"a005aac42ebfe99439fc42465dfab478c2bb373524588de38757a662bd11532e","family":"person","person_id":"person_oquCxJO0T_2kVOmXsHvpOg","route":"/preview/1983/philippe-clement","scope":"preview","shell_contract":1}
 {"digest":"c4735099b6a599457ab9020cd1e1204de31090449b3044862006795ae40ebebe","family":"person","person_id":"person_uXwTINgZTzKYXYICptacEg","route":"/preview/1983/rebecca-r-alm","scope":"preview","shell_contract":1}
 {"digest":"f2f114b871221c3f1abe5a03f993ce847ca727a0094de3e496572fbc448757a9","family":"person","person_id":"person_PDQAYeXkRUuWX-EG02KT8A","route":"/preview/1983/steven-james-casselman","scope":"preview","shell_contract":1}
-{"digest":"d839cf4d733aac24e51a67648dc46ad1f08aadac09860191a3e528b7f36e88dc","family":"person","person_id":"person_zBvuQGZ3RjewZBT_41clpA","route":"/preview/1984/alan-steven-wolfson","scope":"preview","shell_contract":1}
-{"digest":"03a3a89db7f18af6cc71ad337d987d2bb0395f028f27b93739528932189b11f3","family":"person","person_id":"person_XfIRjAPtSVWHGWOPquTipQ","route":"/preview/1984/daniel-p-o-connor","scope":"preview","shell_contract":1}
-{"digest":"140dcb1ffc1cc0b2a556f5e285afe1ae764cada052511c6102786f9c11a4c32a","family":"person","person_id":"person_RR6O8O0NQ6GN2Eonen8_aw","route":"/preview/1984/david-howard-posluns","scope":"preview","shell_contract":1}
+{"digest":"5b3637ebef2c82a35c045cd8b4bbd5fe3bb00a15dbf421a4c04e5b3667d461f5","family":"person","person_id":"person_zBvuQGZ3RjewZBT_41clpA","route":"/preview/1984/alan-steven-wolfson","scope":"preview","shell_contract":1}
+{"digest":"18976e4d5c8d6867fc49880a97fec9d1e754e6676cbfcd466ca2d6493a03b7e8","family":"person","person_id":"person_XfIRjAPtSVWHGWOPquTipQ","route":"/preview/1984/daniel-p-o-connor","scope":"preview","shell_contract":1}
+{"digest":"e86cbda1ec8b6d1ac967015f5c2d26cb45e1fae5cae972cd70d3a28d7455298a","family":"person","person_id":"person_RR6O8O0NQ6GN2Eonen8_aw","route":"/preview/1984/david-howard-posluns","scope":"preview","shell_contract":1}
 {"digest":"b82e43ff6f46954e4bd1fe791af75e26dd382f9e911c07dae8cdf83e93d4925d","family":"person","person_id":"person_95tljs1EPIHpFxocQ3urMS","route":"/preview/1984/deborah-h-crovitz","scope":"preview","shell_contract":1}
 {"digest":"4204484cc0b6bfc52c7ec51e3aec40c45f50da0ff2e15f3d323aaff0ab5654bf","family":"person","person_id":"person_EMVNiwPYQLuFva2hrZM5rg","route":"/preview/1984/james-alan-schriner","scope":"preview","shell_contract":1}
 {"digest":"3501035bc30a2115dd730aa2859ae345ca9f36e8cb7c2d79a89f6f6b05dc76ca","family":"person","person_id":"person_buSE-zm1QZiCQubCKjWjSA","route":"/preview/1984/john-baptiste-gury-iv","scope":"preview","shell_contract":1}
@@ -556,7 +556,7 @@
 {"digest":"3cf31bb293be158d37ec2168130d6631557832a357756164ad64025287993024","family":"person","person_id":"person_Xwc2XwQKQF2MZxOPPprA-Q","route":"/preview/1984/peter-richard-stickells","scope":"preview","shell_contract":1}
 {"digest":"447a193794711436cc928c854bc0fa7cc3cac287a39b950adea1a0b6201628d4","family":"person","person_id":"person_UgmtONJ-xScWei8jC_-SnW","route":"/preview/1984/therese-elizabeth-carrig","scope":"preview","shell_contract":1}
 {"digest":"053dd0c54f58762524e79deb3f66659b119b090bfc0992cf6eda5e937447347a","family":"person","person_id":"person_UVw_kVqNBqhDjI-b-_nOqD","route":"/preview/1984/wendall-patrick-sullivan","scope":"preview","shell_contract":1}
-{"digest":"5f321b4e32c336dce35dc7c84032c069f281547f2f313c01840b26580d795c6c","family":"person","person_id":"person_BHq9tHGHLGS6fiJDOF7c9A","route":"/preview/1984/zheng-jia-ju","scope":"preview","shell_contract":1}
+{"digest":"5641ff43f330f7f71aac5cfc05ab470ddbc2fc31359c75c56c35ba8839d03245","family":"person","person_id":"person_BHq9tHGHLGS6fiJDOF7c9A","route":"/preview/1984/zheng-jia-ju","scope":"preview","shell_contract":1}
 {"digest":"864b0ddd362af2749643bdd9f3d887eccfaba7e34300a4912bd51f0f622204b5","family":"person","person_id":"person_T5puGKbaS8iLgxTeWYfeYA","route":"/preview/1985/alan-howard-singer","scope":"preview","shell_contract":1}
 {"digest":"301fa02e1fa2923f99b4fe48eed6267512c78c74be684b783f27ac066e7292a4","family":"person","person_id":"person_vK52EE2tRKNDv0thJ7g4id","route":"/preview/1985/bruce-fitzgerald","scope":"preview","shell_contract":1}
 {"digest":"e5c03a485709678311b2eed7a0a8f34cfb612a088e1778dddec13a09f3db08fa","family":"person","person_id":"person_aQpev0P-SwimH-59vYU3ag","route":"/preview/1985/john-j-pizzo","scope":"preview","shell_contract":1}
@@ -1195,9 +1195,9 @@
 {"digest":"7aac6fc5d2c9ab4db840cffbf21ed86e8313a5719f3125dbbcf1b1232d18c5e3","family":"class","route":"/preview/classes/2013/school/division-of-physical-sciences","scope":"preview","shell_contract":1}
 {"digest":"9b4371cffa3fd57e45565c4a7760c0033051a1de7c20fb89135d038868a02ed4","family":"class","route":"/preview/classes/2021/bachelor-of-arts","scope":"preview","shell_contract":1}
 {"digest":"b21ce19eeeff02b73c222e75a3c4e59b44e13656352a7116d66fcd0c5b2b68b5","family":"page","route":"/preview/degree/bachelor-of-arts/i","scope":"preview","shell_contract":1}
-{"digest":"06735890628d61f4b513c5ad2cdd65d5f35781b0b38d19a2774b0ae54380d8fb","family":"page","route":"/preview/exercises/honorary_degree_conferral/2000","scope":"preview","shell_contract":1}
-{"digest":"67bac855686a97c484308e55201f2fe0f606f3025eefb9bbbe657e0d64bbda91","family":"page","route":"/preview/exercises/honors_and_awards/1950","scope":"preview","shell_contract":1}
-{"digest":"d7387425a2c7895bc8f3ce3f20d257127023011875f2c8e9235c5f9469e87362","family":"page","route":"/preview/exercises/student_marshal_section/2000","scope":"preview","shell_contract":1}
+{"digest":"fc924118ce53041c96ce267db80dfc8c0c02ce1cabdfc814c20ae6842dd7ffbb","family":"page","route":"/preview/exercises/honorary_degree_conferral/2000","scope":"preview","shell_contract":1}
+{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1950","scope":"preview","shell_contract":1}
+{"digest":"4200a1f6d402039141d0c61dd7173abcc9b16aeaaa75ad4a1795e7dda918be77","family":"page","route":"/preview/exercises/student_marshal_section/2000","scope":"preview","shell_contract":1}
 {"digest":"fee3b78800e0609b713b69c5f7e5a33bf5a4fb8385ce90d1f567c9e765711e0d","family":"page","route":"/preview/field/divisional","scope":"preview","shell_contract":1}
 {"digest":"53284da4093577948db5f9af98ec9044aa9194d15361a98d713e46a96627b70c","family":"page","route":"/preview/field/home-economics-nutrition","scope":"preview","shell_contract":1}
 {"digest":"e8d024443696301f6fea7067523e6ba008dfd1d69f3353515d7dedc62b36a492","family":"page","route":"/preview/field/physical-chemistry-physics","scope":"preview","shell_contract":1}

@@ -568,7 +568,7 @@
 {"digest":"ba1ae69986f4c4496cd7d6db829aff49fe908fdc4bd0cea6066ce6a973160c7d","family":"person","person_id":"person_cXoHIPZzQEayU-Q9--0FzQ","route":"/preview/1984/james-michael-ruman","scope":"preview","shell_contract":1}
 {"digest":"2cc91459c47e7ff4734c2659f9b3d81a24de715793c171b59a4e07b898773116","family":"person","person_id":"person_T5VzPaieSCGiOHxUIJ2kJA","route":"/preview/1984/jane-witten","scope":"preview","shell_contract":1}
 {"digest":"7d974741c088a928d082dd5eb2a9386cb598dda5bcd98fb09018d4750fed56b2","family":"person","person_id":"person_rB5xJiuJmaRltv2lRA5Awn","route":"/preview/1984/judith-ann-kramer","scope":"preview","shell_contract":1}
-{"digest":"309d1497cde645e3d15c753932d4b23c77bf0edbe638fc45145655aa0917ef33","family":"person","person_id":"person_SzFSNQaERmaOgdN3LGeVVA","route":"/preview/1984/kenneth-j-kush","scope":"preview","shell_contract":1}
+{"digest":"a2173a267f1da181e545eaad0a66b9aead753813b3ccb3095686a52d95c537ab","family":"person","person_id":"person_SzFSNQaERmaOgdN3LGeVVA","route":"/preview/1984/kenneth-j-kush","scope":"preview","shell_contract":1}
 {"digest":"f2f14be06ffb0771e6d5501a3558b19e1c5c8b477fc17b3c88be729dce12e73f","family":"person","person_id":"person_aZOxcHqNS1-vPvznW1rmiA","route":"/preview/1984/steven-david-romberg","scope":"preview","shell_contract":1}
 {"digest":"69aaf9dd8c620d6d7c5231d0033d8b26d113dbd5b86005772eac4f4cc6568c3e","family":"person","person_id":"person_pa5ugRkmFHN6yC6nW4lmXc","route":"/preview/1984/susan-may-smith","scope":"preview","shell_contract":1}
 {"digest":"0621746e69d6a25f0d5ebd21eff52146da90855c2739d34dea2c6d97c8c90f1f","family":"person","person_id":"person_Xw27BNyLT_2EUqevHG0YVA","route":"/preview/1985/andrew-satinsky","scope":"preview","shell_contract":1}
@@ -1202,7 +1202,7 @@
 {"digest":"d7ea3d3a1cb82a936fe9f7d50903b68e680d05d7a3a94e504448242f3b9ca859","family":"class","route":"/preview/classes/1978/school/divinity-school","scope":"preview","shell_contract":1}
 {"digest":"7078bc41eb2933dec09e92176bedef471d014227b5cc16e96ccc08bdb3509bf8","family":"class","route":"/preview/classes/1980/doctor-of-medicine","scope":"preview","shell_contract":1}
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"3d4f781e57850b4803baa77e7d67cc12c40dd87807d36bc7b155c2440f1b6323","family":"page","route":"/preview/degree/doctor-of-philosophy/u","scope":"preview","shell_contract":1}
+{"digest":"9133a56262130e8857920c87e786e1aacdb5b2676551cea9b64a37d43de59097","family":"page","route":"/preview/degree/doctor-of-philosophy/u","scope":"preview","shell_contract":1}
 {"digest":"23e792e3603705f0ec6a1adb2ec2dff285c65b29b6ed4c2acf38eb1a2fc7068b","family":"page","route":"/preview/field/anthropology","scope":"preview","shell_contract":1}
 {"digest":"300d973af9d3f6110522a4eda35ed4904ee77f3be3751b73c0c59bcb70af0eb9","family":"page","route":"/preview/field/benaries-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"94b939f217032e492088228d076e4cde3acec62b3566a4331d17ae3f5a140d66","family":"page","route":"/preview/field/household-administration-sociology","scope":"preview","shell_contract":1}

@@ -554,7 +554,7 @@
 {"digest":"259f44472470e8663f006b9efd5e041a2d3c37344676c9444035421906d0f5a2","family":"person","person_id":"person_gvMDYBCKARTGEWg5D1PQ6L","route":"/preview/1984/james-nordhausen","scope":"preview","shell_contract":1}
 {"digest":"6649bec7b66b51c426773a6468d612498869a6000bacba9231d77e0a52dfb0b9","family":"person","person_id":"person_Yfq0p_UP387HvbIt0uwHvU","route":"/preview/1984/judith-c-fujita","scope":"preview","shell_contract":1}
 {"digest":"b2a3db593711401a4eff562aa4ca879efd51de2ba801a4b74292e37daa83085b","family":"person","person_id":"person_F8sBlXVbd3iKHEYLotq4Vp","route":"/preview/1984/julian-pierce-harris","scope":"preview","shell_contract":1}
-{"digest":"454777d3e1f0e78b314597df6ed534157b1a6276b410feaa85d07134cd3f0ece","family":"person","person_id":"person_e5ATVk3zSfmZgB4lwSn8ww","route":"/preview/1984/miguel-marcelo-sofer","scope":"preview","shell_contract":1}
+{"digest":"74cd12169869b587b4edd20a0f889e0503f5b85609e7ec32562e9dec563996e1","family":"person","person_id":"person_e5ATVk3zSfmZgB4lwSn8ww","route":"/preview/1984/miguel-marcelo-sofer","scope":"preview","shell_contract":1}
 {"digest":"827ba37ae6ba39cdf49624e43576aaf337dd9e4926edcbbf8af37e62872dcb83","family":"person","person_id":"person_apzxN2TESaWuIHjeKGJJiw","route":"/preview/1985/ann-elaine-rutledge","scope":"preview","shell_contract":1}
 {"digest":"53745a3bbea3fc36b900138899161683b60759ebd9fc75689b2a6bd6191c67db","family":"person","person_id":"person_BY9tmm8QQx-OLYNErIFNAw","route":"/preview/1985/deborah-l-kurland","scope":"preview","shell_contract":1}
 {"digest":"c26e9494e3d438b6694626efb5a7fa8ddb89302a57991f44386e53beb72128f3","family":"person","person_id":"person_xaIrsPK4T0muqXInWcnMKg","route":"/preview/1985/douglas-l-cohen","scope":"preview","shell_contract":1}
@@ -1249,8 +1249,8 @@
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981/school/college","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/master-of-science","scope":"preview","shell_contract":1}
 {"digest":"5db49a0f28f480966462bd16adc2036a63b8e48de5edd7c87545bbd673c3e66d","family":"class","route":"/preview/classes/2005/master-of-science","scope":"preview","shell_contract":1}
-{"digest":"8d786823ea3b6e365ad61a595e8157dee88980ff5a2a507ba0704209cdcb23c6","family":"page","route":"/preview/degree/doctor-of-philosophy/b","scope":"preview","shell_contract":1}
-{"digest":"d6ff375f0dd3ae22317f8d982d5c4029d5dc4eb60de43e56820a73c01bf547b7","family":"page","route":"/preview/exercises/degree_group/1920","scope":"preview","shell_contract":1}
+{"digest":"7de67f3e352ebcf0d6b0c97e22cf2f3d59036ed676bb43194e4760d24e04e2b3","family":"page","route":"/preview/degree/doctor-of-philosophy/b","scope":"preview","shell_contract":1}
+{"digest":"90527b4d76f8e6b69c1c6eb331c4c6e87880c7d276cd34d7c19800efe0b219ab","family":"page","route":"/preview/exercises/degree_group/1920","scope":"preview","shell_contract":1}
 {"digest":"acbb276089201bada7447a966bb06870b539c7a5201c621c07640d2380be7e1d","family":"page","route":"/preview/field/apgilod-mathematics","scope":"preview","shell_contract":1}
 {"digest":"f6f6e8d50375b6b9b37fbd2c38d943b90cf9cf5820637f093cb2dbaf66714c46","family":"page","route":"/preview/field/biophysics-and-theoretical-biology","scope":"preview","shell_contract":1}
 {"digest":"fd49f6a526defafb87d9e0cbe7ec9b1bc3e1704dc8c433eaa4975781cebc451b","family":"page","route":"/preview/field/botany-ecology","scope":"preview","shell_contract":1}

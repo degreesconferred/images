@@ -582,13 +582,13 @@
 {"digest":"36b81a21615d546397c2777adf4e554d4df1344b2505200903f6d81e2cf74b2c","family":"person","person_id":"person_CNYRaRO8RtKeYyf4LfTt0w","route":"/preview/1984/chester-nelson-ernst","scope":"preview","shell_contract":1}
 {"digest":"a1d37356757bc740eec74cd8cc917cfd57040bdc5bb3fb995d7b230a22f19ebb","family":"person","person_id":"person_MK5ECxbwSwaVtEhPVaTT4Q","route":"/preview/1984/donald-e-suter","scope":"preview","shell_contract":1}
 {"digest":"bc7ee4ffcb036de93075e82fe0f46e5cfb06b7258cc8cd358202624a172d9841","family":"person","person_id":"person_xdyrRzZpnAvJqy7cQYY5hS","route":"/preview/1984/donald-l-charles","scope":"preview","shell_contract":1}
-{"digest":"66b558e7e60f0cd9d49d021211fa0f52f28e1833853ea4b76bb2d8a1e1691e11","family":"person","person_id":"person_BJVHG-NtZxdZ0ZRqyGAI8x","route":"/preview/1984/eugene-michael-dmitro","scope":"preview","shell_contract":1}
+{"digest":"6bcbe1f4b08328f3647f7a9d037cd411c1cf973e867c343ab259c477e4c93801","family":"person","person_id":"person_BJVHG-NtZxdZ0ZRqyGAI8x","route":"/preview/1984/eugene-michael-dmitro","scope":"preview","shell_contract":1}
 {"digest":"28478875fc6eeff972a9572eb127acc81b6899a03c907f6f6be9247dff757708","family":"person","person_id":"person_qpx4Hp_BiJT5nqqUaMet-7","route":"/preview/1984/stephen-g-barry","scope":"preview","shell_contract":1}
 {"digest":"751b1415b2d969cdcd37244db579c61ddf8646922f1e6ef9eae931896132f0bb","family":"person","person_id":"person_JDhKglcegpsJsm1Uc0i1LO","route":"/preview/1985/andrew-earl-wrobel","scope":"preview","shell_contract":1}
 {"digest":"705b9c43efdf1fcda08a58996294e46256a4c6299e67cb7957eb6648d0e8e07b","family":"person","person_id":"person_aF_bjifyQ46BlRfpniRIiQ","route":"/preview/1985/david-berliner-barol","scope":"preview","shell_contract":1}
 {"digest":"ec92115834dd5cd1b12865a3c86a4f26f2bfd845afde7147881c0c75113a2393","family":"person","person_id":"person_alR8ODIIJaG69SvvQxFmhg","route":"/preview/1985/david-evans-kiefer","scope":"preview","shell_contract":1}
 {"digest":"993903a66eb909dfb3271ccb18faabbd956e3f1a8a95b45d9207c0a1444e0575","family":"person","person_id":"person_Uvpb8I7aR-6zhFqyT5mX6g","route":"/preview/1985/david-j-hartner","scope":"preview","shell_contract":1}
-{"digest":"f4b6e7347f758965d1ca43918689713cc8ad39c1885c192b350ef4df54476ec8","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1985/david-paul-demille","scope":"preview","shell_contract":1}
+{"digest":"a1bd9c674b9fb10c854692fbd35c58d2110ce99e137641b4afbbd75085552205","family":"person","person_id":"person_g-MSRTaLQu6a5HzCA7WJDQ","route":"/preview/1985/david-paul-demille","scope":"preview","shell_contract":1}
 {"digest":"bcfe28be734b21ab2d0f465ea6a193037cbe16ed629d197345f51f383844cc3c","family":"person","person_id":"person_RfmLoK4dRrO3JF9R5hSmDw","route":"/preview/1985/edward-lipuma","scope":"preview","shell_contract":1}
 {"digest":"edb34357e3a23bcaa76a7119704250d4d1d962adb370edb9c19fda8a35eadc95","family":"person","person_id":"person_L0idDymCRUy-YGFsJqPBQA","route":"/preview/1985/kevin-m-corrigan","scope":"preview","shell_contract":1}
 {"digest":"a44a55ada3fc58860a7d37c4760cb9672bdd42353fe814eacc46749468ae1e95","family":"person","person_id":"person_uznJYSW5SqWgxrfq_wko4w","route":"/preview/1985/kevin-timothy-barry","scope":"preview","shell_contract":1}
@@ -1249,7 +1249,7 @@
 {"digest":"2b56cf128d85d13fc71e045bac8a89b0749dd9a667ab76f712782b58c0d97495","family":"class","route":"/preview/classes/1988/master-of-fine-arts","scope":"preview","shell_contract":1}
 {"digest":"667154cbc6b95578c7ace2479a7990e77f6de2ccbffde6689f41b930c5e2caf5","family":"class","route":"/preview/classes/2000/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"d436a14f6eee29c9e7fa85bdeb816212d8c49ba170c618cc6ab4b339a76f53c3","family":"class","route":"/preview/classes/2008/school/division-of-social-sciences","scope":"preview","shell_contract":1}
-{"digest":"46ef9395f1b24b639b690c5ffca254addc9069ba0a987cc970dba2953566872f","family":"page","route":"/preview/degree/doctor-of-philosophy/i","scope":"preview","shell_contract":1}
+{"digest":"ff018d09ad67eae0ea29694f1b334f292410c2ec8caa4437ebd5b3c934b6b415","family":"page","route":"/preview/degree/doctor-of-philosophy/i","scope":"preview","shell_contract":1}
 {"digest":"120dd4b6869eb999a3e094318f135cb8de3d7938e1f5968ba4e283cfc79a95c1","family":"page","route":"/preview/exercises/medal_presentation/2010","scope":"preview","shell_contract":1}
 {"digest":"b030d3c6306056d8b86fa477a49917c6b72eba338810e8b73fa320817c718c2f","family":"page","route":"/preview/exercises/student_address","scope":"preview","shell_contract":1}
 {"digest":"6c3709f2161b67ecf77a408935fd646510de3a38d22d047c78319fe1748fd501","family":"page","route":"/preview/field/as-of-august-29-1913","scope":"preview","shell_contract":1}

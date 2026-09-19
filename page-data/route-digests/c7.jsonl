@@ -547,14 +547,14 @@
 {"digest":"a81a409129432cc9f67c818ab94f66982da78cea9d2e7f8bebbacecdbdd0106a","family":"person","person_id":"person_BrMcr7aAQXKFAOO_Zs4few","route":"/preview/1983/patrick-emery-longan","scope":"preview","shell_contract":1}
 {"digest":"a659df2e3636d492219094f4b79ef81ac0f6298a740eac0c2aa1b503f61c6307","family":"person","person_id":"person_0Ax7AUR8Tq-VdyMqA2GvUg","route":"/preview/1983/sara-maxwell-first","scope":"preview","shell_contract":1}
 {"digest":"bf7eed65a9a3c694597f3cb09fc0495e2848fcaa3d8d6d674c23ac77f787c239","family":"person","person_id":"person_I2BxVdKJQPmmUsNBlypOAQ","route":"/preview/1983/thomas-stephen-upshaw","scope":"preview","shell_contract":1}
-{"digest":"f63713e890f31c089fc1169fe0026bcf8f70846b31bb67da6125cdfbfc8d1b9e","family":"person","person_id":"person_PEu54etMQrqFRqIAe79Ckg","route":"/preview/1984/christopher-john-warshaw","scope":"preview","shell_contract":1}
+{"digest":"4a1fe929d47d56da8978605cb8ce8e59ffc1c65c26630825b6037a61ed867ece","family":"person","person_id":"person_PEu54etMQrqFRqIAe79Ckg","route":"/preview/1984/christopher-john-warshaw","scope":"preview","shell_contract":1}
 {"digest":"903f7f939010fd5bb5bcf01cfd20e531c65337cca3c1326cf0f07588b6c30b81","family":"person","person_id":"person_yk0DexRg7KHF6NcVhQgTTz","route":"/preview/1984/claude-everett-towery-jr","scope":"preview","shell_contract":1}
-{"digest":"99927adbe2cc6d5cca79a4371d0a987e6fcf02e504517496d4ecd10481615e71","family":"person","person_id":"person_4CYqogxnSIKXkKBDSuJHtA","route":"/preview/1984/david-chet-wolinsky","scope":"preview","shell_contract":1}
-{"digest":"36a8657de4bb37beb5d6cde5cb6898974f560e0a480188cf67bf96b184f41d64","family":"person","person_id":"person_Jgjg9Ke0RfOPu-Y9Lo3UlA","route":"/preview/1984/david-william-montross","scope":"preview","shell_contract":1}
+{"digest":"7ba656fd5ef14ee901931a4fc956d18713e5d527244c812447807b1c8eb83ff3","family":"person","person_id":"person_4CYqogxnSIKXkKBDSuJHtA","route":"/preview/1984/david-chet-wolinsky","scope":"preview","shell_contract":1}
+{"digest":"a25c8bafc85329cc7554369635d82c35439d35ccfc938b8b5ab0e6fdba1bdc80","family":"person","person_id":"person_Jgjg9Ke0RfOPu-Y9Lo3UlA","route":"/preview/1984/david-william-montross","scope":"preview","shell_contract":1}
 {"digest":"9f18dab8c6c97377ba546bb393c1376190f1ad539f41cc5a2da5ed474242ffba","family":"person","person_id":"person_I89YyCB9SHKTPjk9Kw8aCQ","route":"/preview/1984/douglas-j-muder","scope":"preview","shell_contract":1}
 {"digest":"a12db2f2c50400627b2b7b992be3257f6ce2b61b792b4750c4793dab4794682a","family":"person","person_id":"person_7jfaKWKhQk-Fj_6ZNz8V4w","route":"/preview/1984/gerson-m-rosenthal","scope":"preview","shell_contract":1}
 {"digest":"820a8de5b1fe19c46008f5fc19dc50dbf9111faf38b7a6e86abd3f5bb3bee1ea","family":"person","person_id":"person_twKhHAuop2f4h4NSjL_MIU","route":"/preview/1984/james-christy-roberts-iii","scope":"preview","shell_contract":1}
-{"digest":"4fddb9055b72da812c6509db6436e6f7ea3985c6f0b646d13bcfc097f9351db5","family":"person","person_id":"person_R4IDL3KFBWYTyuqjAx8rQ3","route":"/preview/1984/james-william-bean","scope":"preview","shell_contract":1}
+{"digest":"c65d3875386bad55496979b89f4b21e6beb0958b19f2931552c50e9cc07ef27a","family":"person","person_id":"person_R4IDL3KFBWYTyuqjAx8rQ3","route":"/preview/1984/james-william-bean","scope":"preview","shell_contract":1}
 {"digest":"7a75ff2560c615ca2686b33e76df47b7d91d05bab297b848ac63e364cc381fae","family":"person","person_id":"person_uht9cvdaTJq9IEIvmeG2lQ","route":"/preview/1984/joseph-s-kontur","scope":"preview","shell_contract":1}
 {"digest":"4c8b932d08359728f390ac5db3a086188e71bcf8b9fbbb4f526ab5e55cd3aeae","family":"person","person_id":"person_tytpgfFERUufL_1sB7xKBw","route":"/preview/1984/marie-celine-miranda","scope":"preview","shell_contract":1}
 {"digest":"bd572a8ead8d038c84aea480945ce318414fe38a83a520cc98295b4a0f59eead","family":"person","person_id":"person_ENN4qDmTSsurM2BIEazoqw","route":"/preview/1984/mark-t-robinson","scope":"preview","shell_contract":1}
@@ -1235,7 +1235,7 @@
 {"digest":"c35d36b2169c92676dfc3b99265014e7a3d3d3727b52f4def3790cae33e3d916","family":"class","route":"/preview/classes/2020/school/college","scope":"preview","shell_contract":1}
 {"digest":"61541fe2a208944f4c8f9908abb7ba3480581d970e96e68cb531f222951a0a19","family":"page","route":"/preview/degree/bachelor-of-arts/other","scope":"preview","shell_contract":1}
 {"digest":"200937e19e006602e0e28b9c9ccede5ba60db8d11fe3dfc9d8214b7cc7d1fdeb","family":"page","route":"/preview/exercises/faculty_awards/1990","scope":"preview","shell_contract":1}
-{"digest":"67bac855686a97c484308e55201f2fe0f606f3025eefb9bbbe657e0d64bbda91","family":"page","route":"/preview/exercises/honors_and_awards/1980","scope":"preview","shell_contract":1}
+{"digest":"b93f9c9193ebf5feb07175eec58b0f77427ce9a812ad953bb5e34196ee790c69","family":"page","route":"/preview/exercises/honors_and_awards/1980","scope":"preview","shell_contract":1}
 {"digest":"6e145c854175cec60bc620f4eb2d2e1eee0028b345ba841be9f425999df97aaa","family":"page","route":"/preview/exercises/welcome/2000","scope":"preview","shell_contract":1}
 {"digest":"d5777694d05e29dacf6c9efa0ac1f1c4cfba3c4e36301cf0a4beaa6a45b94502","family":"page","route":"/preview/field/collected-languages-and-literatures","scope":"preview","shell_contract":1}
 {"digest":"6e7c2a330ad9eef58ab3ac876c67b14fdbc60b2fd04e4954760962e39fc21c0c","family":"page","route":"/preview/field/committee-on-communication","scope":"preview","shell_contract":1}
