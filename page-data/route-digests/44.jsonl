@@ -486,10 +486,11 @@
 {"digest":"bddbbdc0ad74e351100f2bb8328a614e36e984627b96cd5f895faa6f2337776b","family":"person","person_id":"person_1m98RTFMZ683pNIte8DktY","route":"/preview/1983/susan-valerie-gatell","scope":"preview","shell_contract":1}
 {"digest":"8f09cd33aef4f95237fdac8b4dee4e976eef081288a8c6f5253338468242b64c","family":"person","person_id":"person_NrTbc4WBRb2bffoEAa8YmA","route":"/preview/1984/ingrid-ellen-creppel","scope":"preview","shell_contract":1}
 {"digest":"f9a7a1b3969bff41a88ffb99beb574bab344334b4c030968f133f3a7e412e9e3","family":"person","person_id":"person_o-TyaG7D494GsNl7ofsNS1","route":"/preview/1984/jacques-andre-poli","scope":"preview","shell_contract":1}
-{"digest":"d183f7e1dd43881c2bf090e282a064c762b52281baa6bf71c56021fad4d46326","family":"person","person_id":"person_9ZLnooKeTB6_HPY9NNLWBg","route":"/preview/1984/karl-p-mueller","scope":"preview","shell_contract":1}
-{"digest":"c20105bebd96f8398d15b6a77fb64b5811b69d94c4fd7053812bcb8f862ac0f6","family":"person","person_id":"person_TTUWTtSxTqeXu45nUz1QGg","route":"/preview/1984/keith-ernest-hampton","scope":"preview","shell_contract":1}
+{"digest":"e6bd36095b36327cc7b9d5915c984eb84dc3fef467e377ae6d71781e25d1e366","family":"person","person_id":"person_9ZLnooKeTB6_HPY9NNLWBg","route":"/preview/1984/karl-p-mueller","scope":"preview","shell_contract":1}
+{"digest":"644d5f196fcd12ca03573771a2c594496601a6a4bc582e5d0353848a1e6128e2","family":"person","person_id":"person_TTUWTtSxTqeXu45nUz1QGg","route":"/preview/1984/keith-ernest-hampton","scope":"preview","shell_contract":1}
 {"digest":"2bd329cf44c7896cae56fd34e896d5f768bc015167ba494bbfda41cd367f315b","family":"person","person_id":"person_A_M2FnqVQBu6vcXhCgy7yA","route":"/preview/1984/mikhail-godkin","scope":"preview","shell_contract":1}
 {"digest":"d6c06d88d426279d199112a64b8d125d9c2069e3ee736b5a7b36939576517678","family":"person","person_id":"person_jZFbCDedRlSVwAfJVrAVDA","route":"/preview/1984/richard-james-rogers","scope":"preview","shell_contract":1}
+{"digest":"acb2661c356bae2b3f4cf91f15bc4b14b6ae7d5939e591d0e9eab2fa34815097","family":"person","person_id":"person_W2p-2L1SnlUdJFbyonZe-Z","route":"/preview/1984/stansbury-o-donnell","scope":"preview","shell_contract":1}
 {"digest":"1d15bec24409f991df217549ca6a983b09aed52018edd859d48350cadfc2567c","family":"person","person_id":"person_ixKUiA9RSE6S-l7ocJcnkQ","route":"/preview/1985/albert-murray-mccreary","scope":"preview","shell_contract":1}
 {"digest":"ef91e34cdd00bef6846f59fab2f3a4336116159b5e00261a349bdb20a444895f","family":"person","person_id":"person_fdg27S_yRWKB6FsSNeE6MA","route":"/preview/1985/christopher-eric-beisel","scope":"preview","shell_contract":1}
 {"digest":"fa68b4d073ff777f4f6576381193c920cd083af5c7b41339f4d85721639f66c0","family":"person","person_id":"person_ufdikD_FSvGW7C0d59OQug","route":"/preview/1985/jon-peter-becket","scope":"preview","shell_contract":1}
@@ -527,7 +528,7 @@
 {"digest":"85c0b192036ef4d22dc02fba6dcb9a94611266fd8fdf16ec8347a691167d54bf","family":"person","person_id":"person_dLj1rI9YSM2b0rxVb7Zc0o","route":"/preview/1988/eric-on-bong-tsang","scope":"preview","shell_contract":1}
 {"digest":"e84e203126aa1a7e84ca5b20296877ac861296c3954ec1f3c440b399b06a2202","family":"person","person_id":"person_r7N4-kiFRueTPSyizZfA-g","route":"/preview/1988/gavin-michael-gross","scope":"preview","shell_contract":1}
 {"digest":"8351f0f1dc8af603f34aba1a730bad38d4fc77ad46b48de65491a2b1a1a6de49","family":"person","person_id":"person_gZNisRljQRqnH1aLrykcqg","route":"/preview/1988/jack-terrell-fuller-jr","scope":"preview","shell_contract":1}
-{"digest":"89dbb2813ca7e00ad45420610ec9cf99dd13058fcafd02136b3c775c7159b51f","family":"person","person_id":"person_F1j1fzjiQk25YLzg4y8U_w","route":"/preview/1988/jacqueline-miriam-moline","scope":"preview","shell_contract":1}
+{"digest":"4bafc6475beccaa329384cfbd7e696f801fb8551271bcdcd12361f7056d77152","family":"person","person_id":"person_F1j1fzjiQk25YLzg4y8U_w","route":"/preview/1988/jacqueline-miriam-moline","scope":"preview","shell_contract":1}
 {"digest":"f1d1e30c69c98feea743f2a2ce653822746f5bc22b6c9147e7a7e9c48ab3d8f4","family":"person","person_id":"person_XT4Sl9C0RnO6N4M_ZUjAfw","route":"/preview/1988/jeffrey-mark-eno","scope":"preview","shell_contract":1}
 {"digest":"d0768f54ae04f37602f60b46cabfb9cbd0479c330664f8e3a43e74c1bc7b6d77","family":"person","person_id":"person_DARawgWqSFmXqGQFu64rzA","route":"/preview/1988/jennie-elizabeth-jane","scope":"preview","shell_contract":1}
 {"digest":"485bd25517be02d2b851b4633929dccad777ad40a5014781ef7c9a8d0c04e41b","family":"person","person_id":"person_J6QkG-7Oy_lp02XvYUAr1u","route":"/preview/1988/john-otto-doerge-jr","scope":"preview","shell_contract":1}
@@ -1151,9 +1152,9 @@
 {"digest":"ec9cb003e3b33f3b9bfd33ff1f9638d25c3fd64146acfbb8da958e721907af99","family":"class","route":"/preview/classes/1918/bachelor-s-degree","scope":"preview","shell_contract":1}
 {"digest":"108bb8c6d9be66c96d80ef7384269bd45a24a756e72c28964319d2edeed1851a","family":"class","route":"/preview/classes/1956/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"c4b51472428ca88a9ca73526d029ada39e7c500e1d8a75d36e4eb67daa57d566","family":"class","route":"/preview/classes/2015/school/division-of-the-biological-sciences-and-pritzker-school-of-medicine","scope":"preview","shell_contract":1}
-{"digest":"e0bdb8af47f4e849ba4cbff68537f48e43077e1abcb1b776fc5bb33aa26c5446","family":"page","route":"/preview/degree/bachelor-of-arts/k","scope":"preview","shell_contract":1}
-{"digest":"c8f3041ef705bc76d6d59618f00531de947ce95a0d583b7789fa7875aa0cbff9","family":"page","route":"/preview/exercises/degree_conferral/2000","scope":"preview","shell_contract":1}
-{"digest":"1fdae96fac97245c2a41089cea5855e4b2c032ead0b6e1f526ec23199ae51386","family":"page","route":"/preview/exercises/other_numbered_section/1930","scope":"preview","shell_contract":1}
+{"digest":"07572d83e360bf32ad8af721081797952dd8d8ec1844b8d6528a98c2dae64e19","family":"page","route":"/preview/degree/bachelor-of-arts/k","scope":"preview","shell_contract":1}
+{"digest":"6cbac1c7793c7b305b03d68d1b582534943971d9c020119ba9940e15f885af4a","family":"page","route":"/preview/exercises/degree_conferral/2000","scope":"preview","shell_contract":1}
+{"digest":"bb455e50c5dffa4385731ac3cab02567551d5545cf9166536f86dc9cbe5218b8","family":"page","route":"/preview/exercises/other_numbered_section/1930","scope":"preview","shell_contract":1}
 {"digest":"238932d0dcb72cb2837441ab2027ae3ef2382e20f4a3bbc4517cf977473bbed8","family":"page","route":"/preview/field/b","scope":"preview","shell_contract":1}
 {"digest":"5c2419a36f8c73275d6286826c69e3d71cc74a8753dd8e2e93c72d624955db8d","family":"page","route":"/preview/field/classics-ancient-mediterranean-world","scope":"preview","shell_contract":1}
 {"digest":"90796318c625dc100a547229de42a9b51a66dfba765f9f28605eeda4de6eb0bb","family":"page","route":"/preview/field/comparative-race-and-ethnic-studies","scope":"preview","shell_contract":1}

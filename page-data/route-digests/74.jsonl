@@ -488,11 +488,11 @@
 {"digest":"46a15a559a367a4ba1042c03d9e318cac006aea4ab4e97a281e050758b9aaef7","family":"person","person_id":"person_XWfShmZGEkMKL00m7kCQKB","route":"/preview/1983/sanford-barringer-steever","scope":"preview","shell_contract":1}
 {"digest":"bf7b87e1d22554176ab39fb816155ece0bc5644a94dce4f8a00d796f7db058c7","family":"person","person_id":"person_nWB7DxXDRk-B-x2dY2R8MA","route":"/preview/1983/tania-n-okolie","scope":"preview","shell_contract":1}
 {"digest":"42f2eaa5e50ff39169dc3b3e6d28fd834fae8f7f987ab74e0b9fcfa58e69b3d2","family":"person","person_id":"person_sAn_b2RPRomlLXY8_x8U9g","route":"/preview/1983/william-dwight-falloon","scope":"preview","shell_contract":1}
-{"digest":"f43d0021f58b19e56b1ae9302f0b3fcdc5f22719018bcc2b6f8bd455ab53f490","family":"person","person_id":"person_nu0NB4RMTTGB8xV9co2phg","route":"/preview/1984/jung-eun-ruth-kang","scope":"preview","shell_contract":1}
+{"digest":"0a39dcb282208deb0c4c4fc0271813dc635a8aa306d96995d5cc624194566a92","family":"person","person_id":"person_nu0NB4RMTTGB8xV9co2phg","route":"/preview/1984/jung-eun-ruth-kang","scope":"preview","shell_contract":1}
 {"digest":"bcba1c73efd54b2a2de7e4d3a454771c8b7c86ae8224e2bff3452ca1c399fbe2","family":"person","person_id":"person_gJxETCn7yPGXE8z8O1oWPC","route":"/preview/1984/k-eunju-lee","scope":"preview","shell_contract":1}
 {"digest":"645a6af43175bb41d1e4946e97a761dd653d0ba0a3f02706fb1b338b8e4d2524","family":"person","person_id":"person_xnmPnRmhC7EmkePQ48P9q6","route":"/preview/1984/laura-linn-freiwald","scope":"preview","shell_contract":1}
-{"digest":"1f59d792cc549792079704bab5f01929758822a2bcfa5b0edc444f752244dad2","family":"person","person_id":"person_qd9w2oFURPO9E4Ni2lE_8g","route":"/preview/1984/laxmi-chand-bhandari","scope":"preview","shell_contract":1}
-{"digest":"51b5446cc33274502d2ce0a99ce032204eac4539b379b6ac71feb8387e3ef5e6","family":"person","person_id":"person_iAQF2gymTUiw1rlEEbH0IA","route":"/preview/1984/luc-van-de-steen","scope":"preview","shell_contract":1}
+{"digest":"59b60a49f35242c0d8c9b8fe3ad69440dd19a47c020871e1ff15016650c569a4","family":"person","person_id":"person_qd9w2oFURPO9E4Ni2lE_8g","route":"/preview/1984/laxmi-chand-bhandari","scope":"preview","shell_contract":1}
+{"digest":"03be399b3a70b0acfa375cc42f65a9b8249d6c6e921bff2e6422aa86323c8f5b","family":"person","person_id":"person_iAQF2gymTUiw1rlEEbH0IA","route":"/preview/1984/luc-van-de-steen","scope":"preview","shell_contract":1}
 {"digest":"193204d1a1dfa9aafb7d324563c0f20985d40d7c6ca5a3ca33d92eb0ef6bc958","family":"person","person_id":"person_YbkqFwm3Xs-GikuUnA6EuN","route":"/preview/1984/sarah-a-martell","scope":"preview","shell_contract":1}
 {"digest":"ab77a40fc0ea530d8aa9c565126ccce88e65156dee26d742890238654eddbc63","family":"person","person_id":"person_N4tSTARYTjWQ3MOa8-9-TA","route":"/preview/1985/arthur-kenneth-selender","scope":"preview","shell_contract":1}
 {"digest":"57f17fd08c6c0869436f31413093d71de6b29c94553427323e86e6ed5dfa1470","family":"person","person_id":"person_aebKQx7Itce-f2TW1bBmrK","route":"/preview/1985/christopher-j-flaherty","scope":"preview","shell_contract":1}
@@ -1173,7 +1173,7 @@
 {"digest":"86815069de42a6d4bf62643b3d395fc4a7b5473365aea77085c3fb4c93171572","family":"class","route":"/preview/classes/1998/doctor-of-jurisprudence","scope":"preview","shell_contract":1}
 {"digest":"11d08a3745d29c6488d93f124ae1b5b1484ecd930ac8993dba7c4f94ff361451","family":"class","route":"/preview/classes/2002/master-of-arts","scope":"preview","shell_contract":1}
 {"digest":"c4b51472428ca88a9ca73526d029ada39e7c500e1d8a75d36e4eb67daa57d566","family":"class","route":"/preview/classes/2015/bachelor-of-arts","scope":"preview","shell_contract":1}
-{"digest":"1fdae96fac97245c2a41089cea5855e4b2c032ead0b6e1f526ec23199ae51386","family":"page","route":"/preview/exercises/other_numbered_section/1980","scope":"preview","shell_contract":1}
+{"digest":"bb455e50c5dffa4385731ac3cab02567551d5545cf9166536f86dc9cbe5218b8","family":"page","route":"/preview/exercises/other_numbered_section/1980","scope":"preview","shell_contract":1}
 {"digest":"afd6adb9119cde3e10d75f06845fa943d03afb0ac420e2aa18690bb6d8e0fe7a","family":"page","route":"/preview/field/analysis-0-ideas-and-study-0-methods","scope":"preview","shell_contract":1}
 {"digest":"a376b56122c5af2b7f3d18fc8b336fd4c0bb212a828d8e4e64b41b9383d225c6","family":"page","route":"/preview/field/classics","scope":"preview","shell_contract":1}
 {"digest":"67758b935239f8ed95cd43605bc585e17a68496ea827f47076d1caf90afd6d4b","family":"page","route":"/preview/field/professional-option-public-policy-studies","scope":"preview","shell_contract":1}

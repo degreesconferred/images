@@ -551,12 +551,12 @@
 {"digest":"fde9e98b6c6f5434129cb003ad78c2faee0fb92b80ff358ca4da513deca99f9a","family":"person","person_id":"person_Lj2VtoUNQ-i3G3gNsL3d1Q","route":"/preview/1983/vincent-daw-shuih-chang","scope":"preview","shell_contract":1}
 {"digest":"83e555a35125c2ee12539956157fb4d98c3212c89f510071b7e0c090f7373d61","family":"person","person_id":"person_6zzejtsvSVOzZLZRfxWtHA","route":"/preview/1983/william-kin-man-chan","scope":"preview","shell_contract":1}
 {"digest":"99dfb77538cb172e7b08c8c079c443f1fbd1eea7469225359b67f597fbe2fbf0","family":"person","person_id":"person_hIkOVvTWQBml_UG20FDPzg","route":"/preview/1984/alexis-wong","scope":"preview","shell_contract":1}
-{"digest":"c84d19a3f5255c509fb2d183fec6b07863782d67e40a8ef860a7b1f2ab3a7215","family":"person","person_id":"person_zfWfNNpptEl6IGTMhefj_g","route":"/preview/1984/amy-j-leeson","scope":"preview","shell_contract":1}
+{"digest":"07d778e425104cd3f810347745321616d7f7e75592356650cb9d36d2534450b2","family":"person","person_id":"person_zfWfNNpptEl6IGTMhefj_g","route":"/preview/1984/amy-j-leeson","scope":"preview","shell_contract":1}
 {"digest":"472ec507c033e76b3676b32d72fa0221c81a2ad2e6ae84ac760da581306b8026","family":"person","person_id":"person_o0F7U_zbSnmRb4cTURa8Pg","route":"/preview/1984/david-brooks-beatty","scope":"preview","shell_contract":1}
-{"digest":"0c7be7f6252c2d86b0ce6c9dde88346427650b344ea5bb3f217fd76464c99e57","family":"person","person_id":"person_QwZENoI3a45PgjLxJ1pFt0","route":"/preview/1984/joseph-j-dinovo","scope":"preview","shell_contract":1}
+{"digest":"721b34376baf0e0029d1a4accc735a5c9355d3f3abffe8e515dce765578ef8a6","family":"person","person_id":"person_QwZENoI3a45PgjLxJ1pFt0","route":"/preview/1984/joseph-j-dinovo","scope":"preview","shell_contract":1}
 {"digest":"c4dc8735cc3e6f1c40a14830456695d0e605e8ae5852f354eec8ff50292068ac","family":"person","person_id":"person_j2luRsqWp3KIyBHBTlY9-0","route":"/preview/1984/lan-jen-tsai","scope":"preview","shell_contract":1}
-{"digest":"de268ed842c19129a53e6cf4f9a6d2494b0b32e32f3a46e0400470bcb240a945","family":"person","person_id":"person_NfNu9l-Jiye9xthg1U3JTs","route":"/preview/1984/lily-elizabeth-li","scope":"preview","shell_contract":1}
-{"digest":"0b36f69bb0ea8dd4f49f6d21329baf28ec61e77044a7ef7222d194a05f2386a3","family":"person","person_id":"person_MNhud8UQRtOcapy5drdB9Q","route":"/preview/1984/robert-b-polansky","scope":"preview","shell_contract":1}
+{"digest":"0b022ad08f1ff6425a4b24e0f92413588dd399f3b262c3e28df2230ca053fc99","family":"person","person_id":"person_NfNu9l-Jiye9xthg1U3JTs","route":"/preview/1984/lily-elizabeth-li","scope":"preview","shell_contract":1}
+{"digest":"3505de2308771016508800714f5b4bde5dce9dbd7c541c19ec3c4b93f4c250a6","family":"person","person_id":"person_MNhud8UQRtOcapy5drdB9Q","route":"/preview/1984/robert-b-polansky","scope":"preview","shell_contract":1}
 {"digest":"98de926f397651272d8de73908819501c696f2261514ac6f9adf172fc9909077","family":"person","person_id":"person_ftx0YULuRgOTGn-9y-B7dA","route":"/preview/1985/anthony-bendixon-volin","scope":"preview","shell_contract":1}
 {"digest":"8e0d985e838abcda5164cc771538599b131ffadd84611d780c9bceb704819d2e","family":"person","person_id":"person_-60D_3tyhHf9j859Mri25J","route":"/preview/1985/calvin-h-wang","scope":"preview","shell_contract":1}
 {"digest":"906816a461d7ae43716d031ca52420879b999efd74af76d54dd526f3bfba356d","family":"person","person_id":"person_o4qqgQapShSD2Q14BIJY8g","route":"/preview/1985/clarence-henry-faust","scope":"preview","shell_contract":1}
@@ -1225,7 +1225,7 @@
 {"digest":"ec9cb003e3b33f3b9bfd33ff1f9638d25c3fd64146acfbb8da958e721907af99","family":"class","route":"/preview/classes/1918/bachelor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"9eea4d256993e8a7111802cd29ee5c2e0c35e2c70442cbc39395a915ad93c10d","family":"class","route":"/preview/classes/1947/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"92219e449aa012eb9e63f6653403d3a29f230580f645bda400029c305f911dca","family":"class","route":"/preview/classes/1971/school/booth-school-of-business","scope":"preview","shell_contract":1}
-{"digest":"fa5c3b6c460a870c327595477f793c64a1ac80007c27eb3f2c2b26fdeaf97bf8","family":"class","route":"/preview/classes/1984/doctor-of-philosophy","scope":"preview","shell_contract":1}
+{"digest":"bab852dc64822971b1d6bbcd241a881e85d49716e621a9dc27860c64116d9dfe","family":"class","route":"/preview/classes/1984/doctor-of-philosophy","scope":"preview","shell_contract":1}
 {"digest":"aaa6979639fdb745b7cdb8681655d32d909b624b02fe548b06dc3a72f77915c9","family":"class","route":"/preview/classes/1987/bachelor-of-science","scope":"preview","shell_contract":1}
 {"digest":"0ae3bad5d0157681049f4c0606c9781de2e5d3d559004013905c99dcde7560db","family":"class","route":"/preview/classes/1992/master-of-business-administration","scope":"preview","shell_contract":1}
 {"digest":"e0cbb09a90664c600f0a995eb764ec711b842cfb57c0f4ef6a9c3970c7ac30db","family":"class","route":"/preview/classes/1996/master-of-arts","scope":"preview","shell_contract":1}

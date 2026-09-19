@@ -516,9 +516,9 @@
 {"digest":"417701bbd12e8d376ae5b7589c65ef80187e8caa080a202a34608902b568a77f","family":"person","person_id":"person_aNoad1QyToKPbN71GkwXPA","route":"/preview/1983/shale-philip-lapping","scope":"preview","shell_contract":1}
 {"digest":"53bf3948329646306754775df787b11fd963d78ac759013e7c738ad6bd45b103","family":"person","person_id":"person_HOEBOPRbSxiFiR97FHF3cA","route":"/preview/1983/steven-david-lubar","scope":"preview","shell_contract":1}
 {"digest":"5380803afc114aa2698b66e7a4f238c27d5f8c9c94ba878bf1cf325a3386ad23","family":"person","person_id":"person_MBXhjmFkSzOOHeEXCMPfXg","route":"/preview/1984/andrea-m-atkin","scope":"preview","shell_contract":1}
-{"digest":"616cb731e4d872d5d20023a2f418ad06b52d76fc9564ca9b14a5bf415f1cccf5","family":"person","person_id":"person_1lSlgX9ZTfq46PUpGFtZ4w","route":"/preview/1984/andrew-w-wright","scope":"preview","shell_contract":1}
+{"digest":"da446e6139451635a09bf8e2ae238a6dfe87bb53e6c066fd3317d56e00362587","family":"person","person_id":"person_1lSlgX9ZTfq46PUpGFtZ4w","route":"/preview/1984/andrew-w-wright","scope":"preview","shell_contract":1}
 {"digest":"f9fdde960d81ca373045de55217be0c10538728a64e6933dc6dd95e91482cb87","family":"person","person_id":"person_UmPRIhVQT_G_LgtvM_tevw","route":"/preview/1984/carlene-heldt-murphy","scope":"preview","shell_contract":1}
-{"digest":"251922290907fcfb64ce681885c859b813d7a8f21283e2b58991bda0e2bd1756","family":"person","person_id":"person_aPcvqC35Sfey3JmpbjBKRA","route":"/preview/1984/izaak-wirszup","scope":"preview","shell_contract":1}
+{"digest":"6fc3ff2750611a9f3e5f37a05eb450d39ffdd409bd82448bb8a4b355ce552a4b","family":"person","person_id":"person_aPcvqC35Sfey3JmpbjBKRA","route":"/preview/1984/izaak-wirszup","scope":"preview","shell_contract":1}
 {"digest":"6219cce43a961909d55122ecb139231a5cfc066dd0f3711032e4de16042a9364","family":"person","person_id":"person_wXJOUR_TQwuFIxZZ_WISUQ","route":"/preview/1984/james-christopher-gagnier","scope":"preview","shell_contract":1}
 {"digest":"aad1633915a3db33a9ca4ad61a61f24a81f49f32df2eae68bb707a1e74a3e3e9","family":"person","person_id":"person_rSmpIPnASya0ycHJQlwu0g","route":"/preview/1984/mark-beyer-allstrom","scope":"preview","shell_contract":1}
 {"digest":"5fb59c36c520ade7a6daf9580ade6ed3a84f8763fa8ec3b5d3cc7fffaa7c4595","family":"person","person_id":"person_iJfMXsllQ5K7knOGQTJDVA","route":"/preview/1984/maureen-kelly","scope":"preview","shell_contract":1}
@@ -1180,7 +1180,7 @@
 {"digest":"28f9db2be82816d4f464db052fedd194ec47a885a171d51173daf0e0facd8ed1","family":"class","route":"/preview/classes/1976/school/division-of-humanities","scope":"preview","shell_contract":1}
 {"digest":"da39c381d529a0eb35f85233e0891e6bab1441d3d8fdd1f5856ae8741f6e5960","family":"class","route":"/preview/classes/1981","scope":"preview","shell_contract":1}
 {"digest":"e4ff046afa06e42c621601170b0356cf1c2d4386a1847331818c526af9c5f9ac","family":"class","route":"/preview/classes/1999/bachelor-of-science","scope":"preview","shell_contract":1}
-{"digest":"7c7a9a0c3e2bb9ad7db0a31e09a7934d7082dc70ca517e0617cb896f77b9c0ca","family":"page","route":"/preview/degree/bachelor-of-arts/y","scope":"preview","shell_contract":1}
+{"digest":"e939dc4987a03c647cdccdaa323e54c9dd188adfb5a4b83dfaf1fb576a3fe7ce","family":"page","route":"/preview/degree/bachelor-of-arts/y","scope":"preview","shell_contract":1}
 {"digest":"18667c0a145273c197eb9baaa37905e3043143d5f17c07a768c9e94ed6001dd9","family":"page","route":"/preview/degree/master-of-comparative-law","scope":"preview","shell_contract":1}
 {"digest":"ca9c5e1ecd741ce21671e1f232ac87be72a5098aef285bffe1e53a3e466560f7","family":"page","route":"/preview/field/for-eastern-studies","scope":"preview","shell_contract":1}
 {"digest":"a1df6c5abccfec1fa1b216cccb077930632c78d8b303e384cd31806b57d55bc6","family":"page","route":"/preview/field/neurobiology-pharmacology-and-physiology","scope":"preview","shell_contract":1}
