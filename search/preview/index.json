@@ -1,11 +1,47 @@
 {
   "scope": "preview",
-  "people": 289496,
+  "people": 295217,
   "dropped": [
+    {
+      "person_id": "person_--zi9EU6O6b1DxuLtdZzy2",
+      "year": 2005,
+      "slug": "roy-goodwin-d-andrade",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_-5ieCSDZM-7tzfe62y4u4b",
+      "year": 1967,
+      "slug": "paul-ricoeur",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_-xbEXhxIUGuJL_Xz6n5i86",
+      "year": 1967,
+      "slug": "edward-evan-evans-pritchard",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_04qolz9aSUKEZB0jOS__hg",
+      "year": 2012,
+      "slug": "r-bruce-nicklas",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_0Eb9FgGGRw2kvha0vbJpLA",
+      "year": 1967,
+      "slug": "victor-f-weisskopf",
+      "reason": "no name in any projection"
+    },
     {
       "person_id": "person_0OmIi8z8QnKCD5F9jlxEwQ",
       "year": 2014,
       "slug": "john-huehnergard",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_0uVCaWtJZYhZxJAJgRp4-t",
+      "year": 1998,
+      "slug": "harrison-colyar-white",
       "reason": "no name in any projection"
     },
     {
@@ -15,9 +51,99 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_1MfnYaEsWBmobciK7acl3d",
+      "year": 1967,
+      "slug": "willard-van-orman-quine",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_1_ZwWJtxAgFZkSnTUxon6Y",
       "year": 2011,
       "slug": "robert-p-langlands",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_27GZctYCRiqZTqFxVGlpXA",
+      "year": 2017,
+      "slug": "shaul-mukamel",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_2RKuNflSQLeCwU259dbCzw",
+      "year": 2022,
+      "slug": "nergis-mavalvala",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_2gcGPWxaSEWJkXyx1l0gJg",
+      "year": 2015,
+      "slug": "andreu-mas-colell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_2oSZQIEWQxO38GHDhVnMkQ",
+      "year": 1967,
+      "slug": "luis-w-alvarez",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_3a4wZQz_Q5KnsgSPZs8RQA",
+      "year": 2017,
+      "slug": "craig-b-thompson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_3zDiImZAQu-A7zxaQXbk--",
+      "year": 1967,
+      "slug": "franco-modigliani",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_406O2fT6GQw-kL6vOHABr7",
+      "year": 1967,
+      "slug": "alberto-monroy",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_4Odr-NpBRKK9o1PCu2SGWg",
+      "year": 1929,
+      "slug": "moses-gomberg",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_4p0vtgFCSuJCnalvUiSm8m",
+      "year": 1967,
+      "slug": "noam-chomsky",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_5l_QuRTjSkaFgtOlJW3zPA",
+      "year": 2018,
+      "slug": "robert-e-ricklefs",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_5oEEWc1nRfe5WwP1CLEWcQ",
+      "year": 1997,
+      "slug": "reinhard-zimmermann",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_65Z85WGsTH6FpfnGOKmkJA",
+      "year": 2022,
+      "slug": "katherine-h-freeman",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_675HcmEfRlmsNmRyXUsVmg",
+      "year": 1967,
+      "slug": "julius-axelrod",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_6Xe2tmeiu5W09YQ5aVY6kW",
+      "year": 1967,
+      "slug": "claude-levi-strauss",
       "reason": "no name in any projection"
     },
     {
@@ -33,15 +159,117 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_6e9dbup2QNC6-hdnV4N1UA",
+      "year": 2018,
+      "slug": "michael-c-a-macdonald",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_6jd4aOabfie0omoLmQxoiA",
+      "year": 1967,
+      "slug": "hajo-holborn",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_7K1Coh7sarLdpdkZRWt5cH",
+      "year": 2023,
+      "slug": "james-p-comer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_7pMvQr2jlDZRshU9s9Cq3r",
+      "year": 2021,
+      "slug": "francoise-lavocat",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_805e4Mh6j7Y5hoKvzhSzeH",
+      "year": 1997,
+      "slug": "maitre-de-recherche-premiere-classe-emerite",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_80F7M9qsR0mHtxzFEi1jIQ",
+      "year": 2003,
+      "slug": "persi-diaconis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_AuAUogwkTVmXojpl5qCXWQ",
+      "year": 1996,
+      "slug": "william-klemperer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_B6ZpoA6tT7e-If_CWWHFZg",
+      "year": 1950,
+      "slug": "oswald-theodore-avery",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_BSBFJc7eTYawpc_g7p-p4Q",
+      "year": 2021,
+      "slug": "jeff-cheeger",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_BTOZZv6up9taTjWSlSiwgg",
+      "year": 1967,
+      "slug": "talcott-parsons",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Bc8hFEjGKnNyRy_pbGpU_U",
+      "year": 1956,
+      "slug": "edward-larned-ryerson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_BycJMrsMTfab-Kl_3ydWIQ",
+      "year": 2006,
+      "slug": "richard-middleton",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_C6NX6KZzzurkBYtzOn_2WG",
+      "year": 1929,
+      "slug": "celestin-charles-alfred-bougle",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_CushgOYrNVX7mdR5k-13kG",
+      "year": 1999,
+      "slug": "universite-de-toulouse",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_EH-WmPb9tkSn8L2-rdZSeZ",
+      "year": 1967,
+      "slug": "kenneth-stewart-cole",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_Eqxd1kYkQ2e1vcSyjSsfdQ",
       "year": 2014,
       "slug": "terence-speed",
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_F34SyF_GZMX7884_3U4Ipw",
+      "year": 1967,
+      "slug": "kenneth-s-cole",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_FRdH1CWeSZyu0qD4f7Y-ug",
       "year": 2011,
       "slug": "james-s-crown",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_G246u_DXTc6hYAnu8hbR4w",
+      "year": 1997,
+      "slug": "emily-sue-savage-rumbaugh",
       "reason": "no name in any projection"
     },
     {
@@ -57,9 +285,45 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_J4y2mqNKQB65j6H3lUD_jg",
+      "year": 2023,
+      "slug": "joseph-neubauer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_KiUv2KMqRMHr2eWn7I9v57",
+      "year": 1967,
+      "slug": "paul-felix-lazarsfeld",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Kl2t5csKTLK-gKrMrG1daw",
+      "year": 1992,
+      "slug": "daniel-bell",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_LLtuznkrTcecySzwJxFT1Q",
       "year": 2010,
       "slug": "david-m-karl",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_LjYIRuwgOTUVk6BU6KczuU",
+      "year": 1967,
+      "slug": "torsten-husen",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_M0JrE2TWQgS2YgJJ8uSevQ",
+      "year": 1929,
+      "slug": "wesley-clair-mitchell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_MrfMbrnrnYnCnhPLOwR30-",
+      "year": 1967,
+      "slug": "e-b-astwood",
       "reason": "no name in any projection"
     },
     {
@@ -75,9 +339,141 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_Nbs-Txq0U8EVv30Gp-m6wi",
+      "year": 1967,
+      "slug": "gerhard-herzberg",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_NsSXp91ANnFN7gHvKa-gzt",
+      "year": 1967,
+      "slug": "robert-m-solow",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_OEEKwPELTr-Ie3hQmI4xWQ",
+      "year": 2016,
+      "slug": "andrew-m-alper",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_OaEdJxNrS-GjtTdqSTwGkw",
+      "year": 2016,
+      "slug": "frances-h-arnold",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_OnmkKzN0Rtn26vK7bomMNL",
+      "year": 1967,
+      "slug": "max-delbruck",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_Oq2jKEWhRwyUBb9dBXnCRQ",
       "year": 1929,
       "slug": "frank-baldwin-jewett",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_OyAXEONyTmqqAtoiIRauGQ",
+      "year": 2017,
+      "slug": "robert-d-macpherson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_P5lzX2csRBq5nox5Po03Yg",
+      "year": 2013,
+      "slug": "john-scheid",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_PR9PyIzIQfOUd6W3QMhgRg",
+      "year": 1967,
+      "slug": "roderic-a-gregory",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_QCkWthP0S3aL5XS9DH-3BA",
+      "year": 1949,
+      "slug": "harold-higgins-swift",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_QWmDxam5TjiH2jNsmqnO8Q",
+      "year": 1998,
+      "slug": "bell-laboratories",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_RAs5IRFASzG6MBFrzD4QzQ",
+      "year": 2019,
+      "slug": "david-charbonneau",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_RIV_BBnWRCOjS4tXRMwTUg",
+      "year": 2018,
+      "slug": "william-s-y-wang",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_RTXDe9GxQxalPuXtGWQ7jA",
+      "year": 1992,
+      "slug": "robert-j-aumann",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_RbsOSZW4T_6T4mjmsKQo1Q",
+      "year": 1930,
+      "slug": "stanley-field",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_SAh7LAsORPie9Do9_m3syg",
+      "year": 2016,
+      "slug": "j-patrick-olivelle",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_SCdBUYKlRzaqtY52U4RAvw",
+      "year": 1929,
+      "slug": "herman-augustus-spoehr",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_SNJFEr77TX-IGDQgXbx_oA",
+      "year": 2007,
+      "slug": "roger-david-blandford",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_SXTdludXTAWdHOWENFnrpA",
+      "year": 1992,
+      "slug": "natalie-zemon-davis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_SfW-aQymSVSr5psFezS0kQ",
+      "year": 1999,
+      "slug": "pierre-briant",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_T4bWO1RQxmHziDb01emd0e",
+      "year": 1967,
+      "slug": "john-willard-milnor",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_TEj6F6BJenhr74tiH3Vgiw",
+      "year": 1967,
+      "slug": "john-tileston-edsall",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_TTPW7KKcH5WZt0VsJHva9E",
+      "year": 1967,
+      "slug": "henry-clifford-darby",
       "reason": "no name in any projection"
     },
     {
@@ -87,9 +483,27 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_VhIICBFiXCRuHh2y7Iirr6",
+      "year": 1967,
+      "slug": "anna-freud",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_VuRT2opajBFJDATSxig8I2",
+      "year": 1997,
+      "slug": "universitat-regensburg",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_WEjLkdkoRi-wsu-nKq9rJw",
       "year": 2011,
       "slug": "sofia-gubaidulina-2",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_WKYQyHN3SvaXEh7M-5BRtQ",
+      "year": 2008,
+      "slug": "marc-davis",
       "reason": "no name in any projection"
     },
     {
@@ -99,9 +513,183 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_XG6Owc4hDmVD6MBM3axwns",
+      "year": 1967,
+      "slug": "noam-avram-chomsky",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_X_Qt3O0bn8csarMd0bWr5X",
+      "year": 1967,
+      "slug": "manfred-eigen",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Xh3pZv-hrx0DK8x1nycQU7",
+      "year": 1950,
+      "slug": "sir-edward-mellanby",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Y0YGG1ybTE-j4bOxukWmIQ",
+      "year": 2023,
+      "slug": "james-a-wells",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Y2GojeXZTO2nFxrgSG0RVQ",
+      "year": 1930,
+      "slug": "jane-addams",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_YG2Gp9lbQ0GeA2yOIAKSPg",
+      "year": 1996,
+      "slug": "jerome-mcgann",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_YPMgKRP5TLuWx6kBDyiVIA",
+      "year": 1939,
+      "slug": "hu-shih",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_YbtglJVmNXqv_AW2iub-wn",
+      "year": 1967,
+      "slug": "edward-evan-evans-pritchard-2",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_YsSbr7nrSw6UPcj1sjU3NA",
+      "year": 2021,
+      "slug": "charles-l-kane",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_ZmCWQ6x8RIK5MkxJEXczLw",
+      "year": 2021,
+      "slug": "paul-william-brumer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_ZqSVzuRjSUekOY0sn54IlQ",
+      "year": 2015,
+      "slug": "richard-b-alley",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__2v-WJh6RluQpCS1quwQqg",
+      "year": 2012,
+      "slug": "geoffrey-w-marcy",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__7yvumHuQ56X81tT4ApktA",
+      "year": 1992,
+      "slug": "john-h-baker",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__D2buMVDFTVs8sjbyBkvoY",
+      "year": 1967,
+      "slug": "northrop-frye",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__NW1d2dn-gTV4T1be5Sf-4",
+      "year": 1967,
+      "slug": "kenneth-j-arrow",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__QbzsJ4S0Jomhzs-HRCXzu",
+      "year": 1967,
+      "slug": "paul-m-doty",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__UoWrYNnRDmF3bEni9HJ8g",
+      "year": 2015,
+      "slug": "universitat-pompeu-fabra",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person__fHqjcLRaJq5ltiJSRgbu9",
+      "year": 2022,
+      "slug": "mercedes-garcia-arenal",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_aI4uVezGHiTxoKNNVilBvg",
+      "year": 1967,
+      "slug": "kenneth-m-brinkhous",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_ao6AvVLbqwgeFaQfWPUFgw",
+      "year": 1967,
+      "slug": "b-f-skinner",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_b97a0YhuQ_WNsI2_s9Iw6Q",
       "year": 2010,
       "slug": "robert-p-kirshner",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_bGVaKteM37HwUMKhXD8t7A",
+      "year": 1967,
+      "slug": "edwin-o-reischauer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_c3xTwuNUTXCL9_V9xpxwCQ",
+      "year": 1999,
+      "slug": "bernard-williams",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_cSlIdK64R66VfmMouFbobQ",
+      "year": 1950,
+      "slug": "wallace-osgood-fenn",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_cq-WP9P7Qfe4dTpCL4x4Sg",
+      "year": 1996,
+      "slug": "david-t-wilkinson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_crSF1u0aSfCsdl7AO6D4Ng",
+      "year": 2018,
+      "slug": "fabiola-gianotti",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_d8bYaimCTS6H9S6xZ1tlAA",
+      "year": 2023,
+      "slug": "robert-j-zimmer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_dY86YL6bTxOmVT9KN3cKTQ",
+      "year": 1949,
+      "slug": "ross-granville-harrison",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_eHo7DfATS9yRT_HUyuH2kg",
+      "year": 1929,
+      "slug": "sir-william-henry-beveridge",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_fhNEHTylS6yut1J-fCZylg",
+      "year": 2012,
+      "slug": "jean-meyer",
       "reason": "no name in any projection"
     },
     {
@@ -117,9 +705,57 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_gIaXSoYHQhO2nnzRFgUj7Q",
+      "year": 1950,
+      "slug": "clarence-cook-little",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_gJT0E_p8SR2rjGBVicdGNA",
+      "year": 2013,
+      "slug": "e-bruce-watson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_gXLzEEBDTl2mJnoppSO2ow",
+      "year": 2013,
+      "slug": "evolutionary-biology",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_hHME8dkeQcKU8ykPoER80w",
+      "year": 2008,
+      "slug": "john-barrell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_hUYYRiUER1iq8WtiCdoAJQ",
+      "year": 1929,
+      "slug": "gilbert-newton-lewis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_iQkU9U9lRnuQuXysFmmG3Q",
+      "year": 1929,
+      "slug": "albrecht-mendelssohn-bartholdy",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_iddu1AAq0BBUK5ABgKu5FA",
+      "year": 1967,
+      "slug": "salvador-e-luria",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_iybYZ8D9RmOMUUGvb46gqw",
       "year": 1931,
       "slug": "berthold-laufer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_j26PF5omS6WbHVEJaOATOQ",
+      "year": 2021,
+      "slug": "jennifer-a-doudna",
       "reason": "no name in any projection"
     },
     {
@@ -129,9 +765,45 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_kMqfSnBGS3GK00eYGueROg",
+      "year": 2022,
+      "slug": "cora-diamond",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_l5m930keyAwGsuLVRNYq8X",
+      "year": 1967,
+      "slug": "alfred-day-hershey",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_lRGqhfTLSKesIM5wWWHOrw",
+      "year": 2012,
+      "slug": "centro-de-investigacion-y-docencia-economicas",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_mKRMP_Fi7RB3clx1lzyJw-",
+      "year": 1967,
+      "slug": "murray-gell-mann",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_meyHnmXbSkuhYHfSfgKidA",
       "year": 2004,
       "slug": "edgar-d-jannotta",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_nWOtMbKzSS-wExStntO3Yg",
+      "year": 2013,
+      "slug": "nicholas-cook",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_nbXGRIgmSYCiU6qBiOM-GA",
+      "year": 2023,
+      "slug": "callum-roberts",
       "reason": "no name in any projection"
     },
     {
@@ -141,9 +813,69 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_p-gQmtqPRRiLG6n8ABVb1A",
+      "year": 1931,
+      "slug": "william-wallace-campbell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_q6n6y02hS4KArQaOOs3x8w",
+      "year": 1997,
+      "slug": "centre-national-de-la-recherche-scientifique",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_qTtM_8n44rExYJsAYnJvRZ",
+      "year": 1967,
+      "slug": "lawrence-schlesinger-kubie",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_qf1xNaKRQ5aib3jStnC7OQ",
+      "year": 1967,
+      "slug": "harold-d-lasswell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_qrLUj-zLTLSNUXfC8PxugQ",
+      "year": 2006,
+      "slug": "arthur-b-mcdonald",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_rDET2L4g2T_lppgZZuodzB",
+      "year": 1967,
+      "slug": "allan-r-sandage",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_s-DAZtQCZFUXeFm1McoACL",
+      "year": 1967,
+      "slug": "har-gobind-khorana",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_t6KoCbrEwNxs8P0dibNRHW",
       "year": 2011,
       "slug": "james-s-crown-2",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_tE0F0FFSSlifO8sZNGPfpQ",
+      "year": 2018,
+      "slug": "charles-m-lieber",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_tJZNmchWQuyOYOua-fWs4w",
+      "year": 1998,
+      "slug": "j-anthony-tyson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_uaTvZsKGTZ-Tyhu6OyBEuA",
+      "year": 2015,
+      "slug": "titia-de-lange",
       "reason": "no name in any projection"
     },
     {
@@ -153,22 +885,70 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_wGK8WTidE850W7w57ZBRtW",
+      "year": 2013,
+      "slug": "jennifer-clack",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_wOA8MHy1RvSJZU98auD2aA",
+      "year": 2015,
+      "slug": "peter-sarnak",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_x6BrjuACT_Sx41xmkl1Hpg",
+      "year": 2005,
+      "slug": "carlos-j-bustamante",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_xZtAHvfvS_GiTdOjQ7Brlg",
+      "year": 2021,
+      "slug": "dominique-charpin",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_xq-1RcyJQFq8x5nUAiC4fg",
+      "year": 1967,
+      "slug": "jean-leray",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_xzyOM-WaQhapTn-84LSLKw",
+      "year": 2019,
+      "slug": "amy-richlin",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_y0E5RxlzQf-vs6pN3lDeuw",
+      "year": 2009,
+      "slug": "anthony-m-snodgrass",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_z4a_S6pVRmSsnFkfk7WIGg",
       "year": 2014,
       "slug": "grigoriy-margulis",
       "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_zDZJvCVmkVuhPSl1Q9qmxK",
+      "year": 2019,
+      "slug": "pierre-louis-lions",
+      "reason": "no name in any projection"
     }
   ],
-  "shards": 468,
-  "bytes": 50826230,
+  "shards": 470,
+  "bytes": 51863655,
   "largest_shard": {
     "key": "ma",
-    "bytes": 2316817,
-    "rows": 35765
+    "bytes": 2361860,
+    "rows": 36402
   },
   "generation": {
-    "content_commit": "48bb85ee510b90fef90292df6dc2a2a77b46ffad",
-    "generation_id": "page-data-314d3ea9f3ce-20260921T155500Z-0d0590b2",
+    "content_commit": "4a4a20ede3e6a60ad0fb2b447c4148e564ab7bcf",
+    "generation_id": "page-data-94bd9c9aa989-20260924T122415Z-be1c2007",
     "source": "page-data/current.json"
   },
   "token_min": 2,
@@ -180,138 +960,468 @@
   ],
   "partial": true,
   "built_shards": [
+    "aa",
     "ab",
+    "ac",
+    "ad",
+    "ae",
+    "af",
+    "ag",
+    "ah",
+    "ai",
+    "aj",
+    "ak",
     "al",
     "am",
     "an",
+    "ao",
+    "ap",
+    "aq",
     "ar",
     "as",
+    "at",
     "au",
+    "av",
+    "aw",
+    "ax",
+    "ay",
+    "az",
     "ba",
     "be",
+    "bh",
     "bi",
+    "bj",
     "bl",
+    "bn",
     "bo",
     "br",
+    "bs",
+    "bt",
     "bu",
     "by",
     "ca",
     "ce",
+    "cg",
     "ch",
+    "ci",
+    "cj",
+    "ck",
     "cl",
+    "cm",
+    "cn",
     "co",
     "cr",
+    "cs",
     "cu",
+    "cv",
+    "cw",
     "cy",
+    "cz",
     "da",
+    "dc",
     "de",
+    "dh",
     "di",
+    "dj",
+    "dl",
+    "dm",
+    "dn",
     "do",
+    "dr",
+    "ds",
     "du",
+    "dv",
+    "dw",
+    "dx",
+    "dy",
+    "dz",
     "ea",
+    "eb",
+    "ec",
     "ed",
+    "ee",
+    "ef",
+    "eg",
+    "eh",
     "ei",
+    "ej",
+    "ek",
     "el",
     "em",
     "en",
+    "eo",
     "ep",
+    "eq",
     "er",
+    "es",
+    "et",
     "eu",
+    "ev",
+    "ew",
+    "ex",
+    "ey",
+    "ez",
     "fa",
     "fe",
+    "ff",
+    "fi",
+    "fj",
+    "fl",
+    "fn",
     "fo",
     "fr",
+    "ft",
+    "fu",
+    "fw",
+    "fy",
     "ga",
+    "gb",
     "ge",
+    "gh",
+    "gi",
+    "gj",
     "gl",
+    "gm",
+    "gn",
     "go",
     "gr",
     "gu",
+    "gv",
+    "gw",
+    "gy",
+    "gz",
     "ha",
+    "hb",
     "he",
     "hi",
+    "hj",
+    "hl",
+    "hm",
+    "hn",
     "ho",
+    "hr",
+    "hs",
+    "ht",
     "hu",
+    "hv",
+    "hw",
+    "hy",
+    "ia",
+    "ib",
+    "ic",
+    "id",
+    "ie",
+    "if",
+    "ig",
+    "ih",
     "ii",
+    "ij",
+    "ik",
+    "il",
+    "im",
+    "in",
+    "io",
+    "ip",
+    "iq",
+    "ir",
+    "is",
+    "it",
+    "iu",
+    "iv",
+    "iw",
+    "ix",
+    "iy",
+    "iz",
     "ja",
+    "jb",
     "je",
+    "jh",
+    "ji",
+    "jl",
+    "jn",
     "jo",
     "jr",
     "ju",
+    "jv",
+    "jw",
+    "jy",
+    "jz",
     "ka",
+    "kc",
     "ke",
+    "kf",
+    "kh",
     "ki",
+    "kj",
     "kl",
+    "km",
+    "kn",
     "ko",
+    "kp",
     "kr",
+    "ks",
+    "kt",
     "ku",
+    "kv",
+    "kw",
+    "ky",
     "la",
+    "lb",
+    "lc",
     "le",
+    "lg",
+    "lh",
     "li",
+    "lj",
+    "ll",
     "lo",
+    "lr",
+    "ls",
+    "lt",
     "lu",
+    "lv",
+    "lw",
     "ly",
     "ma",
+    "mb",
     "mc",
+    "md",
     "me",
+    "mg",
+    "mh",
     "mi",
+    "mj",
+    "mk",
+    "ml",
+    "mn",
     "mo",
+    "mp",
+    "mr",
+    "ms",
+    "mt",
     "mu",
+    "mv",
+    "mw",
+    "my",
+    "mz",
     "na",
+    "nb",
+    "nc",
+    "nd",
     "ne",
+    "ng",
+    "nh",
     "ni",
+    "nj",
+    "nk",
+    "nn",
     "no",
+    "nr",
+    "ns",
+    "nt",
+    "nu",
+    "nv",
+    "nw",
+    "ny",
+    "nz",
+    "oa",
+    "ob",
+    "oc",
+    "od",
+    "oe",
+    "of",
     "og",
+    "oh",
+    "oi",
+    "oj",
+    "ok",
+    "ol",
     "om",
+    "on",
+    "oo",
+    "op",
     "or",
+    "os",
+    "ot",
+    "ou",
+    "ov",
+    "ow",
+    "ox",
+    "oy",
+    "oz",
     "pa",
+    "pc",
     "pe",
+    "pf",
     "ph",
     "pi",
+    "pj",
+    "pk",
     "pl",
     "po",
     "pr",
+    "ps",
+    "pt",
+    "pu",
+    "pw",
+    "py",
+    "pz",
+    "qa",
+    "qe",
+    "qi",
+    "qo",
+    "qu",
     "ra",
+    "rd",
     "re",
+    "rg",
+    "rh",
     "ri",
+    "rj",
+    "rl",
+    "rn",
     "ro",
+    "rr",
     "ru",
+    "rw",
+    "ry",
+    "rz",
     "sa",
+    "sb",
     "sc",
+    "sd",
     "se",
+    "sf",
+    "sg",
     "sh",
     "si",
+    "sj",
+    "sk",
+    "sl",
     "sm",
+    "sn",
     "so",
     "sp",
+    "sq",
     "sr",
     "st",
     "su",
+    "sv",
     "sw",
+    "sy",
+    "sz",
     "ta",
+    "tc",
     "te",
     "th",
     "ti",
+    "tj",
+    "tk",
+    "tl",
+    "to",
     "tr",
     "ts",
+    "tt",
     "tu",
+    "tv",
     "tw",
+    "ty",
+    "tz",
+    "ua",
+    "ub",
+    "uc",
+    "ud",
+    "ue",
+    "uf",
     "ug",
+    "uh",
+    "ui",
+    "uj",
+    "uk",
     "ul",
+    "um",
+    "un",
+    "up",
+    "uq",
     "ur",
+    "us",
+    "ut",
+    "uu",
+    "uv",
+    "uw",
+    "uy",
+    "uz",
     "va",
+    "vc",
+    "ve",
+    "vh",
     "vi",
+    "vl",
+    "vm",
     "vo",
     "vr",
+    "vs",
+    "vu",
+    "vv",
+    "vy",
     "wa",
+    "wd",
     "we",
     "wh",
     "wi",
+    "wl",
+    "wm",
+    "wn",
     "wo",
+    "wr",
+    "ws",
+    "wu",
+    "wy",
+    "xa",
+    "xe",
+    "xh",
+    "xi",
+    "xo",
+    "xt",
+    "xu",
+    "xy",
     "ya",
+    "yb",
+    "yc",
+    "ye",
+    "yg",
+    "yh",
+    "yi",
+    "yl",
+    "yn",
     "yo",
+    "yp",
+    "yr",
+    "ys",
+    "yt",
+    "yu",
+    "yv",
+    "yx",
+    "yz",
+    "za",
+    "zb",
+    "zd",
     "ze",
-    "zi"
+    "zg",
+    "zh",
+    "zi",
+    "zj",
+    "zl",
+    "zm",
+    "zo",
+    "zr",
+    "zs",
+    "zu",
+    "zv",
+    "zw",
+    "zy"
   ],
-  "removed_shards": []
+  "removed_shards": [
+    "lz"
+  ]
 }
