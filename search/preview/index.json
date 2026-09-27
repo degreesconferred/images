@@ -1,6 +1,6 @@
 {
   "scope": "preview",
-  "people": 296417,
+  "people": 287237,
   "dropped": [
     {
       "person_id": "person_--zi9EU6O6b1DxuLtdZzy2",
@@ -12,6 +12,18 @@
       "person_id": "person_-5ieCSDZM-7tzfe62y4u4b",
       "year": 1967,
       "slug": "paul-ricoeur",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_-61Tg3csRzacVCeHGLVdiw",
+      "year": 2006,
+      "slug": "alex-lubotzky",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_-riUehsVTmeph_zJSSShYQ",
+      "year": 1945,
+      "slug": "walter-sydney-adams",
       "reason": "no name in any projection"
     },
     {
@@ -27,15 +39,33 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_074yfnK2QteCD457ns28Cg",
+      "year": 2009,
+      "slug": "david-l-donoho",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_0Eb9FgGGRw2kvha0vbJpLA",
       "year": 1967,
       "slug": "victor-f-weisskopf",
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_0FzFfAU7q6IoEnO0kVzS7I",
+      "year": 1941,
+      "slug": "lily-bess-campbell",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_0OmIi8z8QnKCD5F9jlxEwQ",
       "year": 2014,
       "slug": "john-huehnergard",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_0UTd2pMVOS3zPiGhRHITJ_",
+      "year": 1967,
+      "slug": "heinrich-besseler",
       "reason": "no name in any projection"
     },
     {
@@ -63,6 +93,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_1ttdxfDs_DcdgCuaPLYwnP",
+      "year": 1941,
+      "slug": "charles-herbert-best",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_27GZctYCRiqZTqFxVGlpXA",
       "year": 2017,
       "slug": "shaul-mukamel",
@@ -72,6 +108,12 @@
       "person_id": "person_2AJOj-ofQBCWhen4mtP4Vw",
       "year": 1933,
       "slug": "james-bryant-conant",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_2R-I8tt8TceN9ni946ntMw",
+      "year": 1952,
+      "slug": "edwin-h-lewis",
       "reason": "no name in any projection"
     },
     {
@@ -87,15 +129,33 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_2iaeAs7lSPa3oc_ds5kQiQ",
+      "year": 1968,
+      "slug": "edwin-h-lewis",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_2oSZQIEWQxO38GHDhVnMkQ",
       "year": 1967,
       "slug": "luis-w-alvarez",
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_39zTmmIDQFCs39B_N-y07A",
+      "year": 2006,
+      "slug": "citation-text",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_3a4wZQz_Q5KnsgSPZs8RQA",
       "year": 2017,
       "slug": "craig-b-thompson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_3sdhVuplQVG990MgXECThA",
+      "year": 1941,
+      "slug": "donald-dexter-van-slyke",
       "reason": "no name in any projection"
     },
     {
@@ -126,6 +186,24 @@
       "person_id": "person_4p0vtgFCSuJCnalvUiSm8m",
       "year": 1967,
       "slug": "noam-chomsky",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_4rmFtHsETbeCRMu03x0-UQ",
+      "year": 1903,
+      "slug": "nicholas-murray-butler",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_50Q7QxsFLsOzFIJQhQwdit",
+      "year": 1904,
+      "slug": "berthold-delbruck",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_5G1zoI-cJ0mH_bMosa6oeM",
+      "year": 1941,
+      "slug": "florence-barbara-seibert",
       "reason": "no name in any projection"
     },
     {
@@ -183,6 +261,18 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_6q70ifz7RJ-JMuVzNzhrCQ",
+      "year": 1993,
+      "slug": "francis-a-allen",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_7Dwi8-xaRL2sBCw5Ew8rDg",
+      "year": 2000,
+      "slug": "martin-f-gellert",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_7K1Coh7sarLdpdkZRWt5cH",
       "year": 2023,
       "slug": "james-p-comer",
@@ -204,6 +294,42 @@
       "person_id": "person_80F7M9qsR0mHtxzFEi1jIQ",
       "year": 2003,
       "slug": "persi-diaconis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_8BOtm0MoSZuaYTdJ9_amGQ",
+      "year": 1953,
+      "slug": "carl-ludwig-siegel",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_8MEKWpJ5RIKttzT0EntgXQ",
+      "year": 2000,
+      "slug": "raymond-davis-jr",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_8ikWU1QkQ7G-vekKf0sSXw",
+      "year": 1991,
+      "slug": "e-margaret-burbidge",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_8lyiwr1PRnehrlRQFBVAkQ",
+      "year": 2009,
+      "slug": "james-kallembach-conductor",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_8nJ6SSenpXyijKqZdV3QDX",
+      "year": 1941,
+      "slug": "michael-ivanovich-rostovitzeff",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_9-9Ze5q8H9qB7grstWVhBM",
+      "year": 1941,
+      "slug": "charles-howard-mcilwain",
       "reason": "no name in any projection"
     },
     {
@@ -237,6 +363,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_BmGr-79uSuO8ZGlYTvm62A",
+      "year": 2006,
+      "slug": "michael-fried",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_BycJMrsMTfab-Kl_3ydWIQ",
       "year": 2006,
       "slug": "richard-middleton",
@@ -261,6 +393,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_EkbgDSHbSniBRkjEywp3Dg",
+      "year": 2009,
+      "slug": "deborah-s-jin",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_Eqxd1kYkQ2e1vcSyjSsfdQ",
       "year": 2014,
       "slug": "terence-speed",
@@ -279,9 +417,27 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_Fs_5nvKwFOGCvLg3-4d360",
+      "year": 1941,
+      "slug": "william-linn-westermann",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_G0wf6pSWf_OEB7fXGqgAY2",
+      "year": 1941,
+      "slug": "carlos-monge",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_G246u_DXTc6hYAnu8hbR4w",
       "year": 1997,
       "slug": "emily-sue-savage-rumbaugh",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_G4D2_DDMRxO6CUQ7GkgFhg",
+      "year": 2006,
+      "slug": "karen-b-strier",
       "reason": "no name in any projection"
     },
     {
@@ -297,6 +453,66 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_GfYUFUqUTYeBxaNeNEB0IQ",
+      "year": 1961,
+      "slug": "edwin-h-lewis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Gx1n9KPGt4x5d5v3GYuvR8",
+      "year": 1948,
+      "slug": "max-theodor-felix-von-laue",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_GxY8m7dXz50isv9NDDyn3I",
+      "year": 1904,
+      "slug": "charlemagne-tower",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_H20MHJOpSw6Glk4nnunkPA",
+      "year": 1941,
+      "slug": "edward-adelbert-doisy",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_HMIWEzs2Wq7uh3n3PSHb9Y",
+      "year": 1941,
+      "slug": "john-maurice-clark",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Hq7ZWppRQr62QdCn4DCZTQ",
+      "year": 2006,
+      "slug": "allan-c-spradling",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_HqksTWZoH5ir4-Vf6piQGm",
+      "year": 1941,
+      "slug": "charles-elmer-allen",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_I4lhxymoREeoiCttLdCNFw",
+      "year": 1937,
+      "slug": "harold-glenn-moulton",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_IWiiCkU-QMW99u7RT7kTuw",
+      "year": 1952,
+      "slug": "arthur-holly-compton",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_IkYsN0xJQ8CqCVVgBskZJQ",
+      "year": 2000,
+      "slug": "marc-w-kirschner",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_J4y2mqNKQB65j6H3lUD_jg",
       "year": 2023,
       "slug": "joseph-neubauer",
@@ -306,6 +522,12 @@
       "person_id": "person_Jqdzn567R8C4HoSDrpxgsQ",
       "year": 1994,
       "slug": "edward-w-said",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_KI_aGOt-RrakqeLUrhhKwg",
+      "year": 1904,
+      "slug": "herman-freiherr-speck-von-sternburg",
       "reason": "no name in any projection"
     },
     {
@@ -321,9 +543,27 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_KxCTJYWpQL2mwc82RF1cNw",
+      "year": 1959,
+      "slug": "sir-julian-huxley-author",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_L3drFWduR2mgwnDM9qSqAw",
+      "year": 1938,
+      "slug": "harlan-fiske-stone",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_LLtuznkrTcecySzwJxFT1Q",
       "year": 2010,
       "slug": "david-m-karl",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Lg00Y-wWTamHugVtYZk3hg",
+      "year": 1993,
+      "slug": "romila-thapar",
       "reason": "no name in any projection"
     },
     {
@@ -381,9 +621,21 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_OMprNZ4-RI63JQmYpCjtrA",
+      "year": 2000,
+      "slug": "david-j-aldous",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_OaEdJxNrS-GjtTdqSTwGkw",
       "year": 2016,
       "slug": "frances-h-arnold",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Omb-8HnyRsOwLx4bpZRspg",
+      "year": 2006,
+      "slug": "harm-pinkster",
       "reason": "no name in any projection"
     },
     {
@@ -411,9 +663,33 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_PNc-QpyjTmuzFgoujgqWzA",
+      "year": 1941,
+      "slug": "ernest-william-goodpasture",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_PR9PyIzIQfOUd6W3QMhgRg",
       "year": 1967,
       "slug": "roderic-a-gregory",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_PdTHLQ4XQGe7rFApjXbnrg",
+      "year": 1949,
+      "slug": "albert-schweitzer",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_PgYQPvxHSB2YQY19umUPwA",
+      "year": 1991,
+      "slug": "bernard-bailyn",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_PzjcMBqTRxaOgOcTulb_xg",
+      "year": 1932,
+      "slug": "samuel-paul-capen",
       "reason": "no name in any projection"
     },
     {
@@ -423,9 +699,21 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_QEDQWjWaR5a5rph29kLsiQ",
+      "year": 1903,
+      "slug": "jean-jules-jusserand",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_QWmDxam5TjiH2jNsmqnO8Q",
       "year": 1998,
       "slug": "bell-laboratories",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_QgRbbwJPSAewsIPTK0TATw",
+      "year": 2002,
+      "slug": "hugo-f-sonnenschein",
       "reason": "no name in any projection"
     },
     {
@@ -441,6 +729,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_RRSesASBTUGFZyLUfnNyDQ",
+      "year": 1904,
+      "slug": "ettore-pais",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_RTXDe9GxQxalPuXtGWQ7jA",
       "year": 1992,
       "slug": "robert-j-aumann",
@@ -450,6 +744,12 @@
       "person_id": "person_RbsOSZW4T_6T4mjmsKQo1Q",
       "year": 1930,
       "slug": "stanley-field",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_S8yVQRovmvi1TIOOek6YMS",
+      "year": 1941,
+      "slug": "thomas-milton-rivers",
       "reason": "no name in any projection"
     },
     {
@@ -483,6 +783,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_Sh1bEP9dSriAAs_5rUXQyh",
+      "year": 1904,
+      "slug": "joseph-henry-beale-jr",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_T4bWO1RQxmHziDb01emd0e",
       "year": 1967,
       "slug": "john-willard-milnor",
@@ -501,9 +807,45 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_TaUE44kSQmeS7BxJOpTuwg",
+      "year": 1941,
+      "slug": "richard-henry-tawney",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_Tu9sMAEbQE650xkneEtykw",
+      "year": 2009,
+      "slug": "don-michael-randel",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_U1i1LJgxiaCXu0gJNihXod",
+      "year": 1941,
+      "slug": "edward-cooke-armstrong",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_U9DQs3d4Q4uGJRAQ-6iEAg",
       "year": 2014,
       "slug": "barbara-h-partee",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_V7X68chBRKeb8ZHtX23LxQ",
+      "year": 2000,
+      "slug": "barbara-schubert-conductor",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_VQ8onIMUQPSqmDyMysiRFg",
+      "year": 1904,
+      "slug": "paul-ehrlich",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_VWg7R3B2SMmB255EeDttqA",
+      "year": 1941,
+      "slug": "halvdan-koht",
       "reason": "no name in any projection"
     },
     {
@@ -528,6 +870,12 @@
       "person_id": "person_WKYQyHN3SvaXEh7M-5BRtQ",
       "year": 2008,
       "slug": "marc-davis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_WO3pe6zmTsObvSG3vK4L4Q",
+      "year": 1952,
+      "slug": "learned-hand",
       "reason": "no name in any projection"
     },
     {
@@ -567,6 +915,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_Y2V8CSXvTM2Ymjr3UI43GA",
+      "year": 1949,
+      "slug": "albert-schweitzer-2",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_YG2Gp9lbQ0GeA2yOIAKSPg",
       "year": 1996,
       "slug": "jerome-mcgann",
@@ -585,9 +939,21 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_YrK42f1XQtK5Jm_uUleYRA",
+      "year": 2009,
+      "slug": "david-shulman",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_YsSbr7nrSw6UPcj1sjU3NA",
       "year": 2021,
       "slug": "charles-l-kane",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_ZZAxvxA_TSWfcixc6yxdQA",
+      "year": 2000,
+      "slug": "citation-statement",
       "reason": "no name in any projection"
     },
     {
@@ -675,6 +1041,36 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_bNQf1WrQ6p-1ez1K4i_rI-",
+      "year": 1941,
+      "slug": "edgar-howard-sturtevant",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_bae5HY3VTYGHyuVVawBAhg",
+      "year": 1993,
+      "slug": "ihsan-abbas",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_bgmXLM88QJe2fV2OORAPEA",
+      "year": 1929,
+      "slug": "martin-antoine-ryerson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_byabwXsgScW7Dvkdcw_VLQ",
+      "year": 1933,
+      "slug": "benjamin-cardozo",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_c0P70sIPRFSa3vRTNok7DQ",
+      "year": 1904,
+      "slug": "joseph-kohler",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_c3xTwuNUTXCL9_V9xpxwCQ",
       "year": 1999,
       "slug": "bernard-williams",
@@ -717,6 +1113,36 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_ecK0RMQwS_asyaGBBiue8w",
+      "year": 2000,
+      "slug": "qiu-xigui",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_f4siE-jag4INz8tvdNuVFB",
+      "year": 1941,
+      "slug": "charles-rufus-morey",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_fCKxXRY3TJW3oboGnYtK-w",
+      "year": 1903,
+      "slug": "theodore-roosevelt",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_fFkxqfKKR4aGx0B_Dpcb4g",
+      "year": 2000,
+      "slug": "inauguration-festival-orchestra",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_fWPUQOa_T9qCH7iI3qw6WQ",
+      "year": 1929,
+      "slug": "frank-joseph-loesch",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_fhNEHTylS6yut1J-fCZylg",
       "year": 2012,
       "slug": "jean-meyer",
@@ -741,15 +1167,33 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_gIfnfLxlp5NdMTp21Gu8Q1",
+      "year": 1941,
+      "slug": "karl-spencer-lashley",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_gJT0E_p8SR2rjGBVicdGNA",
       "year": 2013,
       "slug": "e-bruce-watson",
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_gW4vauQ9Q6aD9a8Dl2YZRw",
+      "year": 1932,
+      "slug": "edward-lee-thorndike",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_gXLzEEBDTl2mJnoppSO2ow",
       "year": 2013,
       "slug": "evolutionary-biology",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_gwVrL8v9Sc23I-nJCOwfAw",
+      "year": 1941,
+      "slug": "amado-alonso",
       "reason": "no name in any projection"
     },
     {
@@ -765,9 +1209,21 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_iHcVQ8iMS0GpYRteYvKekw",
+      "year": 1941,
+      "slug": "libbie-henrietta-hyman",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_iQkU9U9lRnuQuXysFmmG3Q",
       "year": 1929,
       "slug": "albrecht-mendelssohn-bartholdy",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_iT_AbgrlRnmslGipJthJ1A",
+      "year": 1948,
+      "slug": "james-leslie-brierly",
       "reason": "no name in any projection"
     },
     {
@@ -801,6 +1257,18 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_jRCYVnfIR1eyaOIbMQu-xA",
+      "year": 1904,
+      "slug": "wilhelm-hermann",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_je5WJliOSK6JhhSyEIUDZg",
+      "year": 1903,
+      "slug": "charles-richard-van-hise",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_kMqfSnBGS3GK00eYGueROg",
       "year": 2022,
       "slug": "cora-diamond",
@@ -810,6 +1278,12 @@
       "person_id": "person_l5m930keyAwGsuLVRNYq8X",
       "year": 1967,
       "slug": "alfred-day-hershey",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_lHRoeROjQBCYkQfryWvJJQ",
+      "year": 2001,
+      "slug": "howard-g-krane",
       "reason": "no name in any projection"
     },
     {
@@ -843,15 +1317,39 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_o9iWOymyRli_7SRgaIz2pw",
+      "year": 1904,
+      "slug": "hugo-de-vries",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_ocAqFkNJRFC4WysY0EFEag",
       "year": 1995,
       "slug": "thomas-v-gamkrelidze",
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_opyjZcWJR3eNZIXvP1LJCA",
+      "year": 1991,
+      "slug": "lionel-w-mckenzie",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_p-gQmtqPRRiLG6n8ABVb1A",
       "year": 1931,
       "slug": "william-wallace-campbell",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_p1syhjNcQc-9s-likFVStA",
+      "year": 2000,
+      "slug": "john-n-bahcall",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_pvrpmL9NdD5_S2lsdxBQsu",
+      "year": 1941,
+      "slug": "herbert-spencer-jennings",
       "reason": "no name in any projection"
     },
     {
@@ -903,6 +1401,12 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_tCooVkB-xLHz-tNE0R2qvS",
+      "year": 1941,
+      "slug": "clarence-irving-lewis",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_tE0F0FFSSlifO8sZNGPfpQ",
       "year": 2018,
       "slug": "charles-m-lieber",
@@ -912,6 +1416,12 @@
       "person_id": "person_tJZNmchWQuyOYOua-fWs4w",
       "year": 1998,
       "slug": "j-anthony-tyson",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_tpGqH2SvS0a3zuvBLMkPRg",
+      "year": 2006,
+      "slug": "sandra-m-faber",
       "reason": "no name in any projection"
     },
     {
@@ -933,6 +1443,24 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_vM21DDGnKcNoSFHUyXEd4V",
+      "year": 1941,
+      "slug": "robert-lowry-calhoun",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_vxNSwMqqSRG6b47dbIVH_Q",
+      "year": 1941,
+      "slug": "george-david-birkhoff",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_wEc_YLBsTE-1_GmRfwCVhA",
+      "year": 2000,
+      "slug": "alan-walker",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_wGK8WTidE850W7w57ZBRtW",
       "year": 2013,
       "slug": "jennifer-clack",
@@ -948,6 +1476,12 @@
       "person_id": "person_x6BrjuACT_Sx41xmkl1Hpg",
       "year": 2005,
       "slug": "carlos-j-bustamante",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_xDRa10pvQaOcgzVKOjUSGQ",
+      "year": 1951,
+      "slug": "edwin-h-lewis",
       "reason": "no name in any projection"
     },
     {
@@ -981,9 +1515,21 @@
       "reason": "no name in any projection"
     },
     {
+      "person_id": "person_ydJfks9xTXamgs7kBku6Yg",
+      "year": 1941,
+      "slug": "evarts-ambrose-graham",
+      "reason": "no name in any projection"
+    },
+    {
       "person_id": "person_z4a_S6pVRmSsnFkfk7WIGg",
       "year": 2014,
       "slug": "grigoriy-margulis",
+      "reason": "no name in any projection"
+    },
+    {
+      "person_id": "person_z7kOq3CRC92AigQt_O3dbC",
+      "year": 1941,
+      "slug": "robert-harry-lowie",
       "reason": "no name in any projection"
     },
     {
@@ -993,16 +1539,16 @@
       "reason": "no name in any projection"
     }
   ],
-  "shards": 471,
-  "bytes": 52063501,
+  "shards": 472,
+  "bytes": 50779065,
   "largest_shard": {
     "key": "ma",
-    "bytes": 2371543,
-    "rows": 36548
+    "bytes": 2319898,
+    "rows": 35511
   },
   "generation": {
-    "content_commit": "ee4da7969edaa9567d7a93535da8c84e46a62d85",
-    "generation_id": "page-data-6cfbb9c13ed4-20260926T141226Z-aac715cb",
+    "content_commit": "87e1dd40b6d22fca289ac4b58b4c039143989481",
+    "generation_id": "page-data-3bd05315d5b3-20260927T045626Z-bab39a31",
     "source": "page-data/current.json"
   },
   "token_min": 2,
@@ -1048,6 +1594,7 @@
     "bl",
     "bo",
     "br",
+    "bs",
     "bu",
     "by",
     "ca",
@@ -1056,11 +1603,13 @@
     "ci",
     "ck",
     "cl",
+    "cm",
     "co",
     "cr",
     "cs",
     "cu",
     "cv",
+    "cw",
     "cy",
     "cz",
     "da",
@@ -1071,6 +1620,7 @@
     "dm",
     "do",
     "dr",
+    "ds",
     "du",
     "dv",
     "dw",
@@ -1104,7 +1654,9 @@
     "fa",
     "fe",
     "fi",
+    "fj",
     "fl",
+    "fn",
     "fo",
     "fr",
     "fu",
@@ -1120,7 +1672,9 @@
     "gn",
     "go",
     "gr",
+    "gs",
     "gu",
+    "gv",
     "gw",
     "gy",
     "ha",
@@ -1128,6 +1682,7 @@
     "hi",
     "hj",
     "hl",
+    "hn",
     "ho",
     "hr",
     "hs",
@@ -1154,6 +1709,7 @@
     "ir",
     "is",
     "it",
+    "iu",
     "iv",
     "iw",
     "ix",
@@ -1162,12 +1718,15 @@
     "ja",
     "jb",
     "je",
+    "jf",
     "jh",
     "ji",
+    "jn",
     "jo",
     "jr",
     "ju",
     "jy",
+    "jz",
     "ka",
     "kc",
     "ke",
@@ -1175,16 +1734,19 @@
     "ki",
     "kj",
     "kl",
+    "km",
     "kn",
     "ko",
     "kr",
     "ks",
     "kt",
     "ku",
+    "kv",
     "kw",
     "ky",
     "la",
     "le",
+    "lh",
     "li",
     "ll",
     "lo",
@@ -1194,12 +1756,17 @@
     "ly",
     "ma",
     "mc",
+    "md",
     "me",
+    "mg",
+    "mh",
     "mi",
     "ml",
     "mo",
     "mp",
     "mr",
+    "ms",
+    "mt",
     "mu",
     "mw",
     "my",
@@ -1208,8 +1775,10 @@
     "nd",
     "ne",
     "ng",
+    "nh",
     "ni",
     "nj",
+    "nk",
     "nn",
     "no",
     "nr",
@@ -1248,6 +1817,8 @@
     "pf",
     "ph",
     "pi",
+    "pj",
+    "pk",
     "pl",
     "po",
     "pr",
@@ -1263,12 +1834,16 @@
     "re",
     "rh",
     "ri",
+    "rj",
     "rl",
     "ro",
+    "rr",
     "ru",
+    "rw",
     "ry",
     "sa",
     "sc",
+    "sd",
     "se",
     "sh",
     "si",
@@ -1281,6 +1856,7 @@
     "sp",
     "sq",
     "sr",
+    "ss",
     "st",
     "su",
     "sv",
@@ -1292,17 +1868,22 @@
     "te",
     "th",
     "ti",
+    "tk",
     "to",
     "tr",
     "ts",
+    "tt",
     "tu",
     "tv",
     "tw",
     "ty",
     "tz",
+    "ua",
+    "ub",
     "uc",
     "ud",
     "ue",
+    "uf",
     "ug",
     "uh",
     "ui",
@@ -1314,6 +1895,7 @@
     "ur",
     "us",
     "ut",
+    "uw",
     "uy",
     "uz",
     "va",
@@ -1329,6 +1911,8 @@
     "we",
     "wh",
     "wi",
+    "wl",
+    "wn",
     "wo",
     "wr",
     "ws",
@@ -1336,17 +1920,22 @@
     "wy",
     "xa",
     "xe",
+    "xh",
     "xi",
+    "xm",
     "xu",
     "ya",
     "yc",
     "ye",
+    "yf",
     "yh",
     "yi",
+    "yn",
     "yo",
     "yr",
     "yu",
     "yv",
+    "yx",
     "za",
     "zb",
     "zd",
@@ -1356,6 +1945,7 @@
     "zl",
     "zm",
     "zo",
+    "zr",
     "zs",
     "zu",
     "zv",
