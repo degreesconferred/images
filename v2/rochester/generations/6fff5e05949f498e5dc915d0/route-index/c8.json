@@ -1,0 +1,1 @@
+{"schemaVersion":2,"universityId":"rochester","generationId":"6fff5e05949f498e5dc915d0","shard":"c8","routes":{"/preview/people/segment/c":{"path":"payloads/bb/people-segment/bbdf29d936ecb0ba095e55fb1ef0d2a6318436716fb829451fa59c65823fdf86.json.gz","sha256":"bbdf29d936ecb0ba095e55fb1ef0d2a6318436716fb829451fa59c65823fdf86","bytes":1563,"gzipBytes":491}}}
